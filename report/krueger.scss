@@ -1,0 +1,282 @@
+/*
+	VARIABLES
+*/
+$colorBackground: #ffffff;
+$colorContainer: #dee2e6;
+$colorPrimary: #1862ab;
+$colorSecondary: #2b8a3e;
+$colorText: #212529;
+
+$fontJustify: 46em;
+$fontSize: 100%;
+$fontStack: 'Fira Sans', fira-sans, sans-serif;
+$fontStackMono: 'Fira Mono', fira-mono, monospace;
+$fontWeightThick: 500;
+$fontWeightThin: 300;
+
+$lineHeight: 1.5;
+
+$maxWidthContainer: 40.75rem;
+$maxWidthImage: 85.375rem;
+$maxWidthText: 40.75rem;
+
+
+/*
+	TYPOGRAPHY
+*/
+@font-face {
+	font-display: optional;
+	font-family: fira-sans;
+	font-style: normal;
+	font-weight: $fontWeightThin;
+	src: url(fira-sans-light.woff2);
+}
+
+@font-face {
+	font-display: optional;
+	font-family: fira-sans;
+	font-style: italic;
+	font-weight: $fontWeightThin;
+	src: url(fira-sans-light-italic.woff2);
+}
+
+@font-face {
+	font-display: optional;
+	font-family: fira-sans;
+	font-style: normal;
+	font-weight: $fontWeightThick;
+	src: url(fira-sans-medium.woff2);
+}
+
+@font-face {
+	font-display: optional;
+	font-family: fira-sans;
+	font-style: italic;
+	font-weight: $fontWeightThick;
+	src: url(fira-sans-medium-italic.woff2);
+}
+
+@font-face {
+	font-display: optional;
+	font-family: fira-mono;
+	font-style: normal;
+	src: url(fira-mono-regular.woff2);
+}
+
+b, strong {
+	font-weight: $fontWeightThick;
+}
+
+code {
+	display: block;
+	font-family: $fontStackMono;
+	font-size: 0.75rem;
+	line-height: $lineHeight / 0.75; /* PICK UP HERE */
+	position: relative;
+	top: 0.4375rem;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
+
+em {
+	font-style: italic;
+}
+
+h1 {
+	font-size: 2rem;
+	font-weight: $fontWeightThick;
+	margin: ($lineHeight * 2rem) auto ($lineHeight * 3rem);
+	page-break-before: always;
+	position: relative;
+	text-align: center;
+	top: 0.75rem;
+	a:link, a:visited, a:hover, a:active {
+		color: $colorText;
+		text-decoration: none;
+	}
+}
+
+h2 {
+	font-size: 1.5rem;
+	font-weight: $fontWeightThick;
+	line-height: 1.5 / $lineHeight;
+	margin: ($lineHeight * 2rem) auto;
+	page-break-after: avoid;
+	position: relative;
+	text-align: center;
+	top: 0.1875rem;
+	a:link, a:visited, a:hover, a:active {
+		color: $colorText;
+		text-decoration: none;
+	}
+}
+
+h3, h4, h5, h6 {
+	font-size: 1rem;
+	font-weight: $fontWeightThick;
+	margin: 0 auto;
+	position: relative;
+	text-align: left;
+	top: 0.375rem;
+	a:link, a:visited, a:hover, a:active {
+		color: $colorText;
+		text-decoration: none;
+	}
+}
+
+li {
+	font-weight: $fontWeightThin;
+	a:link, a:visited, a:hover, a:active {
+		color: $colorPrimary;
+		font-weight: $fontWeightThick;
+		text-decoration: none;
+	}
+	a:visited {
+		color: $colorSecondary;
+	}
+}
+
+ol {
+	list-style: decimal inside;
+	margin: 0 auto ($lineHeight + rem);
+	padding: 0;
+	position: relative;
+	top: 0.375rem;
+}
+
+p {
+	font-weight: $fontWeightThin;
+	margin: 0 auto ($lineHeight + rem);
+	position: relative;
+	text-align: left;
+	top: 0.375rem;
+	a:link, a:visited, a:hover, a:active {
+		color: $colorPrimary;
+		font-weight: $fontWeightThick;
+		text-decoration: none;
+	}
+	a:visited {
+		color: $colorSecondary;
+	}
+}
+
+ul {
+	list-style: circle inside;
+	margin: 0 auto ($lineHeight + rem);
+	padding: 0;
+	position: relative;
+	top: 0.375rem;
+}
+
+
+/*
+	TYPOGRAPHIC CONTAINERS
+*/
+blockquote, pre {
+	background-color: $colorContainer;
+	margin: 0 auto ($lineHeight + rem);
+	max-width: $maxWidthContainer;
+	padding: ($lineHeight + rem) 1rem ($lineHeight + rem);
+	width: 80%;
+	:last-child {
+		margin-bottom: 0;
+	}
+}
+
+
+/*
+	BASE ELEMENTS
+*/
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+html {
+	background-color: $colorBackground;
+	box-sizing: border-box;
+	color: $colorText;
+	font-family: $fontStack;
+	font-size: $fontSize;
+	line-height: $lineHeight;
+}
+
+body {
+	margin: 0;
+	overflow-wrap: break-word;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+
+main {
+	h1, h2, h3, h4, h5, h6, p, ol, ul {
+		max-width: $maxWidthText;
+		width: 90%;
+	}
+	h3, h4, h5, h6, li, p {
+		@media (min-width: $fontJustify) {
+			hyphens: auto;
+			text-align: justify;
+		}
+	}
+}
+
+
+/*
+	CUSTOM ELEMENTS
+*/
+
+
+/*
+	MEDIA
+*/
+img {
+	display: block;
+	margin: 0 auto;
+	max-width: $maxWidthImage;
+	padding: 0;
+	page-break-inside: avoid;
+	width: 100%;
+	&.half {
+		max-width: $maxWidthText;
+	}
+}
+
+video {
+	display: block;
+	margin: 0 auto;
+	max-width: $maxWidthImage;
+	padding: 0;
+	page-break-inside: avoid;
+	width: 100%;
+	&.half {
+		max-width: $maxWidthText;
+	}
+}
+
+.imageContainer {
+	max-width: none;
+	width: 100%;
+}
+
+.bandcamp {
+	margin: auto;
+	max-width: $maxWidthText;
+	padding-bottom: 0.5rem;
+	width: 100%;
+}
+
+.youtube {
+	position: relative;
+	padding-bottom: 56.25%;
+	overflow: hidden;
+	height: auto;
+	margin-bottom: 16px;
+}
+
+.youtube iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
