@@ -10,7 +10,32 @@ updated: 2016.11.23:0700
 
 This is a running list of every game I have played throughout my life. There will be plenty of omissions from the list starting out, as this is a ton of games to fill in, but as I come across games I have played, they will be added to the list.
 
+## [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System)
+
+- [Adventures of Lolo](https://en.wikipedia.org/wiki/Adventures_of_Lolo)
+- [Batman: The Video Game](https://en.wikipedia.org/wiki/Batman:_The_Video_Game)
+- [Bomberman](https://en.wikipedia.org/wiki/Bomberman_(1983_video_game))
+- [Chip 'n Dale Rescue Rangers](https://en.wikipedia.org/wiki/Chip_%27n_Dale_Rescue_Rangers_(video_game))
+- [Dr. Mario](https://en.wikipedia.org/wiki/Dr._Mario)
+- [Duck Hunt](https://en.wikipedia.org/wiki/Duck_Hunt)
+- [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy_(video_game))
+- [Kirby's Adventure](https://en.wikipedia.org/wiki/Kirby%27s_Adventure)
+- [Lemmings](https://en.wikipedia.org/wiki/Lemmings_(video_game))
+- [Mega Man](https://en.wikipedia.org/wiki/Mega_Man_(video_game))
+- [Mega Man 2](https://en.wikipedia.org/wiki/Mega_Man_2)
+- [Mega Man 4](https://en.wikipedia.org/wiki/Mega_Man_4)
+- [Mega Man 5](https://en.wikipedia.org/wiki/Mega_Man_5)
+- [Mega Man 6](https://en.wikipedia.org/wiki/Mega_Man_6)
+- [Metal Gear](https://en.wikipedia.org/wiki/Metal_Gear_(video_game))
+- [Metroid](https://en.wikipedia.org/wiki/Metroid_(video_game))
+- [Mike Tyson's Punch-Out!!](https://en.wikipedia.org/wiki/Punch-Out!!_(NES))
+- [Super Mario Bros.](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
+- [Super Mario Bros. 2](https://en.wikipedia.org/wiki/Super_Mario_Bros._2)
+- [Super Mario Bros. 3](https://en.wikipedia.org/wiki/Super_Mario_Bros._3)
+- [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game))
+
 ## PC Games
+
 - [ABZÛ](https://en.wikipedia.org/wiki/Abzû_(video_game))
 - [Age of Conan: Hyborian Adventures](https://en.wikipedia.org/wiki/Age_of_Conan)
 - [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires_(video_game))
@@ -194,17 +219,10 @@ This is a running list of every game I have played throughout my life. There wil
 
 ## Unsorted List
 
-- [Adventures of Lolo](https://en.wikipedia.org/wiki/Adventures_of_Lolo)
-- [Batman: The Video Game](https://en.wikipedia.org/wiki/Batman:_The_Video_Game)
-- [Bomberman](https://en.wikipedia.org/wiki/Bomberman_(1983_video_game))
-- [Chip 'n Dale Rescue Rangers](https://en.wikipedia.org/wiki/Chip_%27n_Dale_Rescue_Rangers_(video_game))
 - [Chrono Cross](https://en.wikipedia.org/wiki/Chrono_Cross)
 - [Chrono Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger)
 - Destiny
-- [Dr. Mario](https://en.wikipedia.org/wiki/Dr._Mario)
-- [Duck Hunt](https://en.wikipedia.org/wiki/Duck_Hunt)
 - DUST 514
-- [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy_(video_game))
 - Final Fantasy IV
 - Final Fantasy V
 - Final Fantasy VI
@@ -216,20 +234,20 @@ This is a running list of every game I have played throughout my life. There wil
 - Final Fantasy XII
 - Final Fantasy XIII
 - Flight Control
-- [Kirby's Adventure](https://en.wikipedia.org/wiki/Kirby%27s_Adventure)
+- [Mega Man X](https://en.wikipedia.org/wiki/Mega_Man_X_(video_game))
+- [Mega Man X2](https://en.wikipedia.org/wiki/Mega_Man_X2)
+- [Mega Man X3](https://en.wikipedia.org/wiki/Mega_Man_X3)
 - Metal Gear Solid
 - Metal Gear Solid 2: Sons of Liberty
 - Metal Gear Solid 3: Snake Eater
 - Metal Gear Solid 4: Guns of the Patriots
-- Metroid
 - Metroid II: Return of Samus
+- [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man)
 - [Paperboy](https://en.wikipedia.org/wiki/Paperboy_(video_game))
 - [PixelJunk: Monsters](https://en.wikipedia.org/wiki/PixelJunk_Monsters)
+- [SmashT V](https://en.wikipedia.org/wiki/Smash_TV)
 - Super Mario 3D World
 - Super Mario 64
-- [Super Mario Bros.](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
-- [Super Mario Bros. 2](https://en.wikipedia.org/wiki/Super_Mario_Bros._2)
-- [Super Mario Bros. 3](https://en.wikipedia.org/wiki/Super_Mario_Bros._3)
 - Super Mario Land
 - Super Mario Land 2
 - Super Mario World
@@ -239,8 +257,8 @@ This is a running list of every game I have played throughout my life. There wil
 - Super Smash Bros. Brawl
 - Super Smash Bros. For Wii U
 - Super Smash Bros. Melee
+- [The Addams Family](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game))
 - [The Addams Family: Pugley's Scavenger Hunt](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game_series)#The_Addams_Family:_Pugsley.27s_Scavenger_Hunt)
-- [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game))
 - The Legend of Zelda: A Link To The Past
 - The Legend of Zelda: Link's Awakening
 - The Legend of Zelda: Ocarina of Time
