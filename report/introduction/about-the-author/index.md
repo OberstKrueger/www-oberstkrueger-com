@@ -1,8 +1,8 @@
 ---
 category: introduction
 created: 2016.02.10:0606
-title: About The Author
-type: index
+title: The Krueger Report - About The Author
+type: page
 updated: 2017.02.13:1745
 ---
 
