@@ -14,3 +14,4 @@ updated: 2017.02.13:1800
 ## Technology
 
 - [Backups](/technology/backups)
+- [DuckDuckGo](/technology/duckduckgo)
