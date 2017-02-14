@@ -10,6 +10,41 @@ updated: 2016.11.23:0700
 
 This is a running list of every game I have played throughout my life. There will be plenty of omissions from the list starting out, as this is a ton of games to fill in, but as I come across games I have played, they will be added to the list.
 
+## [Mobile](https://en.wikipedia.org/wiki/Mobile_operating_system)
+
+- [A Dark Room](https://en.wikipedia.org/wiki/A_Dark_Room)
+- [Alto's Adventure](https://en.wikipedia.org/wiki/Alto%27s_Adventure)
+- [Army of Darkness: Defense](https://en.wikipedia.org/wiki/Army_of_Darkness:_Defense)
+- [Cut The Rope](https://en.wikipedia.org/wiki/Cut_the_Rope)
+- [Deus Ex Go](https://en.wikipedia.org/wiki/Deus_Ex_Go)
+- [Device 6](https://en.wikipedia.org/wiki/Device_6)
+- [Exploding Kittens](https://en.wikipedia.org/wiki/Exploding_Kittens)
+- [Fallout Shelter](https://en.wikipedia.org/wiki/Fallout_Shelter)
+- [Final Fantasy Record Keeper](https://en.wikipedia.org/wiki/Final_Fantasy_Record_Keeper)
+- [Flappy Birdy](https://en.wikipedia.org/wiki/Flappy_Bird)
+- [Flight Control](https://en.wikipedia.org/wiki/Flight_Control_(video_game))
+- [Fruit Ninja](https://en.wikipedia.org/wiki/Fruit_Ninja)
+- [geoDefense](https://en.wikipedia.org/wiki/GeoDefense)
+- [geoDefense Swarm](https://en.wikipedia.org/wiki/GeoDefense_Swarm)
+- [Hero Academy](https://en.wikipedia.org/wiki/Hero_Academy)
+- [Hitman Go](https://en.wikipedia.org/wiki/Hitman_Go)
+- [Kingdom Rush](https://en.wikipedia.org/wiki/Kingdom_Rush)
+- [Kingdom Rush: Origins](https://en.wikipedia.org/wiki/Kingdom_Rush)
+- [Lara Croft Go](https://en.wikipedia.org/wiki/Lara_Croft_Go)
+- [Letterpress](http://www.letterpressapp.com)
+- [Monument Valley](https://en.wikipedia.org/wiki/Monument_Valley_(video_game))
+- [Planet Quest](http://planetquest.co.uk)
+- [Plants vs. Zombies](https://en.wikipedia.org/wiki/Plants_vs._Zombies)
+- [Plants vz. Zombies 2: It's About Time](https://en.wikipedia.org/wiki/Plants_vs._Zombies_2:_It%27s_About_Time)
+- [Pokemon Go](https://en.wikipedia.org/wiki/Pokémon_Go)
+- [Reigns](https://en.wikipedia.org/wiki/Reigns_(video_game))
+- [Scribblenauts Remix](https://en.wikipedia.org/wiki/Scribblenauts_Remix)
+- [Spy Mouse](https://en.wikipedia.org/wiki/Spy_Mouse)
+- [Super Mario Run](https://en.wikipedia.org/wiki/Super_Mario_Run)
+- [Terra Battle](https://en.wikipedia.org/wiki/Terra_Battle)
+- [Threes!](https://en.wikipedia.org/wiki/Threes)
+- [Year Walk](https://en.wikipedia.org/wiki/Year_Walk)
+
 ## [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System)
 
 - [Adventures of Lolo](https://en.wikipedia.org/wiki/Adventures_of_Lolo)
@@ -34,7 +69,7 @@ This is a running list of every game I have played throughout my life. There wil
 - [Super Mario Bros. 3](https://en.wikipedia.org/wiki/Super_Mario_Bros._3)
 - [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game))
 
-## PC Games
+## [PC](https://en.wikipedia.org/wiki/PC_game)
 
 - [ABZÛ](https://en.wikipedia.org/wiki/Abzû_(video_game))
 - [Age of Conan: Hyborian Adventures](https://en.wikipedia.org/wiki/Age_of_Conan)
@@ -101,6 +136,7 @@ This is a running list of every game I have played throughout my life. There wil
 - Game Dev Tycoon
 - Giana Sisters: Twisted Dreams
 - Gone Home
+- [Gorillas](https://en.wikipedia.org/wiki/Gorillas_(video_game))
 - Guild Wars
 - Guild Wars 2
 - Hackmud
