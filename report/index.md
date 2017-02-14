@@ -14,6 +14,7 @@ updated: 2017.02.13:1800
 ## Gaming
 
 - [Disabling Gaming Platform's Social Features](/gaming/disabling-gaming-platforms-social-features)
+- [Games I Have Played](/gaming/games-i-have-played)
 
 ## Technology
 
