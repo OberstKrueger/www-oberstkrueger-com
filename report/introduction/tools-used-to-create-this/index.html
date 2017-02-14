@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<meta name="category" content="introduction"/>
+	<meta name="created" content="2016.12.10:1010"/>
+	<title>The Krueger Report - Tools Used To Make This</title>
+	<meta name="type" content="page"/>
+	<meta name="updated" content="2017.02.13:1800"/>
+</head>
+<body>
+
+<h1 id="toolsusedtomakethis">Tools Used To Make This</h1>
+
+<p>There are two major tools used to make everything you read here: <a href="http://daringfireball.net/projects/markdown/">Markdown</a> for the writing, and <a href="https://caddyserver.com">Caddy</a> for compiling it.</p>
+
+<p>Markdown is a form of markup designed by <a href="http://daringfireball.net">John Gruber</a> and <a href="http://www.aaronsw.com">Aaron Swartz</a>. The advantages of Markdown for writing is that it is a plain text format that makes converting to other formats very simple. There are many tools for converting Markdown to HTML and PDF, where the final output can be more easily stylized. And since it is stored in plaintext, it can be created and edited in any number of text editors. Currently, I switch between <a href="https://ia.net/writer">iA Writer</a> and <a href="https://www.sublimetext.com">Sublime Text</a> for all Markdown writing.</p>
+
+<p>All of these Markdown files are then served through Caddy, a new web server written in <a href="https://golang.org">Go</a>. Caddy has built-in support for rendering Markdown files to HTML using a basic template system. While it is not as powerful as <a href="https://ghost.org">Ghost</a> or <a href="https://www.gohugo.io">Hugo</a>, it fulfills my needs, and I would be using Caddy even without the Markdown support as it supports negotiating SSL certificates through Let&#8217;s Encrypt automatically.</p>
+
+</body>
+</html>
