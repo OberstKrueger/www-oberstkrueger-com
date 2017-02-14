@@ -11,6 +11,10 @@ updated: 2017.02.13:1800
 - [About The Author](/introduction/about-the-author)
 - [Tools Used To Create This](/introduction/tools-used-to-create-this)
 
+## Gaming
+
+- [Disabling Gaming Platform's Social Features](/gaming/disabling-gaming-platforms-social-features)
+
 ## Technology
 
 - [Backups](/technology/backups)
