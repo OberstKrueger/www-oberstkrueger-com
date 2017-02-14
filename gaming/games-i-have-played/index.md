@@ -217,6 +217,13 @@ This is a running list of every game I have played throughout my life. There wil
 - World of Goo
 - World of Warcraft
 
+## [Wii U](https://en.wikipedia.org/wiki/Wii_U)
+
+- [Super Mario 3D World](https://en.wikipedia.org/wiki/Super_Mario_3D_World)
+- [Super Smash Bros. For Wii U](https://en.wikipedia.org/wiki/Super_Smash_Bros._for_Nintendo_3DS_and_Wii_U)
+- [The Legend of Zelda: The Wind Waker HD](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker_HD)
+- [Wii Fit U](https://en.wikipedia.org/wiki/Wii_Fit_U)
+
 ## Unsorted List
 
 - [Chrono Cross](https://en.wikipedia.org/wiki/Chrono_Cross)
@@ -246,7 +253,6 @@ This is a running list of every game I have played throughout my life. There wil
 - [Paperboy](https://en.wikipedia.org/wiki/Paperboy_(video_game))
 - [PixelJunk: Monsters](https://en.wikipedia.org/wiki/PixelJunk_Monsters)
 - [SmashT V](https://en.wikipedia.org/wiki/Smash_TV)
-- Super Mario 3D World
 - Super Mario 64
 - Super Mario Land
 - Super Mario Land 2
@@ -255,12 +261,10 @@ This is a running list of every game I have played throughout my life. There wil
 - Super Metroid
 - Super Smash Bros.
 - Super Smash Bros. Brawl
-- Super Smash Bros. For Wii U
 - Super Smash Bros. Melee
 - [The Addams Family](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game))
 - [The Addams Family: Pugley's Scavenger Hunt](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game_series)#The_Addams_Family:_Pugsley.27s_Scavenger_Hunt)
 - The Legend of Zelda: A Link To The Past
 - The Legend of Zelda: Link's Awakening
 - The Legend of Zelda: Ocarina of Time
-- The Legend of Zelda: The Wind Waker
 - [Yoshi's Cookie](https://en.wikipedia.org/wiki/Yoshi%27s_Cookie)
