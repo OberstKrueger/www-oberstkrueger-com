@@ -6,7 +6,7 @@ type: page
 updated: 2016.11.23:0700
 ---
 
-# Games Played
+# Games I Have Played
 
 This is a running list of every game I have played throughout my life. There will be plenty of omissions from the list starting out, as this is a ton of games to fill in, but as I come across games I have played, they will be added to the list.
 
