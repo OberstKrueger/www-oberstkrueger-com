@@ -185,7 +185,7 @@ blockquote, pre {
 
 
 /*
-	BASE ELEMENTS
+	ELEMENTS
 */
 *, *:before, *:after {
 	box-sizing: inherit;
@@ -207,6 +207,21 @@ body {
 	-ms-text-size-adjust: 100%;
 }
 
+header {
+	background: linear-gradient(to right, $colorPrimary, $colorSecondary);
+	margin: 0 0 ($lineHeight * 3rem);
+	overflow: hidden;
+	h1 {
+		color: $colorBackground;
+		line-height: 6;
+		margin: 0 auto 0;
+		top: 0;
+		a:link, a:visited, a:hover, a:active {
+			color: $colorBackground;
+		}
+	}
+}
+
 main {
 	h1, h2, h3, h4, h5, h6, p, ol, ul {
 		max-width: $maxWidthText;
@@ -220,22 +235,13 @@ main {
 	}
 }
 
-
-/*
-	CUSTOM ELEMENTS
-*/
-header {
-	background: linear-gradient(to right, $colorPrimary, $colorSecondary);
-	margin: 0 0 ($lineHeight * 3rem);
-	overflow: hidden;
-	h1 {
-		color: $colorBackground;
-		line-height: 6;
-		margin: 0 auto 0;
-		top: 0;
-		a:link, a:visited, a:hover, a:active {
-			color: $colorBackground;
-		}
+footer {
+	border-top: 0.0625rem solid $colorText;
+	margin: (((2 * $lineHeight) - 0.0625) + rem) auto 0;
+	max-width: ($maxWidthText * 0.75);
+	width: 75%;
+	p {
+		text-align: center;
 	}
 }
 
