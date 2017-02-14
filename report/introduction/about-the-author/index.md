@@ -6,6 +6,8 @@ type: page
 updated: 2017.02.13:1745
 ---
 
+# About The Author
+
 Hello! My name is Paul Krueger, and welcome to my little piece of the [intertubes](http://en.wiktionary.org/wiki/Intertubes).
 
 This site is a place for me to write about what interests me. This typically will be topics related to design, gaming, and technology.
