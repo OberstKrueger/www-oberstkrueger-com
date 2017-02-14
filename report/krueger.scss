@@ -229,6 +229,7 @@ header {
 	margin: 0 0 ($lineHeight * 3rem);
 	overflow: hidden;
 	h1 {
+		color: $colorBackground;
 		line-height: 6;
 		margin: 0 auto 0;
 		top: 0;
