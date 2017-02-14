@@ -224,6 +224,19 @@ main {
 /*
 	CUSTOM ELEMENTS
 */
+header {
+	background: linear-gradient(to right, $colorPrimary, $colorSecondary);
+	margin: 0 0 ($lineHeight * 3rem);
+	overflow: hidden;
+	h1 {
+		line-height: 6;
+		margin: 0 auto 0;
+		top: 0;
+		a:link, a:visited, a:hover, a:active {
+			color: $colorBackground;
+		}
+	}
+}
 
 
 /*
