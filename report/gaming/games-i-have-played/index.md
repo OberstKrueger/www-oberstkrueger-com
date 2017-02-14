@@ -10,8 +10,8 @@ updated: 2016.11.23:0700
 
 This is a running list of every game I have played throughout my life. There will be plenty of omissions from the list starting out, as this is a ton of games to fill in, but as I come across games I have played, they will be added to the list.
 
+## PC Games
 - [ABZÛ](https://en.wikipedia.org/wiki/Abzû_(video_game))
-- [Adventures of Lolo](https://en.wikipedia.org/wiki/Adventures_of_Lolo)
 - [Age of Conan: Hyborian Adventures](https://en.wikipedia.org/wiki/Age_of_Conan)
 - [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires_(video_game))
 - [Age of Empires II](https://en.wikipedia.org/wiki/Age_of_Empires_II)
@@ -20,21 +20,16 @@ This is a running list of every game I have played throughout my life. There wil
 - [Asheron's Call](https://en.wikipedia.org/wiki/Asheron%27s_Call)
 - [Asheron's Call 2: Fallen Kings](https://en.wikipedia.org/wiki/Asheron%27s_Call_2:_Fallen_Kings)
 - [Back to the Future: The Game](https://en.wikipedia.org/wiki/Back_to_the_Future:_The_Game)
-- Baldur's Gate
-- Baldur's Gate: Tales of the Sword Coast
-- Baldur's Gate 2: Shadows of Amn
-- Baldur's Gate 2: Throne of Bhaal
-- [Batman: The Video Game](https://en.wikipedia.org/wiki/Batman:_The_Video_Game)
+- [Baldur's Gate](https://en.wikipedia.org/wiki/Baldur%27s_Gate)
+- [Baldur's Gate: Tales of the Sword Coast](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Tales_of_the_Sword_Coast)
+- [Baldur's Gate II: Shadows of Amn](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn)
+- [Baldur's Gate II: Throne of Bhaal](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal)
 - BioShock
 - BioShock Infinite
-- [Bomberman](https://en.wikipedia.org/wiki/Bomberman_(1983_video_game))
 - Borderlands
 - Borderlands 2
 - Braid
 - [Bulletstorm](https://en.wikipedia.org/wiki/Bulletstorm)
-- [Chip 'n Dale Rescue Rangers](https://en.wikipedia.org/wiki/Chip_%27n_Dale_Rescue_Rangers_(video_game))
-- [Chrono Cross](https://en.wikipedia.org/wiki/Chrono_Cross)
-- [Chrono Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger)
 - [City of Heroes](https://en.wikipedia.org/wiki/City_of_Heroes)
 - Civilization IV
 - Civilization V
@@ -48,7 +43,6 @@ This is a running list of every game I have played throughout my life. There wil
 - Day of Defeat: Source
 - Dear Esther
 - DEFCON
-- Destiny
 - Deus Ex
 - Deus Ex: Human Revolution
 - Deus Ex: Mankind Divided
@@ -63,14 +57,11 @@ This is a running list of every game I have played throughout my life. There wil
 - Doom 3
 - Doom (2016)
 - Dota 2
-- [Dr. Mario](https://en.wikipedia.org/wiki/Dr._Mario)
 - Dragon Age: Inquisition
 - Dragon Age: Origins
-- [Duck Hunt](https://en.wikipedia.org/wiki/Duck_Hunt)
 - Duke Nukem 3D
 - Duke Nukem Forever
 - Dungeons of Dredmore
-- DUST 514
 - Elite Dangerous
 - Eufloria
 - EVE Online
@@ -78,20 +69,9 @@ This is a running list of every game I have played throughout my life. There wil
 - EverQuest II
 - [Evoland](https://en.wikipedia.org/wiki/Evoland)
 - [Fallout](https://en.wikipedia.org/wiki/Fallout_(video_game))
-- [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy_(video_game))
-- Final Fantasy IV
-- Final Fantasy V
-- Final Fantasy VI
-- Final Fantasy VII
-- Final Fantasy VIII
-- Final Fantasy IX
-- Final Fantasy X
-- Final Fantasy X-2
+- Final Fantasy X HD
 - Final Fantasy XI
-- Final Fantasy XII
-- Final Fantasy XIII
-- Final Fantasy XIV
-- Flight Control
+- Final Fantasy XIV: A Realm Reborn
 - FTL: Advanced Edition
 - Game Dev Tycoon
 - Giana Sisters: Twisted Dreams
@@ -117,7 +97,6 @@ This is a running list of every game I have played throughout my life. There wil
 - [King's Quest V: Absence Makes the Heart Go Yonder!](https://en.wikipedia.org/wiki/King%27s_Quest_V)
 - [King's Quest VI: Heir Today, Gone Tomorrow](https://en.wikipedia.org/wiki/King%27s_Quest_VI)
 - [King's Quest VII: The Princeless Bride](https://en.wikipedia.org/wiki/King%27s_Quest_VII)
-- [Kirby's Adventure](https://en.wikipedia.org/wiki/Kirby%27s_Adventure)
 - Landmark
 - League of Legends
 - Left 4 Dead
@@ -131,12 +110,6 @@ This is a running list of every game I have played throughout my life. There wil
 - MechWarrior 2: Ghost Bear's Legacy
 - MechWarrior 2: Mercenaries
 - MechWarrior Online
-- Metal Gear Solid
-- Metal Gear Solid 2: Sons of Liberty
-- Metal Gear Solid 3: Snake Eater
-- Metal Gear Solid 4: Guns of the Patriots
-- Metroid
-- Metroid II: Return of Samus
 - [Meridian 59](https://en.wikipedia.org/wiki/Meridian_59)
 - [Minecraft](https://en.wikipedia.org/wiki/Minecraft)
 - [Mini Metro](https://en.wikipedia.org/wiki/Mini_Metro_(video_game))
@@ -149,10 +122,8 @@ This is a running list of every game I have played throughout my life. There wil
 - No Man's Sky
 - [Osmos](https://en.wikipedia.org/wiki/Osmos)
 - [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game))
-- [Paperboy](https://en.wikipedia.org/wiki/Paperboy_(video_game))
 - [Papers, Please](https://en.wikipedia.org/wiki/Papers,_Please)
 - [Pillars of Eternity](https://en.wikipedia.org/wiki/Pillars_of_Eternity)
-- [PixelJunk: Monsters](https://en.wikipedia.org/wiki/PixelJunk_Monsters)
 - Plague, Inc: Evolved
 - PlanetSide
 - PlanetSide 2
@@ -182,37 +153,17 @@ This is a running list of every game I have played throughout my life. There wil
 - StarCraft: Brood War
 - StarCraft II: Wings of Liberty
 - Star Wars: The Old Republic
-- Super Mario 3D World
-- Super Mario 64
-- [Super Mario Bros.](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
-- [Super Mario Bros. 2](https://en.wikipedia.org/wiki/Super_Mario_Bros._2)
-- [Super Mario Bros. 3](https://en.wikipedia.org/wiki/Super_Mario_Bros._3)
-- Super Mario Land
-- Super Mario Land 2
-- Super Mario World
-- Super Mario World 2: Yoshi's Island
 - Super Meat Boy
-- Super Metroid
-- Super Smash Bros.
-- Super Smash Bros. Brawl
-- Super Smash Bros. For Wii U
-- Super Smash Bros. Melee
 - Superbrothers: Swords and Sworcery EP
 - Team Fortress 2
 - Terraria
 - The 7th Guest
 - The 11th Hour
-- [The Addams Family: Pugley's Scavenger Hunt](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game_series)#The_Addams_Family:_Pugsley.27s_Scavenger_Hunt)
 - The Binding of Isaac
 - The Elder Scrolls III: Morrowind
 - The Elder Scrolls IV: Oblivion
 - The Elder Scrolls V: Skyrim
 - The Elder Scrolls Online
-- [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game))
-- The Legend of Zelda: A Link To The Past
-- The Legend of Zelda: Link's Awakening
-- The Legend of Zelda: Ocarina of Time
-- The Legend of Zelda: The Wind Waker
 - The Sims
 - The Sims 3
 - The Sims Online
@@ -240,4 +191,58 @@ This is a running list of every game I have played throughout my life. There wil
 - WarCraft III: The Frozen Throne
 - World of Goo
 - World of Warcraft
+
+## Unsorted List
+
+- [Adventures of Lolo](https://en.wikipedia.org/wiki/Adventures_of_Lolo)
+- [Batman: The Video Game](https://en.wikipedia.org/wiki/Batman:_The_Video_Game)
+- [Bomberman](https://en.wikipedia.org/wiki/Bomberman_(1983_video_game))
+- [Chip 'n Dale Rescue Rangers](https://en.wikipedia.org/wiki/Chip_%27n_Dale_Rescue_Rangers_(video_game))
+- [Chrono Cross](https://en.wikipedia.org/wiki/Chrono_Cross)
+- [Chrono Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger)
+- Destiny
+- [Dr. Mario](https://en.wikipedia.org/wiki/Dr._Mario)
+- [Duck Hunt](https://en.wikipedia.org/wiki/Duck_Hunt)
+- DUST 514
+- [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy_(video_game))
+- Final Fantasy IV
+- Final Fantasy V
+- Final Fantasy VI
+- Final Fantasy VII
+- Final Fantasy VIII
+- Final Fantasy IX
+- Final Fantasy X
+- Final Fantasy X-2
+- Final Fantasy XII
+- Final Fantasy XIII
+- Flight Control
+- [Kirby's Adventure](https://en.wikipedia.org/wiki/Kirby%27s_Adventure)
+- Metal Gear Solid
+- Metal Gear Solid 2: Sons of Liberty
+- Metal Gear Solid 3: Snake Eater
+- Metal Gear Solid 4: Guns of the Patriots
+- Metroid
+- Metroid II: Return of Samus
+- [Paperboy](https://en.wikipedia.org/wiki/Paperboy_(video_game))
+- [PixelJunk: Monsters](https://en.wikipedia.org/wiki/PixelJunk_Monsters)
+- Super Mario 3D World
+- Super Mario 64
+- [Super Mario Bros.](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
+- [Super Mario Bros. 2](https://en.wikipedia.org/wiki/Super_Mario_Bros._2)
+- [Super Mario Bros. 3](https://en.wikipedia.org/wiki/Super_Mario_Bros._3)
+- Super Mario Land
+- Super Mario Land 2
+- Super Mario World
+- Super Mario World 2: Yoshi's Island
+- Super Metroid
+- Super Smash Bros.
+- Super Smash Bros. Brawl
+- Super Smash Bros. For Wii U
+- Super Smash Bros. Melee
+- [The Addams Family: Pugley's Scavenger Hunt](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game_series)#The_Addams_Family:_Pugsley.27s_Scavenger_Hunt)
+- [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game))
+- The Legend of Zelda: A Link To The Past
+- The Legend of Zelda: Link's Awakening
+- The Legend of Zelda: Ocarina of Time
+- The Legend of Zelda: The Wind Waker
 - [Yoshi's Cookie](https://en.wikipedia.org/wiki/Yoshi%27s_Cookie)
