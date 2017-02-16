@@ -300,3 +300,21 @@ video {
 	width: 100%;
 	height: 100%;
 }
+
+
+/*
+	PAGE-SPECIFIC ELEMENTS
+*/
+.index {
+	main {
+		li {
+			text-align: center;
+			@media (min-width: $fontJustify) {
+				text-align: center;
+			}
+		}
+		ul {
+			list-style: none;
+		}
+	}
+}
