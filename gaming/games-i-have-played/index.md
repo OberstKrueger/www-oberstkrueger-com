@@ -152,7 +152,8 @@ This is a running list of every game I have played throughout my life. There wil
 - EverQuest II
 - [Evoland](https://en.wikipedia.org/wiki/Evoland)
 - [Fallout](https://en.wikipedia.org/wiki/Fallout_(video_game))
-- Final Fantasy X HD
+- [Far Cry](https://en.wikipedia.org/wiki/Far_Cry_(video_game))
+- [Final Fantasy X HD Remaster](https://en.wikipedia.org/wiki/Final_Fantasy_X/X-2_HD_Remaster)
 - Final Fantasy XI
 - Final Fantasy XIV: A Realm Reborn
 - FTL: Advanced Edition
@@ -160,8 +161,12 @@ This is a running list of every game I have played throughout my life. There wil
 - Giana Sisters: Twisted Dreams
 - Gone Home
 - [Gorillas](https://en.wikipedia.org/wiki/Gorillas_(video_game))
-- Guild Wars
-- Guild Wars 2
+- [Grim Fandango](https://en.wikipedia.org/wiki/Grim_Fandango)
+- [Guild Wars Factions](https://en.wikipedia.org/wiki/Guild_Wars_Factions)
+- [Guild Wars Nightfall](https://en.wikipedia.org/wiki/Guild_Wars_Nightfall)
+- [Guild Wars Prophecies](https://en.wikipedia.org/wiki/Guild_Wars_(video_game))
+- [Guild Wars: Eye of the North](https://en.wikipedia.org/wiki/Guild_Wars:_Eye_of_the_North)
+- [Guild Wars 2](https://en.wikipedia.org/wiki/Guild_Wars_2)
 - Hackmud
 - Half-Life
 - Half-Life: Blue Shift
