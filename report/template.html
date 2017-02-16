@@ -22,5 +22,11 @@
 	<footer>
 		<p>Page updated {{.Doc.updated}}.</p>
 	</footer>
+<script>
+let images = document.querySelectorAll("p > img");
+for (var i = 0; i < images.length; i++) {
+	images[i].parentNode.className += "imageContainer";
+}
+</script>
 </body>
 </html>
