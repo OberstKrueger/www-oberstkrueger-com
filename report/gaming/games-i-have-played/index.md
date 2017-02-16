@@ -69,6 +69,29 @@ This is a running list of every game I have played throughout my life. There wil
 - [Super Mario Bros. 3](https://en.wikipedia.org/wiki/Super_Mario_Bros._3)
 - [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game))
 
+## [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3)
+
+- [BlazBlue: Calamity Trigger](https://en.wikipedia.org/wiki/BlazBlue:_Calamity_Trigger)
+- [Destiny](https://en.wikipedia.org/wiki/Destiny_(video_game))
+- [DUST 514](https://en.wikipedia.org/wiki/Dust_514)
+- [Fat Princess](https://en.wikipedia.org/wiki/Fat_Princess)
+- [Final Fantasy XIII](https://en.wikipedia.org/wiki/Final_Fantasy_XIII)
+- [Flower](https://en.wikipedia.org/wiki/Flower_(video_game))
+- [Grand Theft Auto IV](https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV)
+- [Grand Theft Auto V](https://en.wikipedia.org/wiki/Grand_Theft_Auto_V)
+- [Journey](https://en.wikipedia.org/wiki/Journey_(2012_video_game))
+- [LittleBigPlanet](https://en.wikipedia.org/wiki/LittleBigPlanet_(2008_video_game))
+- [Metal Gear Solid 4: Guns of the Patriots](https://en.wikipedia.org/wiki/Metal_Gear_Solid_4:_Guns_of_the_Patriots)
+- [PixelJunk: Monsters](https://en.wikipedia.org/wiki/PixelJunk_Monsters)
+- [PixelJunk: Shooter](https://en.wikipedia.org/wiki/PixelJunk_Shooter)
+- [Rock Band](https://en.wikipedia.org/wiki/Rock_Band_(video_game))
+- [Rock Band 2](https://en.wikipedia.org/wiki/Rock_Band_2)
+- [Rock Band 3](https://en.wikipedia.org/wiki/Rock_Band_3)
+- [Shadow of the Colossus](https://en.wikipedia.org/wiki/Shadow_of_the_Colossus)
+- [Super Street Fighter II Turbo HD Remix](https://en.wikipedia.org/wiki/Super_Street_Fighter_II_Turbo_HD_Remix)
+- [Super Street Fighter IV](https://en.wikipedia.org/wiki/Super_Street_Fighter_IV)
+- [WipEout HD](https://en.wikipedia.org/wiki/Wipeout_HD)
+
 ## [PC](https://en.wikipedia.org/wiki/PC_game)
 
 - [ABZÛ](https://en.wikipedia.org/wiki/Abzû_(video_game))
@@ -264,8 +287,6 @@ This is a running list of every game I have played throughout my life. There wil
 
 - [Chrono Cross](https://en.wikipedia.org/wiki/Chrono_Cross)
 - [Chrono Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger)
-- Destiny
-- DUST 514
 - Final Fantasy IV
 - Final Fantasy V
 - Final Fantasy VI
@@ -275,7 +296,6 @@ This is a running list of every game I have played throughout my life. There wil
 - Final Fantasy X
 - Final Fantasy X-2
 - Final Fantasy XII
-- Final Fantasy XIII
 - Flight Control
 - [Mega Man X](https://en.wikipedia.org/wiki/Mega_Man_X_(video_game))
 - [Mega Man X2](https://en.wikipedia.org/wiki/Mega_Man_X2)
@@ -283,11 +303,9 @@ This is a running list of every game I have played throughout my life. There wil
 - Metal Gear Solid
 - Metal Gear Solid 2: Sons of Liberty
 - Metal Gear Solid 3: Snake Eater
-- Metal Gear Solid 4: Guns of the Patriots
 - Metroid II: Return of Samus
 - [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man)
 - [Paperboy](https://en.wikipedia.org/wiki/Paperboy_(video_game))
-- [PixelJunk: Monsters](https://en.wikipedia.org/wiki/PixelJunk_Monsters)
 - [SmashT V](https://en.wikipedia.org/wiki/Smash_TV)
 - Super Mario 64
 - Super Mario Land
