@@ -24,6 +24,7 @@ updated: 2017.02.13:1800
 ## Life
 
 - [Work Music](/life/work-music)
+- [Years In Review](/life/years-in-review)
 
 ## Technology
 
