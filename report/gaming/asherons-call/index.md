@@ -40,7 +40,7 @@ Unfortunately, this system was done away with in later years. The spell economy 
 
 ## A Seamless World
 
-![Map of Dereth](/images/asherons-call_dereth.png)
+![Map of Dereth](/images/asherons-call_dereth.jpg)
 
 One of the first things that you notice when you first arrive in the world of Dereth is how far you can see. This is not unique in today's games, but back in 1999, it was an amazing sight to see. Mountains in the distance were visible. From high vantage points, you could follow the path of a river as it winded in between hills. In EverQuest, every area was surrounded by a range of hills that you could not climb over. This allowed the game to be broken up into smaller zones that were easier for computer systems to handle. Asheron's Call did away with this, showing off a more realistic geography than had been done before.
 
