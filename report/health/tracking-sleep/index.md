@@ -14,7 +14,7 @@ Since it is a worn device with a [built-in accelerometer and gyroscope][4], the 
 
 The app I use to track my sleep is [Sleep++][5], by [David Smith][6]. Every night when I go to sleep, I open up the app on my Apple Watch and tap "Start Sleeping". That's it, nothing needs to be done until the morning.
 
-![Sleep++](sleep.png)
+![Sleep++](/images/tracking-sleep_sleep.png)
 
 Sleep++ is not a simple timer for when you sleep. It makes use of the motion tracking capabilities of the Watch to determine when you are sleeping. Whenever I wake up and move around at night, it stores this information. In the morning, it presents a graph of the night's sleep, showing when I was restful and when I was not.
 
