@@ -10,6 +10,21 @@ updated: 2016.11.23:0700
 
 This is a running list of every game I have played throughout my life. There will be plenty of omissions from the list starting out, as this is a ton of games to fill in, but as I come across games I have played, they will be added to the list.
 
+## [Game Boy](https://en.wikipedia.org/wiki/Game_Boy)
+
+- [F-1 Race](https://en.wikipedia.org/wiki/F-1_Race)
+- [Kid Icarus: Of Myths and Monsters](https://en.wikipedia.org/wiki/Kid_Icarus:_Of_Myths_and_Monsters)
+- [Kirby's Dream Land](https://en.wikipedia.org/wiki/Kirby%27s_Dream_Land)
+- [Kirby's Dream Land 2](https://en.wikipedia.org/wiki/Kirby%27s_Dream_Land_2)
+- [Kirby's Pinball Land](https://en.wikipedia.org/wiki/Kirby%27s_Pinball_Land)
+- [Metroid II: Return of Samus](https://en.wikipedia.org/wiki/Metroid_II:_Return_of_Samus)
+- [Paperboy](https://en.wikipedia.org/wiki/Paperboy_(video_game))
+- [Pokémon Blue](https://en.wikipedia.org/wiki/Pokémon_Red_and_Blue)
+- [Super Mario Land](https://en.wikipedia.org/wiki/Super_Mario_Land)
+- [Super Mario Land 2: 6 Golden Coins](https://en.wikipedia.org/wiki/Super_Mario_Land_2:_6_Golden_Coins)
+- [Tetris](https://en.wikipedia.org/wiki/Tetris_(Game_Boy))
+- [The Legend of Zelda: Link's Awakening](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening)
+
 ## [Mobile](https://en.wikipedia.org/wiki/Mobile_operating_system)
 
 - [A Dark Room](https://en.wikipedia.org/wiki/A_Dark_Room)
@@ -308,13 +323,9 @@ This is a running list of every game I have played throughout my life. There wil
 - Metal Gear Solid
 - Metal Gear Solid 2: Sons of Liberty
 - Metal Gear Solid 3: Snake Eater
-- Metroid II: Return of Samus
 - [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man)
-- [Paperboy](https://en.wikipedia.org/wiki/Paperboy_(video_game))
 - [SmashT V](https://en.wikipedia.org/wiki/Smash_TV)
 - Super Mario 64
-- Super Mario Land
-- Super Mario Land 2
 - Super Mario World
 - Super Mario World 2: Yoshi's Island
 - Super Metroid
@@ -324,6 +335,5 @@ This is a running list of every game I have played throughout my life. There wil
 - [The Addams Family](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game))
 - [The Addams Family: Pugley's Scavenger Hunt](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game_series)#The_Addams_Family:_Pugsley.27s_Scavenger_Hunt)
 - The Legend of Zelda: A Link To The Past
-- The Legend of Zelda: Link's Awakening
 - The Legend of Zelda: Ocarina of Time
 - [Yoshi's Cookie](https://en.wikipedia.org/wiki/Yoshi%27s_Cookie)
