@@ -111,7 +111,10 @@ h2 {
 	}
 }
 
-h3, h4, h5, h6 {
+h3,
+h4,
+h5,
+h6 {
 	font-size: 1rem;
 	font-weight: $fontWeightThick;
 	margin: 0 auto;
@@ -172,7 +175,8 @@ ul {
 /*
 	TYPOGRAPHIC CONTAINERS
 */
-blockquote, pre {
+blockquote,
+pre {
 	background-color: $colorContainer;
 	margin: 0 auto ($lineHeight + rem);
 	max-width: $maxWidthContainer;
@@ -187,7 +191,9 @@ blockquote, pre {
 /*
 	ELEMENTS
 */
-*, *:before, *:after {
+*,
+*:before,
+*:after {
 	box-sizing: inherit;
 }
 
@@ -216,18 +222,34 @@ header {
 		line-height: 6;
 		margin: 0 auto 0;
 		top: 0;
-		a:link, a:visited, a:hover, a:active {
+		a:link,
+		a:visited,
+		a:hover,
+		a:active {
 			color: $colorBackground;
 		}
 	}
 }
 
 main {
-	h1, h2, h3, h4, h5, h6, p, ol, ul {
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6,
+	p,
+	ol,
+	ul {
 		max-width: $maxWidthText;
 		width: 90%;
 	}
-	h3, h4, h5, h6, li, p {
+	h3,
+	h4,
+	h5,
+	h6,
+	li,
+	p {
 		@media (min-width: $fontJustify) {
 			hyphens: auto;
 			text-align: justify;
