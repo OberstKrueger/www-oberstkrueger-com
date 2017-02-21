@@ -296,6 +296,14 @@ This is a running list of every game I have played throughout my life. There wil
 - World of Goo
 - World of Warcraft
 
+## [Sega Genesis](https://en.wikipedia.org/wiki/Sega_Genesis)
+
+- [Sonic The Hedgehog](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game))
+- [Sonic The Hedgehog 2](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2)
+- [Sonic The Hedgehog 3](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3)
+- [Sonic & Knuckles](https://en.wikipedia.org/wiki/Sonic_%26_Knuckles)
+- [Sonic Spinball](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_Spinball)
+
 ## [Wii U](https://en.wikipedia.org/wiki/Wii_U)
 
 - [Super Mario 3D World](https://en.wikipedia.org/wiki/Super_Mario_3D_World)
