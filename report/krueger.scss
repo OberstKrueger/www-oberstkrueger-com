@@ -9,7 +9,7 @@ $colorText: #212529;
 
 $fontJustify: 46em;
 $fontSize: 100%;
-$fontStack: 'Fira Sans', fira-sans, sans-serif;
+$fontStack: 'Avenir Next', Avenir, sans-serif;
 $fontStackMono: monospace;
 $fontWeightThick: 500;
 $fontWeightThin: 300;
@@ -24,45 +24,6 @@ $maxWidthText: 40.75rem;
 /*
 	TYPOGRAPHY
 */
-@font-face {
-	font-display: optional;
-	font-family: fira-sans;
-	font-style: normal;
-	font-weight: $fontWeightThin;
-	src: url(fira-sans-light.woff2);
-}
-
-@font-face {
-	font-display: optional;
-	font-family: fira-sans;
-	font-style: italic;
-	font-weight: $fontWeightThin;
-	src: url(fira-sans-light-italic.woff2);
-}
-
-@font-face {
-	font-display: optional;
-	font-family: fira-sans;
-	font-style: normal;
-	font-weight: $fontWeightThick;
-	src: url(fira-sans-medium.woff2);
-}
-
-@font-face {
-	font-display: optional;
-	font-family: fira-sans;
-	font-style: italic;
-	font-weight: $fontWeightThick;
-	src: url(fira-sans-medium-italic.woff2);
-}
-
-@font-face {
-	font-display: optional;
-	font-family: fira-mono;
-	font-style: normal;
-	src: url(fira-mono-regular.woff2);
-}
-
 b, strong {
 	font-weight: $fontWeightThick;
 }
