@@ -209,6 +209,8 @@ footer {
 	max-width: ($maxWidthText * 0.75);
 	width: 75%;
 	p {
+		line-height: ($lineHeight * 2);
+		margin-bottom: none;
 		text-align: center;
 	}
 }
