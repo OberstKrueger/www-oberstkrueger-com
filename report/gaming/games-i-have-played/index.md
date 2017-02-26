@@ -84,6 +84,23 @@ This is a running list of every game I have played throughout my life. There wil
 - [Super Mario Bros. 3](https://en.wikipedia.org/wiki/Super_Mario_Bros._3)
 - [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game))
 
+## [PlayStation](https://en.wikipedia.org/wiki/PlayStation)
+
+- [Brave Fencer Musashi](https://en.wikipedia.org/wiki/Brave_Fencer_Musashi)
+- [Chrono Cross](https://en.wikipedia.org/wiki/Chrono_Cross)
+- [Crash Bandicoot](https://en.wikipedia.org/wiki/Crash_Bandicoot_(video_game))
+- [Ehrgeiz: God Bless the Ring](https://en.wikipedia.org/wiki/Ehrgeiz)
+- [Final Fantasy VII](https://en.wikipedia.org/wiki/Final_Fantasy_VII)
+- [Final Fantasy VIII](https://en.wikipedia.org/wiki/Final_Fantasy_VIII)
+- [Final Fantasy IX](https://en.wikipedia.org/wiki/Final_Fantasy_IX)
+- [Final Fantasy Tactics](https://en.wikipedia.org/wiki/Final_Fantasy_Tactics)
+- [Jade Coccoon: Story of the Tamamayu](https://en.wikipedia.org/wiki/Jade_Cocoon:_Story_of_the_Tamamayu)
+- [Legend of Mana](https://en.wikipedia.org/wiki/Legend_of_Mana)
+- [Metal Gear Solid](https://en.wikipedia.org/wiki/Metal_Gear_Solid)
+- [Spyro the Dragon](https://en.wikipedia.org/wiki/Spyro_the_Dragon_(video_game))
+- [Twisted Metal](https://en.wikipedia.org/wiki/Twisted_Metal_(1995_video_game))
+- [Xenogears](https://en.wikipedia.org/wiki/Xenogears)
+
 ## [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3)
 
 - [BlazBlue: Calamity Trigger](https://en.wikipedia.org/wiki/BlazBlue:_Calamity_Trigger)
@@ -176,6 +193,9 @@ This is a running list of every game I have played throughout my life. There wil
 - Giana Sisters: Twisted Dreams
 - Gone Home
 - [Gorillas](https://en.wikipedia.org/wiki/Gorillas_(video_game))
+- [Grand Theft Auto 2](https://en.wikipedia.org/wiki/Grand_Theft_Auto_2)
+- [Grand Theft Auto 3](https://en.wikipedia.org/wiki/Grand_Theft_Auto_III)
+- [Grand Theft Auto: Vice City](https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City)
 - [Grim Fandango](https://en.wikipedia.org/wiki/Grim_Fandango)
 - [Guild Wars Factions](https://en.wikipedia.org/wiki/Guild_Wars_Factions)
 - [Guild Wars Nightfall](https://en.wikipedia.org/wiki/Guild_Wars_Nightfall)
@@ -256,6 +276,9 @@ This is a running list of every game I have played throughout my life. There wil
 - StarCraft
 - StarCraft: Brood War
 - StarCraft II: Wings of Liberty
+- [Star Wars: Dark Forces](https://en.wikipedia.org/wiki/Star_Wars:_Dark_Forces)
+- [Star Wars: Rebel Assault](https://en.wikipedia.org/wiki/Star_Wars:_Rebel_Assault)
+- [Star Wars: Rebel Assault II: The Hidden Empire](https://en.wikipedia.org/wiki/Star_Wars:_Rebel_Assault_II:_The_Hidden_Empire)
 - Star Wars: The Old Republic
 - Super Meat Boy
 - Superbrothers: Swords and Sworcery EP
@@ -276,6 +299,7 @@ This is a running list of every game I have played throughout my life. There wil
 - The Witness
 - Thomas Was Alone
 - TIS-100
+- [Tomb Raider](https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game))
 - Tomb Raider (2013)
 - Transistor
 - Tribes
@@ -293,6 +317,7 @@ This is a running list of every game I have played throughout my life. There wil
 - WarCraft II: Tides of Darkness
 - WarCraft III: Reign of Chaos
 - WarCraft III: The Frozen Throne
+- [Wing Commander IV: The Price of Freedom](https://en.wikipedia.org/wiki/Wing_Commander_IV:_The_Price_of_Freedom)
 - World of Goo
 - World of Warcraft
 
@@ -332,6 +357,7 @@ This is a running list of every game I have played throughout my life. There wil
 - [Mortal Kombat II](https://en.wikipedia.org/wiki/Home_versions_of_Mortal_Kombat_II)
 - [Mortal Kombat 3](https://en.wikipedia.org/wiki/Mortal_Kombat_3)
 - [NBA Hangtime](https://en.wikipedia.org/wiki/NBA_Hangtime)
+- [Pilotwings](https://en.wikipedia.org/wiki/Pilotwings)
 - [Primal Rage](https://en.wikipedia.org/wiki/Primal_Rage)
 - [Secret of Mana](https://en.wikipedia.org/wiki/Secret_of_Mana)
 - [Star Fox](https://en.wikipedia.org/wiki/Star_Fox_(video_game))
@@ -365,14 +391,9 @@ This is a running list of every game I have played throughout my life. There wil
 
 ## Unsorted List
 
-- [Chrono Cross](https://en.wikipedia.org/wiki/Chrono_Cross)
-- Final Fantasy VII
-- Final Fantasy VIII
-- Final Fantasy IX
 - Final Fantasy X
 - Final Fantasy X-2
 - Final Fantasy XII
-- Metal Gear Solid
 - Metal Gear Solid 2: Sons of Liberty
 - Metal Gear Solid 3: Snake Eater
 - [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man)
