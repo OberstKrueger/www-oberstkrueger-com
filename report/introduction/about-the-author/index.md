@@ -45,3 +45,4 @@ I also own a [Nintendo 2DS](https://en.wikipedia.org/wiki/Nintendo_2DS), a [Wii 
 
 - [Final Fantasy X HD](http://www.finalfantasyxhd.com/us/)
 - [Final Fantasy XIV: Heavensward](http://www.finalfantasyxiv.com)
+- [Grim Fandango Remastered](http://grimremastered.com)
