@@ -304,6 +304,58 @@ This is a running list of every game I have played throughout my life. There wil
 - [Sonic & Knuckles](https://en.wikipedia.org/wiki/Sonic_%26_Knuckles)
 - [Sonic Spinball](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_Spinball)
 
+## [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System)
+
+- [Chrono Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger)
+- [ClayFighter](https://en.wikipedia.org/wiki/ClayFighter)
+- [ClayFighter 2: Judgement Clay](https://en.wikipedia.org/wiki/ClayFighter_2:_Judgment_Clay)
+- [Disney's Aladdin](https://en.wikipedia.org/wiki/Disney%27s_Aladdin_(Capcom))
+- [Donkey Kong Country](https://en.wikipedia.org/wiki/Donkey_Kong_Country)
+- [Donkey Kong Country 2: Diddy's Kong Quest](https://en.wikipedia.org/wiki/Donkey_Kong_Country_2:_Diddy%27s_Kong_Quest)
+- [Donkey Kong Country 3: Dixie Kong's Double Trouble!](https://en.wikipedia.org/wiki/Donkey_Kong_Country_3:_Dixie_Kong%27s_Double_Trouble!)
+- [Earthworm Jim](https://en.wikipedia.org/wiki/Earthworm_Jim)
+- [Earthworm Jim 2](https://en.wikipedia.org/wiki/Earthworm_Jim_2)
+- [Final Fantasy IV](https://en.wikipedia.org/wiki/Final_Fantasy_IV)
+- [Final Fantasy V](https://en.wikipedia.org/wiki/Final_Fantasy_V)
+- [Final Fantasy VI](https://en.wikipedia.org/wiki/Final_Fantasy_VI)
+- [F-Zero](https://en.wikipedia.org/wiki/F-Zero_(video_game))
+- [Harvest Moon](https://en.wikipedia.org/wiki/Harvest_Moon_(video_game))
+- [Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park_(SNES_video_game))
+- [Killer Instinct](https://en.wikipedia.org/wiki/Killer_Instinct_(1994_video_game))
+- [Mario Is Missing](https://en.wikipedia.org/wiki/List_of_Mario_educational_games#Mario_is_Missing.21)
+- [Mario Paint](https://en.wikipedia.org/wiki/Mario_Paint)
+- [Mega Man X](https://en.wikipedia.org/wiki/Mega_Man_X_(video_game))
+- [Mega Man X2](https://en.wikipedia.org/wiki/Mega_Man_X2)
+- [Mega Man X3](https://en.wikipedia.org/wiki/Mega_Man_X3)
+- [Mighty Morphin Power Rangers](https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers_(video_game)#Super_NES)
+- [Mortal Kombat](https://en.wikipedia.org/wiki/Mortal_Kombat_(1992_video_game))
+- [Mortal Kombat II](https://en.wikipedia.org/wiki/Home_versions_of_Mortal_Kombat_II)
+- [Mortal Kombat 3](https://en.wikipedia.org/wiki/Mortal_Kombat_3)
+- [NBA Hangtime](https://en.wikipedia.org/wiki/NBA_Hangtime)
+- [Primal Rage](https://en.wikipedia.org/wiki/Primal_Rage)
+- [Secret of Mana](https://en.wikipedia.org/wiki/Secret_of_Mana)
+- [Star Fox](https://en.wikipedia.org/wiki/Star_Fox_(video_game))
+- [Street Fighter II Turbo: Hyper Fighting](https://en.wikipedia.org/wiki/Street_Fighter_II′_Turbo:_Hyper_Fighting)
+- [Super Mario All-Stars](https://en.wikipedia.org/wiki/Super_Mario_All-Stars)
+- [Super Mario Kart](https://en.wikipedia.org/wiki/Super_Mario_Kart)
+- [Super Mario RPG](https://en.wikipedia.org/wiki/Super_Mario_RPG)
+- [Super Mario World](https://en.wikipedia.org/wiki/Super_Mario_World)
+- [Super Mario World 2: Yoshi's Island](https://en.wikipedia.org/wiki/Yoshi%27s_Island)
+- [Super Metroid](https://en.wikipedia.org/wiki/Super_Metroid)
+- [Super Scope 6](https://en.wikipedia.org/wiki/Super_Scope_6V)
+- [Super Star Wars](https://en.wikipedia.org/wiki/Super_Star_Wars)
+- [Super Star Wars: The Empire Strikes Back](https://en.wikipedia.org/wiki/Super_Star_Wars:_The_Empire_Strikes_Back)
+- [Super Star Wars: Return of the Jedi](https://en.wikipedia.org/wiki/Super_Star_Wars:_Return_of_the_Jedi)
+- [Teenage Mutant Ninja Turtles: Turtles In Time](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Turtles_in_Time)
+- [The Addams Family](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game))
+- [The Addams Family: Pugley's Scavenger Hunt](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game_series)#The_Addams_Family:_Pugsley.27s_Scavenger_Hunt)
+- [The Legend of Zelda: A Link To The Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)
+- [The Lion King](https://en.wikipedia.org/wiki/The_Lion_King_(video_game))
+- [Toy Story](https://en.wikipedia.org/wiki/Toy_Story_(video_game))
+- [WWF Raw](https://en.wikipedia.org/wiki/WWF_Raw_(video_game))
+- [Yoshi's Cookie](https://en.wikipedia.org/wiki/Yoshi%27s_Cookie)
+- [Zombies Ate My Neighbors](https://en.wikipedia.org/wiki/Zombies_Ate_My_Neighbors)
+
 ## [Wii U](https://en.wikipedia.org/wiki/Wii_U)
 
 - [Super Mario 3D World](https://en.wikipedia.org/wiki/Super_Mario_3D_World)
@@ -314,34 +366,19 @@ This is a running list of every game I have played throughout my life. There wil
 ## Unsorted List
 
 - [Chrono Cross](https://en.wikipedia.org/wiki/Chrono_Cross)
-- [Chrono Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger)
-- Final Fantasy IV
-- Final Fantasy V
-- Final Fantasy VI
 - Final Fantasy VII
 - Final Fantasy VIII
 - Final Fantasy IX
 - Final Fantasy X
 - Final Fantasy X-2
 - Final Fantasy XII
-- Flight Control
-- [Mega Man X](https://en.wikipedia.org/wiki/Mega_Man_X_(video_game))
-- [Mega Man X2](https://en.wikipedia.org/wiki/Mega_Man_X2)
-- [Mega Man X3](https://en.wikipedia.org/wiki/Mega_Man_X3)
 - Metal Gear Solid
 - Metal Gear Solid 2: Sons of Liberty
 - Metal Gear Solid 3: Snake Eater
 - [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man)
-- [SmashT V](https://en.wikipedia.org/wiki/Smash_TV)
+- [Smash TV](https://en.wikipedia.org/wiki/Smash_TV)
 - Super Mario 64
-- Super Mario World
-- Super Mario World 2: Yoshi's Island
-- Super Metroid
 - Super Smash Bros.
 - Super Smash Bros. Brawl
 - Super Smash Bros. Melee
-- [The Addams Family](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game))
-- [The Addams Family: Pugley's Scavenger Hunt](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game_series)#The_Addams_Family:_Pugsley.27s_Scavenger_Hunt)
-- The Legend of Zelda: A Link To The Past
 - The Legend of Zelda: Ocarina of Time
-- [Yoshi's Cookie](https://en.wikipedia.org/wiki/Yoshi%27s_Cookie)
