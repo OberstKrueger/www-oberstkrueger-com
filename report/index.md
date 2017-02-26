@@ -32,3 +32,4 @@ updated: 2017.02.13:1800
 - [Backups](/technology/backups)
 - [DuckDuckGo](/technology/duckduckgo)
 - [Logging Off Facebook](/technology/logging-off-facebook)
+- [Software Tools](/technology/software-tools)
