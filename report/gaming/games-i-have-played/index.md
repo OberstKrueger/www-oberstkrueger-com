@@ -105,6 +105,10 @@ This is a running list of every game I have played throughout my life. There wil
 - [Super Mario Bros. 3](https://en.wikipedia.org/wiki/Super_Mario_Bros._3)
 - [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game))
 
+## [Nintendo 3DS](https://en.wikipedia.org/wiki/Nintendo_3DS)
+
+- [Pokémon X](https://en.wikipedia.org/wiki/Pokémon_X_and_Y)
+
 ## [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64)
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
