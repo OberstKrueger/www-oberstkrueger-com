@@ -25,6 +25,12 @@ This is a running list of every game I have played throughout my life. There wil
 - [Tetris](https://en.wikipedia.org/wiki/Tetris_(Game_Boy))
 - [The Legend of Zelda: Link's Awakening](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening)
 
+## [GameCube](https://en.wikipedia.org/wiki/GameCube)
+
+- [Mario Party 4](https://en.wikipedia.org/wiki/Mario_Party_4)
+- [Super Smash Bros. Melee](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee)
+- [Tony Hawk's Pro Skater 3](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_3)
+
 ## [Mobile](https://en.wikipedia.org/wiki/Mobile_operating_system)
 
 - [A Dark Room](https://en.wikipedia.org/wiki/A_Dark_Room)
@@ -442,4 +448,3 @@ This is a running list of every game I have played throughout my life. There wil
 - [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man)
 - [Smash TV](https://en.wikipedia.org/wiki/Smash_TV)
 - Super Smash Bros. Brawl
-- Super Smash Bros. Melee
