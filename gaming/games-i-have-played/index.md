@@ -10,6 +10,21 @@ updated: 2016.11.23:0700
 
 This is a running list of every game I have played throughout my life. There will be plenty of omissions from the list starting out, as this is a ton of games to fill in, but as I come across games I have played, they will be added to the list.
 
+## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
+
+- [Cruis'n World](https://en.wikipedia.org/wiki/Cruis%27n_World)
+- [Daytona USA](https://en.wikipedia.org/wiki/Daytona_USA_(video_game))
+- [Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong_(video_game))
+- [High Speed](https://en.wikipedia.org/wiki/High_Speed_(pinball))
+- [Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park_(pinball))
+- [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man)
+- [Samurai Shodown](https://en.wikipedia.org/wiki/Samurai_Shodown_(video_game))
+- [Smash TV](https://en.wikipedia.org/wiki/Smash_TV)
+- [Star Wars](https://en.wikipedia.org/wiki/Star_Wars_(1983_video_game))
+- [Time Crisis II](https://en.wikipedia.org/wiki/Time_Crisis_II)
+- [Toobin'](https://en.wikipedia.org/wiki/Toobin')
+- [X-Men](https://en.wikipedia.org/wiki/X-Men_(1992_video_game))
+
 ## [Game Boy](https://en.wikipedia.org/wiki/Game_Boy)
 
 - [F-1 Race](https://en.wikipedia.org/wiki/F-1_Race)
@@ -450,8 +465,3 @@ This is a running list of every game I have played throughout my life. There wil
 - [Super Smash Bros. For Wii U](https://en.wikipedia.org/wiki/Super_Smash_Bros._for_Nintendo_3DS_and_Wii_U)
 - [The Legend of Zelda: The Wind Waker HD](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker_HD)
 - [Wii Fit U](https://en.wikipedia.org/wiki/Wii_Fit_U)
-
-## Unsorted List
-
-- [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man)
-- [Smash TV](https://en.wikipedia.org/wiki/Smash_TV)
