@@ -3,7 +3,7 @@ category: gaming
 created: 2016.11.23:0700
 title: The Krueger Report - Games I Have Played
 type: page
-updated: 2016.11.23:0700
+updated: 2017.02.26:1700
 ---
 
 # Games I Have Played
@@ -202,11 +202,11 @@ This is a running list of every game I have played throughout my life. There wil
 - [Baldur's Gate: Tales of the Sword Coast](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Tales_of_the_Sword_Coast)
 - [Baldur's Gate II: Shadows of Amn](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn)
 - [Baldur's Gate II: Throne of Bhaal](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal)
-- BioShock
-- BioShock Infinite
-- Borderlands
-- Borderlands 2
-- Braid
+- [BioShock](https://en.wikipedia.org/wiki/BioShock)
+- [BioShock Infinite](https://en.wikipedia.org/wiki/BioShock_Infinite)
+- [Borderlands](https://en.wikipedia.org/wiki/Borderlands_(video_game))
+- [Borderlands 2](https://en.wikipedia.org/wiki/Borderlands_2)
+- [Braid](https://en.wikipedia.org/wiki/Braid_(video_game))
 - [Bulletstorm](https://en.wikipedia.org/wiki/Bulletstorm)
 - [City of Heroes](https://en.wikipedia.org/wiki/City_of_Heroes)
 - Civilization IV
