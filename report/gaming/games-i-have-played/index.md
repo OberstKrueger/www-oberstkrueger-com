@@ -84,6 +84,30 @@ This is a running list of every game I have played throughout my life. There wil
 - [Super Mario Bros. 3](https://en.wikipedia.org/wiki/Super_Mario_Bros._3)
 - [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game))
 
+## [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64)
+
+- [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
+- [Banjo-Kazooie](https://en.wikipedia.org/wiki/Banjo-Kazooie)
+- [Blast Corps](https://en.wikipedia.org/wiki/Blast_Corps)
+- [ClayFighter 63⅓](https://en.wikipedia.org/wiki/ClayFighter_63%E2%85%93)
+- [Conker's Bad Fur Day](https://en.wikipedia.org/wiki/Conker%27s_Bad_Fur_Day)
+- [Cruis'n USA](https://en.wikipedia.org/wiki/Cruis%27n_USA)
+- [Diddy Kong Racing](https://en.wikipedia.org/wiki/Diddy_Kong_Racing)
+- [Doom 64](https://en.wikipedia.org/wiki/Doom_64)
+- [GoldenEye 007](https://en.wikipedia.org/wiki/GoldenEye_007_(1997_video_game))
+- [Killer Instinct Gold](https://en.wikipedia.org/wiki/Killer_Instinct_Gold)
+- [Major League Baseball Featuring Ken Griffy Jr.](https://en.wikipedia.org/wiki/Major_League_Baseball_Featuring_Ken_Griffey_Jr.)
+- [Mario Kart 64](https://en.wikipedia.org/wiki/Mario_Kart_64)
+- [Mario Party](https://en.wikipedia.org/wiki/Mario_Party_(video_game))
+- [Perfect Dark](https://en.wikipedia.org/wiki/Perfect_Dark)
+- [Star Fox 64](https://en.wikipedia.org/wiki/Star_Fox_64)
+- [Star Wars: Shadows of the Empire](https://en.wikipedia.org/wiki/Star_Wars:_Shadows_of_the_Empire_(video_game))
+- [Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64)
+- [Super Smash Bros.](https://en.wikipedia.org/wiki/Super_Smash_Bros._(video_game))
+- [The Legend of Zelda: Ocarina of Time](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time)
+- [Turok: Dinosaur Hunter](https://en.wikipedia.org/wiki/Turok:_Dinosaur_Hunter)
+- [Wayne Gretzky's 3D Hockey](https://en.wikipedia.org/wiki/Wayne_Gretzky%27s_3D_Hockey)
+
 ## [PlayStation](https://en.wikipedia.org/wiki/PlayStation)
 
 - [Brave Fencer Musashi](https://en.wikipedia.org/wiki/Brave_Fencer_Musashi)
@@ -300,6 +324,9 @@ This is a running list of every game I have played throughout my life. There wil
 - [Star Wars: Dark Forces](https://en.wikipedia.org/wiki/Star_Wars:_Dark_Forces)
 - [Star Wars: Rebel Assault](https://en.wikipedia.org/wiki/Star_Wars:_Rebel_Assault)
 - [Star Wars: Rebel Assault II: The Hidden Empire](https://en.wikipedia.org/wiki/Star_Wars:_Rebel_Assault_II:_The_Hidden_Empire)
+- [Star Wars: Rogue Squadron](https://en.wikipedia.org/wiki/Star_Wars:_Rogue_Squadron)
+- [Star Wars: Rogue Squadron II: Rogue Leader](https://en.wikipedia.org/wiki/Star_Wars_Rogue_Squadron_II:_Rogue_Leader)
+- [Star Wars Episode I: Racer](https://en.wikipedia.org/wiki/Star_Wars_Episode_I:_Racer)
 - Star Wars: The Old Republic
 - Super Meat Boy
 - Superbrothers: Swords and Sworcery EP
@@ -414,8 +441,5 @@ This is a running list of every game I have played throughout my life. There wil
 
 - [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man)
 - [Smash TV](https://en.wikipedia.org/wiki/Smash_TV)
-- Super Mario 64
-- Super Smash Bros.
 - Super Smash Bros. Brawl
 - Super Smash Bros. Melee
-- The Legend of Zelda: Ocarina of Time
