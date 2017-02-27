@@ -1,7 +1,7 @@
 ---
 category: introduction
 created: 2017.02.27:1700
-title: The Krueger Report - Appendix
+title: The Krueger Report - Updates
 type: page
 updated: 2017.02.27:1700
 ---
