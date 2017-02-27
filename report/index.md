@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2017.02.13:1800
+updated: 2017.02.17:1700
 ---
 
 ## Introduction
