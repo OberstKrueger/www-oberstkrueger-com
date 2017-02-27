@@ -101,6 +101,19 @@ This is a running list of every game I have played throughout my life. There wil
 - [Twisted Metal](https://en.wikipedia.org/wiki/Twisted_Metal_(1995_video_game))
 - [Xenogears](https://en.wikipedia.org/wiki/Xenogears)
 
+## [PlayStation 2](https://en.wikipedia.org/wiki/PlayStation_2)
+
+- [Baldur's Gate: Dark Alliance](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Dark_Alliance)
+- [Dance Dance Revolution SuperNova 2](https://en.wikipedia.org/wiki/Dance_Dance_Revolution_SuperNova)
+- [Dead or Alive 2](https://en.wikipedia.org/wiki/Dead_or_Alive_2)
+- [Final Fantasy X](https://en.wikipedia.org/wiki/Final_Fantasy_X)
+- [Final Fantasy X-2](https://en.wikipedia.org/wiki/Final_Fantasy_X-2)
+- [Final Fantasy XII](https://en.wikipedia.org/wiki/Final_Fantasy_XII)
+- [Kingdom Hearts](https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game))
+- [Metal Gear Solid 2: Sons of Liberty](https://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty)
+- [Metal Gear Solid 3: Snake Eater](https://en.wikipedia.org/wiki/Metal_Gear_Solid_3:_Snake_Eater)
+- [Twisted Metal: Black](https://en.wikipedia.org/wiki/Twisted_Metal:_Black)
+
 ## [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3)
 
 - [BlazBlue: Calamity Trigger](https://en.wikipedia.org/wiki/BlazBlue:_Calamity_Trigger)
@@ -191,6 +204,7 @@ This is a running list of every game I have played throughout my life. There wil
 - FTL: Advanced Edition
 - Game Dev Tycoon
 - Giana Sisters: Twisted Dreams
+- [Giants: Citizen Kabuto](https://en.wikipedia.org/wiki/Giants:_Citizen_Kabuto)
 - Gone Home
 - [Gorillas](https://en.wikipedia.org/wiki/Gorillas_(video_game))
 - [Grand Theft Auto 2](https://en.wikipedia.org/wiki/Grand_Theft_Auto_2)
@@ -229,6 +243,10 @@ This is a running list of every game I have played throughout my life. There wil
 - [Limbo](https://en.wikipedia.org/wiki/Limbo_(video_game))
 - [Magicka](https://en.wikipedia.org/wiki/Magicka)
 - Mass Effect
+- [Max Payne](https://en.wikipedia.org/wiki/Max_Payne_(video_game))
+- [Max Payne 2: The Fall of Max Payne](https://en.wikipedia.org/wiki/Max_Payne_2:_The_Fall_of_Max_Payne)
+- [MDK](https://en.wikipedia.org/wiki/MDK_(video_game))
+- [MDK 2](https://en.wikipedia.org/wiki/MDK2)
 - MechCommander
 - MechWarrior 2: 31st Century Combat
 - MechWarrior 2: Ghost Bear's Legacy
@@ -239,7 +257,7 @@ This is a running list of every game I have played throughout my life. There wil
 - [Mini Metro](https://en.wikipedia.org/wiki/Mini_Metro_(video_game))
 - Mirror's Edge
 - Myst
-- Myst III: Exile
+- [Myst III: Exile](https://en.wikipedia.org/wiki/Myst_III:_Exile)
 - Natural Selection
 - Natural Selection 2
 - Neverwinter Nights
@@ -258,6 +276,7 @@ This is a running list of every game I have played throughout my life. There wil
 - POSTAL 2
 - Prey
 - Riven
+- [Rune](https://en.wikipedia.org/wiki/Rune_(video_game))
 - Quake
 - Quake 2
 - Quake 3: Arena
@@ -273,6 +292,8 @@ This is a running list of every game I have played throughout my life. There wil
 - SimCity 3000
 - SimCity 4
 - Sins of a Solar Empire: Rebellion
+- [Soldier of Fortune](https://en.wikipedia.org/wiki/Soldier_of_Fortune_(video_game))
+- [Soldier of Fortune II: Double Helix](https://en.wikipedia.org/wiki/Soldier_of_Fortune_II:_Double_Helix)
 - StarCraft
 - StarCraft: Brood War
 - StarCraft II: Wings of Liberty
@@ -391,11 +412,6 @@ This is a running list of every game I have played throughout my life. There wil
 
 ## Unsorted List
 
-- Final Fantasy X
-- Final Fantasy X-2
-- Final Fantasy XII
-- Metal Gear Solid 2: Sons of Liberty
-- Metal Gear Solid 3: Snake Eater
 - [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man)
 - [Smash TV](https://en.wikipedia.org/wiki/Smash_TV)
 - Super Mario 64
