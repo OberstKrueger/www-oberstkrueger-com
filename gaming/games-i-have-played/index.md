@@ -174,6 +174,7 @@ This is a running list of every game I have played throughout my life. There wil
 - [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires_(video_game))
 - [Age of Empires II](https://en.wikipedia.org/wiki/Age_of_Empires_II)
 - [Age of Empires III](https://en.wikipedia.org/wiki/Age_of_Empires_III)
+- [American McGee's Alice](https://en.wikipedia.org/wiki/American_McGee%27s_Alice)
 - [Anarchy Online](https://en.wikipedia.org/wiki/Anarchy_Online)
 - [Asheron's Call](https://en.wikipedia.org/wiki/Asheron%27s_Call)
 - [Asheron's Call 2: Fallen Kings](https://en.wikipedia.org/wiki/Asheron%27s_Call_2:_Fallen_Kings)
@@ -436,6 +437,13 @@ This is a running list of every game I have played throughout my life. There wil
 - [Yoshi's Cookie](https://en.wikipedia.org/wiki/Yoshi%27s_Cookie)
 - [Zombies Ate My Neighbors](https://en.wikipedia.org/wiki/Zombies_Ate_My_Neighbors)
 
+## [Wii](https://en.wikipedia.org/wiki/Wii)
+
+- [Super Smash Bros. Brawl](https://en.wikipedia.org/wiki/Super_Smash_Bros._Brawl)
+- [The Legend of Zelda: Twilight Princess](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Twilight_Princess)
+- [Wii Sports](https://en.wikipedia.org/wiki/Wii_Sports)
+- [Wii Sports Resort](https://en.wikipedia.org/wiki/Wii_Sports_Resort)
+
 ## [Wii U](https://en.wikipedia.org/wiki/Wii_U)
 
 - [Super Mario 3D World](https://en.wikipedia.org/wiki/Super_Mario_3D_World)
@@ -447,4 +455,3 @@ This is a running list of every game I have played throughout my life. There wil
 
 - [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man)
 - [Smash TV](https://en.wikipedia.org/wiki/Smash_TV)
-- Super Smash Bros. Brawl
