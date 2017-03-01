@@ -209,27 +209,29 @@ This is a running list of every game I have played throughout my life. There wil
 - [Braid](https://en.wikipedia.org/wiki/Braid_(video_game))
 - [Bulletstorm](https://en.wikipedia.org/wiki/Bulletstorm)
 - [City of Heroes](https://en.wikipedia.org/wiki/City_of_Heroes)
-- Civilization IV
-- Civilization V
-- Command and Conquer: Red Alert 3
-- Command and Conquer 3: Tiberium Wars
-- Counter-Strike
-- Counter-Strike: Global Offensive
-- Counter-Strike: Source
-- Dark Age of Camelot
-- Day of Defeat
-- Day of Defeat: Source
-- Dear Esther
-- DEFCON
-- Deus Ex
-- Deus Ex: Human Revolution
-- Deus Ex: Mankind Divided
-- Diablo
-- Diablo 2
-- Diablo 2: Lord of Destruction
-- Diablo 3
-- Diablo 3: Reaper of Souls
-- Don't Starve
+- [Civilization: Beyond Earth](https://en.wikipedia.org/wiki/Civilization:_Beyond_Earth)
+- [Civilization IV](https://en.wikipedia.org/wiki/Civilization_IV)
+- [Civilization V](https://en.wikipedia.org/wiki/Civilization_V)
+- [Command & Conquer: Red Alert 3](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert_3)
+- [Command & Conquer 3: Tiberium Wars](https://en.wikipedia.org/wiki/Command_%26_Conquer_3:_Tiberium_Wars)
+- [Counter-Strike](https://en.wikipedia.org/wiki/Counter-Strike_(video_game))
+- [Counter-Strike: Condition Zero](https://en.wikipedia.org/wiki/Counter-Strike:_Condition_Zero)
+- [Counter-Strike: Global Offensive](https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive)
+- [Counter-Strike: Source](https://en.wikipedia.org/wiki/Counter-Strike:_Source)
+- [Dark Age of Camelot](https://en.wikipedia.org/wiki/Dark_Age_of_Camelot)
+- [Day of Defeat](https://en.wikipedia.org/wiki/Day_of_Defeat)
+- [Day of Defeat: Source](https://en.wikipedia.org/wiki/Day_of_Defeat:_Source)
+- [Dear Esther](https://en.wikipedia.org/wiki/Dear_Esther)
+- [DEFCON](https://en.wikipedia.org/wiki/DEFCON_(video_game))
+- [Deus Ex](https://en.wikipedia.org/wiki/Deus_Ex_(video_game))
+- [Deus Ex: Human Revolution](https://en.wikipedia.org/wiki/Deus_Ex:_Human_Revolution)
+- [Deus Ex: Mankind Divided](https://en.wikipedia.org/wiki/Deus_Ex:_Mankind_Divided)
+- [Diablo](https://en.wikipedia.org/wiki/Diablo_(video_game))
+- [Diablo II](https://en.wikipedia.org/wiki/Diablo_II)
+- [Diablo II: Lord of Destruction](https://en.wikipedia.org/wiki/Diablo_II:_Lord_of_Destruction)
+- [Diablo III](https://en.wikipedia.org/wiki/Diablo_III)
+- [Diablo III: Reaper of Souls](https://en.wikipedia.org/wiki/Diablo_III:_Reaper_of_Souls)
+- [Don't Starve](https://en.wikipedia.org/wiki/Don%27t_Starve)
 - Doom
 - Doom II: Hell on Earth
 - Doom 3
@@ -314,6 +316,7 @@ This is a running list of every game I have played throughout my life. There wil
 - No Man's Sky
 - [Osmos](https://en.wikipedia.org/wiki/Osmos)
 - [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game))
+- [Outlaws](https://en.wikipedia.org/wiki/Outlaws_(1997_video_game))
 - [Papers, Please](https://en.wikipedia.org/wiki/Papers,_Please)
 - [Pillars of Eternity](https://en.wikipedia.org/wiki/Pillars_of_Eternity)
 - Plague, Inc: Evolved
@@ -391,9 +394,10 @@ This is a running list of every game I have played throughout my life. There wil
 - WarCraft II: Tides of Darkness
 - WarCraft III: Reign of Chaos
 - WarCraft III: The Frozen Throne
+- [Warhammer Online: Age of Reckoning](https://en.wikipedia.org/wiki/Warhammer_Online:_Age_of_Reckoning)
 - [Wing Commander IV: The Price of Freedom](https://en.wikipedia.org/wiki/Wing_Commander_IV:_The_Price_of_Freedom)
-- World of Goo
-- World of Warcraft
+- [World of Goo](https://en.wikipedia.org/wiki/World_of_Goo)
+- [World of Warcraft](https://en.wikipedia.org/wiki/World_of_Warcraft)
 
 ## [Sega Genesis](https://en.wikipedia.org/wiki/Sega_Genesis)
 
