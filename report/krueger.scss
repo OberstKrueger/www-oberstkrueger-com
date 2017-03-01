@@ -277,6 +277,10 @@ video {
 */
 .index {
 	main {
+		h2 {
+			margin-bottom: 0;
+			text-decoration: underline;
+		}
 		li {
 			text-align: center;
 			@media (min-width: $fontJustify) {
