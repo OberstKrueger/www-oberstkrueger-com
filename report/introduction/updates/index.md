@@ -3,7 +3,7 @@ category: introduction
 created: 2017.02.27:1700
 title: The Krueger Report - Updates
 type: page
-updated: 2017.02.27:1700
+updated: 2017.03.01:0600
 ---
 
 # Updates
@@ -26,8 +26,8 @@ Anyone who knows me knows that I am incredibly picky about what software I use. 
 
 There has always been a set of criteria that I follow, but I wanted to write down exactly what they were, instead of just leaving it a bit nebulous in my head. The last few months, I made notes about my thinking as I evaluated new applications. When reviewing these notes, I found that they were all related to five specific criteria.
 
-In [Software Tools](/technology/software-tools), I wrote up what these five criteria are. In the future, this will also be where I delve into specific examples of applications that I currently use, and how they make use of all of the rules set forth.
+In [Software Tools](https://krueger.report/technology/software-tools), I wrote up what these five criteria are. In the future, this will also be where I delve into specific examples of applications that I currently use, and how they make use of all of the rules set forth.
 
 ### Updates
 
-[Games I Have Played](/gaming/games-i-have-played/) saw the biggest change this month. I began to add console systems and mobile games to the list, as well as breaking out the list into different sections based on the platform the game was played on. This page is time consuming, as I have played a lot of games in my life, but it is one of my favorite to go back and research, just to remember again the many games I have played but since forgotten. There is a lot of work to do yet on this list, but it is shaping up to being closer to where I want it to be.
+[Games I Have Played](https://krueger.report/gaming/games-i-have-played/) saw the biggest change this month. I began to add console systems and mobile games to the list, as well as breaking out the list into different sections based on the platform the game was played on. This page is time consuming, as I have played a lot of games in my life, but it is one of my favorite to go back and research, just to remember again the many games I have played but since forgotten. There is a lot of work to do yet on this list, but it is shaping up to being closer to where I want it to be.
