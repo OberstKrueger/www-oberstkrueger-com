@@ -72,6 +72,7 @@ This is a running list of every game I have played throughout my life. There wil
 - [Planet Quest](http://planetquest.co.uk)
 - [Plants vs. Zombies](https://en.wikipedia.org/wiki/Plants_vs._Zombies)
 - [Plants vz. Zombies 2: It's About Time](https://en.wikipedia.org/wiki/Plants_vs._Zombies_2:_It%27s_About_Time)
+- [Plague Inc](https://en.wikipedia.org/wiki/Plague_Inc.)
 - [Pokemon Go](https://en.wikipedia.org/wiki/Pokémon_Go)
 - [Reigns](https://en.wikipedia.org/wiki/Reigns_(video_game))
 - [Scribblenauts Remix](https://en.wikipedia.org/wiki/Scribblenauts_Remix)
@@ -232,32 +233,34 @@ This is a running list of every game I have played throughout my life. There wil
 - [Diablo III](https://en.wikipedia.org/wiki/Diablo_III)
 - [Diablo III: Reaper of Souls](https://en.wikipedia.org/wiki/Diablo_III:_Reaper_of_Souls)
 - [Don't Starve](https://en.wikipedia.org/wiki/Don%27t_Starve)
-- Doom
-- Doom II: Hell on Earth
-- Doom 3
-- Doom (2016)
-- Dota 2
-- Dragon Age: Inquisition
-- Dragon Age: Origins
-- Duke Nukem 3D
-- Duke Nukem Forever
-- Dungeons of Dredmore
-- Elite Dangerous
-- Eufloria
-- EVE Online
-- EverQuest
-- EverQuest II
+- [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
+- [Doom II: Hell on Earth](https://en.wikipedia.org/wiki/Doom_II:_Hell_on_Earth)
+- [Doom 64](https://en.wikipedia.org/wiki/Doom_64)
+- [Doom 3](https://en.wikipedia.org/wiki/Doom_3)
+- [Doom (2016)](https://en.wikipedia.org/wiki/Doom_(2016_video_game))
+- [Dota 2](https://en.wikipedia.org/wiki/Dota_2)
+- [Dragon Age: Origins](https://en.wikipedia.org/wiki/Dragon_Age:_Origins)
+- [Dragon Age: Inquisition](https://en.wikipedia.org/wiki/Dragon_Age:_Inquisition)
+- [Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D)
+- [Duke Nukem Forever](https://en.wikipedia.org/wiki/Duke_Nukem_Forever)
+- [Dungeons of Dredmor](https://en.wikipedia.org/wiki/Dungeons_of_Dredmor)
+- [Elite: Dangerous](https://en.wikipedia.org/wiki/Elite:_Dangerous)
+- [Eufloria](https://en.wikipedia.org/wiki/Eufloria)
+- [EVE Online](https://en.wikipedia.org/wiki/Eve_Online)
+- [EverQuest](https://en.wikipedia.org/wiki/EverQuest)
+- [EverQuest II](https://en.wikipedia.org/wiki/EverQuest_II)
 - [Evoland](https://en.wikipedia.org/wiki/Evoland)
 - [Fallout](https://en.wikipedia.org/wiki/Fallout_(video_game))
 - [Far Cry](https://en.wikipedia.org/wiki/Far_Cry_(video_game))
+- [Final Doom](https://en.wikipedia.org/wiki/Final_Doom)
 - [Final Fantasy X HD Remaster](https://en.wikipedia.org/wiki/Final_Fantasy_X/X-2_HD_Remaster)
-- Final Fantasy XI
-- Final Fantasy XIV: A Realm Reborn
-- FTL: Advanced Edition
-- Game Dev Tycoon
-- Giana Sisters: Twisted Dreams
+- [Final Fantasy XI](https://en.wikipedia.org/wiki/Final_Fantasy_XI)
+- [Final Fantasy XIV: A Realm Reborn](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_A_Realm_Reborn)
+- [FTL: Faster Than Light](https://en.wikipedia.org/wiki/FTL:_Faster_Than_Light)
+- [Game Dev Tycoon](https://en.wikipedia.org/wiki/Game_Dev_Tycoon)
+- [Giana Sisters: Twisted Dreams](https://en.wikipedia.org/wiki/Giana_Sisters:_Twisted_Dreams)
 - [Giants: Citizen Kabuto](https://en.wikipedia.org/wiki/Giants:_Citizen_Kabuto)
-- Gone Home
+- [Gone Home](https://en.wikipedia.org/wiki/Gone_Home)
 - [Gorillas](https://en.wikipedia.org/wiki/Gorillas_(video_game))
 - [Grand Theft Auto 2](https://en.wikipedia.org/wiki/Grand_Theft_Auto_2)
 - [Grand Theft Auto 3](https://en.wikipedia.org/wiki/Grand_Theft_Auto_III)
@@ -268,132 +271,144 @@ This is a running list of every game I have played throughout my life. There wil
 - [Guild Wars Prophecies](https://en.wikipedia.org/wiki/Guild_Wars_(video_game))
 - [Guild Wars: Eye of the North](https://en.wikipedia.org/wiki/Guild_Wars:_Eye_of_the_North)
 - [Guild Wars 2](https://en.wikipedia.org/wiki/Guild_Wars_2)
-- Hackmud
-- Half-Life
-- Half-Life: Blue Shift
-- Half-Life: Opposing Force
-- Half-Life 2
-- Half-Life 2: Episode 1
-- Half-Life 2: Episode 2
-- Hearthstone
-- Hellgate London
+- [Hackmud](https://en.wikipedia.org/wiki/Hackmud)
+- [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game))
+- [Half-Life: Blue Shift](https://en.wikipedia.org/wiki/Half-Life:_Blue_Shift)
+- [Half-Life: Opposing Force](https://en.wikipedia.org/wiki/Half-Life:_Opposing_Force)
+- [Half-Life 2](https://en.wikipedia.org/wiki/Half-Life_2)
+- [Half-Life 2: Episode One](https://en.wikipedia.org/wiki/Half-Life_2:_Episode_One)
+- [Half-Life 2: Episode Two](https://en.wikipedia.org/wiki/Half-Life_2:_Episode_Two)
+- [Hearthstone](https://en.wikipedia.org/wiki/Hearthstone_(video_game))
+- [Hellgate: London](https://en.wikipedia.org/wiki/Hellgate:_London)
 - [Heroes of Might and Magic III](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III)
+- [Heroes of Newerth](https://en.wikipedia.org/wiki/Heroes_of_Newerth)
 - [Heroes of the Storm](https://en.wikipedia.org/wiki/Heroes_of_the_Storm)
 - [Human Resource Machine](https://en.wikipedia.org/wiki/Human_Resource_Machine)
-- I Have No Mouth and I Must Scream
-- Icewind Dale
-- Icewind Dale: Heart of Winter
-- Icewind Dale II
+- [I Have No Mouth and I Must Scream](https://en.wikipedia.org/wiki/I_Have_No_Mouth,_and_I_Must_Scream_(video_game))
+- [Icewind Dale](https://en.wikipedia.org/wiki/Icewind_Dale)
+- [Icewind Dale: Heart of Winter](https://en.wikipedia.org/wiki/Icewind_Dale:_Heart_of_Winter)
+- [Icewind Dale II](https://en.wikipedia.org/wiki/Icewind_Dale_II)
 - [King's Quest V: Absence Makes the Heart Go Yonder!](https://en.wikipedia.org/wiki/King%27s_Quest_V)
 - [King's Quest VI: Heir Today, Gone Tomorrow](https://en.wikipedia.org/wiki/King%27s_Quest_VI)
 - [King's Quest VII: The Princeless Bride](https://en.wikipedia.org/wiki/King%27s_Quest_VII)
-- Landmark
-- League of Legends
-- Left 4 Dead
-- Left 4 Dead 2
+- [Landmark](https://en.wikipedia.org/wiki/Landmark_(video_game))
+- [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends)
+- [Left 4 Dead](https://en.wikipedia.org/wiki/Left_4_Dead)
+- [Left 4 Dead 2](https://en.wikipedia.org/wiki/Left_4_Dead_2)
 - [Little Inferno](https://en.wikipedia.org/wiki/Little_Inferno)
 - [Limbo](https://en.wikipedia.org/wiki/Limbo_(video_game))
 - [Magicka](https://en.wikipedia.org/wiki/Magicka)
-- Mass Effect
+- [Mass Effect](https://en.wikipedia.org/wiki/Mass_Effect_(video_game))
 - [Max Payne](https://en.wikipedia.org/wiki/Max_Payne_(video_game))
 - [Max Payne 2: The Fall of Max Payne](https://en.wikipedia.org/wiki/Max_Payne_2:_The_Fall_of_Max_Payne)
 - [MDK](https://en.wikipedia.org/wiki/MDK_(video_game))
 - [MDK 2](https://en.wikipedia.org/wiki/MDK2)
-- MechCommander
-- MechWarrior 2: 31st Century Combat
-- MechWarrior 2: Ghost Bear's Legacy
-- MechWarrior 2: Mercenaries
-- MechWarrior Online
+- [MechCommander](https://en.wikipedia.org/wiki/MechCommander)
+- [MechWarrior 2: 31st Century Combat](https://en.wikipedia.org/wiki/MechWarrior_2:_31st_Century_Combat)
+- [MechWarrior 2: Ghost Bear's Legacy](https://en.wikipedia.org/wiki/MechWarrior_2:_31st_Century_Combat#MechWarrior_2:_Ghost_Bear.27s_Legacy)
+- [MechWarrior 2: Mercenaries](https://en.wikipedia.org/wiki/MechWarrior_2:_Mercenaries)
+- [MechWarrior 3](https://en.wikipedia.org/wiki/MechWarrior_3)
+- [MechWarrior Online](https://en.wikipedia.org/wiki/MechWarrior_Online)
 - [Meridian 59](https://en.wikipedia.org/wiki/Meridian_59)
 - [Minecraft](https://en.wikipedia.org/wiki/Minecraft)
 - [Mini Metro](https://en.wikipedia.org/wiki/Mini_Metro_(video_game))
-- Mirror's Edge
-- Myst
+- [Mirror's Edge](https://en.wikipedia.org/wiki/Mirror%27s_Edge)
+- [Myst](https://en.wikipedia.org/wiki/Myst)
 - [Myst III: Exile](https://en.wikipedia.org/wiki/Myst_III:_Exile)
-- Natural Selection
-- Natural Selection 2
-- Neverwinter Nights
-- No Man's Sky
+- [Natural Selection](https://en.wikipedia.org/wiki/Natural_Selection_(video_game))
+- [Natural Selection 2](https://en.wikipedia.org/wiki/Natural_Selection_2)
+- [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights)
+- [No Man's Sky](https://en.wikipedia.org/wiki/No_Man%27s_Sky)
 - [Osmos](https://en.wikipedia.org/wiki/Osmos)
 - [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game))
 - [Outlaws](https://en.wikipedia.org/wiki/Outlaws_(1997_video_game))
 - [Papers, Please](https://en.wikipedia.org/wiki/Papers,_Please)
 - [Pillars of Eternity](https://en.wikipedia.org/wiki/Pillars_of_Eternity)
-- Plague, Inc: Evolved
-- PlanetSide
-- PlanetSide 2
-- Poker Night at the Inventory
-- Poker Night at the Inventory 2
-- Portal
-- Portal 2
-- POSTAL 2
-- Prey
-- Riven
+- [Plague, Inc: Evolved](https://en.wikipedia.org/wiki/Plague_Inc:_Evolved)
+- [PlanetSide](https://en.wikipedia.org/wiki/PlanetSide)
+- [PlanetSide 2](https://en.wikipedia.org/wiki/PlanetSide_2)
+- [Poker Night at the Inventory](https://en.wikipedia.org/wiki/Poker_Night_at_the_Inventory)
+- [Poker Night 2](https://en.wikipedia.org/wiki/Poker_Night_2)
+- [Portal](https://en.wikipedia.org/wiki/Portal_(video_game))
+- [Portal 2](https://en.wikipedia.org/wiki/Portal_2)
+- [POSTAL²](https://en.wikipedia.org/wiki/Postal_2)
+- [Prey](https://en.wikipedia.org/wiki/Prey_(2006_video_game))
+- [Riven](https://en.wikipedia.org/wiki/Riven)
 - [Rune](https://en.wikipedia.org/wiki/Rune_(video_game))
-- Quake
-- Quake 2
-- Quake 3: Arena
-- Quake 4
-- Sacrifice
-- Sanctum
-- Serious Sam: The First Encounter
-- Serious Sam: The Second Encounter
+- [Quake](https://en.wikipedia.org/wiki/Quake_(video_game))
+- [Quake Mission Pack No. 1: Scourge of Armagon](https://en.wikipedia.org/wiki/Quake_(video_game)#Quake_Mission_Pack_No._1:_Scourge_of_Armagon)
+- [Quake Mission Pack No. 2: Dissolution of Eternity](https://en.wikipedia.org/wiki/Quake_(video_game)#Quake_Mission_Pack_No._2:_Dissolution_of_Eternity)
+- [Quake II](https://en.wikipedia.org/wiki/Quake_II)
+- [Quake II: The Reckoning](https://en.wikipedia.org/wiki/Quake_II#Quake_II_Mission_Pack:_The_Reckoning)
+- [Quake II: Ground Zero](https://en.wikipedia.org/wiki/Quake_II:_Ground_Zero)
+- [Quake III Arena](https://en.wikipedia.org/wiki/Quake_III_Arena)
+- [Quake III: Team Arena](https://en.wikipedia.org/wiki/Quake_III_Arena#Expansion)
+- [Quake 4](https://en.wikipedia.org/wiki/Quake_4)
+- [Sacrifice](https://en.wikipedia.org/wiki/Sacrifice_(video_game))
+- [Sanctum](https://en.wikipedia.org/wiki/Sanctum_(2011_video_game))
+- [Serious Sam: The First Encounter](https://en.wikipedia.org/wiki/Serious_Sam_(video_game)#Serious_Sam:_The_First_Encounter)
+- [Serious Sam: The Second Encounter](https://en.wikipedia.org/wiki/Serious_Sam_(video_game)#Serious_Sam:_The_Second_Encounter)
 - [Shadowrun Returns](https://en.wikipedia.org/wiki/Shadowrun_Returns)
 - [Shenzhen I/O](https://en.wikipedia.org/wiki/Shenzhen_I/O)
 - [SimCity](https://en.wikipedia.org/wiki/SimCity_(1989_video_game))
-- SimCity 2000
-- SimCity 3000
-- SimCity 4
-- Sins of a Solar Empire: Rebellion
+- [SimCity 2000](https://en.wikipedia.org/wiki/SimCity_2000)
+- [SimCity 3000](https://en.wikipedia.org/wiki/SimCity_3000)
+- [SimCity 4](https://en.wikipedia.org/wiki/SimCity_4)
+- [Sins of a Solar Empire: Rebellion](https://en.wikipedia.org/wiki/Sins_of_a_Solar_Empire#Rebellion)
 - [Soldier of Fortune](https://en.wikipedia.org/wiki/Soldier_of_Fortune_(video_game))
 - [Soldier of Fortune II: Double Helix](https://en.wikipedia.org/wiki/Soldier_of_Fortune_II:_Double_Helix)
-- StarCraft
-- StarCraft: Brood War
-- StarCraft II: Wings of Liberty
+- [StarCraft](https://en.wikipedia.org/wiki/StarCraft_(video_game))
+- [StarCraft: Brood War](https://en.wikipedia.org/wiki/StarCraft:_Brood_War)
+- [StarCraft II: Wings of Liberty](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty)
+- [Starsiege: Tribes](https://en.wikipedia.org/wiki/Starsiege:_Tribes)
 - [Star Wars: Dark Forces](https://en.wikipedia.org/wiki/Star_Wars:_Dark_Forces)
 - [Star Wars: Rebel Assault](https://en.wikipedia.org/wiki/Star_Wars:_Rebel_Assault)
 - [Star Wars: Rebel Assault II: The Hidden Empire](https://en.wikipedia.org/wiki/Star_Wars:_Rebel_Assault_II:_The_Hidden_Empire)
 - [Star Wars: Rogue Squadron](https://en.wikipedia.org/wiki/Star_Wars:_Rogue_Squadron)
 - [Star Wars: Rogue Squadron II: Rogue Leader](https://en.wikipedia.org/wiki/Star_Wars_Rogue_Squadron_II:_Rogue_Leader)
+- [Star Wars: The Old Republic](https://en.wikipedia.org/wiki/Star_Wars:_The_Old_Republic)
 - [Star Wars Episode I: Racer](https://en.wikipedia.org/wiki/Star_Wars_Episode_I:_Racer)
-- Star Wars: The Old Republic
-- Super Meat Boy
-- Superbrothers: Swords and Sworcery EP
-- Team Fortress 2
-- Terraria
-- The 7th Guest
-- The 11th Hour
-- The Binding of Isaac
-- The Elder Scrolls III: Morrowind
-- The Elder Scrolls IV: Oblivion
-- The Elder Scrolls V: Skyrim
-- The Elder Scrolls Online
-- The Sims
-- The Sims 3
-- The Sims Online
+- [Star Wars Galaxies](https://en.wikipedia.org/wiki/Star_Wars_Galaxies)
+- [Super Meat Boy](https://en.wikipedia.org/wiki/Super_Meat_Boy)
+- [Superbrothers: Swords and Sworcery EP](https://en.wikipedia.org/wiki/Superbrothers:_Sword_%26_Sworcery_EP)
+- [Team Fortress Classic](https://en.wikipedia.org/wiki/Team_Fortress_Classic)
+- [Team Fortress 2](https://en.wikipedia.org/wiki/Team_Fortress_2)
+- [Terraria](https://en.wikipedia.org/wiki/Terraria)
+- [The 7th Guest](https://en.wikipedia.org/wiki/The_7th_Guest)
+- [The 11th Hour](https://en.wikipedia.org/wiki/The_11th_Hour_(video_game))
+- [The Binding of Isaac](https://en.wikipedia.org/wiki/The_Binding_of_Isaac_(video_game))
+- [The Elder Scrolls III: Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind)
+- [The Elder Scrolls IV: Oblivion](https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion)
+- [The Elder Scrolls V: Skyrim](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim)
+- [The Elder Scrolls Online](https://en.wikipedia.org/wiki/The_Elder_Scrolls_Online)
+- [The Sims](https://en.wikipedia.org/wiki/The_Sims_(video_game))
+- [The Sims 3](https://en.wikipedia.org/wiki/The_Sims_3)
+- [The Sims Online](https://en.wikipedia.org/wiki/The_Sims_Online)
 - [The Stanley Parable](https://en.wikipedia.org/wiki/The_Stanley_Parable)
-- The Witcher
-- The Witness
-- Thomas Was Alone
-- TIS-100
+- [The Witcher](https://en.wikipedia.org/wiki/The_Witcher_(video_game))
+- [The Witness](https://en.wikipedia.org/wiki/The_Witness_(2016_video_game))
+- [Thomas Was Alone](https://en.wikipedia.org/wiki/Thomas_Was_Alone)
+- [TIS-100](https://en.wikipedia.org/wiki/TIS-100)
 - [Tomb Raider](https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game))
-- Tomb Raider (2013)
-- Transistor
-- Tribes
-- Tribes 2
-- Unreal
-- Unreal II: The Awaken
-- Unreal Tournament
-- Unreal Tournament 2003
-- Unreal Tournament 2004
-- Unreal Tournament 3
-- Ultima 9
-- Ultima Online
-- Undertale
-- Vanguard: Saga of Heroes
-- WarCraft II: Tides of Darkness
-- WarCraft III: Reign of Chaos
-- WarCraft III: The Frozen Throne
+- [Tomb Raider (2013)](https://en.wikipedia.org/wiki/Tomb_Raider_(2013_video_game))
+- [Transistor](https://en.wikipedia.org/wiki/Transistor_(video_game))
+- [Tribes 2](https://en.wikipedia.org/wiki/Tribes_2)
+- [Unreal](https://en.wikipedia.org/wiki/Unreal_(1998_video_game))
+- [Unreal: Return to Na Pali](https://en.wikipedia.org/wiki/Unreal_(1998_video_game)#Expansion_plot)
+- [Unreal II: The Awakening](https://en.wikipedia.org/wiki/Unreal_II:_The_Awakening)
+- [Unreal Tournament](https://en.wikipedia.org/wiki/Unreal_Tournament)
+- [Unreal Tournament 2003](https://en.wikipedia.org/wiki/Unreal_Tournament_2003)
+- [Unreal Tournament 2004](https://en.wikipedia.org/wiki/Unreal_Tournament_2004)
+- [Unreal Tournament 3](https://en.wikipedia.org/wiki/Unreal_Tournament_3)
+- [Unreal Tournament (upcoming)](https://en.wikipedia.org/wiki/Unreal_Tournament_(upcoming_video_game))
+- [Ultima IX: Ascension](https://en.wikipedia.org/wiki/Ultima_IX:_Ascension)
+- [Ultima Online](https://en.wikipedia.org/wiki/Ultima_Online)
+- [Undertale](https://en.wikipedia.org/wiki/Undertale)
+- [Vanguard: Saga of Heroes](https://en.wikipedia.org/wiki/Vanguard:_Saga_of_Heroes)
+- [WarCraft II: Tides of Darkness](https://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness)
+- [WarCraft II: Beyond the Dark Portal](https://en.wikipedia.org/wiki/Warcraft_II:_Beyond_the_Dark_Portal)
+- [WarCraft III: Reign of Chaos](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos)
+- [WarCraft III: The Frozen Throne](https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne)
 - [Warhammer Online: Age of Reckoning](https://en.wikipedia.org/wiki/Warhammer_Online:_Age_of_Reckoning)
 - [Wing Commander IV: The Price of Freedom](https://en.wikipedia.org/wiki/Wing_Commander_IV:_The_Price_of_Freedom)
 - [World of Goo](https://en.wikipedia.org/wiki/World_of_Goo)
