@@ -8,9 +8,7 @@ updated: 2017.02.08:0700
 
 # Asheron's Call
 
-Back in the 1990s, [MMORPGs](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game) were a new category of gaming. [Multi-User Dungeons](https://en.wikipedia.org/wiki/MUD), or MUDs, were the first, but they were entirely text-based. A few early graphical MMORPGs, such as [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights_(1991_video_game)) and [Meridian 59](https://en.wikipedia.org/wiki/Meridian_59) were successful but still niche.
-
-There were three MMORPGs that gained critical mass and brought attention to the genre: [Asheron's Call](https://en.wikipedia.org/wiki/Asheron%27s_Call), [EverQuest](https://en.wikipedia.org/wiki/EverQuest), and [Ultima Online](https://en.wikipedia.org/wiki/Ultima_Online). Together, these were commonly referred to as the "Big Three".
+In the 1990s, [MMORPGs](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game) were a new category of gaming. A few early MMORPGs, such as [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights_(1991_video_game)) and [Meridian 59](https://en.wikipedia.org/wiki/Meridian_59) were successful but still niche. With the release of [Asheron's Call](https://en.wikipedia.org/wiki/Asheron%27s_Call), [EverQuest](https://en.wikipedia.org/wiki/EverQuest), and [Ultima Online](https://en.wikipedia.org/wiki/Ultima_Online), the genre entered the mainstream. Together, these three games were commonly referred to as the "Big Three", and helped introduce the genre to the world.
 
 Unlike today's MMORPGs, the Big Three were all unique games that focused on different aspects of what an MMO can be. Asheron's Call was focused on PvE storylines, solo questing, and social allegiances. EverQuest was focused on PvE grouping and raiding, and emulated many aspects of text-based MUDs. Ultima Online was more of a sandbox game than the other two, with a focus on PvP interactions.
 
