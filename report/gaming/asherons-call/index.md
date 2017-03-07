@@ -48,7 +48,7 @@ What made it even more technologically incredible was that the world was seamles
 
 Portals were spread throughout the world that would take you to other parts of Dereth or to dungeons. A loading animation would play as you entered the portal, but unlike a traditional loading screen, the game would still let you interact with the rest of the user interface.
 
-This approach to the structure of the world is something not even modern games try. [Final Fantasy XIV](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_A_Realm_Reborn), a game released 11 years after Asheron's Call, still uses zones in a manner similar to EverQuest. Other games, like World of Warcraft, use a hybrid approach wherein the world is seamless but still separated out into distinct zones. This method is an improvement over the normal zone model, but still does not meet the standards set by Asheron's Call.
+This approach to the structure of the world is something not even modern games try. [Final Fantasy XIV: A Realm Reborn](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_A_Realm_Reborn), a game released 11 years after Asheron's Call, still uses zones in a manner similar to EverQuest. Other games, like World of Warcraft, use a hybrid approach wherein the world is seamless but still separated out into distinct zones. This method is an improvement over the normal zone model, but still does not meet the standards set by Asheron's Call.
 
 ## Monthly Story Updates
 
