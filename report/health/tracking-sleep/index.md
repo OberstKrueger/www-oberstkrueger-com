@@ -3,7 +3,7 @@ category: health
 created: 2016.03.27:1230
 title: The Krueger Report - Tracking Sleep
 type: page
-updated: 2016.03.27:1230
+updated: 2017.03.07:0800
 ---
 
 # Tracking Sleep
