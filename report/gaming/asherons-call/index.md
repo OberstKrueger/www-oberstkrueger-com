@@ -3,7 +3,7 @@ category: gaming
 created: 2017.02.08:0700
 title: The Krueger Report - Asheron's Call
 type: page
-updated: 2017.02.08:0700
+updated: 2017.03.07:0730
 ---
 
 # Asheron's Call
