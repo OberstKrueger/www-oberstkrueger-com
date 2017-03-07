@@ -54,7 +54,7 @@ This approach to the structure of the world is something not even modern games t
 
 From the time it launched through March 2014, the game had monthly updates. These updates added new content to the game, and progressed the story along. Sometimes the changes from these updates could be huge.
 
-One example of a big change was the destruction of Arwic. For the first few years of the game's launch, Arwic was the main place where players gathered to trade and meet up, similar to the East Commons Tunnel in EverQuest and Jita in [EVE Online](https://en.wikipedia.org/wiki/Eve_Online). During the the [Twilight's Gleaming](http://asheron.wikia.com/wiki/Twilight%27s_Gleaming) event in 2000, Arwic was destroyed. All that was left was ruins. The town has since been rebuilt anew, but for a time, players had to find a new place to gather.
+One example of a big change was the destruction of Arwic. For the first few years of the game's launch, Arwic was the main place where players gathered to trade and meet up, similar to the [East Commons Tunnel](https://wiki.project1999.com/East_Commonlands) in EverQuest and [Jita](http://wiki.eveuniversity.org/Jita) in [EVE Online](https://en.wikipedia.org/wiki/Eve_Online). During the the [Twilight's Gleaming](http://asheron.wikia.com/wiki/Twilight%27s_Gleaming) event in 2000, Arwic was destroyed. All that was left was ruins. The town has since been rebuilt anew, but for a time, players had to find a new place to gather.
 
 The world also changed with the seasons. During the winter months, most of the world would be covered in snow, and fall would have the plants and trees starting to die off.
 
