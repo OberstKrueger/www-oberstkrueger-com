@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.02.13:1745
+updated: 2017.03.10:0600
 ---
 
 # About The Author
@@ -33,10 +33,11 @@ I also own a [Nintendo 2DS](https://en.wikipedia.org/wiki/Nintendo_2DS), a [Wii 
 
 ### Current Podcasts
 
+- [a16z](http://a16z.com/podcasts/)
 - [Accidental Tech Podcast](http://atp.fm)
 - [Cortex](https://www.relay.fm/cortex)
-- [Note To Self](http://www.wnyc.org/shows/notetoself/)
 - [Reasonably Sound](http://reasonablysound.com)
+- [Scienve Vs](https://gimletmedia.com/science-vs/)
 - [Under The Radar](https://www.relay.fm/radar)
 - [The West Wing Weekly](http://thewestwingweekly.com)
 - [Welcome To Macintosh](http://www.macintosh.fm)
@@ -45,4 +46,3 @@ I also own a [Nintendo 2DS](https://en.wikipedia.org/wiki/Nintendo_2DS), a [Wii 
 
 - [Final Fantasy X HD](http://www.finalfantasyxhd.com/us/)
 - [Final Fantasy XIV: Heavensward](http://www.finalfantasyxiv.com)
-- [Grim Fandango Remastered](http://grimremastered.com)
