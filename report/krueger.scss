@@ -164,9 +164,10 @@ header {
 	background: linear-gradient(to right, $colorPrimary, $colorSecondary);
 	margin: 0 0 ($lineHeight * 3rem);
 	overflow: hidden;
+	padding: 20vmin 0;
 	h1 {
 		color: $colorBackground;
-		line-height: 40vh;
+		line-height: 1;
 		margin: 0 auto 0;
 		a:link,
 		a:visited,
