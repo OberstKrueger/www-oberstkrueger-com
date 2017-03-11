@@ -294,3 +294,17 @@ video {
 		}
 	}
 }
+
+.error {
+	main {
+		p {
+			text-align: center;
+			a:visited {
+				color: $colorPrimary;
+			}
+			@media (min-width: $fontJustify) {
+				text-align: center;
+			}
+		}
+	}
+}
