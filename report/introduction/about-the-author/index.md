@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.03.10:0600
+updated: 2017.03.14:2035
 ---
 
 # About The Author
@@ -44,5 +44,4 @@ I also own a [Nintendo 2DS](https://en.wikipedia.org/wiki/Nintendo_2DS), a [Wii 
 
 ### Currently Playing
 
-- [Final Fantasy X HD](http://www.finalfantasyxhd.com/us/)
 - [Final Fantasy XIV: Heavensward](http://www.finalfantasyxiv.com)
