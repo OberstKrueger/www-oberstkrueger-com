@@ -37,7 +37,7 @@ I also own a [Nintendo 2DS](https://en.wikipedia.org/wiki/Nintendo_2DS), a [Wii 
 - [Accidental Tech Podcast](http://atp.fm)
 - [Cortex](https://www.relay.fm/cortex)
 - [Reasonably Sound](http://reasonablysound.com)
-- [Scienve Vs](https://gimletmedia.com/science-vs/)
+- [Science Vs](https://gimletmedia.com/science-vs/)
 - [Under The Radar](https://www.relay.fm/radar)
 - [The West Wing Weekly](http://thewestwingweekly.com)
 - [Welcome To Macintosh](http://www.macintosh.fm)
