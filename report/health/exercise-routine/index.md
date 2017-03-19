@@ -2,7 +2,7 @@
 category: health
 created: 2017.03.18:1945
 title: The Krueger Report - Exercise Routine
-type: index
+type: page
 updated: 2017.03.18:1945
 ---
 
