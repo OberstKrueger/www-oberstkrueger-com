@@ -158,7 +158,7 @@ Many people enjoy the act of working out. Most of the time, I am not one of thos
 
 My solution to this problem is to have a soundtrack to the work out that makes it more fun. For all 3 forms of exercise, I have a particular audio playlist that I pull from. This helps me get in the mindset for that workout.
 
-When I do my push-up routine, there is time for just a few songs to play. For this, I rotate through a collection of upbeat soundtrack music. The various [Doom](https://en.wikipedia.org/wiki/Doom_(series)) soundtracks are great for this, as well as the battle themes from [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy).
+When I do my push-up routine, there is time for just a few songs to play. For this, I rotate through a collection of fast soundtrack music. The various [Doom](https://en.wikipedia.org/wiki/Doom_(series)) soundtracks are great for this, as well as the battle themes from [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy).
 
 During my bike riding sessions, I listen to soundtrack music that I have not yet listened to. I have a playlist in iTunes that loads up all music with a playcount of 0. From this list, I play any instrumental music, which tends to be game soundtracks. I listen to this, as I spend most of my time readinig while riding the bike. This lets me focus mentally on something that is more stimulating than the act of exercising. Should I run out of unplayed instrumental music, or run out of things to read, I will switch to working through my podcast queue.
 
