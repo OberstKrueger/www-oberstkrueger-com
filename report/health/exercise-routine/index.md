@@ -12,12 +12,12 @@ updated: 2017.03.18:1945
 
 My exercise routine follows a strict 7-day schedule. I do not have set days off from exercise, as a typical week for me ends up with 1 or 2 days being skipped due to my work schedule. In the morning, I rotate between push-ups and riding an exercise bike, with the following schedule:
 
-**Monday:** Push-ups\
-**Tuesday:** Exercise bike\
-**Wednesday:** Push-ups\
-**Thursday:** Exercise bike\
-**Friday:** Push-ups\
-**Saturday:** Exercise bike\
+**Monday:** Push-ups<br>
+**Tuesday:** Exercise bike<br>
+**Wednesday:** Push-ups<br>
+**Thursday:** Exercise bike<br>
+**Friday:** Push-ups<br>
+**Saturday:** Exercise bike<br>
 **Sunday:** Exercise bike
 
 In the evening every night, I also have a session of yoga.
