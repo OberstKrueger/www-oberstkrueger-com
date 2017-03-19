@@ -3,10 +3,28 @@ category: introduction
 created: 2017.02.27:1700
 title: The Krueger Report - Updates
 type: page
-updated: 2017.03.01:0600
+updated: 2017.03.18:1945
 ---
 
 # Updates
+
+## 2017.03.18
+
+### Exercise
+
+In recent years, the amount of time I spend exercising has lessened. I would occasionally exercise, but it kept becoming more sporadic. Weight gain has been steady since I left college, and especially since we moved up here to Oregon.
+
+In an attempt to help alleviate these problems, I looked back at how I exercised in college and recreated a similar routine. I have been following this [exercise routine](https://krueger.report/health/exercise-routine) for a few months now, and while I am still perfectin certain aspects of it, I have found it easy to keep up with and it is helping my weight and overall health.
+
+### Updates
+
+AutoSleep is now the app I use for [tracking my sleep](https://krueger.report/health/tracking-sleep). There are a number of improvements that it has over Sleep++, with the main one being that I no longer have to manually enable it every night and disable it every morning. It just works™.
+
+6 months ago, I wrote my first steps to completely [logging off Facebook](https://krueger.report/technology/logging-off-facebook). Since then, I have missed Facebook not in the slightest. The other night, I reopened my account just so I can go in and initiate the full deletion of the account. Before doing that, I looked around at the news feed and the walls of a few of my friends. My decision to cut back on social media has been solidified. Facebook has not changed in the 6 months since I stopped using it, and it probably never will. My life is better without it.
+
+I am at the end of building the list of [Games I Have Played](https://krueger.report/gaming/games-i-have-played). All major systems have their games entered and linked up to further information about the game. I know there are going to be random games here and there that I have not entered due to not remembering them. But as now, this is the most complete list of every game I have played. And it is much bigger than I anticipated.
+
+And finally, this month's new game was [Grim Fandango Remastered](https://en.wikipedia.org/wiki/Grim_Fandango#Remastered_version). Overall, it was an enjoyable game, and a fun revisit to one of my favorite adventure games of all time. But as much as I enjoyed playing through it, adventure games of this style do not hold me the way that they used to. I love everything about this game, except for the gameplay. Too bad it's not a movie, or a TV miniseries, or something else along those lines.
 
 ## 2017.02.27
 
