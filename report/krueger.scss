@@ -209,6 +209,11 @@ main {
 			text-align: justify;
 		}
 	}
+	h1 {
+		@media print {
+			page-break-before: never;
+		}
+	}
 }
 
 footer {
