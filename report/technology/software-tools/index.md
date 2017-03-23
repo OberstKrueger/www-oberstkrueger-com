@@ -3,7 +3,7 @@ category: technology
 created: 2017.02.27:1700
 title: Selecting Software Tools
 type: page
-updated: 2017.02.27:1700
+updated: 2017.03.22:2030
 ---
 
 # Software Tools
@@ -59,3 +59,56 @@ The second part is that the program makes good use of computer resources. Today,
 ### Finding the balance between searching for tools and using them
 
 This is my criteria for all software that I use. When evaluating new applications, if it does not meet all of these criteria, I rule out its use. I also do not constantly try to replace my tools. To be sure, I keep up with new tools released, but given the first point of using something that has been around for a while, I will not switch to it right away. It is easy to fall into the trap of constantly learning new tools instead of using them to do actual work.
+
+## Tools I Use
+
+**Name**: [1Password](https://1password.com)<br>
+**Type**: Password manager<br>
+**OS**: iOS, macOS<br>
+**Used Since**: August 26, 2013
+
+**Name**: [AutoSleep](http://autosleep.tantsissa.com)<br>
+**Type**: Sleep tracking<br>
+**OS**: iOS<br>
+**Used Since**: December 22, 2016<br>
+**Previously Used**: [Sleep Cycle](https://www.sleepcycle.com), [Sleep++](https://david-smith.org/apps/)
+
+**Name**: [iA Writer](https://ia.net/writer/)<br>
+**Type**: Notes<br>
+**OS**: iOS, macOS<br>
+**Used Since**: January 14, 2014
+
+**Name**: [Overcast](https://overcast.fm)<br>
+**Type**: Podcast player<br>
+**OS**: iOS, watchOS<br>
+**Used Since**: July 16, 2014<br>
+**Previously Used**: [Apple Podcasts](https://support.apple.com/en-us/HT201859), [iTunes](https://www.apple.com/itunes/)
+
+**Name**: [Pixelmator](http://www.pixelmator.com)<br>
+**Type**: Image editor<br>
+**OS**: macOS<br>
+**Used Since**: June 30, 2011<br>
+**Previously Used**: [Adobe Photoshop CS6](https://en.wikipedia.org/wiki/Adobe_Photoshop), [GIMP](https://www.gimp.org)
+
+**Name**: [Reeder](http://reederapp.com)<br>
+**Type**: RSS reader<br>
+**OS**: iOS, macOS<br>
+**Used Since**: December 12, 2010<br>
+**Previously Used**: [NetNewsWire](http://netnewswireapp.com), [Unread](http://supertop.co/unread/)
+
+**Name**: [Sublime Text](https://www.sublimetext.com)<br>
+**Type**: Code editor<br>
+**OS**: macOS<br>
+**Used Since**: July 1, 2011<br>
+**Previously Used**: [TextWrangler](http://www.barebones.com/products/textwrangler/)
+
+**Name**: [Yoga Studio](http://www.yogastudioapp.com)<br>
+**Type**: Yoga<br>
+**OS**: iOS, tvOS<br>
+**Used Since**: September 23, 2013<br>
+
+**Name**: <br>
+**Type**: <br>
+**OS**: <br>
+**Used Since**: <br>
+**Previously Used**:
