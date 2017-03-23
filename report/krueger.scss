@@ -9,6 +9,7 @@ $colorText: #212529;
 
 $fontJustify: 46em;
 $fontSize: 100%;
+$fontSizePrint: 10pt;
 $fontStack: "Avenir Next", Avenir, "Open Sans", "Segoe UI", sans-serif;
 $fontStackMono: monospace;
 $fontWeightThick: 700;
@@ -151,6 +152,9 @@ html {
 	font-family: $fontStack;
 	font-size: $fontSize;
 	line-height: $lineHeight;
+	@media print {
+		font-size: $fontSizePrint;
+	}
 }
 
 body {
@@ -175,6 +179,9 @@ header {
 		a:active {
 			color: $colorBackground;
 		}
+	}
+	@media print {
+		display: none;
 	}
 }
 
