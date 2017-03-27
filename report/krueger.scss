@@ -284,6 +284,16 @@ video {
 	PAGE-SPECIFIC ELEMENTS
 */
 .index {
+	header {
+		@media print {
+			background: none;
+		}
+		h1 {
+			@media print {
+				color: $colorText;
+			}
+		}
+	}
 	main {
 		h2 {
 			margin-bottom: 0;
