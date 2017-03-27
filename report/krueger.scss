@@ -46,7 +46,6 @@ h1 {
 	font-size: 2rem;
 	font-weight: $fontWeightThick;
 	margin: ($lineHeight * 2rem) auto ($lineHeight * 3rem);
-	page-break-before: always;
 	text-align: center;
 	a:link, a:visited, a:hover, a:active {
 		color: $colorText;
@@ -180,9 +179,6 @@ header {
 			color: $colorBackground;
 		}
 	}
-	@media print {
-		display: none;
-	}
 }
 
 main {
@@ -207,11 +203,6 @@ main {
 		@media (min-width: $fontJustify) {
 			hyphens: auto;
 			text-align: justify;
-		}
-	}
-	h1 {
-		@media print {
-			page-break-before: never;
 		}
 	}
 }
@@ -317,6 +308,14 @@ video {
 			@media (min-width: $fontJustify) {
 				text-align: center;
 			}
+		}
+	}
+}
+
+.page {
+	header {
+		@media print {
+			display: none;
 		}
 	}
 }
