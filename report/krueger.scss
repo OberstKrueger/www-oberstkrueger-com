@@ -108,9 +108,18 @@ p {
 		color: $colorPrimary;
 		font-weight: $fontWeightThick;
 		text-decoration: none;
+		@media print {
+			color: $colorText;
+			font-weight: $fontWeightThin;
+		}
 	}
 	a:visited {
 		color: $colorSecondary;
+	}
+	a[href]:after {
+		@media print {
+			content: " (" attr(href) ")";
+		}
 	}
 }
 
