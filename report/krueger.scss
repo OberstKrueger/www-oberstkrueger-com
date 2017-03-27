@@ -73,6 +73,7 @@ h6 {
 	font-size: 1rem;
 	font-weight: $fontWeightThick;
 	margin: 0 auto;
+	page-break-after: avoid;
 	text-align: left;
 	a:link, a:visited, a:hover, a:active {
 		color: $colorText;
