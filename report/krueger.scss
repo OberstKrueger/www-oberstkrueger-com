@@ -96,6 +96,7 @@ ol {
 	list-style: decimal inside;
 	margin: 0 auto ($lineHeight + rem);
 	padding: 0;
+	page-break-inside: avoid;
 }
 
 p {
@@ -116,6 +117,7 @@ ul {
 	list-style: circle inside;
 	margin: 0 auto ($lineHeight + rem);
 	padding: 0;
+	page-break-inside: avoid;
 }
 
 
