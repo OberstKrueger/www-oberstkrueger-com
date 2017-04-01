@@ -3,7 +3,7 @@ category: technology
 created: 2017.02.27:1700
 title: Selecting Software Tools
 type: page
-updated: 2017.03.22:2030
+updated: 2017.03.31:0700
 ---
 
 # Software Tools
@@ -106,9 +106,3 @@ This is my criteria for all software that I use. When evaluating new application
 **Type**: Yoga<br>
 **OS**: iOS, tvOS<br>
 **Used Since**: September 23, 2013<br>
-
-**Name**: <br>
-**Type**: <br>
-**OS**: <br>
-**Used Since**: <br>
-**Previously Used**:
