@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.03.14:2100
+updated: 2017.03.31:0630
 ---
 
 # About The Author
@@ -14,24 +14,52 @@ This site is a place for me to write about what interests me. This typically wil
 
 While my day job is not related to technology, I have a passion for both learning about the latest technological advances and for contributing in some form. In recent years, I have worked alongside [Evan Korn](http://ekorndesign.com) as a freelance web developer. Web documents more than any other programming task interests me the most, and so my focus remains on doing that to the best of my abilities.
 
-## Gaming
+## Current Computing Devices
 
-For as long as I can remember, I have loved video games. From playing the original [Super Mario Bros.](https://en.wikipedia.org/wiki/Super_Mario_Bros.) on the [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) to modern day [MOBAs](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena) on the PC, there are very few game genres that I do not enjoy.
-
-I have owned many consoles in the past, but most of my gaming nowadays is on PC. It is currently equipped as such:
+### Gaming PC
 
 - CPU: [Intel Core i7-6700](http://ark.intel.com/products/88196/Intel-Core-i7-6700-Processor-8M-Cache-up-to-4_00-GHz)
-- GPU: [GeForce GTX 780](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-780)
+- GPU: [Nvidia GeForce GTX 780](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-780)
 - RAM: [ADATA AX4U2133W4G13-DRZ 8GB DDR4-2133](http://www.adata.com/en/xpg-dram/orderinfo/305)
 - SSD: [Intel 330 60GB](http://ark.intel.com/products/67286/Intel-SSD-330-Series-60GB-SATA-6Gbs-25nm-MLC) & [Samsung 850 EVO 120GB](http://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-850-evo-2-5-sata-iii-120gb-mz-75e120b-am/)
+- Peripherals: [LG 25UM58-P](http://www.lg.com/us/monitors/lg-25UM58-P-ultrawide-monitor), [Steam Controller](http://store.steampowered.com/app/353370/)
 
-This system is connected to an [LG 25UM58-P](http://www.lg.com/us/monitors/lg-25UM58-P-ultrawide-monitor), a 25” monitor running 2560x1080 at 75hz. For games that are best played with a controller, I use a [Steam Controller](http://store.steampowered.com/app/353370/).
+**GeekBench Score**: [4714 / 14907](https://browser.geekbench.com/v4/cpu/2184942)
 
-I also own a [Nintendo 2DS](https://en.wikipedia.org/wiki/Nintendo_2DS), a [Wii U](https://en.wikipedia.org/wiki/Wii_U) and a [Sony Playstation 3](https://en.wikipedia.org/wiki/PlayStation_3), but none of them are used heavily anymore.
+### iPhone 6 Plus
 
-## List Of Currents
+- CPU: [Apple A8, 1.4 GHz](https://en.wikipedia.org/wiki/Apple_A8)
+- GPU: [PowerVR Series 6 GX6450](https://en.wikipedia.org/wiki/PowerVR#Series6XT_.28Rogue.29)
+- RAM: 1024 MB
+- SSD: 64 GB
 
-### Current Podcasts
+**GeekBench Score**: [1556 / 2648](https://browser.geekbench.com/v4/cpu/2184980)
+
+### Mac Mini
+
+- CPU: [Intel Core i5-4278U](https://ark.intel.com/products/83508/Intel-Core-i5-4278U-Processor-3M-Cache-up-to-3_10-GHz)
+- GPU: [Intel Iris Graphics 5100](https://en.wikipedia.org/wiki/Intel_HD_and_Iris_Graphics#Haswell)
+- RAM: 8 GB 1600 MHz DDR3
+- HDD: 1 TB
+- Peripherals: [LG 25UM58-P](http://www.lg.com/us/monitors/lg-25UM58-P-ultrawide-monitor), [Magic Keyboard](https://en.wikipedia.org/wiki/Magic_Keyboard), [Magic Trackpad](https://en.wikipedia.org/wiki/Magic_Trackpad)
+
+**GeekBench Score**: [3509 / 6640](https://browser.geekbench.com/v4/cpu/2184898)
+
+### MacBook Air
+
+- CPU: [Intel Core 2 Duo SL9400](https://ark.intel.com/products/36689/Intel-Core2-Duo-Processor-SL9400-6M-Cache-1_86-GHz-1066-MHz-FSB)
+- GPU: [Nvidia GeForce 320M](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units#GeForce_300M_.283xxM.29_series)
+- RAM: 2 GB  1066 Mhz DDR
+- SSD: 128 GB 
+
+**GeekBench Score**: [1345  / 2315](https://browser.geekbench.com/v4/cpu/2233406)
+
+## Current Games
+
+- [Final Fantasy XIV: Heavensward](http://www.finalfantasyxiv.com)
+- [System Shock](https://en.wikipedia.org/wiki/System_Shock)
+
+## Current Podcasts
 
 - [a16z](http://a16z.com/podcasts/)
 - [Accidental Tech Podcast](http://atp.fm)
@@ -41,7 +69,3 @@ I also own a [Nintendo 2DS](https://en.wikipedia.org/wiki/Nintendo_2DS), a [Wii 
 - [Under The Radar](https://www.relay.fm/radar)
 - [The West Wing Weekly](http://thewestwingweekly.com)
 - [Welcome To Macintosh](http://www.macintosh.fm)
-
-### Currently Playing
-
-- [Final Fantasy XIV: Heavensward](http://www.finalfantasyxiv.com)
