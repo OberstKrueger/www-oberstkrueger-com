@@ -3,7 +3,7 @@ category: gaming
 created: 2016.11.23:0700
 title: The Krueger Report - Games I Have Played
 type: page
-updated: 2017.02.26:1700
+updated: 2017.04.01:1730
 ---
 
 # Games I Have Played
@@ -391,6 +391,7 @@ This is a running list of every game I have played throughout my life. There wil
 - [Star Wars Galaxies](https://en.wikipedia.org/wiki/Star_Wars_Galaxies)
 - [Super Meat Boy](https://en.wikipedia.org/wiki/Super_Meat_Boy)
 - [Superbrothers: Swords and Sworcery EP](https://en.wikipedia.org/wiki/Superbrothers:_Sword_%26_Sworcery_EP)
+- [System Shock](https://en.wikipedia.org/wiki/System_Shock)
 - [Team Fortress Classic](https://en.wikipedia.org/wiki/Team_Fortress_Classic)
 - [Team Fortress 2](https://en.wikipedia.org/wiki/Team_Fortress_2)
 - [Terraria](https://en.wikipedia.org/wiki/Terraria)
