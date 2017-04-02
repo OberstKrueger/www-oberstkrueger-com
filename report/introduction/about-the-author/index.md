@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.03.31:0630
+updated: 2017.04.01:1730
 ---
 
 # About The Author
@@ -50,14 +50,14 @@ While my day job is not related to technology, I have a passion for both learnin
 - CPU: [Intel Core 2 Duo SL9400](https://ark.intel.com/products/36689/Intel-Core2-Duo-Processor-SL9400-6M-Cache-1_86-GHz-1066-MHz-FSB)
 - GPU: [Nvidia GeForce 320M](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units#GeForce_300M_.283xxM.29_series)
 - RAM: 2 GB  1066 Mhz DDR
-- SSD: 128 GB 
+- SSD: 128 GB
 
 **GeekBench Score**: [1345  / 2315](https://browser.geekbench.com/v4/cpu/2233406)
 
 ## Current Games
 
 - [Final Fantasy XIV: Heavensward](http://www.finalfantasyxiv.com)
-- [System Shock](https://en.wikipedia.org/wiki/System_Shock)
+- [Torment: Tides of Numenera](https://torment.inxile-entertainment.com)
 
 ## Current Podcasts
 
