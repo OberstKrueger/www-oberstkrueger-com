@@ -98,11 +98,6 @@ li {
 			color: $colorText;
 		}
 	}
-	a[href]:after {
-		@media print {
-			content: " (" attr(href) ")";
-		}
-	}
 }
 
 ol {
