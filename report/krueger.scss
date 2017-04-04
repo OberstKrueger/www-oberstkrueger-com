@@ -87,9 +87,21 @@ li {
 		color: $colorPrimary;
 		font-weight: $fontWeightThick;
 		text-decoration: none;
+		@media print {
+			color: $colorText;
+			font-weight: $fontWeightThin;
+		}
 	}
 	a:visited {
 		color: $colorSecondary;
+		@media print {
+			color: $colorText;
+		}
+	}
+	a[href]:after {
+		@media print {
+			content: " (" attr(href) ")";
+		}
 	}
 }
 
@@ -115,6 +127,9 @@ p {
 	}
 	a:visited {
 		color: $colorSecondary;
+		@media print {
+			color: $colorText;
+		}
 	}
 	a[href]:after {
 		@media print {
