@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2017.03.18:1945
+updated: 2017.04.06:0845
 ---
 
 ## Introduction
@@ -27,6 +27,10 @@ updated: 2017.03.18:1945
 
 - [Work Music](/life/work-music)
 - [Years In Review](/life/years-in-review)
+
+## Programming
+
+- [Project Euler In Swift](/programming/project-euler-in-swift)
 
 ## Technology
 
