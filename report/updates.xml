@@ -7,7 +7,39 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>http://notes.krueger.report/</id>
-<updated>2017-03-18T19:45:00Z</updated>
+<updated>2017-04-06T08:45:00Z</updated>
+
+<entry>
+<title>Updates For April 6, 2017</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/20170406</id>
+<published>2017-04-06T08:45:00Z</published>
+<updated>2017-04-06T08:45:00Z</updated>
+<content type="html">
+<![CDATA[
+<h3>Project Euler In Swift</h3>
+
+<p>Since I am not a full-time professional programmer, a lot of the code work that I do is just for fun. A lot of this consists of small projects and solving challenges and puzzles that other people release.</p>
+
+<p>Project Euler is my main source of these types of puzzles. All of them are math problems of varying difficulty. As of right now, there are currently 585 problems to solve on there.</p>
+
+<p>My language of choice when it comes to non-web programming is constantly changing. I enjoy seeing what is available and playing around with the different paradigms. Since it's release, Swift is a language I keep coming back to. It hits all of the right marks for me, ones that a lot of other popular languages like Python do not. For that reason, I have decided to work through all of the problems in <a href="https://krueger.report/programming/project-euler-in-swift">Project Euler In Swift</a>. One new problem a week is my current goal, which given that there are 585 problems, with more periodically being added, it will take me over 11 years to complete this exercise.</p>
+
+<h3>Updates</h3>
+
+<p><a href="https://krueger.report/introduction/about-the-author/">About The Author</a> was updated to include detailed information about all of my current computer systems. During this process, I did a basic benchmark of all of the systems using GeekBench 4. Seeing how all of my computing devices stack up on performance was interesting, particularly the part where my phone is now faster than my laptop.</p>
+
+<p><a href="https://krueger.report/technology/software-tools">Software Tools</a> now displays the first selection of applications that I regularly use. Every application on there follows the principles I listed, when it is relevant.</p>
+
+<p>This month, <a href="https://krueger.report/gaming/games-i-have-played/">my game of choice</a> was the original System Shock. I missed out on this game when it first came out in 1994, and unfortunately, it is a hard game to go back and play. It is an old school game, particularly with regards to complexity. The interface is cluttered and controls are obtuse, even by the standards of the time. Still, it was an enlightening experience, particularly to see an earlier work of Warren Spector.</p>
+
+<p><a href="https://krueger.report/introduction/tools-used-to-create-this/">Tools Used To Make This</a> has been updated with more information about how this site functions automatically, as well as information about how I test the performance of the site.</p>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For March 18, 2017</title>
