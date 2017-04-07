@@ -3,10 +3,30 @@ category: introduction
 created: 2017.02.27:1700
 title: The Krueger Report - Updates
 type: page
-updated: 2017.03.18:1945
+updated: 2017.04.06:0845
 ---
 
 # Updates
+
+## 2017.04.06
+
+### Project Euler In Swift
+
+Since I am not a full-time professional programmer, a lot of the code work that I do is just for fun. A lot of this consists of small projects and solving challenges and puzzles that other people release.
+
+Project Euler is my main source of these types of puzzles. All of them are math problems of varying difficulty. As of right now, there are currently 585 problems to solve on there.
+
+My language of choice when it comes to non-web programming is constantly changing. I enjoy seeing what is available and playing around with the different paradigms. Since it's release, Swift is a language I keep coming back to. It hits all of the right marks for me, ones that a lot of other popular languages like Python do not. For that reason, I have decided to work through all of the problems in [Project Euler In Swift](https://krueger.report/programming/project-euler-in-swift). One new problem a week is my current goal, which given that there are 585 problems, with more periodically being added, it will take me over 11 years to complete this exercise.
+
+### Updates
+
+[About The Author](https://krueger.report/introduction/about-the-author) was updated to include detailed information about all of my current computer systems. During this process, I did a basic benchmark of all of the systems using GeekBench 4. Seeing how all of my computing devices stack up on performance was interesting, particularly the part where my phone is now faster than my laptop.
+
+[Software Tools](https://krueger.report/technology/software-tools) now displays the first selection of applications that I regularly use. Every application on there follows the principles I listed, when it is relevant.
+
+This month, [my game of choice](https://krueger.report/gaming/games-i-have-played) was the original System Shock. I missed out on this game when it first came out in 1994, and unfortunately, it is a hard game to go back and play. It is an old school game, particularly with regards to complexity. The interface is cluttered and controls are obtuse, even by the standards of the time. Still, it was an enlightening experience, particularly to see an earlier work of Warren Spector.
+
+[Tools Used To Make This](https://krueger.report/introduction/tools-used-to-create-this) has been updated with more information about how this site functions automatically, as well as information about how I test the performance of the site.
 
 ## 2017.03.18
 
