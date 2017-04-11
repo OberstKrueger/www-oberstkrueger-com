@@ -132,6 +132,18 @@ p {
 	}
 }
 
+sub {
+	position: relative;
+	top: 0.375rem;
+	vertical-align: baseline;
+}
+
+sup {
+	position: relative;
+	top: -0.375rem;
+	vertical-align: baseline;
+}
+
 ul {
 	list-style: circle inside;
 	margin: 0 auto ($lineHeight + rem);
