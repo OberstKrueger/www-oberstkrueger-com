@@ -188,7 +188,7 @@ header {
 	background: linear-gradient(to right, $colorPrimary, $colorSecondary);
 	margin: 0 0 ($lineHeight * 3rem);
 	overflow: hidden;
-	padding: 20vmin 0;
+	padding: calc(10vmin + 4rem) 0;
 	h1 {
 		color: $colorBackground;
 		line-height: 1;
