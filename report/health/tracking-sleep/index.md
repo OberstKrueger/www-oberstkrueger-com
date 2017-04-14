@@ -3,7 +3,7 @@ category: health
 created: 2016.03.27:1230
 title: The Krueger Report - Tracking Sleep
 type: page
-updated: 2017.03.07:0800
+updated: 2017.04.14:0445
 ---
 
 # Tracking Sleep
@@ -29,3 +29,5 @@ Unrelated to AutoSleep, the Apple Watch makes a great alarm clock. The Watch is 
 The one downside to using AutoSleep revolves around charging the device. It seems typical that people charge their smartwatches at night while they sleep, much like they would any other device. But wearing a device all night requires a new routine to make sure the device does not die in the middle of the day.
 
 [David Smith's recommendation](https://david-smith.org/blog/2015/09/21/how-to-wear-your-apple-watch-24-slash-7/) to do this is to charge it while you are getting ready in the morning for about 20-30 minutes, and the same amount of time at night as you get ready for bed. This method works well, and by using it, I have never run out of battery during the day. Using this method, the watch rarely hits 100% charge, but it also typically does not fall below 50%.
+
+Beyond the app used, [watchOS 3.2](https://www.macstories.net/news/apple-releases-watchos-32-and-macos-10124/) includes a feature that allows the Apple Watch to be more bed friendly: Theater Mode. This mode, accessible by swiping up to the Control Center on the Watch, turns off Activate On Wrist Raise. To activate the screen, either of the hardware buttons must be pushed or the screen tapped with significant force. In practice, this makes the screen of the Watch stay off all throughout the night. Before this was implemented, it was common for the Watch to wake me up in the middle of the night as I shifted around. The screen can be quite bright when sleeping in a pitch black room. This is now a problem for the past, and was the final piece of the puzzle for using the Apple Watch as a sleep tracker.
