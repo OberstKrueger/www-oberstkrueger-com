@@ -3,7 +3,7 @@ category: programming
 created: 2017.04.06:0845
 title: The Krueger Report - Project Euler In Swift
 type: page
-updated: 2017.04.06:0845
+updated: 2017.04.19:2030
 ---
 
 # Project Euler In Swift
@@ -168,7 +168,7 @@ This is similar to finding the prime factors listed above, but with a different 
 ## Problem 005 - Smallest Multiple
 
 > 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
-> 
+>
 > What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
 	func p005(input: Int = 20) -> Int {
@@ -212,4 +212,81 @@ natural numbers and the square of the sum.
 		}
 
 		return (squareSum * squareSum) - sumSquare
+	}
+
+## Problem 007 - 10001st Prime
+
+> By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
+>
+> What is the 10,001st prime number?
+
+	func p007(input: Int = 10_001) -> Int {
+		var output = 0
+		var counter = 0
+		var number = 1
+
+		while counter < input {
+			number += 1
+			if number.isPrime {
+				output = number
+				counter += 1
+			}
+
+		}
+
+		return output
+	}
+
+## Problem 008 - Largest Product In A Series
+
+> The four adjacent digits in the 1000-digit number that have the greatest product are 9 × 9 × 8 × 9 = 5832.
+>
+> 73167176531330624919225119674426574742355349194934
+> 96983520312774506326239578318016984801869478851843
+> 85861560789112949495459501737958331952853208805511
+> 12540698747158523863050715693290963295227443043557
+> 66896648950445244523161731856403098711121722383113
+> 62229893423380308135336276614282806444486645238749
+> 30358907296290491560440772390713810515859307960866
+> 70172427121883998797908792274921901699720888093776
+> 65727333001053367881220235421809751254540594752243
+> 52584907711670556013604839586446706324415722155397
+> 53697817977846174064955149290862569321978468622482
+> 83972241375657056057490261407972968652414535100474
+> 82166370484403199890008895243450658541227588666881
+> 16427171479924442928230863465674813919123162824586
+> 17866458359124566529476545682848912883142607690042
+> 24219022671055626321111109370544217506941658960408
+> 07198403850962455444362981230987879927244284909188
+> 84580156166097919133875499200524063689912560717606
+> 05886116467109405077541002256983155200055935729725
+> 71636269561882670428252483600823257530420752963450
+>
+> Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
+
+	func p008(input: String = p008_input) -> Int {
+		var output = 0
+		var numberArray: [Int] = []
+		var currentNumbers: [Int] = []
+
+		for character in input.characters {
+			if let number = Int(String(character)) {
+				numberArray.append(number)
+			}
+		}
+		while numberArray.count > 1 {
+			var product = 1
+			if currentNumbers.count >= 13 {
+				currentNumbers.removeFirst()
+			}
+			currentNumbers.append(numberArray.removeFirst())
+			for number in currentNumbers {
+				product *= number
+			}
+			if product > output {
+				output = product
+			}
+		}
+
+		return output
 	}
