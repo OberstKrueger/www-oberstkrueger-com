@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.04.15:0530
+updated: 2017.04.22:0515
 ---
 
 # About The Author
@@ -62,7 +62,6 @@ While my day job is not related to technology, I have a passion for both learnin
 
 ## Current Podcasts
 
-- [a16z](http://a16z.com/podcasts/)
 - [Accidental Tech Podcast](http://atp.fm)
 - [Cortex](https://www.relay.fm/cortex)
 - [Reasonably Sound](http://reasonablysound.com)
