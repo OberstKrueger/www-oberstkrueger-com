@@ -3,7 +3,7 @@ category: health
 created: 2017.04.25:2130
 title: The Krueger Report - Vitamin B12
 type: page
-updated: 2017.04.25:2130
+updated: 2017.04.25:2155
 ---
 
 # Vitamin B<sub>12</sub>
@@ -36,7 +36,7 @@ Given their claim that absorption rates can be as low as 2 micrograms for a full
 
 For myself, the debate comes back to how to best make up for Soylent's insufficient B<sub>12</sub>, with the choice falling between eating B<sub>12</sub>-fortified foods for my non-Soylent meals or taking B<sub>12</sub> supplements. Most B<sub>12</sub>-fortified foods are cereals. While I enjoy cereal, I do not want the majority of my non-Soylent food to be cereal.
 
-The better option is to take weekly supplements of B<sub>12</sub>. Assuming a worst-case of absorbing only 1 microgram of B<sub>12</sub> per day from Soylent, that leaves 1.4 more micrograms that I must acquire each day, or 9.8 micrograms per week. Based on the above absorption rates, 500 microgram supplements will give me 9.7 micrograms of B<sub>12/sub> if I take it each week, which is close, but also enough to run a deficit should the worst-case on Soylent consistently happen. The next step up in supplement size, 1000 micrograms, would provide about 13 micrograms per week. Combined with 1 gram each day from the Soylent, this would provide 20 micrograms each week total, 3.2 micrograms more than is necessary for my body.
+The better option is to take weekly supplements of B<sub>12</sub>. Assuming a worst-case of absorbing only 1 microgram of B<sub>12</sub> per day from Soylent, that leaves 1.4 more micrograms that I must acquire each day, or 9.8 micrograms per week. Based on the above absorption rates, 500 microgram supplements will give me 9.7 micrograms of B<sub>12</sub> if I take it each week, which is close, but also enough to run a deficit should the worst-case on Soylent consistently happen. The next step up in supplement size, 1000 micrograms, would provide about 13 micrograms per week. Combined with 1 gram each day from the Soylent, this would provide 20 micrograms each week total, 3.2 micrograms more than is necessary for my body.
 
 By taking a weekly supplement of 1000 micrograms of B<sub>12</sub>, I am able to not only meet my daily needs but build back up the reserve. This calculation also assumes the worst case absorption through Soylent. If the B<sub>12</sub> from the Soylent absorbed at a higher rate, then the reserves would be restocked quicker. Additionally, since excess B<sub>12</sub> will be excreted from the body, I do not need to worry about causing damage to my body.
 
