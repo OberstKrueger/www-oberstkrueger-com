@@ -1,0 +1,43 @@
+---
+category: health
+created: 2017.04.25:2130
+title: The Krueger Report - Vitamin B12
+type: page
+updated: 2017.04.25:2130
+---
+
+# Vitamin B<sub>12</sub>
+
+For over a decade now, I have been a vegetarian. One of the health concerns with being vegetarian is hypocobalaminemia, or vitamin B<sub>12</sub> deficiency. Since [most sources of B<sub>12</sub> is animal-based](http://frankhollis.com/temp/BMJ%20B12%20deficiency%20review.pdf), it can be difficult for vegans and vegetarians to acquire enough of the vitamin to satisfy the body's needs. Hypocobalaminemia causes anemia and fatigue, but the symptom that bothers me the most is damage to neurological functions.
+
+Before diving too deep into this, one thing needs to be stated up front: research is scant in this area. The mechanism between B<sub>12</sub> and cognitive function is not fully understood. Much of the search is focused on older populations experiencing cognitive decline, so the results from these studies might not apply to all to those not already experiencing such decline. [Correlation between B<sub>12</sub> supplementation and cognitive improvement is weak](http://www.cochrane.org/CD004394/DEMENTIA_no-evidence-of-the-efficacy-of-vitamin-b12-supplementation-for-cognitive-function), necessitating more research be done.
+
+While B<sub>12</sub>'s connection to cognitive function isn't fully understood, it is known that sufficient amounts are required for overall health of the nervous system. For a healthy adult, the [National Institutes of Health](https://en.wikipedia.org/wiki/National_Institutes_of_Health) recommend 2.4 micrograms of B<sub>12</sub> daily. There is no known tolerable upper intake limit, and no negative health effects have been documented due to having too much B<sub>12</sub> in the body. B<sub>12</sub> is a [water-soluble vitamin](http://www.webmd.com/vitamins-and-supplements/nutrition-vitamins-11/fat-water-nutrient), meaning that excess of the vitamin is excreted out of the body. Unlike most other water-soluble vitamins, B<sub>12</sub> levels exceeding the body's daily needs are not excreted out. Instead, the liver [stores multiple year's worth of B<sub>12</sub>](http://www.mayoclinic.org/drugs-supplements/vitamin-b12/background/hrb-20060243), allowing for extended periods of time where even without any intake of the vitamin, the body can remain healthy in that one area.
+
+Even with the ability to [not experience B<sub>12</sub> deficiency upwards of 6 years](https://www.ncbi.nlm.nih.gov/books/NBK114329/), this it not that long of a period of time in the grand scheme of a human life. The length of time that I have been a vegetarian means that if I had an issue acquiring B<sub>12</sub>, I could start experiencing symptoms at any time.
+
+The most common way to keep B<sub>12</sub> levels high is by eating meat, dairy, and other animal products. A single meal every day can provide what the body needs in this area. For vegans and vegetarians, vitamin-fortified foods [provide a great source of B<sub>12</sub>](https://www.ncbi.nlm.nih.gov/pubmed/10648266). These types of foods [include cereals, vegan meat replacements, and a few forms of yeast](http://www.veganhealth.org/b12/vegansources).
+
+Supplements are another common way to keep proper levels of B<sub>12</sub>, but this is not necessarily the best way to do so, due to how the [absorption rate of B<sub>12</sub> through supplements is low](http://www.bloodjournal.org/content/112/6/2214.long). Under the best of circumstances, lower doses have an absorption rate of 56%, but only at 1 micrograms of total vitamin. This leads to a 0.56 microgram absorption rate. At 10 micrograms, the absorption rate falls to 16%, or 1.6 micrograms, still well below the daily requirements for B<sub>12</sub> . At 500 microgram doses, the absorption rate fell further to 2%. This provides 9.7 micrograms for the body, which is about 4 days worth of the vitamin. A 1000 micrograms dose drops the absorption rate down to 1.3%, or 13 micrograms absorbed into the body.
+
+When doing a cursory search for B<sub>12</sub> supplements at [Walgreens](https://www.walgreens.com/), most supplements were 500 micrograms or higher. Due to this level of dosage giving the body multiple day's worth of B<sub>12</sub>, it is not necessary to take the supplement daily unless there is a problem with your body absorbing B<sub>12</sub>.
+
+The absorption rate of [B<sub>12</sub> injections](http://www.webmd.com/drugs/2/drug-6550/vitamin-b-12-injection/details) is significantly higher than through oral supplements. A 10 microgram injection has an absorption rate of 97%, and a 1000 microgram injection has an absorption rate of 15%. The 150 micrograms that your body would absorb from the 1000 microgram injection is enough for the average adult to last 2 months.
+
+Soylent makes up the majority of my food, and Rosa Labs specifically addresses B<sub>12</sub> levels. A full packet's worth of Soylent [includes 6 micrograms of B<sub>12</sub> in the form of cyanocobalamin](https://faq.soylent.com/hc/en-us/articles/204492985-Vitamin-B12). Rosa Labs has this to say about how they include the vitamin.
+
+> Among the several forms of vitamin B<sub>12</sub> in existence, cyanocobalamin is the most cost-effective. At this time, research has not shown significant differences in the bioavailability of the various forms of vitamin B<sub>12</sub>. When taken solely as a supplement (in pill form, for example), there is concern that low quantities of cyanocobalamin are bonded to the Intrinsic Factor (the transport protein which enables cyanocobalamin to be absorbed in the small intestine). However, when consumed as part of a meal (as it is in Soylent), the stomach naturally releases sufficient quantities of the Intrinsic Factor to bind to 2 to 4 ug of cyanocobalamin.
+>
+> [...]
+>
+> Some users have expressed concern about the relation between cyanocobalamin and cyanide (which is merely a carbon atom triple bonded to a nitrogen atom). While cyanocobalamin does contain several carbon atoms with triple bonds to nitrogen atoms, the greater molecular structure in no way poses the same toxic threats as a cyanide ion. Cyanocobalamin is a GRAS- (Generally Recognized As Safe) approved substance by the FDA.
+
+Given their claim that absorption rates can be as low as 2 micrograms for a full bag, I can not expect to get all of the B<sub>12</sub> that I need from Soylent. This is hard to track, as B<sub>12</sub> deficiency can take a long time to become apparent, and I would rather not experience cognitive decline before realizing the cause.
+
+For myself, the debate comes back to how to best make up for Soylent's insufficient B<sub>12</sub>, with the choice falling between eating B<sub>12</sub>-fortified foods for my non-Soylent meals or taking B<sub>12</sub> supplements. Most B<sub>12</sub>-fortified foods are cereals. While I enjoy cereal, I do not want the majority of my non-Soylent food to be cereal.
+
+The better option is to take weekly supplements of B<sub>12</sub>. Assuming a worst-case of absorbing only 1 microgram of B<sub>12</sub> per day from Soylent, that leaves 1.4 more micrograms that I must acquire each day, or 9.8 micrograms per week. Based on the above absorption rates, 500 microgram supplements will give me 9.7 micrograms of B<sub>12/sub> if I take it each week, which is close, but also enough to run a deficit should the worst-case on Soylent consistently happen. The next step up in supplement size, 1000 micrograms, would provide about 13 micrograms per week. Combined with 1 gram each day from the Soylent, this would provide 20 micrograms each week total, 3.2 micrograms more than is necessary for my body.
+
+By taking a weekly supplement of 1000 micrograms of B<sub>12</sub>, I am able to not only meet my daily needs but build back up the reserve. This calculation also assumes the worst case absorption through Soylent. If the B<sub>12</sub> from the Soylent absorbed at a higher rate, then the reserves would be restocked quicker. Additionally, since excess B<sub>12</sub> will be excreted from the body, I do not need to worry about causing damage to my body.
+
+Looking again at the range of products available at Walgreens, 1000 micrograms of B<sub>12</sub> has a cost of about $0.10-$0.12 per pill. Taking this into account, total cost per year is only $5.21-$6.25. The main issue is buying supplement bottles that will not be wasted, as they all have expiration dates of some sort. At about 52 pills per year, a 50-60 pill bottle is ideal. Even if the bottle is too large and some of the pills get wasted,the cost is about $10 per year, which is more than reasonable for supplementing such vital component of the diet.
