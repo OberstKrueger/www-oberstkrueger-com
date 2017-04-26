@@ -3,10 +3,41 @@ category: introduction
 created: 2017.02.27:1700
 title: The Krueger Report - Updates
 type: page
-updated: 2017.04.06:0845
+updated: 2017.04.25:2130
 ---
 
 # Updates
+
+## 2017.04.25
+
+### Vitamin B12
+
+In continuing my goal of understanding the ways I can become more healthy, I spent this past month researching [Vitamin B<sub>12</sub>](https://krueger.report/health/vitamin-b12). This vitamin is important for vegetarians like myself to stay on top of, as it is easy to become deficient in it.
+
+### Favorite Readings
+
+1. [A plan to preserve the internet](http://www.theverge.com/2017/4/12/15265530/walt-mossberg-internet-plan-privacy-freedom)
+2. [Awesome by proxy: addicted to fake achievements](http://www.pixelpoppers.com/2009/11/awesome-by-proxy-addicted-to-fake.html)
+3. [God in the machine: my strange journey into transhumanism](http://www.theguardian.com/technology/2017/apr/18/god-in-the-machine-my-strange-journey-into-transhumanism)
+4. [Growing Ubuntu for cloud and IoT, rather than phone and convergence](https://insights.ubuntu.com/2017/04/05/growing-ubuntu-for-cloud-and-iot-rather-than-phone-and-convergence/)
+5. [Hackers set off Dallas’ 156 emergency sirens over a dozen times](https://arstechnica.com/security/2017/04/hackers-set-off-dallas-156-emergency-sirens-over-a-dozen-times/)
+6. [Hottest editors](https://xkcd.com/1823/)
+7. [Is the European Union worth it or should we end it?](https://www.youtube.com/watch?v=XxutY7ss1v4)
+8. [Mastodon.social is an open-source Twitter competitor that’s growing like crazy](http://www.theverge.com/2017/4/4/15177856/mastodon-social-network-twitter-clone)
+9. [One-third of Americans are willing to eat lab-grown meat regularly](https://arstechnica.com/science/2017/04/one-third-of-americans-are-willing-to-eat-lab-grown-meat-regularly/)
+10. [Soylent recalls powder after dairy accidentally slips into 1.8 powder](https://arstechnica.com/science/2017/04/soylent-recall-dairy-accidentally-mixed-into-dairy-free-1-8-powder/)
+11. [The deep space of digital reading](http://nautil.us/issue/47/consciousness/the-deep-space-of-digital-reading-rp)
+12. [The Lilly Suicides](http://www.adbusters.org/featured/the-lilly-suicides/)
+13. [The Mac Pro Lives](http://daringfireball.net/2017/04/the_mac_pro_lives)
+14. [The uncertain future of democracy](http://www.bbc.com/future/story/20170330-the-uncertain-future-of-democracy)
+15. [Tomorrow's Cities: Singapore's plans for a smart nation](http://www.bbc.com/news/technology-39641262)
+16. [Who will remember you in 100 years?](https://micaelwidell.com/who-will-remember-you-in-100-years/)
+
+### Updates
+
+I added a few more problems to [Project Euler In Swift](https://krueger.report/programming/project-euler-in-swift/). Since completing these, I have experimented briefly with Python and Rust, and have started to plan out doing a comparison of all these languages using Project Euler. But getting a more in-depth grasp of Swift is important before doing so.
+
+AutoSleep 4.0 brought about a slight update to [Tracking Sleep](https://krueger.report/health/tracking-sleep/). Functionality remains the same, but the graphics of the app have been refreshed to provide for a nicer experience.
 
 ## 2017.04.06
 
