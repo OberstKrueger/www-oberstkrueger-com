@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2017.04.06:0845
+updated: 2017.04.25:2130
 ---
 
 ## Introduction
@@ -22,6 +22,7 @@ updated: 2017.04.06:0845
 
 - [Exercise Routine](/health/exercise-routine)
 - [Tracking Sleep](/health/tracking-sleep)
+- [Vitamin B<sub>12</sub>](/health/vitamin-b12)
 
 ## Life
 
