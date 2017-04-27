@@ -328,8 +328,12 @@ video {
 	}
 	main {
 		h2 {
-			margin-bottom: 0;
-			text-decoration: underline;
+			border-bottom: 0.0625rem solid $colorText;
+			border-top: 0.0625rem solid $colorText;
+			margin: 2rem auto 2rem;
+			max-width: 21.375rem; // Derived from width of largest li on index
+			padding: 1rem 0;
+
 		}
 		li {
 			text-align: center;
