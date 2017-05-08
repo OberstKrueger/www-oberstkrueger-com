@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.04.28:0400
+updated: 2017.05.07:0930
 ---
 
 # About The Author
@@ -65,6 +65,8 @@ While my day job is not related to technology, I have a passion for both learnin
 - [Cortex](https://www.relay.fm/cortex)
 - [Reasonably Sound](http://reasonablysound.com)
 - [Science Vs](https://gimletmedia.com/science-vs/)
-- [Under The Radar](https://www.relay.fm/radar)
+- [The Haskell Cast](http://www.haskellcast.com)
 - [The West Wing Weekly](http://thewestwingweekly.com)
+- [Under The Radar](https://www.relay.fm/radar)
 - [Welcome To Macintosh](http://www.macintosh.fm)
+- [You Are Not So Smart](https://youarenotsosmart.com/podcast/)
