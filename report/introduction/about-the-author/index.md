@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.05.07:0930
+updated: 2017.05.07:2100
 ---
 
 # About The Author
@@ -57,7 +57,7 @@ While my day job is not related to technology, I have a passion for both learnin
 ## Current Games
 
 - [Final Fantasy XIV: Heavensward](http://www.finalfantasyxiv.com)
-- [System Shock 2](https://en.wikipedia.org/wiki/System_Shock_2)
+- [Little Nightmares](http://www.little-nightmares.com/en/)
 
 ## Current Podcasts
 
