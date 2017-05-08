@@ -3,7 +3,7 @@ category: gaming
 created: 2016.11.23:0700
 title: The Krueger Report - Games I Have Played
 type: page
-updated: 2017.04.15:0535
+updated: 2017.05.07:2100
 ---
 
 # Games I Have Played
@@ -316,6 +316,7 @@ This is a running list of every game I have played throughout my life. There wil
 - [Left 4 Dead](https://en.wikipedia.org/wiki/Left_4_Dead)
 - [Left 4 Dead 2](https://en.wikipedia.org/wiki/Left_4_Dead_2)
 - [Little Inferno](https://en.wikipedia.org/wiki/Little_Inferno)
+- [Little Nightmares](https://en.wikipedia.org/wiki/Little_Nightmares)
 - [Limbo](https://en.wikipedia.org/wiki/Limbo_(video_game))
 - [Magicka](https://en.wikipedia.org/wiki/Magicka)
 - [Mass Effect](https://en.wikipedia.org/wiki/Mass_Effect_(video_game))
