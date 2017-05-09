@@ -3,7 +3,7 @@ category: gaming
 created: 2016.11.23:0700
 title: The Krueger Report - Games I Have Played
 type: page
-updated: 2017.05.07:2100
+updated: 2017.05.09:0800
 ---
 
 # Games I Have Played
@@ -273,6 +273,7 @@ This is a running list of every game I have played throughout my life. There wil
 - [Far Cry](https://en.wikipedia.org/wiki/Far_Cry_(video_game))
 - [Final Doom](https://en.wikipedia.org/wiki/Final_Doom)
 - [Final Fantasy X HD Remaster](https://en.wikipedia.org/wiki/Final_Fantasy_X/X-2_HD_Remaster)
+- [Final Fantasy X-2 HD Remaster](https://en.wikipedia.org/wiki/Final_Fantasy_X/X-2_HD_Remaster)
 - [Final Fantasy XI](https://en.wikipedia.org/wiki/Final_Fantasy_XI)
 - [Final Fantasy XIV: A Realm Reborn](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_A_Realm_Reborn)
 - [Final Fantasy XIV: Heavensward](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Heavensward)
