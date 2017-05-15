@@ -7,7 +7,69 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2017-04-25T21:30:00Z</updated>
+<updated>2017-05-14T08:45:00Z</updated>
+
+<entry>
+<title>Updates For May 14, 2017</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/20170514</id>
+<published>2017-05-14T08:45:00Z</published>
+<updated>2017-05-14T08:45:00Z</updated>
+<content type="html">
+<![CDATA[
+<h3>Iced Coffee</h3>
+
+<p>One of the first things I do every morning is start drinking a nice cool cup of coffee. It helps start my day quicker and jump right into the tasks that I have for the day. Over the last few years, I have worked on perfecting my <a href="https://krueger.report/health/iced-coffee">Iced Coffee</a> recipe, and have found an easy and consistent way to make it exactly to my liking.</p>
+
+<h3>Favorite Readings</h3>
+
+<ol>
+<li><a href="https://arstechnica.com/gadgets/2017/05/amazon-alexa-ads-voicelabs/">15-second ads coming to Amazon’s Alexa</a></li>
+<li><a href="https://arstechnica.com/gaming/2017/05/success-the-nintendo-playstation-prototype-is-fully-functional/">18 months after discovery, the “Nintendo PlayStation” is finally working</a></li>
+<li><a href="https://arstechnica.com/apple/2017/05/apple-buys-beddit-a-sleep-tracking-company-with-existing-apple-watch-app/">Apple buys Beddit, a sleep-tracking company with existing Apple Watch app</a></li>
+<li><a href="http://leancrew.com/all-this/2017/05/engineering-and-yellow-lights/">Engineering and yellow lights</a></li>
+<li><a href="https://www.wired.com/2017/05/hundreds-apps-can-listen-beacons-cant-hear/">Hundreds of apps can listen for marketing 'beacons' you can't hear</a></li>
+<li><a href="https://www.theguardian.com/society/2017/may/06/dont-know-who-am-antidepressant-long-term-use">‘I don’t know who I am without it’: the truth about long-term antidepressant use</a></li>
+<li><a href="https://stackoverflow.blog/2017/05/09/introducing-stack-overflow-trends/">Introducing Stack Overflow Trends</a></li>
+<li><a href="http://www.theverge.com/2017/4/24/15403644/microdosing-lsd-acid-productivity-benefits-brain-studies">LSD microdoses make people feel smarter, and scientists want to know why</a></li>
+<li><a href="https://michaelfairley.com/blog/i-made-a-game-in-rust/">Making a game in Rust</a></li>
+<li><a href="https://arstechnica.com/science/2017/05/measles-outbreak-rages-after-anti-vaccine-groups-target-vulnerable-community/">Measles outbreak rages after anti-vaccine groups target vulnerable community</a></li>
+<li><a href="https://www.theverge.com/2017/5/8/15579810/tech-savvy-justice-democrats-bernie-sanders-the-young-turks">Meet the tech-savvy activists trying to take over the Democratic Party</a></li>
+<li><a href="http://www.theverge.com/2017/4/25/15408338/bike-peloton-review-indoor-cycle-live-streaming-cycling">My two-month ride with Peloton, the cultish, internet-connected fitness bike</a></li>
+<li><a href="https://arstechnica.com/?p=1094641">New Windows look and feel, Neon, is officially the “Microsoft Fluent Design System”</a></li>
+<li><a href="http://scattered-thoughts.net/blog/2017/04/26/notes-on-the-distracted-mind-ancient-brains-in-a-high-tech-world/">Notes on 'The Distracted Mind: Ancient Brains in a High-Tech World'</a></li>
+<li><a href="https://arstechnica.com/gadgets/2017/05/sleep-it-off-how-and-how-well-wearables-can-track-sleep/">Sleep it off: What you can and can’t learn from sleep tracking wearables</a></li>
+<li><a href="http://www.nationalgeographic.com/magazine/2017/06/dinosaur-nodosaur-fossil-discovery/">The amazing dinosaur found (accidentally) by miners in Canada</a></li>
+<li><a href="https://tonic.vice.com/en_us/article/the-creepy-insane-and-undeniably-romantic-world-of-cryonics">The creepy, insane, and undeniably romantic world of cryonics</a></li>
+<li><a href="https://www.theatlantic.com/health/archive/2016/04/the-diseases-you-only-get-if-you-believe-in-them/479367/?single_page=true">The diseases you only get if you believe in them</a></li>
+<li><a href="https://compileandrun.com/stuggles-with-rust.html">The grass is always greener - my struggles with Rust</a></li>
+<li><a href="https://arstechnica.com/gadgets/2017/05/ubuntu-17-04-review-this-is-unitys-true-swan-song/">Ubuntu 17.04 review: Don’t call it abandonware, per se</a></li>
+<li><a href="https://krebsonsecurity.com/2017/05/u-k-hospitals-hit-in-widespread-ransomware-attack/">U.K. hospitals hit in widespread ransomware attack</a></li>
+<li><a href="http://scattered-thoughts.net/blog/2016/10/28/vive-experiments/">Vive experiments</a></li>
+<li><a href="http://kottke.org/17/04/what-is-digital-humanism">What is digital humanism?</a></li>
+<li><a href="http://theoatmeal.com/comics/believe">You're not going to believe what I'm about to tell you</a></li>
+</ol>
+
+<h3>Books Read</h3>
+
+<ul>
+<li>Biopunk: DIY Scientists Hack the Software of Life, by Marcus Wohlsen</li>
+<li>The Internet of Risky Things: Trusting the Devices That Surround Us, by Sean Smith</li>
+</ul>
+
+<h3>Games Played</h3>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_X/X-2_HD_Remaster">Final Fantasy X-2 HD Remaster</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Little_Nightmares">Little Nightmares</a></li>
+<li><a href="https://en.wikipedia.org/wiki/System_Shock_2">System Shock 2</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For April 25, 2017</title>
