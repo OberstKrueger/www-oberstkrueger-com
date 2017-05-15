@@ -3,10 +3,54 @@ category: introduction
 created: 2017.02.27:1700
 title: The Krueger Report - Updates
 type: page
-updated: 2017.04.25:2130
+updated: 2017.05.14:0845
 ---
 
 # Updates
+
+## 2017.05.14
+
+### Iced Coffee
+
+One of the first things I do every morning is start drinking a nice cool cup of coffee. It helps start my day quicker and jump right into the tasks that I have for the day. Over the last few years, I have worked on perfecting my [Iced Coffee](https://krueger.report/health/iced-coffee) recipe, and have found an easy and consistent way to make it exactly to my liking.
+
+### Favorite Readings
+
+1. [15-second ads coming to Amazon’s Alexa](https://arstechnica.com/gadgets/2017/05/amazon-alexa-ads-voicelabs/)
+2. [18 months after discovery, the “Nintendo PlayStation” is finally working](https://arstechnica.com/gaming/2017/05/success-the-nintendo-playstation-prototype-is-fully-functional/)
+3. [Apple buys Beddit, a sleep-tracking company with existing Apple Watch app](https://arstechnica.com/apple/2017/05/apple-buys-beddit-a-sleep-tracking-company-with-existing-apple-watch-app/)
+4. [Engineering and yellow lights](http://leancrew.com/all-this/2017/05/engineering-and-yellow-lights/)
+5. [Hundreds of apps can listen for marketing 'beacons' you can't hear](https://www.wired.com/2017/05/hundreds-apps-can-listen-beacons-cant-hear/)
+6. [‘I don’t know who I am without it’: the truth about long-term antidepressant use](https://www.theguardian.com/society/2017/may/06/dont-know-who-am-antidepressant-long-term-use)
+7. [Introducing Stack Overflow Trends](https://stackoverflow.blog/2017/05/09/introducing-stack-overflow-trends/)
+8. [LSD microdoses make people feel smarter, and scientists want to know why](http://www.theverge.com/2017/4/24/15403644/microdosing-lsd-acid-productivity-benefits-brain-studies)
+9. [Making a game in Rust](https://michaelfairley.com/blog/i-made-a-game-in-rust/)
+10. [Measles outbreak rages after anti-vaccine groups target vulnerable community](https://arstechnica.com/science/2017/05/measles-outbreak-rages-after-anti-vaccine-groups-target-vulnerable-community/)
+11. [Meet the tech-savvy activists trying to take over the Democratic Party](https://www.theverge.com/2017/5/8/15579810/tech-savvy-justice-democrats-bernie-sanders-the-young-turks)
+12. [My two-month ride with Peloton, the cultish, internet-connected fitness bike](http://www.theverge.com/2017/4/25/15408338/bike-peloton-review-indoor-cycle-live-streaming-cycling)
+13. [New Windows look and feel, Neon, is officially the “Microsoft Fluent Design System”](https://arstechnica.com/?p=1094641)
+14. [Notes on 'The Distracted Mind: Ancient Brains in a High-Tech World'](http://scattered-thoughts.net/blog/2017/04/26/notes-on-the-distracted-mind-ancient-brains-in-a-high-tech-world/)
+15. [Sleep it off: What you can and can’t learn from sleep tracking wearables](https://arstechnica.com/gadgets/2017/05/sleep-it-off-how-and-how-well-wearables-can-track-sleep/)
+16. [The amazing dinosaur found (accidentally) by miners in Canada](http://www.nationalgeographic.com/magazine/2017/06/dinosaur-nodosaur-fossil-discovery/)
+17. [The creepy, insane, and undeniably romantic world of cryonics](https://tonic.vice.com/en_us/article/the-creepy-insane-and-undeniably-romantic-world-of-cryonics)
+18. [The diseases you only get if you believe in them](https://www.theatlantic.com/health/archive/2016/04/the-diseases-you-only-get-if-you-believe-in-them/479367/?single_page=true)
+19. [The grass is always greener - my struggles with Rust](https://compileandrun.com/stuggles-with-rust.html)
+20. [Ubuntu 17.04 review: Don’t call it abandonware, per se](https://arstechnica.com/gadgets/2017/05/ubuntu-17-04-review-this-is-unitys-true-swan-song/)
+21. [U.K. hospitals hit in widespread ransomware attack](https://krebsonsecurity.com/2017/05/u-k-hospitals-hit-in-widespread-ransomware-attack/)
+22. [Vive experiments](http://scattered-thoughts.net/blog/2016/10/28/vive-experiments/)
+23. [What is digital humanism?](http://kottke.org/17/04/what-is-digital-humanism)
+24. [You're not going to believe what I'm about to tell you](http://theoatmeal.com/comics/believe)
+
+### Books Read
+
+- Biopunk: DIY Scientists Hack the Software of Life, by Marcus Wohlsen
+- The Internet of Risky Things: Trusting the Devices That Surround Us, by Sean Smith
+
+### Games Played
+
+- [Final Fantasy X-2 HD Remaster](https://en.wikipedia.org/wiki/Final_Fantasy_X/X-2_HD_Remaster)
+- [Little Nightmares](https://en.wikipedia.org/wiki/Little_Nightmares)
+- [System Shock 2](https://en.wikipedia.org/wiki/System_Shock_2)
 
 ## 2017.04.25
 
