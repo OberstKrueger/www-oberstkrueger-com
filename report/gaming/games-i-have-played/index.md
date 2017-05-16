@@ -3,7 +3,7 @@ category: gaming
 created: 2016.11.23:0700
 title: The Krueger Report - Games I Have Played
 type: page
-updated: 2017.05.09:0800
+updated: 2017.05.16:1530
 ---
 
 # Games I Have Played
@@ -422,6 +422,7 @@ This is a running list of every game I have played throughout my life. There wil
 - [Tomb Raider (2013)](https://en.wikipedia.org/wiki/Tomb_Raider_(2013_video_game))
 - [Transistor](https://en.wikipedia.org/wiki/Transistor_(video_game))
 - [Tribes 2](https://en.wikipedia.org/wiki/Tribes_2)
+- [Tron 2.0](https://en.wikipedia.org/wiki/Tron_2.0)
 - [Unreal](https://en.wikipedia.org/wiki/Unreal_(1998_video_game))
 - [Unreal: Return to Na Pali](https://en.wikipedia.org/wiki/Unreal_(1998_video_game)#Expansion_plot)
 - [Unreal II: The Awakening](https://en.wikipedia.org/wiki/Unreal_II:_The_Awakening)
