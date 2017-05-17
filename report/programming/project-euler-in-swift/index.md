@@ -135,33 +135,6 @@ Figuring out whether a string is a [palindrome](https://en.wikipedia.org/wiki/Pa
 		return output
 	}
 
-## Finding All Prime Factors As A Dictionary
-
-This is similar to finding the prime factors listed above, but with a different return value. Instead of an array of Ints, this returns a Dictionary with Int keys and values. This makes adding multiple prime factors together easier.
-
-	extension Int {
-		var primeFactorsDict: [Int: Int] {
-			var output: [Int: Int] = [:]
-			var counter = 2
-			var max = self
-
-			while counter <= max {
-				if max % counter == 0 {
-					max /= counter
-					if output[counter] != nil {
-						output[counter]! += 1
-					} else {
-						output[counter] = 1
-					}
-				} else {
-					counter += 1
-				}
-			}
-
-			return output
-		}
-	}
-
 ## Problem 005 - Smallest Multiple
 
 > 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
@@ -169,17 +142,29 @@ This is similar to finding the prime factors listed above, but with a different 
 > What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
 	func p005(input: Int = 20) -> Int {
-		var output = 1
-		var factors: [Int: Int] = [:]
+		var output: Int = 1
+		var primeFactors: [Int: Int] = [:]
 
 		for number in 2...input {
-			for factor in number.primeFactorsDict {
-				if factors[factor.key] == nil || factors[factor.key]! < factor.value {
-					factors[factor.key] = factor.value
+			if number.isPrime {
+				primeFactors[number] = 1
+			} else {
+				var tempFactors: [Int: Int] = [:]
+				for factor in number.primeFactors {
+					if tempFactors[factor] == nil {
+						tempFactors[factor] = 1
+					} else {
+						tempFactors[factor]! += 1
+					}
+				}
+				for factor in tempFactors {
+					if primeFactors[factor.key]! < factor.value {
+						primeFactors[factor.key] = factor.value
+					}
 				}
 			}
 		}
-		for factor in factors {
+		for factor in primeFactors {
 			output *= factor.key.power(by: factor.value)
 		}
 		return output
