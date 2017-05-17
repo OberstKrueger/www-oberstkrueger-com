@@ -20,12 +20,12 @@ Note: The problems, as presented by Project Euler, have definitive inputs with a
 >
 > Find the sum of all the multiples of 3 or 5 below 1000.
 
-	func p001(input: Int = 1000) -> Int {
+	func p001(input: Int = 1_000) -> Int {
 		var output = 0
 
-		for number in stride(from: 3, to: input - 1, by: 3) { output += number }
-		for number in stride(from: 5, to: input - 1, by: 5) { output += number }
-		for number in stride(from: 15, to: input - 1, by: 15) { output -= number }
+		for number in stride(from: 3, to: input, by: 3) { output += number }
+		for number in stride(from: 5, to: input, by: 5) { output += number }
+		for number in stride(from: 15, to: input, by: 15) { output -= number }
 
 		return output
 	}
