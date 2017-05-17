@@ -42,13 +42,10 @@ Note: The problems, as presented by Project Euler, have definitive inputs with a
 		var output = 0
 		var number1 = 0
 		var number2 = 2
-		var temp: Int
 
 		while number2 < input {
 			output += number2
-			temp = (4 * number2) + number1
-			number1 = number2
-			number2 = temp
+			(number1, number2) = (number2, (4 * number2) + number1)
 		}
 
 		return output
