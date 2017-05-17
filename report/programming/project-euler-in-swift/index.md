@@ -3,7 +3,7 @@ category: programming
 created: 2017.04.06:0845
 title: The Krueger Report - Project Euler In Swift
 type: page
-updated: 2017.04.19:2030
+updated: 2017.05:16:2130
 ---
 
 # Project Euler In Swift
