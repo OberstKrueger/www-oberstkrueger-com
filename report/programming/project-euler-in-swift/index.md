@@ -3,7 +3,7 @@ category: programming
 created: 2017.04.06:0845
 title: The Krueger Report - Project Euler In Swift
 type: page
-updated: 2017.05:16:2130
+updated: 2017.05:17:2100
 ---
 
 # Project Euler In Swift
@@ -21,7 +21,7 @@ Note: The problems, as presented by Project Euler, have definitive inputs with a
 > Find the sum of all the multiples of 3 or 5 below 1000.
 
 	func p001(input: Int = 1_000) -> Int {
-		var output = 0
+		var output: Int = 0
 
 		for number in stride(from: 3, to: input, by: 3) { output += number }
 		for number in stride(from: 5, to: input, by: 5) { output += number }
@@ -39,9 +39,9 @@ Note: The problems, as presented by Project Euler, have definitive inputs with a
 > By considering the terms in the Fibonacci Sequence whose values do not exceed four million, find the sum of the even-valued terms.
 
 	func p002(input: Int = 4_000_000) -> Int {
-		var output = 0
-		var number1 = 0
-		var number2 = 2
+		var output: Int = 0
+		var number1: Int = 0
+		var number2: Int = 2
 
 		while number2 < input {
 			output += number2
@@ -51,6 +51,25 @@ Note: The problems, as presented by Project Euler, have definitive inputs with a
 		return output
 	}
 
+## Primality Check
+
+Determining [primality](https://en.wikipedia.org/wiki/Prime_number) of a number is one of the basics in Project Euler. Problem 003 is the first to deal with prime numbers, and while this Extension is not used in my solution, it is something that sets up my solution. This function will be used heavily later on in Project Euler.
+
+	extension Int {
+		var isPrime: Bool {
+			if self == 1 { return false }
+			if self < 4 { return true }
+			if self % 2 == 0 || self % 3 == 0 { return false }
+			let r = Int(sqrt(Double(self)))
+			var f: Int = 5
+			while f <= r {
+				if self % f == 0 || self % (f + 2) == 0 { return false }
+				f += 6
+			}
+			return true
+		}
+	}
+
 ## Find All Prime Factors Of A Number
 
 This is necessary for Problem 003. This code returns an Array of Ints that includes all [prime factors](https://en.wikipedia.org/wiki/Prime_factor) of the tested number. It is implemented as an extension of the Int type, so that any Int can easily return its own prime factors using the example syntax 42.primeFactors or number.primeFactors.
@@ -58,7 +77,7 @@ This is necessary for Problem 003. This code returns an Array of Ints that inclu
 	extension Int {
 		var primeFactors: [Int] {
 			var output: [Int] = []
-			var counter = 2
+			var counter: Int = 2
 			var max = self
 
 			while counter <= max {
@@ -99,8 +118,8 @@ Figuring out whether a string is a [palindrome](https://en.wikipedia.org/wiki/Pa
 			var testString = self
 
 			while testString.characters.count > 1 {
-				let first = testString.characters.popFirst()!
-				let last = testString.characters.popLast()!
+				let first: Character = testString.characters.popFirst()!
+				let last: Character = testString.characters.popLast()!
 				if first != last {
 					return false
 				}
@@ -116,15 +135,15 @@ Figuring out whether a string is a [palindrome](https://en.wikipedia.org/wiki/Pa
 > Find the largest palindrome made from the product of two 3-digit numbers.
 
 	func p004(input: Int = 999) -> Int {
-		var output = 0
+		var output: Int = 0
 
 		while output == 0 {
-			for firstNumber in stride(from: input, to: 1, by: -1) {
+			for firstNumber: Int in stride(from: input, to: 1, by: -1) {
 				if firstNumber.square < output {
 					break
 				}
-				for secondNumber in stride(from: firstNumber, to: 1, by: -1) {
-					let testNumber = firstNumber * secondNumber
+				for secondNumber: Int in stride(from: firstNumber, to: 1, by: -1) {
+					let testNumber: Int = firstNumber * secondNumber
 					if testNumber > output && String(testNumber).isPalindrome {
 						output = testNumber
 					}
@@ -133,6 +152,26 @@ Figuring out whether a string is a [palindrome](https://en.wikipedia.org/wiki/Pa
 		}
 
 		return output
+	}
+
+## Finding The Power Of A Number
+
+Having a function for finding the [exponential power](https://en.wikipedia.org/wiki/Exponentiation) of a number is not necessary, but it does help clean up and simplify functions that make use of it.
+
+	extension Int {
+		func power(by: Int = 1) -> Int {
+			if by <= 0 { return 1 }
+
+			var counter = by
+			var output = self
+
+			while counter > 1 {
+				counter -= 1
+				output *= self
+			}
+
+			return output
+		}
 	}
 
 ## Problem 005 - Smallest Multiple
@@ -145,26 +184,26 @@ Figuring out whether a string is a [palindrome](https://en.wikipedia.org/wiki/Pa
 		var output: Int = 1
 		var primeFactors: [Int: Int] = [:]
 
-		for number in 2...input {
+		for number: Int in 2...input {
 			if number.isPrime {
 				primeFactors[number] = 1
 			} else {
 				var tempFactors: [Int: Int] = [:]
-				for factor in number.primeFactors {
+				for factor: Int in number.primeFactors {
 					if tempFactors[factor] == nil {
 						tempFactors[factor] = 1
 					} else {
 						tempFactors[factor]! += 1
 					}
 				}
-				for factor in tempFactors {
+				for factor: (key: Int, value: Int) in tempFactors {
 					if primeFactors[factor.key]! < factor.value {
 						primeFactors[factor.key] = factor.value
 					}
 				}
 			}
 		}
-		for factor in primeFactors {
+		for factor: (key: Int, value: Int) in primeFactors {
 			output *= factor.key.power(by: factor.value)
 		}
 		return output
@@ -185,10 +224,10 @@ numbers and the square of the sum is 3025 − 385 = 2640.
 natural numbers and the square of the sum.
 
 	func p006(input: Int = 100) -> Int {
-		var squareSum = 0
-		var sumSquare = 0
+		var squareSum: Int = 0
+		var sumSquare: Int = 0
 
-		for number in 1...input {
+		for number: Int in 1...input {
 			squareSum += number
 			sumSquare += number * number
 		}
@@ -203,9 +242,9 @@ natural numbers and the square of the sum.
 > What is the 10,001st prime number?
 
 	func p007(input: Int = 10_001) -> Int {
-		var output = 0
-		var counter = 0
-		var number = 1
+		var output: Int = 0
+		var counter: Int = 0
+		var number: Int = 1
 
 		while counter < input {
 			number += 1
@@ -247,22 +286,22 @@ natural numbers and the square of the sum.
 > Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
 
 	func p008(input: String = p008_input) -> Int {
-		var output = 0
-		var numberArray: [Int] = []
+		var output: Int = 0
 		var currentNumbers: [Int] = []
+		var numberArray: [Int] = []
 
-		for character in input.characters {
+		for character: Character in input.characters {
 			if let number = Int(String(character)) {
 				numberArray.append(number)
 			}
 		}
 		while numberArray.count > 1 {
-			var product = 1
+			var product: Int = 1
 			if currentNumbers.count >= 13 {
 				currentNumbers.removeFirst()
 			}
 			currentNumbers.append(numberArray.removeFirst())
-			for number in currentNumbers {
+			for number: Int in currentNumbers {
 				product *= number
 			}
 			if product > output {
