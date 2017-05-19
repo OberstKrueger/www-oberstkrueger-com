@@ -3,7 +3,7 @@ category: programming
 created: 2017.04.06:0845
 title: The Krueger Report - Project Euler In Swift
 type: page
-updated: 2017.05:17:2100
+updated: 2017.05:18:2045
 ---
 
 # Project Euler In Swift
@@ -23,9 +23,9 @@ Note: The problems, as presented by Project Euler, have definitive inputs with a
 	func p001(input: Int = 1_000) -> Int {
 		var output: Int = 0
 
-		for number in stride(from: 3, to: input, by: 3) { output += number }
-		for number in stride(from: 5, to: input, by: 5) { output += number }
-		for number in stride(from: 15, to: input, by: 15) { output -= number }
+		output += stride(from: 3, to: input, by: 3).reduce(0, +)
+		output += stride(from: 5, to: input, by: 5).reduce(0, +)
+		output += stride(from: 15, to: input, by: 15).reduce(0, -)
 
 		return output
 	}
