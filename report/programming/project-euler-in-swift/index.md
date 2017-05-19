@@ -3,7 +3,7 @@ category: programming
 created: 2017.04.06:0845
 title: The Krueger Report - Project Euler In Swift
 type: page
-updated: 2017.05:18:2045
+updated: 2017.05:18:2115
 ---
 
 # Project Euler In Swift
@@ -58,8 +58,8 @@ Determining [primality](https://en.wikipedia.org/wiki/Prime_number) of a number 
 	extension Int {
 		var isPrime: Bool {
 			if self == 1 { return false }
-			if self < 4 { return true }
-			if self % 2 == 0 || self % 3 == 0 { return false }
+			if self % 2 == 0 { return self == 2 }
+			if self % 3 == 0 { return self == 3 }
 			let r = Int(sqrt(Double(self)))
 			var f: Int = 5
 			while f <= r {
