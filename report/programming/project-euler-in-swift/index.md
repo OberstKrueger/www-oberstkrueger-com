@@ -3,7 +3,7 @@ category: programming
 created: 2017.04.06:0845
 title: The Krueger Report - Project Euler In Swift
 type: page
-updated: 2017.05:18:2115
+updated: 2017.05:19:0615
 ---
 
 # Project Euler In Swift
@@ -21,13 +21,11 @@ Note: The problems, as presented by Project Euler, have definitive inputs with a
 > Find the sum of all the multiples of 3 or 5 below 1000.
 
 	func p001(input: Int = 1_000) -> Int {
-		var output: Int = 0
 
-		output += stride(from: 3, to: input, by: 3).reduce(0, +)
-		output += stride(from: 5, to: input, by: 5).reduce(0, +)
-		output += stride(from: 15, to: input, by: 15).reduce(0, -)
+		return stride(from: 3, to: input, by: 3).reduce(0, +) +
+			stride(from: 5, to: input, by: 5).reduce(0, +) +
+			stride(from: 15, to: input, by: 15).reduce(0, -)
 
-		return output
 	}
 
 ## Problem 002 - Even Fibonacci Numbers
