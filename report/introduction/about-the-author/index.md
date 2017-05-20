@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.05.16:1530
+updated: 2017.05.20:0645
 ---
 
 # About The Author
@@ -57,7 +57,6 @@ While my day job is not related to technology, I have a passion for both learnin
 ## Current Games
 
 - [Final Fantasy XIV: Heavensward](http://www.finalfantasyxiv.com)
-- [Tron 2.0](https://en.wikipedia.org/wiki/Tron_2.0)
 
 ## Current Podcasts
 
