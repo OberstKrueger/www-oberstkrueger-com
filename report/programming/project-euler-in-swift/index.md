@@ -3,7 +3,7 @@ category: programming
 created: 2017.04.06:0845
 title: The Krueger Report - Project Euler In Swift
 type: page
-updated: 2017.05:19:0615
+updated: 2017.05.20:2045
 ---
 
 # Project Euler In Swift
@@ -99,11 +99,8 @@ This is necessary for Problem 003. This code returns an Array of Ints that inclu
 
 	func p003(input: Int = 600_851_475_143) -> Int {
 
-		if let number = input.primeFactors.last {
-			return number
-		} else {
-			return 0
-		}
+		if let number = input.primeFactors.last { return number }
+		else { return 0 }
 
 	}
 
