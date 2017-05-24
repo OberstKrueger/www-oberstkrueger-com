@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.05.20:0645
+updated: 2017.05.20:1515
 ---
 
 # About The Author
@@ -62,6 +62,8 @@ While my day job is not related to technology, I have a passion for both learnin
 
 - [Accidental Tech Podcast](http://atp.fm)
 - [Cortex](https://www.relay.fm/cortex)
+- [Note To Self](http://www.wnyc.org/shows/notetoself/)
+- [Presentable](https://www.relay.fm/presentable)
 - [Reasonably Sound](http://reasonablysound.com)
 - [Science Vs](https://gimletmedia.com/science-vs/)
 - [The Haskell Cast](http://www.haskellcast.com)
