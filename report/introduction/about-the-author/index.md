@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.05.20:1515
+updated: 2017.05.25.1700
 ---
 
 # About The Author
@@ -56,6 +56,7 @@ While my day job is not related to technology, I have a passion for both learnin
 
 ## Current Games
 
+- [EverQuest](https://www.everquest.com/news/agnarr-progression-server-now-available-2017)
 - [Final Fantasy XIV: Heavensward](http://www.finalfantasyxiv.com)
 
 ## Current Podcasts
