@@ -277,6 +277,42 @@ figure {
 		text-align: center;
 		width: 90%;
 	}
+	&.halfLeft {
+		max-width: $maxWidthText;
+		width: 90%;
+		img {
+			float: left;
+			margin-right: 8px;
+			width: 50%;
+		}
+	}
+	&.halfRight {
+		max-width: $maxWidthText;
+		width: 90%;
+		img {
+			float: right;
+			margin-left: 8px;
+			width: 50%;
+		}
+	}
+	&.quarterLeft {
+		max-width: $maxWidthText;
+		width: 90%;
+		img {
+			float: left;
+			margin-right: 8px;
+			width: 25%;
+		}
+	}
+	&.quarterRight {
+		max-width: $maxWidthText;
+		width: 90%;
+		img {
+			float: right;
+			margin-left: 8px;
+			width: 25%;
+		}
+	}
 }
 
 img {
