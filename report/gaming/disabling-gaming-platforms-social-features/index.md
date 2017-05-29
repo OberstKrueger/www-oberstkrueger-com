@@ -3,7 +3,7 @@ category: gaming
 created: 2016.06.22:0745
 title: The Krueger Report - Disabling Gaming Platforms’ Social Features
 type: page
-updated: 2017.05.29:1330
+updated: 2017.05.29:1345
 ---
 
 # Disabling Gaming Platforms' Social Features
@@ -19,6 +19,10 @@ There are two main ways to play Blizzard games: download the individual clients 
 The only games that do not require the Desktop app are Blizzard's repetoire of classic games: [Diablo 2](http://classic.battle.net/diablo2exp/), [Starcraft](http://classic.battle.net/scc/), and [Warcraft 3](http://classic.battle.net/war3/).
 
 The key problem with the Blizzard Desktop App is that it does not allow you to disable any of the social features. When logged in, there are three options available for the friends list: Online, Away, and Busy. All of these options will have you show up one way or another to everyone on your friends list. The only way to not show up as online in some form is to log out or close the application.
+
+<figure class="textBound">
+<img src="/images/disabling-gaming-platforms-social-features_blizzard.jpg">
+</figure>
 
 It is possible to not have the Blizzard Desktop App running while playing some of the games, but there is no practical purpose to doing so. The game itself will log you into the same social features as the Desktop App, and the Desktop App is still required to update the games.
 
@@ -40,12 +44,24 @@ The only feature that can not be fully disabled is the friends list. If you wish
 
 For those who do not wish to disable every feature, GOG offers granular control over every option. Certain features can be left on, and all notifications by GOG Galaxy allow you to be notified by a desktop popup, a sound, or both. 
 
+<figure class="textBound">
+<img src="/images/disabling-gaming-platforms-social-features_gog.png">
+</figure>
+
 ### Steam
 
 [Steam](http://steampowered.com) was the easiest to get into a more quiet state. There are two settings that need to be changed.
 
 The first is to disable the setting for the in-game Steam Overlay. This prevents any notifications from appearing in-game. The side effect of this is the Steam browser is no longer accessible. I rarely used the browser, and alt-tab still works, so this was a non-issue for me. This is required to turn off achievement notifications, as Steam does not allow you to disable just those notifications.
 
+<figure class="textBound">
+<img src="/images/disabling-gaming-platforms-social-features_steam-ingame.png">
+</figure>
+
 The second setting is to either log out of Steam Friends, or set it so that it does not log you in at all. Since I have little to no communication with people through this list, keeping it turned off provides no downsides.
+
+<figure class="textBound">
+<img src="/images/disabling-gaming-platforms-social-features_steam-friends.png">
+</figure>
 
 Achievement tracking as a whole can not be disabled. While they can not be seen in-game with the Steam overlay off, they will still display in your profile and on your library screen. It is possible to make your player profile hidden from everyone, including friends, but this can break functionality of outside services, such as [GOG Connect](https://www.gog.com/connect).
