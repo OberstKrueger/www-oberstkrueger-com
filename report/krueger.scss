@@ -278,6 +278,7 @@ figure {
 		width: 90%;
 	}
 	&.halfLeft {
+		margin-bottom: 0;
 		max-width: $maxWidthText;
 		width: 90%;
 		img {
@@ -287,6 +288,7 @@ figure {
 		}
 	}
 	&.halfRight {
+		margin-bottom: 0;
 		max-width: $maxWidthText;
 		width: 90%;
 		img {
@@ -296,6 +298,7 @@ figure {
 		}
 	}
 	&.quarterLeft {
+		margin-bottom: 0;
 		max-width: $maxWidthText;
 		width: 90%;
 		img {
@@ -305,6 +308,7 @@ figure {
 		}
 	}
 	&.quarterRight {
+		margin-bottom: 0;
 		max-width: $maxWidthText;
 		width: 90%;
 		img {
