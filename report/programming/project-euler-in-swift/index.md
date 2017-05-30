@@ -3,7 +3,7 @@ category: programming
 created: 2017.04.06:0845
 title: The Krueger Report - Project Euler In Swift
 type: page
-updated: 2017.05.20:2045
+updated: 2017.05.30:1330
 ---
 
 # Project Euler In Swift
@@ -120,6 +120,16 @@ Figuring out whether a string is a [palindrome](https://en.wikipedia.org/wiki/Pa
 				}
 			}
 			return true
+		}
+	}
+
+## Finding Square Of An Integer
+
+The square number of an integer is simply the integer times itself once. It is a simple calculation, but one that I prefer to put in an Extension just to make sure later code is a little cleaner.
+
+	extension Int {
+		var square: Int {
+			return self * self
 		}
 	}
 
@@ -305,4 +315,32 @@ natural numbers and the square of the sum.
 		}
 
 		return output
+	}
+
+## Problem 009 - Special Pythagorean Triplet
+
+> A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
+>
+> a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>
+>
+> For example, 3<sup>2</sup> + 4<sup>2</sup> = 9 + 16 = 25 = 5<sup>2</sup>.
+>
+> There exists exactly one Pythagorean triplet for which a + b + c = 1000.
+>
+> Find the product abc.
+
+	func p009(input: Int = 1_000) -> Int {
+		let halfInput = input / 2
+
+		for number1: Int in 1..<input {
+			for number2: Int in (number1 + 1)...input {
+				if number2 * (number1 + number2) == halfInput {
+					return (2 * number1 * number2) *
+						(number2.square - number1.square) *
+						(number1.square + number2.square)
+				}
+			}
+		}
+
+		return 0
 	}
