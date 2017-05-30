@@ -3,7 +3,7 @@ category: programming
 created: 2017.04.06:0845
 title: The Krueger Report - Project Euler In Swift
 type: page
-updated: 2017.05.30:1330
+updated: 2017.05.30:1400
 ---
 
 # Project Euler In Swift
@@ -229,15 +229,10 @@ numbers and the square of the sum is 3025 − 385 = 2640.
 natural numbers and the square of the sum.
 
 	func p006(input: Int = 100) -> Int {
-		var squareSum: Int = 0
-		var sumSquare: Int = 0
+		let squareSum: Int = stride(from: 1, to: input + 1, by: 1).reduce(0, +)
+		let sumSquare: Int = stride(from: 1, to: input + 1, by: 1).reduce(0, {$0 + $1 * $1})
 
-		for number: Int in 1...input {
-			squareSum += number
-			sumSquare += number * number
-		}
-
-		return (squareSum * squareSum) - sumSquare
+		return squareSum.square - sumSquare
 	}
 
 ## Problem 007 - 10001st Prime
