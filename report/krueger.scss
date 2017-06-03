@@ -25,6 +25,16 @@ $maxWidthText: 40.75rem;
 /*
 	TYPOGRAPHY
 */
+html {
+	font-family: $fontStack;
+	font-feature-settings: "dlig" 1, "kern" 1;
+	font-size: $fontSize;
+	line-height: $lineHeight;
+	@media print {
+		font-size: $fontSizePrint;
+	}
+}
+
 b, strong {
 	font-weight: $fontWeightThick;
 }
@@ -183,12 +193,6 @@ html {
 	background-color: $colorBackground;
 	box-sizing: border-box;
 	color: $colorText;
-	font-family: $fontStack;
-	font-size: $fontSize;
-	line-height: $lineHeight;
-	@media print {
-		font-size: $fontSizePrint;
-	}
 }
 
 body {
