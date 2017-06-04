@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.06.04:0500
+updated: 2017.06.04:0515
 ---
 
 # About The Author
@@ -62,6 +62,7 @@ While my day job is not related to technology, I have a passion for both learnin
 
 ## Current Podcasts
 
+- [99% Invisible](http://99percentinvisible.org)
 - [Accidental Tech Podcast](http://atp.fm)
 - [Cortex](https://www.relay.fm/cortex)
 - [Note To Self](http://www.wnyc.org/shows/notetoself/)
@@ -69,5 +70,6 @@ While my day job is not related to technology, I have a passion for both learnin
 - [Science Vs](https://gimletmedia.com/science-vs/)
 - [The West Wing Weekly](http://thewestwingweekly.com)
 - [Under The Radar](https://www.relay.fm/radar)
+- [Up First](http://www.npr.org/podcasts/510318/up-first)
 - [Welcome To Macintosh](http://www.macintosh.fm)
 - [You Are Not So Smart](https://youarenotsosmart.com/podcast/)
