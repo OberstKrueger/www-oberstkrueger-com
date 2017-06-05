@@ -8,9 +8,9 @@ updated: 2017.06.04:1930
 
 ## Introduction
 
+- [Updates](/introduction/updates)
 - [About The Author](/introduction/about-the-author)
 - [Tools Used To Create This](/introduction/tools-used-to-create-this)
-- [Updates](/introduction/updates)
 
 ## Gaming
 
@@ -21,8 +21,8 @@ updated: 2017.06.04:1930
 
 - [Exercise Routine](/health/exercise-routine)
 - [Iced Coffee](/health/iced-coffee)
-- [Tracking Sleep](/health/tracking-sleep)
 - [Vitamin B<sub>12</sub>](/health/vitamin-b12)
+- [Tracking Sleep](/health/tracking-sleep)
 
 ## Life
 
@@ -35,10 +35,10 @@ updated: 2017.06.04:1930
 
 ## Technology
 
+- [Software Tools](/technology/software-tools)
 - [Backups](/technology/backups)
 - [DuckDuckGo](/technology/duckduckgo)
 - [Logging Off Facebook](/technology/logging-off-facebook)
-- [Software Tools](/technology/software-tools)
 
 ## Appendices
 
