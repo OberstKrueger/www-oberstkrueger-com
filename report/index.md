@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2017.06.04:1930
+updated: 2017.06.05:0415
 ---
 
 ## Introduction
@@ -42,5 +42,5 @@ updated: 2017.06.04:1930
 
 ## Appendices
 
-- [Games I Have Played](/appendicies/games-i-have-played)
-- [Podcasts I Have Listened To](/podcasts-i-have-listened-to)
+- [Games I Have Played](/appendices/games-i-have-played)
+- [Podcasts I Have Listened To](/appendices/podcasts-i-have-listened-to)
