@@ -1,14 +1,12 @@
 ---
-category: gaming
+category: appendices
 created: 2016.11.23:0700
 title: The Krueger Report - Games I Have Played
 type: page
-updated: 2017.05.16:1530
+updated: 2017.06.04:1915
 ---
 
 # Games I Have Played
-
-This is a running list of every game I have played throughout my life. There will be plenty of omissions from the list starting out, as this is a ton of games to fill in, but as I come across games I have played, they will be added to the list.
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
 
