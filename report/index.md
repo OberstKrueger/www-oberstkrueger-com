@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2017.05.14:0845
+updated: 2017.06.04:1930
 ---
 
 ## Introduction
@@ -16,7 +16,6 @@ updated: 2017.05.14:0845
 
 - [Asheron's Call](/gaming/asherons-call)
 - [Disabling Gaming Platform's Social Features](/gaming/disabling-gaming-platforms-social-features)
-- [Games I Have Played](/gaming/games-i-have-played)
 
 ## Health
 
@@ -40,3 +39,8 @@ updated: 2017.05.14:0845
 - [DuckDuckGo](/technology/duckduckgo)
 - [Logging Off Facebook](/technology/logging-off-facebook)
 - [Software Tools](/technology/software-tools)
+
+## Appendices
+
+- [Games I Have Played](/appendicies/games-i-have-played)
+- [Podcasts I Have Listened To](/podcasts-i-have-listened-to)
