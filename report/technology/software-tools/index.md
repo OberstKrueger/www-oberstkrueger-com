@@ -3,7 +3,7 @@ category: technology
 created: 2017.02.27:1700
 title: Selecting Software Tools
 type: page
-updated: 2017.03.31:0700
+updated: 2017.06.05:1900
 ---
 
 # Software Tools
@@ -101,8 +101,3 @@ This is my criteria for all software that I use. When evaluating new application
 **OS**: macOS<br>
 **Used Since**: July 1, 2011<br>
 **Previously Used**: [TextWrangler](http://www.barebones.com/products/textwrangler/)
-
-**Name**: [Yoga Studio](http://www.yogastudioapp.com)<br>
-**Type**: Yoga<br>
-**OS**: iOS, tvOS<br>
-**Used Since**: September 23, 2013<br>
