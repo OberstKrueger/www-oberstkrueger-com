@@ -3,7 +3,7 @@ category: programming
 created: 2017.04.06:0845
 title: The Krueger Report - Project Euler In Swift
 type: page
-updated: 2017.05.30:1400
+updated: 2017.06.06:1345
 ---
 
 # Project Euler In Swift
@@ -338,4 +338,49 @@ natural numbers and the square of the sum.
 		}
 
 		return 0
+	}
+
+## Square Root Of An Integer
+
+Simple extension to Int. Far from necessary due to how short it is, but keeps the double type-casting in a single spot instead of littering every place that it is needed.
+
+	extension Int {
+		var squareRoot: Int {
+			return Int(sqrt(Double(self)))
+		}
+	}
+
+## Finding Primes Using The Sieve Of Eratosthenes
+
+The next problem can be solved quickly using the above primality check, but it presents a good opportunity to test out an algorithm for the [sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes).
+
+	func sieve(target: Int) -> [Int] {
+		var checks: [Bool] = Array(repeating: true, count: target)
+		var primes: [Int] = []
+		
+		for number in 2...target.squareRoot {
+			if number.isPrime {
+				var counter = number * 2
+				while counter < target {
+					checks[counter] = false
+					counter += number
+				}
+			}
+		}
+		
+		for number in 2..<target {
+			if checks[number] == true { primes.append((number)) }
+		}
+		
+		return primes
+	}
+
+## Problem 010 - Summation Of Primes
+
+> The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
+> 
+> Find the sum of all the primes below two million.
+
+	func p010(input: Int = 2_000_000) -> Int {
+		return sieve(target: input).reduce(0, +)
 	}
