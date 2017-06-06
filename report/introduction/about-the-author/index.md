@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.06.04:0515
+updated: 2017.06.05:1730
 ---
 
 # About The Author
@@ -58,6 +58,7 @@ While my day job is not related to technology, I have a passion for both learnin
 
 - [EverQuest](https://www.everquest.com/news/agnarr-progression-server-now-available-2017)
 - [Final Fantasy XIV: Heavensward](http://www.finalfantasyxiv.com)
+- [Monument Valley 2](https://en.wikipedia.org/wiki/Monument_Valley_2)
 - [Torment: Tides of Numenera](https://torment.inxile-entertainment.com)
 
 ## Current Podcasts
