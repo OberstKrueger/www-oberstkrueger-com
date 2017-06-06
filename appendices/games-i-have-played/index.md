@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: The Krueger Report - Games I Have Played
 type: page
-updated: 2017.06.04:1915
+updated: 2017.06.05:1730
 ---
 
 # Games I Have Played
@@ -67,6 +67,7 @@ updated: 2017.06.04:1915
 - [Lara Croft Go](https://en.wikipedia.org/wiki/Lara_Croft_Go)
 - [Letterpress](http://www.letterpressapp.com)
 - [Monument Valley](https://en.wikipedia.org/wiki/Monument_Valley_(video_game))
+- [Monument Valley 2](https://en.wikipedia.org/wiki/Monument_Valley_2)
 - [Planet Quest](http://planetquest.co.uk)
 - [Plants vs. Zombies](https://en.wikipedia.org/wiki/Plants_vs._Zombies)
 - [Plants vz. Zombies 2: It's About Time](https://en.wikipedia.org/wiki/Plants_vs._Zombies_2:_It%27s_About_Time)
