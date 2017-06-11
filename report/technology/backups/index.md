@@ -3,7 +3,7 @@ category: technology
 created: 2016.11.17:0400
 title: The Krueger Report - Backups
 type: page
-updated: 2016.11.17:0400
+updated: 2017.06.10:1445
 ---
 
 # Backups
@@ -12,7 +12,7 @@ It has been nearly 15 years since I last experienced a catastrophic data failure
 
 Ever since then, I have had at least a single backup of all of my data. While one backup is better than none, it still left me open to complete data loss. The couple of times that my primary hard drive failed, I was left with a single working drive. My data was intact, but I was one drive failure away from complete loss.
 
-With the advent of [Dropbox](https://www.dropbox.com), [MobileMe](https://en.wikipedia.org/wiki/MobileMe), and [iCloud](https://www.icloud.com), I began to keep the most important of my files backed up online. Should both of my hard drives die, I would have the essential files: Pictures, school papers, other writings. But I would still lose all of my music and videos. At the time these services came about, online backup of hundreds of gigabytes was prohibitively expensive.
+With the advent of [Dropbox](https://www.dropbox.com), [MobileMe](https://en.wikipedia.org/wiki/MobileMe), and [iCloud](https://www.icloud.com), I began to keep the most important of my files backed up online. Should all of computer storage suffer irreparable damage, I would have the essential files: pictures, school papers, other writings. But I would still lose all of my music and videos. At the time these services came about, online backup of hundreds of gigabytes was prohibitively expensive.
 
 In recent years, that has changed. Tons of online services focused on data backup have come into existence. These services have reached a point where they are now cheap enough to be viable, even when the amount of data being backed up exceeds 1 terabyte.
 
@@ -38,22 +38,18 @@ Since Arq is just a front-end for the backup, it requires a separate cloud servi
 The above cloud services have varying ways to charge you. Some charge a flat fee per month, some charge by the amount of storage, and some have additional costs for restoring the data. To account for high storage needs, I took the pricing of all of the services and calculated out how much it would cost per month to store 1 terabyte of data. All of the costs are in US Dollars.
 
 - **Amazon Cloud Drive**: $5 for storage, free to restore
-- **AWS Glacier**: $4.09 for storage, $92.07 to restore
-- **AWS S3**: $23.55 for storage, $92.07 to restore
-- **AWS S3 Infrequent Access**: $12.80 for storage, $92.07 to restore
+- **AWS Glacier**: $4.10 for storage, $93.88 to restore
+- **AWS S3**: $23.44 for storage, $102.31 to restore
+- **AWS S3 Infrequent Access**: $12.80 for storage, $102.31 to restore
 - **Dropbox**: $8.25, free to restore
-- **Google Coldline Storage**: $7.17 for storage, $122.88 to restore
-- **Google Nearline Storage**: $10.24 for storage, $122.88 to restore
-- **Google Drive**: $9.99 for storage, free to restore
-- **Microsoft OneDrive**: $6.99 for storage, free to restore
+- **Google Coldline Storage**: $7.17 for storage, $174.08 to restore
+- **Google Nearline Storage**: $10.24 for storage, $133.12 to restore
+- **Google Drive**: $8.33 for storage, free to restore
+- **Microsoft OneDrive**: $5.83 for storage, free to restore
 
 Monthly storage cost is important, but if restoring the data is prohibitively expensive, then that particular option is out. In the case of complete data loss, all of the AWS options and Google Storage options are too expensive. It would cost around one hundred dollars per terabyte to restore, which can add up quickly given my backup sizes.
 
-Dropbox, Google Drive, and Microsoft OneDrive are all priced nicely, but their cost comes in strict tiers. For example, Google Drive charges $9.99/month for 1 terabyte, but if you need to store more, you must pay $99.99/month for 10 terabytes. There is no middle-ground between 1 terabyte and 10 terabytes. Dropbox and OneDrive only offer tiers up to 1 terabyte, and not larger. Without more precise tiers, these services are either too expensive or not adaptable enough for my needs.
-
-This leaves only Amazon Cloud Drive. $5 not only gets you unlimited storage per month, but is also one of the few to not charge anything for restoring the backup.
-
-Given these conditions, I went with Amazon Cloud Drive for my current backup solution.
+Dropbox, Google Drive, and Microsoft OneDrive are all priced nicely, but their cost comes in strict tiers. For example, Google Drive charges $9.99/month for 1 terabyte, but if you need to store more, you must pay $99.99/month for 10 terabytes. There is no middle-ground between 1 terabyte and 10 terabytes. Dropbox and OneDrive only offer tiers up to 1 terabyte, and not larger. Without more precise tiers, these services are either too expensive or not adaptable enough for my needs. Amazon Cloud Drive charges per terabyte with a max of 30 terabytes total, but allows the most flexibility of those in this category of services.
 
 ### Current Solution
 
