@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: The Krueger Report - Games I Have Played
 type: page
-updated: 2017.06.05:1730
+updated: 2017.06.11:1945
 ---
 
 # Games I Have Played
@@ -390,6 +390,7 @@ updated: 2017.06.05:1730
 - [Star Wars: The Old Republic](https://en.wikipedia.org/wiki/Star_Wars:_The_Old_Republic)
 - [Star Wars Episode I: Racer](https://en.wikipedia.org/wiki/Star_Wars_Episode_I:_Racer)
 - [Star Wars Galaxies](https://en.wikipedia.org/wiki/Star_Wars_Galaxies)
+- [Stellaris](https://en.wikipedia.org/wiki/Stellaris_(video_game))
 - [Super Meat Boy](https://en.wikipedia.org/wiki/Super_Meat_Boy)
 - [Superbrothers: Swords and Sworcery EP](https://en.wikipedia.org/wiki/Superbrothers:_Sword_%26_Sworcery_EP)
 - [System Shock](https://en.wikipedia.org/wiki/System_Shock)
