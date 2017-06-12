@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.06.11:1845
+updated: 2017.06.11:1930
 ---
 
 # About The Author
@@ -57,6 +57,7 @@ While my day job is not related to technology, I have a passion for both learnin
 ## Current Games
 
 - [Final Fantasy XIV: Heavensward](http://www.finalfantasyxiv.com)
+- [Stellaris](http://www.stellarisgame.com)
 - [Torment: Tides of Numenera](https://torment.inxile-entertainment.com)
 
 ## Current Podcasts
