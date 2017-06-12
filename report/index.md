@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2017.06.05:0415
+updated: 2017.06.11:1345
 ---
 
 ## Introduction
@@ -42,5 +42,7 @@ updated: 2017.06.05:0415
 
 ## Appendices
 
+- [Books I Have Read](/appendices/books-i-have-read)
 - [Games I Have Played](/appendices/games-i-have-played)
 - [Podcasts I Have Listened To](/appendices/podcasts-i-have-listened-to)
+- [Random Notes](/appendices/random-notes)
