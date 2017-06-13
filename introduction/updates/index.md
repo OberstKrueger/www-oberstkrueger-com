@@ -3,10 +3,65 @@ category: introduction
 created: 2017.02.27:1700
 title: The Krueger Report - Updates
 type: page
-updated: 2017.05.14:0845
+updated: 2017.06.12:1815
 ---
 
 # Updates
+
+## 2017.06.12
+
+### Appendices
+
+One of the (largely less interesting?) parts of this project is documenting all of the types of media that I have experienced. The first page of this was [Games I Have Played](https://krueger.report/appendices/games-i-have-played), and with the addition of [Podcasts I Have Listened To](https://krueger.report/appendices/podcasts-i-have-listened-to/), I decided to move this information to a new section. Since I am mimicking the structure of a book, I thought that putting these in as Appendices made sense, since it's less important information and can sit at the end of the whole project. It also opens up the possibility of me adding other appendices as time goes on without it diluting the worth of other content.
+
+### Books Read
+
+- The Body Has a Mind of Its Own: How Body Maps in Your Brain Help You Do (Almost) Everything Better, by Sandra Blakeslee and Matthew Blakeslee
+- The Horse and His Boy, by C.S. Lewis
+- The Wanderers, by Meg Howrey
+- Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, and UNIX Systems, 2nd Edition, by Dave Taylor and Brandon Perry
+
+### Favorite Readings
+
+- [Audi and Volvo will use Android as the operating system in upcoming cars](https://www.theverge.com/2017/5/15/15640596/google-android-auto-audi-volvo-apple-carplay-io-2017)
+- [Chelsea Manning, who served more prison time than any US leaker, is freed](https://arstechnica.com/tech-policy/2017/05/chelsea-manning-freed-from-military-prison/)
+- [How Anker is beating Apple and Samsung at their own accessory game](https://www.theverge.com/2017/5/22/15673712/anker-battery-charger-amazon-empire-steven-yang-interview)
+- [Genetically engineered humans will arrive sooner than you think. And we're not ready.](https://www.vox.com/conversations/2016/10/24/13357298/michael-bess-biotechnology-bioengineering-technology-revolution-science)
+- [Is Final Fantasy 12: The Zodiac Age the blueprint for renovating old games?](https://arstechnica.com/gaming/2017/05/final-fantasy-12-the-zodiac-age/)
+- [Lawyer who founded Prenda Law is disbarred](https://arstechnica.com/tech-policy/2017/05/john-steele-porn-troll-who-founded-prenda-law-is-disbarred/)
+- [Leaving social media taught me how broken the news cycle is](https://fivethirtyeight.com/features/leaving-social-media-taught-me-how-broken-the-news-cycle-is/)
+- [“MP3 is dead” missed the real, much better story](https://marco.org/2017/05/15/mp3-isnt-dead)
+- [Monument Valley just got a surprise sequel](https://www.theverge.com/2017/6/5/15728558/monument-valley-2-announce-release-iphone-ipad)
+- [Nighttime temperature and human sleep loss in a changing climate](http://advances.sciencemag.org/content/3/5/e1601555.full)
+- [Pharmaceutical marketing for rare diseases: regulating drug company promotion in an era of unprecedented advertisement](http://jamanetwork.com/journals/jama/fullarticle/2628701)
+- [Self-driving electric cars will dominate roads by 2030](http://spectrum.ieee.org/cars-that-think/transportation/self-driving/rethinkx-selfdriving-electric-cars-will-dominate-roads-by-2030)
+- [The disappearing computing](https://www.theverge.com/2017/5/25/15686870/walt-mossberg-final-column-the-disappearing-computer)
+- [‘The Internet is broken’: @ev is trying to salvage it](https://nytimes.com/2017/05/20/technology/evan-williams-medium-twitter-internet.html)
+- [The neutrality delusion](https://www.technologyreview.com/s/607984/the-neutrality-delusion/)
+- [The purpose of life is to be a nobody](https://medium.com/personal-growth/the-purpose-of-life-is-to-be-a-nobody-72ceeb078373)
+- [The secret to a long and healthy life? Eat less](http://www.bbc.com/future/story/20170601-the-secret-to-a-long-and-healthy-life-eat-less)
+- [The uncertainty machine](https://aeon.co/essays/forget-prophecy-the-i-ching-is-an-uncertainty-machine)
+- [Two years of Rust](http://blog.rust-lang.org/2017/05/15/rust-at-two-years.html)
+- [watchOS 4 introduces proactive watch face, streamlined navigation, and fresh refinements](https://www.macstories.net/news/watchos-4-introduces-proactive-watch-face-streamlined-navigation-and-fresh-refinements/)
+- [Welcome to Pandora, Avatars are included](https://www.theverge.com/2017/5/27/15701562/pandora-world-of-avatar-disney-world-review)
+- [What's new in Swift 4.0](https://www.hackingwithswift.com/swift4)
+- [Why programmers should automate more](https://shubhamjain.co/2017/05/06/why-programmers-should-automate-more)
+- [Why you can't help but act your age](http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age)
+
+### Games Played
+
+- [EverQuest](https://en.wikipedia.org/wiki/EverQuest)
+- [Final Fantasy XIV: Heavensward](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Heavensward)
+- [Monument Valley 2](https://en.wikipedia.org/wiki/Monument_Valley_2)
+- [Tron 2.0](https://en.wikipedia.org/wiki/Tron_2.0)
+
+### Updates
+
+In the past month, I have revamped my [Exercise Routine](https://krueger.report/health/exercise-routine/). The activities are largely the same, but I have moved away from certain exercises being done only on certain days. The scripts for calculating my exercise build-ups has also been updated to Python due to the simplicity of the used code.
+
+In March, GOG updated GOG Galaxy to include more typical gaming platform features: achievement tracking and playtime tracking. Since these are features that I do not wish to take part in, I explored if GOG allowed these features to be disabled. Thankfully, they are, and I have updated [Disabling Gaming Platforms' Social Features](https://krueger.report/gaming/disabling-gaming-platforms-social-features/) with that information.
+
+I added a few more problems to [Project Euler In Swift](https://krueger.report/programming/project-euler-in-swift/), but not as many as I would have liked. The past few months, I have been experimenting with the tools I use to program, and going through a philosophical debate between the lean Sublime Text and heavier Xcode. With the addition of a solid-state drive in my Mac Mini and all of the recent announcements at WWDC 2017, I have decided to double down not only on Xcode but GUI application development as well. Project Euler will continue to be my weekly programming puzzle to solve, but I will first be reworking it to fit better into Xcode.
 
 ## 2017.05.14
 
