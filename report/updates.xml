@@ -7,7 +7,80 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2017-05-14T08:45:00Z</updated>
+<updated>2017-06-12T18:15:00Z</updated>
+
+<entry>
+<title>Updates For June 12, 2017</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/20170612</id>
+<published>2017-06-12T18:15:00Z</published>
+<updated>2017-06-12T18:15:00Z</updated>
+<content type="html">
+<![CDATA[
+<h3>Appendices</h3>
+
+<p>One of the (largely less interesting?) parts of this project is documenting all of the types of media that I have experienced. The first page of this was <a href="https://krueger.report/appendices/games-i-have-played">Games I Have Played</a>, and with the addition of <a href="https://krueger.report/appendices/podcasts-i-have-listened-to/">Podcasts I Have Listened To</a>, I decided to move this information to a new section. Since I am mimicking the structure of a book, I thought that putting these in as Appendices made sense, since it's less important information and can sit at the end of the whole project. It also opens up the possibility of me adding other appendices as time goes on without it diluting the worth of other content.</p>
+
+<h3>Books Read</h3>
+
+<ul>
+<li>The Body Has a Mind of Its Own: How Body Maps in Your Brain Help You Do (Almost) Everything Better, by Sandra Blakeslee and Matthew Blakeslee</li>
+<li>The Horse and His Boy, by C.S. Lewis</li>
+<li>The Wanderers, by Meg Howrey</li>
+<li>Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, and UNIX Systems, 2nd Edition, by Dave Taylor and Brandon Perry</li>
+</ul>
+
+<h3>Favorite Readings</h3>
+
+<ul>
+<li><a href="https://www.theverge.com/2017/5/15/15640596/google-android-auto-audi-volvo-apple-carplay-io-2017">Audi and Volvo will use Android as the operating system in upcoming cars</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2017/05/chelsea-manning-freed-from-military-prison/">Chelsea Manning, who served more prison time than any US leaker, is freed</a></li>
+<li><a href="https://www.theverge.com/2017/5/22/15673712/anker-battery-charger-amazon-empire-steven-yang-interview">How Anker is beating Apple and Samsung at their own accessory game</a></li>
+<li><a href="https://www.vox.com/conversations/2016/10/24/13357298/michael-bess-biotechnology-bioengineering-technology-revolution-science">Genetically engineered humans will arrive sooner than you think. And we're not ready.</a></li>
+<li><a href="https://arstechnica.com/gaming/2017/05/final-fantasy-12-the-zodiac-age/">Is Final Fantasy 12: The Zodiac Age the blueprint for renovating old games?</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2017/05/john-steele-porn-troll-who-founded-prenda-law-is-disbarred/">Lawyer who founded Prenda Law is disbarred</a></li>
+<li><a href="https://fivethirtyeight.com/features/leaving-social-media-taught-me-how-broken-the-news-cycle-is/">Leaving social media taught me how broken the news cycle is</a></li>
+<li><a href="https://marco.org/2017/05/15/mp3-isnt-dead">“MP3 is dead” missed the real, much better story</a></li>
+<li><a href="https://www.theverge.com/2017/6/5/15728558/monument-valley-2-announce-release-iphone-ipad">Monument Valley just got a surprise sequel</a></li>
+<li><a href="http://advances.sciencemag.org/content/3/5/e1601555.full">Nighttime temperature and human sleep loss in a changing climate</a></li>
+<li><a href="http://jamanetwork.com/journals/jama/fullarticle/2628701">Pharmaceutical marketing for rare diseases: regulating drug company promotion in an era of unprecedented advertisement</a></li>
+<li><a href="http://spectrum.ieee.org/cars-that-think/transportation/self-driving/rethinkx-selfdriving-electric-cars-will-dominate-roads-by-2030">Self-driving electric cars will dominate roads by 2030</a></li>
+<li><a href="https://www.theverge.com/2017/5/25/15686870/walt-mossberg-final-column-the-disappearing-computer">The disappearing computing</a></li>
+<li><a href="https://nytimes.com/2017/05/20/technology/evan-williams-medium-twitter-internet.html">‘The Internet is broken’: @ev is trying to salvage it</a></li>
+<li><a href="https://www.technologyreview.com/s/607984/the-neutrality-delusion/">The neutrality delusion</a></li>
+<li><a href="https://medium.com/personal-growth/the-purpose-of-life-is-to-be-a-nobody-72ceeb078373">The purpose of life is to be a nobody</a></li>
+<li><a href="http://www.bbc.com/future/story/20170601-the-secret-to-a-long-and-healthy-life-eat-less">The secret to a long and healthy life? Eat less</a></li>
+<li><a href="https://aeon.co/essays/forget-prophecy-the-i-ching-is-an-uncertainty-machine">The uncertainty machine</a></li>
+<li><a href="http://blog.rust-lang.org/2017/05/15/rust-at-two-years.html">Two years of Rust</a></li>
+<li><a href="https://www.macstories.net/news/watchos-4-introduces-proactive-watch-face-streamlined-navigation-and-fresh-refinements/">watchOS 4 introduces proactive watch face, streamlined navigation, and fresh refinements</a></li>
+<li><a href="https://www.theverge.com/2017/5/27/15701562/pandora-world-of-avatar-disney-world-review">Welcome to Pandora, Avatars are included</a></li>
+<li><a href="https://www.hackingwithswift.com/swift4">What's new in Swift 4.0</a></li>
+<li><a href="https://shubhamjain.co/2017/05/06/why-programmers-should-automate-more">Why programmers should automate more</a></li>
+<li><a href="http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age">Why you can't help but act your age</a></li>
+</ul>
+
+<h3>Games Played</h3>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/EverQuest">EverQuest</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Heavensward">Final Fantasy XIV: Heavensward</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Monument_Valley_2">Monument Valley 2</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tron_2.0">Tron 2.0</a></li>
+</ul>
+
+<h3>Updates</h3>
+
+<p>In the past month, I have revamped my <a href="https://krueger.report/health/exercise-routine/">Exercise Routine</a>. The activities are largely the same, but I have moved away from certain exercises being done only on certain days. The scripts for calculating my exercise build-ups has also been updated to Python due to the simplicity of the used code.</p>
+
+<p>In March, GOG updated GOG Galaxy to include more typical gaming platform features: achievement tracking and playtime tracking. Since these are features that I do not wish to take part in, I explored if GOG allowed these features to be disabled. Thankfully, they are, and I have updated <a href="https://krueger.report/gaming/disabling-gaming-platforms-social-features/">Disabling Gaming Platforms' Social Features</a> with that information.</p>
+
+<p>I added a few more problems to <a href="https://krueger.report/programming/project-euler-in-swift/">Project Euler In Swift</a>, but not as many as I would have liked. The past few months, I have been experimenting with the tools I use to program, and going through a philosophical debate between the lean Sublime Text and heavier Xcode. With the addition of a solid-state drive in my Mac Mini and all of the recent announcements at WWDC 2017, I have decided to double down not only on Xcode but GUI application development as well. Project Euler will continue to be my weekly programming puzzle to solve, but I will first be reworking it to fit better into Xcode.</p>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For May 14, 2017</title>
