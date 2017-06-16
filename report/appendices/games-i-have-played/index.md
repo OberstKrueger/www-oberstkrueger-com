@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: The Krueger Report - Games I Have Played
 type: page
-updated: 2017.06.11:1945
+updated: 2017.06.16:0445
 ---
 
 # Games I Have Played
@@ -276,6 +276,7 @@ updated: 2017.06.11:1945
 - [Final Fantasy XI](https://en.wikipedia.org/wiki/Final_Fantasy_XI)
 - [Final Fantasy XIV: A Realm Reborn](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_A_Realm_Reborn)
 - [Final Fantasy XIV: Heavensward](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Heavensward)
+- [Final Fantasy XIV: Stormblood](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood)
 - [FTL: Faster Than Light](https://en.wikipedia.org/wiki/FTL:_Faster_Than_Light)
 - [Game Dev Tycoon](https://en.wikipedia.org/wiki/Game_Dev_Tycoon)
 - [Giana Sisters: Twisted Dreams](https://en.wikipedia.org/wiki/Giana_Sisters:_Twisted_Dreams)
