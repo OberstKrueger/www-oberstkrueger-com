@@ -3,11 +3,12 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2017.06.11:1345
+updated: 2017.06.20:1615
 ---
 
 ## Introduction
 
+- [Hello, world!](/introduction/hello-world)
 - [Updates](/introduction/updates)
 - [About The Author](/introduction/about-the-author)
 - [Tools Used To Create This](/introduction/tools-used-to-create-this)
