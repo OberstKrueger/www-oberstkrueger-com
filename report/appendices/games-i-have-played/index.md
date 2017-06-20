@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: The Krueger Report - Games I Have Played
 type: page
-updated: 2017.06.16:0445
+updated: 2017.06.19:1645
 ---
 
 # Games I Have Played
@@ -436,10 +436,10 @@ updated: 2017.06.16:0445
 - [Ultima Online](https://en.wikipedia.org/wiki/Ultima_Online)
 - [Undertale](https://en.wikipedia.org/wiki/Undertale)
 - [Vanguard: Saga of Heroes](https://en.wikipedia.org/wiki/Vanguard:_Saga_of_Heroes)
-- [WarCraft II: Tides of Darkness](https://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness)
-- [WarCraft II: Beyond the Dark Portal](https://en.wikipedia.org/wiki/Warcraft_II:_Beyond_the_Dark_Portal)
-- [WarCraft III: Reign of Chaos](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos)
-- [WarCraft III: The Frozen Throne](https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne)
+- [Warcraft II: Tides of Darkness](https://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness)
+- [Warcraft II: Beyond the Dark Portal](https://en.wikipedia.org/wiki/Warcraft_II:_Beyond_the_Dark_Portal)
+- [Warcraft III: Reign of Chaos](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos)
+- [Warcraft III: The Frozen Throne](https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne)
 - [Warhammer Online: Age of Reckoning](https://en.wikipedia.org/wiki/Warhammer_Online:_Age_of_Reckoning)
 - [Wing Commander IV: The Price of Freedom](https://en.wikipedia.org/wiki/Wing_Commander_IV:_The_Price_of_Freedom)
 - [World of Goo](https://en.wikipedia.org/wiki/World_of_Goo)
