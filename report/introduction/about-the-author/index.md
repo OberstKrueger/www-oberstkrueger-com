@@ -3,16 +3,10 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.06.16:0445
+updated: 2017.06.20:1615
 ---
 
 # About The Author
-
-Hello! My name is Paul Krueger, and welcome to my little piece of the [intertubes](http://en.wiktionary.org/wiki/Intertubes).
-
-This site is a place for me to write about what interests me. This typically will be topics related to design, gaming, and technology.
-
-While my day job is not related to technology, I have a passion for both learning about the latest technological advances and for contributing in some form. In recent years, I have worked alongside [Evan Korn](http://ekorndesign.com) as a freelance web developer. Web documents more than any other programming task interests me the most, and so my focus remains on doing that to the best of my abilities.
 
 ## Current Computing Devices
 
