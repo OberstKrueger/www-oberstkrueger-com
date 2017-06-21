@@ -3,7 +3,7 @@ category: programming
 created: 2017.04.06:0845
 title: The Krueger Report - Project Euler In Swift
 type: page
-updated: 2017.06.20:2045
+updated: 2017.06.20:2115
 ---
 
 # Project Euler In Swift
@@ -358,18 +358,13 @@ The next problem can be solved quickly using the above primality check, but it p
 		var checks: [Bool] = Array(repeating: true, count: target + 1)
 		var primes: [Int] = []
 		
-		for number in 2...target.squareRoot {
-			if number.isPrime {
-				var counter = number * 2
-				while counter < target {
-					checks[counter] = false
-					counter += number
+		for number in 2...target {
+			if checks[number] == true {
+				primes.append(number)
+				for falseNumber in stride(from: number + number, to: target + 1, by: number) {
+					checks[falseNumber] = false
 				}
 			}
-		}
-		
-		for number in 2..<target {
-			if checks[number] == true { primes.append((number)) }
 		}
 		
 		return primes
