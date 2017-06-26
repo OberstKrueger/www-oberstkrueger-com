@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: The Krueger Report - Books I Have Read
 type: page
-updated: 2017.06.24:1930
+updated: 2017.06.25:1845
 ---
 
 # Books I Have Read
@@ -34,7 +34,9 @@ Out of all of the lists I have created, this one will be the hardest to fill in.
 - Lewis, C.S. - The Chronicles of Narnia 4: The Silver Chair
 - Lewis, C.S. - The Chronicles of Narnia 5: The Horse and His Boy
 - Martin, Steve - Born Standing Up: A Comic's Life
+- McGuire, Hugh & O'Leary, Brian - Book: A Futurist's Manifesto
 - Orlov, Dmitry - Shrinking the Technosphere: Getting a Grip on Technologies that Limit our Autonomy, Self-Sufficiency and Freedom 
+- Partanen, Anu - The Nordic Theory of Everything: In Search of a Better Life
 - Shaara, Michael - The Killer Angels
 - Smith, Sean - The Internet of Risky Things: Trusting the Devices That Surround Us
 - Stephenson, Neal - Reamde
