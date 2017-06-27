@@ -3,10 +3,52 @@ category: introduction
 created: 2017.02.27:1700
 title: The Krueger Report - Updates
 type: page
-updated: 2017.06.12:1815
+updated: 2017.06.27:1500
 ---
 
 # Updates
+
+## 2017.06.27
+
+### Hello, World!
+
+I have never written a proper introduction for The Krueger Report. This has now been corrected with [Hello, World!](https://krueger.report/introduction/hello-world), with my objectives of this site as well as how I am accomplishing that.
+
+### Updates
+
+With Amazon Cloud Drive's removal of unlimited storage, I needed to review my [Backup](https://krueger.report/technology/backups/) plan. Even at a price of $5/month per terabyte instead of $5/month for unlimited, Amazon Cloud Drive remains one of the best deals available For now, I am not changing what service I am backing up to, although Amazon's penchant for changing their offerings with little notice outside of core AWS services leaves me wary of continuing to use them into the future.
+
+### Books Read
+
+- Book: A Futurist's Manifesto, by Hugh McGuire and Brian O'Leary
+- The Nordic Theory of Everything: In Search of a Better Life, by Any Partanen
+- Shrinking the Technosphere: Getting a Grip on the Technologies That Limit Our Autonomy, Self-Sufficiency and Freedom, by Dmitry Orlov
+
+### Favorite Articles
+
+- [Are you forgetful? That's just your brain erasing useless memories](https://www.theverge.com/2017/6/21/15845378/neuroscience-memory-remembering-forgetting-artificial-intelligence)
+- [Brain drain: the mere presence of one's own smartphone reduces available cognitive capacity](http://www.journals.uchicago.edu/doi/abs/10.1086/691462)
+- [Charlie Booker’s Black Mirror is getting a book adaptation](https://www.theverge.com/2017/6/15/15808428/black-mirror-charlie-booker-netflix-book-adaptation)
+- [China breaks ground on first “Forest City” that fights air pollution](http://inhabitat.com/china-breaks-ground-on-first-forest-city-that-fights-air-pollution/)
+- [The consequences if the world decided to go meat-free](http://www.bbc.com/future/story/20170612-the-consequences-if-the-world-decided-to-go-meat-free)
+- [In China, a store of the future - no checkout, no staff](https://www.technologyreview.com/s/608104/in-china-a-store-of-the-future-no-checkout-no-staff/)
+- [Donald Trump is making Europe liberal again](https://fivethirtyeight.com/features/donald-trump-is-making-europe-liberal-again/)
+- [Efficient music players remain elusive](http://www.tedunangst.com/flak/post/efficient-music-players-remain-elusive)
+- [Firefox 54: E10S-Multi, WebExtension APIs, CSS clip-path](https://hacks.mozilla.org/2017/06/firefox-54-e10s-webextension-apis-css-clip-path/)
+- [The future of education is plain text](https://simplystatistics.org/2017/06/13/the-future-of-education-is-plain-text/)
+- [Lessons I've learned from three million downloads](http://jordansmith.io/lessons-ive-learned-from-three-million-downloads/)
+- [macOS High Sierra tech preview: A quick look at the stuff you can’t see](https://arstechnica.com/apple/2017/06/macos-high-sierra-tech-preview-a-quick-look-at-the-stuff-you-cant-see/)
+- [Verizon now officially owns Yahoo, Marissa Mayer resigns](https://www.theverge.com/2017/6/13/15791784/verizon-yahoo-acquisition-complete-marissa-mayer-leaves)
+- [Why my guitar gently weeps: the slow, secret death of the six-string electric](https://www.washingtonpost.com/graphics/2017/lifestyle/the-slow-secret-death-of-the-electric-guitar/)
+- [Why so many top hackers hail from Russia](https://krebsonsecurity.com/2017/06/why-so-many-top-hackers-hail-from-russia/)
+- [The 10.5" iPad Pro: Future-proof](https://www.macstories.net/stories/the-10-5-ipad-pro-future-proof/)
+
+### Games Played
+
+- [Final Fantasy XIV: Stormblood](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood)
+- [Little Inferno](http://tomorrowcorporation.com/littleinferno)
+- [Overwatch](https://playoverwatch.com/en-us/)
+- [Torment: Tides of Numenera](https://en.wikipedia.org/wiki/Torment:_Tides_of_Numenera)
 
 ## 2017.06.12
 
