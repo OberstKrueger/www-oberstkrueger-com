@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.06.20:1615
+updated: 2017.06.26:2015
 ---
 
 # About The Author
@@ -51,7 +51,7 @@ updated: 2017.06.20:1615
 ## Current Games
 
 - [Final Fantasy XIV: Stormblood](http://www.finalfantasyxiv.com)
-- [Stellaris](http://www.stellarisgame.com)
+- [Overwawtch](https://playoverwatch.com/en-us/)
 - [Torment: Tides of Numenera](https://torment.inxile-entertainment.com)
 
 ## Current Podcasts
