@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: The Krueger Report - Books I Have Read
 type: page
-updated: 2017.06.25:1845
+updated: 2017.06.28:2000
 ---
 
 # Books I Have Read
@@ -19,6 +19,7 @@ Out of all of the lists I have created, this one will be the hardest to fill in.
 - Clancy, Tom - Rainbow Six
 - Clancy, Tom - The Hunt for Red October
 - Crichton, Michael - Jurassic Park
+- Gibson, William - Neuromancer
 - Hall, Erika - Just Enough Research
 - Harari, Yuval Noah - Sapiens: A Brief History of Humankind
 - Howrey, Meg - The Wanderers
@@ -43,9 +44,12 @@ Out of all of the lists I have created, this one will be the hardest to fill in.
 - Stephenson, Neal - Snow Crash
 - Sweigart, Al - Automate the Boring Stuff with Python: Practical Programming for Total Beginners
 - Taylor, Dave & Perry, Brandon - Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, and UNIX Systems
+- Thompson, Hunter S. - Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream
 - Tolkien, J.R.R. - The Hobbit
 - Tolkien, J.R.R. - The Lord of the Rings
 - Tolkien, J.R.R. - The Silmarillion
+- Twain, Mark - Adventures of Huckleberry Finn
+- Twain, Mark - The Adventures of Tom Sawyer
 - Weber, Imogen Lloyd - The Intelligent Conversationalist
 - Williams, Terry - The Cocaine Kids: The Inside Story Of A Teenage Drug Ring
 - Wohlsen, Marcus - Biopunk: DIY Scientists Hack the Software of Life
