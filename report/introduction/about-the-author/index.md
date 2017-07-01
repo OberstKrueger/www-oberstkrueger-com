@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.06.26:2015
+updated: 2017.07.01:0630
 ---
 
 # About The Author
@@ -34,7 +34,7 @@ updated: 2017.06.26:2015
 - CPU: [Intel Core i5-4278U](https://ark.intel.com/products/83508/Intel-Core-i5-4278U-Processor-3M-Cache-up-to-3_10-GHz)
 - GPU: [Intel Iris Graphics 5100](https://en.wikipedia.org/wiki/Intel_HD_and_Iris_Graphics#Haswell)
 - RAM: 8 GB 1600 MHz DDR3
-- HDD: 1 TB
+- SSD: [500GB Samsung 850 EVO SSD](http://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-850-evo-2-5-sata-iii-500gb-mz-75e500b-am/)
 - Peripherals: [LG 25UM58-P](http://www.lg.com/us/monitors/lg-25UM58-P-ultrawide-monitor), [Magic Keyboard](https://en.wikipedia.org/wiki/Magic_Keyboard), [Magic Trackpad](https://en.wikipedia.org/wiki/Magic_Trackpad)
 
 **GeekBench Score**: [3509 / 6640](https://browser.geekbench.com/v4/cpu/2184898)
