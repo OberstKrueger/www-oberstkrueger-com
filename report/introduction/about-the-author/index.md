@@ -51,7 +51,6 @@ updated: 2017.07.01:0630
 ## Current Games
 
 - [Final Fantasy XIV: Stormblood](http://www.finalfantasyxiv.com)
-- [Overwawtch](https://playoverwatch.com/en-us/)
 - [Torment: Tides of Numenera](https://torment.inxile-entertainment.com)
 
 ## Current Podcasts
