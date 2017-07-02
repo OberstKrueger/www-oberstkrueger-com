@@ -3,12 +3,18 @@ category: appendices
 created: 2017.06.11:1300
 title: The Krueger Report - Random Notes
 type: page
-updated: 2017.06.11:1300
+updated: 2017.07.01:1300
 ---
 
 # Random Notes
 
 The following are random ideas, quotes, or thoughts that I have come across.
+
+### Choices
+
+> The obvious choice isn't *always* the best choice, but sometimes, by golly, it *is*.
+>
+> - Eliezer S. Yodkowsky
 
 ### Deep Work
 
