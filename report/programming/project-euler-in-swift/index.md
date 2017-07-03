@@ -3,7 +3,7 @@ category: programming
 created: 2017.04.06:0845
 title: The Krueger Report - Project Euler In Swift
 type: page
-updated: 2017.06.20:2115
+updated: 2017.07.03:1245
 ---
 
 # Project Euler In Swift
@@ -355,16 +355,19 @@ Simple extension to Int. Far from necessary due to how short it is, but keeps th
 The next problem can be solved quickly using the above primality check, but it presents a good opportunity to test out an algorithm for the [sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes).
 
 	func sieve(target: Int) -> [Int] {
+		if target <= 1 { return [] }
+		
 		var checks: [Bool] = Array(repeating: true, count: target + 1)
 		var primes: [Int] = []
 		
-		for number in 2...target {
-			if checks[number] == true {
+		for number in 2...target.squareRoot {
+			if checks[number] {
 				primes.append(number)
-				for falseNumber in stride(from: number + number, to: target + 1, by: number) {
-					checks[falseNumber] = false
-				}
+				for notPrime in stride(from: number * number, to: target + 1, by: number) { checks[notPrime] = false }
 			}
+		}
+		for number in (target.squareRoot + 1)...target {
+			if checks[number] { primes.append(number) }
 		}
 		
 		return primes
