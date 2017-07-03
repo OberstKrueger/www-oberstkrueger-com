@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2017.06.20:1615
+updated: 2017.07.02:1915
 ---
 
 ## Introduction
@@ -32,6 +32,7 @@ updated: 2017.06.20:1615
 
 ## Programming
 
+- [Helpful Algorithms](/programming/helpful-algorithms)
 - [Project Euler In Swift](/programming/project-euler-in-swift)
 
 ## Technology
