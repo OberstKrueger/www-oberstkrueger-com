@@ -3,7 +3,7 @@ category: programming
 created: 2017.04.06:0845
 title: The Krueger Report - Project Euler In Swift
 type: page
-updated: 2017.07.03:1245
+updated: 2017.07.03:1300
 ---
 
 # Project Euler In Swift
@@ -110,16 +110,7 @@ Figuring out whether a string is a [palindrome](https://en.wikipedia.org/wiki/Pa
 
 	extension String {
 		var isPalindrome: Bool {
-			var testString = self
-
-			while testString.characters.count > 1 {
-				let first: Character = testString.characters.popFirst()!
-				let last: Character = testString.characters.popLast()!
-				if first != last {
-					return false
-				}
-			}
-			return true
+			return self == String(self.characters.reversed())
 		}
 	}
 
