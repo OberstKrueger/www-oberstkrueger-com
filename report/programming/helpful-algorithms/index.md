@@ -3,12 +3,10 @@ category: programming
 created: 2017.07.02:1915
 title: The Krueger Report - Helpful Algorithms
 type: page
-updated: 2017.07.03: 2015
+updated: 2017.07.03:2130
 ---
 
 # Helpful Algorithms
-
-
 
 ## Greatest Common Divisor
 
