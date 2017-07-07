@@ -3,7 +3,7 @@ category: programming
 created: 2017.07.02:1915
 title: The Krueger Report - Helpful Algorithms
 type: page
-updated: 2017.07.03:2130
+updated: 2017.07.06:1400
 ---
 
 # Helpful Algorithms
@@ -118,8 +118,7 @@ Note: For large enough values of n, some environments might run out of memory du
 		for i in range(int(sqrt(n)) + 1, n + 1, 1):
 			if c[i]: p.append(i)
 		return p
-		
-	print(prime_sieve(101))
+
 
 ### Swift
 
