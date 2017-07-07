@@ -3,7 +3,7 @@ category: programming
 created: 2017.07.02:1915
 title: The Krueger Report - Helpful Algorithms
 type: page
-updated: 2017.07.06:1400
+updated: 2017.07.06:2100
 ---
 
 # Helpful Algorithms
@@ -20,8 +20,11 @@ updated: 2017.07.06:1400
 ### Swift
 
 	func gcd(_ first: Int, _ second: Int) -> Int {
-		var x = first, y = second
-		while y > 0 { (x, y) = (y, x % y) }
+		var x = first
+		var y = second
+		while y > 0 {
+			(x, y) = (y, x % y)
+		}
 		return x
 	}
 
@@ -34,15 +37,18 @@ updated: 2017.07.06:1400
 		a, b = x, y
 		while b:
 			a, b = b, a % b
-		return int((x / a) * y)
+		return int((x * y) / a)
 
 ### Swift
 
 	func lcm(_ first: Int, _ second: Int) -> Int {
 		if first == 0 && second == 0 { return 0 }
-		var x = first, y = second
-		while y > 0 { (x, y) = (y, x % y) }
-		return (first / x) * second
+		var x = first
+		var y = second
+		while y > 0 {
+			(x, y) = (y, x % y)
+		}
+		return (first * second) / x
 	}
 
 ## Palindrome Check
