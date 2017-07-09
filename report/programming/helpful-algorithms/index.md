@@ -20,8 +20,8 @@ updated: 2017.07.08:2045
 ### Swift
 
 	func gcd(_ first: Int, _ second: Int) -> Int {
-		var x = first
-		var y = second
+		var x: Int = first
+		var y: Int = second
 		while y > 0 {
 			(x, y) = (y, x % y)
 		}
