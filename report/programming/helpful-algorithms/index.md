@@ -3,7 +3,7 @@ category: programming
 created: 2017.07.02:1915
 title: The Krueger Report - Helpful Algorithms
 type: page
-updated: 2017.07.08:2030
+updated: 2017.07.08:2045
 ---
 
 # Helpful Algorithms
@@ -43,8 +43,8 @@ updated: 2017.07.08:2030
 
 	func lcm(_ first: Int, _ second: Int) -> Int {
 		if first == 0 && second == 0 { return 0 }
-		var x = first
-		var y = second
+		var x: Int = first
+		var y: Int = second
 		while y > 0 {
 			(x, y) = (y, x % y)
 		}
