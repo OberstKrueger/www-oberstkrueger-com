@@ -3,7 +3,7 @@ category: programming
 created: 2017.07.02:1915
 title: The Krueger Report - Helpful Algorithms
 type: page
-updated: 2017.07.06:2100
+updated: 2017.07.08:2030
 ---
 
 # Helpful Algorithms
@@ -56,13 +56,13 @@ updated: 2017.07.06:2100
 ### Python
 
 	def palindrome_check(s):
-		return s == s[::-1]
+		return s.lower() == s.lower()[::-1]
 
 ### Swift
 
 	extension String {
 		var isPalindrome: Bool {
-			return self == String(self.characters.reversed())
+			return self.lowercased() == String(self.characters.reversed()).lowercased()
 		}
 	}
 
