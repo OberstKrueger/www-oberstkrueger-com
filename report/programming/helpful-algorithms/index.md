@@ -103,6 +103,36 @@ Note: This algorithm uses a languages standard square root function. Most langua
 		}
 	}
 
+## Prime Factors
+
+### Python
+
+	def prime_factors(n):
+		f, i, m = [], 2, n
+		while i <= m:
+			if m % i == 0:
+				f.append(i)
+				m /= i
+			else: i += 1
+		return f
+
+### Swift
+
+	extension Int {
+		var primeFactors: [Int] {
+			var f: [Int] = []
+			var i: Int = 2
+			var m: Int = self
+			while i <= m {
+				if m % i == 0 {
+					f.append(i)
+					m /= i
+				} else { i += 1 }
+			}
+			return f
+		}
+	}
+
 ## Prime Numbers Using the Sieve of Eratosthenes
 
 The [sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) returns all prime numbers up to the value n provided to the function. This implementation returns the values as an array.
