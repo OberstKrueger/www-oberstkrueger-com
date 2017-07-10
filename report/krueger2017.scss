@@ -1,0 +1,242 @@
+/*
+		VARIABLES
+*/
+$colorBackground: rgba(255, 255, 255, 1);
+$colorContainer: rgba(240, 240, 240, 1);
+$colorPrimary: rgba(24, 98, 171, 1);
+$colorSecondary: rgba(43, 138, 62, 1);
+$colorText: rgba(33, 37, 41, 1);
+
+$fontSize: 100%;
+$fontSizePrint: 10pt;
+$fontStack: "Avenir Next", "Avenir", "Open Sans", "Segoe UI", sans-serif;
+$fontStackMono: monospace;
+$fontWeightThick: 700;
+$fontWeightThin: 400;
+
+$lineHeight: 1.375;
+
+/*
+		TYPOGRAPHY
+*/
+html {
+	font-family: $fontStack;
+	font-feature-settings: "dlig" 1, "kern" 1;
+	font-size: $fontSize;
+	line-height: $lineHeight;
+	@media print {
+		font-size: $fontSizePrint;
+	}
+}
+
+b, strong {
+	font-weight: $fontWeightThick;
+}
+
+code {
+	display: block;
+	font-family: $fontStackMono;
+	font-size: 0.75rem;
+	line-height: $lineHeight / 0.75;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
+
+em {
+	font-style: italic;
+}
+
+h1 {
+	font-size: 2rem;
+	font-weight: $fontWeightThick;
+	margin: ($lineHeight * 2rem) auto ($lineHeight * 2rem);
+	text-align: center;
+	a:link, a:visited, a:hover, a:active {
+		color: $colorText;
+		text-decoration: none;
+	}
+}
+
+h2 {
+	font-size: 1.5rem;
+	font-weight: $fontWeightThick;
+	margin: ($lineHeight * 2rem) auto;
+	page-break-after: avoid;
+	text-align: left;
+	a:link, a:visited, a:hover, a:active {
+		color: $colorText;
+		text-decoration: none;
+	}
+}
+
+h3,
+h4,
+h5,
+h6 {
+	font-size: 1rem;
+	font-weight: $fontWeightThick;
+	margin: 0 auto;
+	page-break-after: avoid;
+	text-align: left;
+	a:link, a:visited, a:hover, a:active {
+		color: $colorText;
+		text-decoration: none;
+	}
+}
+
+li {
+	font-weight: $fontWeightThin;
+	a:link, a:visited, a:hover, a:active {
+		color: $colorPrimary;
+		font-weight: $fontWeightThick;
+		text-decoration: none;
+		@media print {
+			color: $colorText;
+			font-weight: $fontWeightThin;
+		}
+	}
+	a:visited {
+		color: $colorSecondary;
+		@media print {
+			color: $colorText;
+		}
+	}
+}
+
+ol {
+	list-style: decimal inside;
+	margin: 0 auto ($lineHeight + rem);
+	padding: 0;
+	page-break-inside: avoid;
+}
+
+p {
+	font-weight: $fontWeightThin;
+	margin: 0 auto ($lineHeight + rem);
+	text-align: left;
+	a:link, a:visited, a:hover, a:active {
+		color: $colorPrimary;
+		font-weight: $fontWeightThick;
+		text-decoration: none;
+		@media print {
+			color: $colorText;
+			font-weight: $fontWeightThin;
+		}
+	}
+	a:visited {
+		color: $colorSecondary;
+		@media print {
+			color: $colorText;
+		}
+	}
+	a[href]:after {
+		@media print {
+			content: " (" attr(href) ")";
+		}
+	}
+}
+
+sub {
+	font-size: 75%;
+	position: relative;
+	top: 0.25rem;
+	vertical-align: baseline;
+}
+
+sup {
+	font-size: 75%;
+	position: relative;
+	top: -0.375rem;
+	vertical-align: baseline;
+}
+
+ul {
+	list-style: circle inside;
+	margin: 0 auto ($lineHeight + rem);
+	padding: 0;
+	page-break-inside: avoid;
+}
+
+
+/*
+		TYPOGRAPHIC CONTAINERS
+*/
+blockquote,
+pre {
+	background-color: $colorContainer;
+	margin: 0 auto ($lineHeight + rem);
+	padding: ($lineHeight + rem) 1rem ($lineHeight + rem);
+	:last-child {
+		margin-bottom: 0;
+	}
+}
+
+
+/*
+		ELEMENTS
+*/
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+html {
+	background-color: $colorBackground;
+	box-sizing: border-box;
+	color: $colorText;
+}
+
+body {
+	margin: 0;
+	overflow-wrap: break-word;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+
+
+/*
+		MEDIA
+*/
+figure {
+	margin: 0 auto ($lineHeight + rem);
+	padding: 0;
+	page-break-inside: avoid;
+	width: 100%;
+	figcaption {
+		font-size: 0.75rem;
+		text-align: center;
+	}
+	&.halfLeft {
+		float: left;
+		margin-bottom: 0;
+		margin-right: 8px;
+		width: 50%
+	}
+	&.halfRight {
+		float: right;
+		margin-bottom: 0;
+		margin-left: 8px;
+		width: 50%;
+	}
+	&.quarterLeft {
+		float: left;
+		margin-bottom: 0;
+		margin-right: 8px;
+		width: 25%;
+	}
+	&.quarterRight {
+		float: right;
+		margin-bottom: 0;
+		margin-left: 8px;
+		width: 25%;
+	}
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	padding: 0;
+	page-break-inside: avoid;
+	width: 100%;
+}
