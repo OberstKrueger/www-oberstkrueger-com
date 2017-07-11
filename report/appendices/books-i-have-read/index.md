@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: The Krueger Report - Books I Have Read
 type: page
-updated: 2017.06.28:2000
+updated: 2017.07.10:2115
 ---
 
 # Books I Have Read
@@ -19,6 +19,7 @@ Out of all of the lists I have created, this one will be the hardest to fill in.
 - Clancy, Tom - Rainbow Six
 - Clancy, Tom - The Hunt for Red October
 - Crichton, Michael - Jurassic Park
+- Demaree, David - Git For Humans
 - Gibson, William - Neuromancer
 - Hall, Erika - Just Enough Research
 - Harari, Yuval Noah - Sapiens: A Brief History of Humankind
