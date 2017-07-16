@@ -16,6 +16,8 @@ $fontWeightThin: 400;
 
 $lineHeight: 1.375;
 
+$maxWidthText: 40rem;
+
 /*
 		TYPOGRAPHY
 */
@@ -239,4 +241,27 @@ img {
 	padding: 0;
 	page-break-inside: avoid;
 	width: 100%;
+}
+
+
+/*
+	TKR VARIATIONS
+*/
+main {
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6,
+	ol,
+	p,
+	ul {
+		max-width: $maxWidthText;
+		width: 90%;
+	}
+}
+
+figure {
+	max-width: $maxWidthText;
 }

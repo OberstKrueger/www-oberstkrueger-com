@@ -201,3 +201,21 @@ img {
   padding: 0;
   page-break-inside: avoid;
   width: 100%; }
+
+/*
+	TKR VARIATIONS
+*/
+main h1,
+main h2,
+main h3,
+main h4,
+main h5,
+main h6,
+main ol,
+main p,
+main ul {
+  max-width: 40rem;
+  width: 90%; }
+
+figure {
+  max-width: 40rem; }
