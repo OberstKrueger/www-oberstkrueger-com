@@ -18,6 +18,8 @@ $lineHeight: 1.375;
 
 $maxWidthText: 40rem;
 
+$dividerColor: rgba(134, 142, 150, 1);
+
 /*
 		TYPOGRAPHY
 */
@@ -279,6 +281,17 @@ main {
 
 figure {
 	max-width: $maxWidthText;
+}
+
+footer {
+	border-top: 0.0625rem solid $dividerColor;
+	margin: 0 auto ($lineHeight + rem);
+	width: 75%;
+	p {
+		font-size: 0.75rem;
+		margin-bottom: 0;
+		text-align: center;
+	}
 }
 
 .bandcamp {

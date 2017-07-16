@@ -241,6 +241,15 @@ main ul {
 figure {
   max-width: 40rem; }
 
+footer {
+  border-top: 0.0625rem solid #868e96;
+  margin: 0 auto 1.375rem;
+  width: 75%; }
+  footer p {
+    font-size: 0.75rem;
+    margin-bottom: 0;
+    text-align: center; }
+
 .bandcamp {
   margin: auto;
   max-width: 40rem;
