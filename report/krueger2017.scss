@@ -243,6 +243,17 @@ img {
 	width: 100%;
 }
 
+video {
+	display: block;
+	margin: 0 auto;
+	padding: 0;
+	page-break-inside: avoid;
+	width: 100%;
+	&.half {
+		width: 50%;
+	}
+}
+
 
 /*
 	TKR VARIATIONS
