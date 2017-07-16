@@ -3,7 +3,7 @@ category: health
 created: 2016.03.27:1230
 title: The Krueger Report - Tracking Sleep
 type: page
-updated: 2017.04.22:1815
+updated: 2017.07.16:1600
 ---
 
 # Tracking Sleep
@@ -16,7 +16,10 @@ The app I use to track my sleep is [AutoSleep](http://autosleep.tantsissa.com). 
 
 The previous apps that I have used, [Sleep++](https://itunes.apple.com/us/app/sleep++/id1038440371) and [Sleep Cycle](http://www.sleepcycle.com), all required setting the watch into sleep mode every night. This extra step was not only a hassle, but it meant that if I was tired and forgot to turn the mode on, a night's worth of sleep tracking was missed. Additionally, the mode needed to be turned off in the morning, which was occasionally missed until a few hours later.
 
-![AutoSleep](/images/tracking-sleep_autosleep.jpg)
+<figure>
+	<img src='/images/tracking-sleep_autosleep.jpg'>
+	<figcaption>AutoSleep</figcaption>
+</figure
 
 AutoSleep works by using the motion data that the Apple Watch and iPhone regularly record. After telling the app what your sleep schedule is, it combines this data with your movement to see if you were actually asleep. In the morning, it reviews the nights motion data to track how well you slept.
 
