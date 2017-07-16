@@ -24,6 +24,10 @@ Criminal is a podcast about crime. Not so much the "if it bleeds, it leads," kin
 **Host**: [Rose Eveleth](http://roseveleth.com)<br>
 A show about possible and not so possible futures. From space pirates to conscious robots to the end of antibiotics.
 
+**The Haskell Cast**: [Site](http://www.haskellcast.com)<br>
+**Hosts**: [Chris Forno](http://jekor.com), [Alp Mestanogullari](http://alpmestan.com)<br>
+Listen to regular interviews with the Haskell community. The podcast covers news, libraries, and whatever other topics we wander onto with our guests.
+
 **Hypercritical**: [Site](http://5by5.tv/hypercritical)<br>
 **Hosts**: [John Siracusa](http://hypercritical.co), [Dan Benjamin](http://danbenjamin.com)<br>
 A weekly talk show ruminating on exactly what is wrong in the world of Apple and related technologies and businesses. Nothing is so perfect that it can’t be complained about. 
@@ -56,13 +60,13 @@ Do you enjoy sound? You’re reading a podcast description right now, so chances
 **Host**: [Wendy Zukerman](https://twitter.com/wendyzuk?lang=en)<br>
 There are a lot of fads, blogs and strong opinions, but then there’s SCIENCE. Science Vs is the show from Gimlet Media that finds out what’s fact, what’s not, and what’s somewhere in between. We do the hard work of sifting through all the science so you don't have to.
 
-**The Haskell Cast**: [Site](http://www.haskellcast.com)<br>
-**Hosts**: [Chris Forno](http://jekor.com), [Alp Mestanogullari](http://alpmestan.com)<br>
-Listen to regular interviews with the Haskell community. The podcast covers news, libraries, and whatever other topics we wander onto with our guests.
-
 **The Talk Show**: [Site](http://daringfireball.net/thetalkshow/) / [Wiki](https://en.wikipedia.org/wiki/The_Talk_Show_(podcast))<br>
 **Host**: [John Gruber](http://daringfireball.net)<br>
 The director's commentary track for [Daring Fireball](http://daringfireball.net).
+
+**Under The Radar**: [Site](https://www.relay.fm/radar)<br>
+**Hosts**: [Marco Arment](https://marco.org), [David Smith](https://david-smith.org)<br>
+From development and design to marketing and support, Under the Radar is all about independent app development. It's never longer than 30 minutes.
 
 **The Web Ahead**: [Site](http://5by5.tv/webahead)<br>
 **Host**: [Jen Simmons](http://jensimmons.com)<br>
@@ -75,10 +79,6 @@ A show about Apple and the community around it — the fanatics, the haters, the
 **The West Wing Weekly**: [Site](http://thewestwingweekly.com) / [Wiki](https://en.wikipedia.org/wiki/The_West_Wing_Weekly)<br>
 **Hosts**: [Hrishikesh Hirway](https://en.wikipedia.org/wiki/Hrishikesh_Hirway), [Joshua Malina](https://en.wikipedia.org/wiki/Joshua_Malina)<br>
 An episode-by-episode discussion of The West Wing, one of television’s most beloved shows, co-hosted by one of its stars, Joshua Malina, along with Hrishikesh Hirway of Song Exploder.
-
-**Under The Radar**: [Site](https://www.relay.fm/radar)<br>
-**Hosts**: [Marco Arment](https://marco.org), [David Smith](https://david-smith.org)<br>
-From development and design to marketing and support, Under the Radar is all about independent app development. It's never longer than 30 minutes.
 
 **You Are Not So Smart**: [Site](https://youarenotsosmart.com/podcast/)<br>
 **Host**: [David McRaney](http://davidmcraney.com)<br>
