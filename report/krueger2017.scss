@@ -259,6 +259,10 @@ main {
 	ul {
 		max-width: $maxWidthText;
 		width: 90%;
+		@media (min-width: 30rem) {
+			hyphens: auto;
+			text-align: justify;
+		}
 	}
 }
 
