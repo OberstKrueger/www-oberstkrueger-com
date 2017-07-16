@@ -285,10 +285,12 @@ figure {
 
 footer {
 	border-top: 0.0625rem solid $dividerColor;
-	margin: 0 auto ($lineHeight + rem);
+	margin: 0 auto;
+	max-width: ($maxWidthText / 2);
 	width: 75%;
 	p {
 		font-size: 0.75rem;
+		line-height: $lineHeight * 2;
 		margin-bottom: 0;
 		text-align: center;
 	}

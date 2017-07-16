@@ -243,10 +243,12 @@ figure {
 
 footer {
   border-top: 0.0625rem solid #868e96;
-  margin: 0 auto 1.375rem;
+  margin: 0 auto;
+  max-width: 20rem;
   width: 75%; }
   footer p {
     font-size: 0.75rem;
+    line-height: 2.75;
     margin-bottom: 0;
     text-align: center; }
 
