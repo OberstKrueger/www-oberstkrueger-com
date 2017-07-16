@@ -225,18 +225,19 @@ main p,
 main ul {
   max-width: 40rem;
   width: 90%; }
-  @media (min-width: 30rem) {
-    main h1,
-    main h2,
-    main h3,
-    main h4,
-    main h5,
-    main h6,
-    main ol,
-    main p,
-    main ul {
-      hyphens: auto;
-      text-align: justify; } }
+
+@media (min-width: 30rem) {
+  main h3,
+  main h4,
+  main h5,
+  main h6,
+  main ol,
+  main p,
+  main ul {
+    hyphens: auto;
+    -ms-hyphens: auto;
+    -webkit-hyphens: auto;
+    text-align: justify; } }
 
 figure {
   max-width: 40rem; }

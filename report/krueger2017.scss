@@ -272,8 +272,18 @@ main {
 	ul {
 		max-width: $maxWidthText;
 		width: 90%;
+	}
+	h3,
+	h4,
+	h5,
+	h6,
+	ol,
+	p,
+	ul {
 		@media (min-width: 30rem) {
 			hyphens: auto;
+			-ms-hyphens: auto;
+			-webkit-hyphens: auto;
 			text-align: justify;
 		}
 	}
