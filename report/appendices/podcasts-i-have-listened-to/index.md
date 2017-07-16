@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.04:1920
 title: The Krueger Report - Podcasts I Have Listened To
 type: page
-updated: 2017.06.04:1920
+updated: 2017.07.16:0715
 ---
 
 # Podcasts I Have Listened To
@@ -20,9 +20,25 @@ CGP Grey and Myke Hurley are both independent content creators. Each episode, th
 **Host**: [Phoebe Judge](https://twitter.com/PhoebeVJudge)<br>
 Criminal is a podcast about crime. Not so much the "if it bleeds, it leads," kind of crime. Something a little more complex. Stories of people who've done wrong, been wronged, and/or gotten caught somewhere in the middle.
 
+**Flash Forward**: [Site](http://www.flashforwardpod.com)<br>
+**Host**: [Rose Eveleth](http://roseveleth.com)<br>
+A show about possible and not so possible futures. From space pirates to conscious robots to the end of antibiotics.
+
 **Hypercritical**: [Site](http://5by5.tv/hypercritical)<br>
 **Hosts**: [John Siracusa](http://hypercritical.co), [Dan Benjamin](http://danbenjamin.com)<br>
 A weekly talk show ruminating on exactly what is wrong in the world of Apple and related technologies and businesses. Nothing is so perfect that it can’t be complained about. 
+
+**IRL**: [Site](https://irlpodcast.org)<br>
+**Host**: [Veronica Belmont](http://www.veronicabelmont.com)<br>
+Host Veronica Belmont shares real stories of life online – and real talk about the future of the Web. Because online life is real life.
+
+**Main Engine Cut Off**: [Site](https://mainenginecutoff.com/podcast)<br>
+**Hosts**: Anthony Colangelo<br>
+A short, weekly podcast about spaceflight, exploration, policy, and strategy in the modern era and near future..
+
+**The Minimalists**: [Site](http://www.theminimalists.com/podcast/) / [Wiki](https://en.wikipedia.org/wiki/The_Minimalists)<br>
+**Hosts**: [Joshua Fields Millburn](http://joshuafieldsmillburn.com), [Ryan Nicodemus](http://www.theminimalists.com/nicodemus/)<br>
+Joshua Fields Millburn & Ryan Nicodemus discuss living a meaningful life with less.
 
 **Note To Self**: [Site](http://www.wnyc.org/shows/notetoself/) / [Wiki](https://en.wikipedia.org/wiki/Note_To_Self)<br>
 **Host**: [Manoush Zomorodi](http://www.manoushz.com)<br>
