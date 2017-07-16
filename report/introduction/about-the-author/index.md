@@ -60,5 +60,5 @@ updated: 2017.07.01:0630
 - [Note To Self](http://www.wnyc.org/shows/notetoself/)
 - [Reasonably Sound](http://reasonablysound.com)
 - [Science Vs](https://gimletmedia.com/science-vs/)
-- [The West Wing Weekly](http://thewestwingweekly.com)
 - [Welcome To Macintosh](http://www.macintosh.fm)
+- [The West Wing Weekly](http://thewestwingweekly.com)
