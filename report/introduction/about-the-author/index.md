@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.07.01:0630
+updated: 2017.07.16:0700
 ---
 
 # About The Author
@@ -57,6 +57,10 @@ updated: 2017.07.01:0630
 
 - [Accidental Tech Podcast](http://atp.fm)
 - [Cortex](https://www.relay.fm/cortex)
+- [Flash Forward](http://www.flashforwardpod.com)
+- [IRL](https://irlpodcast.org)
+- [Main Engine Cut Off](https://mainenginecutoff.com/podcast)
+- [The Minimalists](http://www.theminimalists.com/podcast/)
 - [Note To Self](http://www.wnyc.org/shows/notetoself/)
 - [Reasonably Sound](http://reasonablysound.com)
 - [Science Vs](https://gimletmedia.com/science-vs/)
