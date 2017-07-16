@@ -3,7 +3,7 @@ category: life
 created: 2017.01.01:1500
 title: The Krueger Report - Years In Review
 type: page
-updated: 2017.01.01:1500
+updated: 2017.07.16:1600
 ---
 
 # Years In Review
@@ -16,7 +16,10 @@ For many reasons, 2016 has been a rollercoaster of a year. While keeping any pol
 
 2016 was a phenomenal year for games. Here are a few of my favorites.
 
-![Deus Ex: Mankind Divided](/images/years-in-review_deus-ex-mankind-divided.jpg)
+<figure>
+	<img src='/images/years-in-review_deus-ex-mankind-divided.jpg'>
+	<figcaption>Deus Ex: Mankind Divided</figcaption>
+</figure>
 
 The original [Deus Ex](https://en.wikipedia.org/wiki/Deus_Ex_(video_game)) was an amazing game for its time. It opened my eyes to the idea that there could be more to a first-person shooter. [Deus Ex: Human Revolution](https://en.wikipedia.org/wiki/Deus_Ex:_Human_Revolution), is as good of a sequel as one could ask for, and is now one of my favorite all-time games, having played through multiple times.
 
@@ -24,7 +27,10 @@ This year's direct sequel to the series, [Deus Ex: Mankind Divided](https://en.w
 
 Outside of those two minor quips, Mankind Divided is a game that I am happy is more of the same. It does not veer far from what Human Revolution did, with a similar game structure and ability system. The new characters are well-written, and the missions and side-quests are a lot of fun. This is another game which I plan to play through again in the near future.
 
-![DOOM](/images/years-in-review_doom.jpg)
+<figure>
+	<img src='/images/years-in-review_doom.jpg'>
+	<figcaption>DOOM</figcaption>
+</figure>
 
 The last game from [id Software](https://en.wikipedia.org/wiki/Id_Software) that I enjoyed was [Quake III: Arena](https://en.wikipedia.org/wiki/Quake_III_Arena), released 17 years ago. [DOOM 3](https://en.wikipedia.org/wiki/Doom_3) and [Rage](https://en.wikipedia.org/wiki/Rage_(video_game)) were decent games in their own right, but while they continued to show [John Carmack's](https://en.wikipedia.org/wiki/John_Carmack) excellence in graphic engine design, they lacked the magic that id's previous games held.
 
@@ -34,11 +40,17 @@ And then I played it.
 
 Ranking DOOM as my game of the year is an easy decision. While not as revolutionary as the original, this DOOM is every bit as good of a game. Every aspect of this game is near perfect: beautiful graphics that runs smooth, an amazing soundtrack by [Mick Gordon](https://en.wikipedia.org/wiki/Mick_Gordon), memorable level design, and fun gameplay that kept me coming back for me. It is a game that I look forward to playing again in the future.
 
-![Overwatch](/images/years-in-review_overwatch.jpg)
+<figure>
+	<img src='/images/years-in-review_overwatch.jpg'>
+	<figcaption>Overwatch</figcaption>
+</figure>
 
 There is little that I can say about [Overwatch](https://en.wikipedia.org/wiki/Overwatch) that has not been said elsewhere. Suffice it to say, this game took the FPS world by storm this year. From interesting and well thought out characters to the tight gameplay, it is easy to see why most love this game. It is the one game I have [logged in the most hours on](https://playoverwatch.com/en-us/career/pc/us/Krueger-1750), and still continue to love playing 7 months later.
 
-![The Witness](/images/years-in-review_the-witness.jpg)
+<figure>
+	<img src='/images/years-in-review_the-witness.jpg'>
+	<figcaption>The Witness</figcaption>
+</figure>
 
 [Jonathan Blow's](https://en.wikipedia.org/wiki/Jonathan_Blow) previous game, [Braid](https://en.wikipedia.org/wiki/Braid_(video_game)), did little for me. It was an interesting concept, but platformers in that style are hard for me to get into. Consequently, I did not take a close look at [The Witness](https://en.wikipedia.org/wiki/The_Witness_(2016_video_game)) until it was near release. And I was enthralled by what I saw.
 
@@ -48,7 +60,10 @@ It is a hard game to describe without spoiling the experience. Needless to say, 
 
 ### Favorite Music
 
-![Favorite Music of 2016](/images/years-in-review_music-2016.jpg)
+<figure>
+	<img src='/images/years-in-review_music-2016.jpg'>
+	<figcaption>Favorite Music of 2016</figcaption>
+</figure>
 
 ### Cipher, by Ben Prunty
 
