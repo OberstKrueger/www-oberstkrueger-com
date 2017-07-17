@@ -240,7 +240,10 @@ main ul {
     text-align: justify; } }
 
 figure {
-  max-width: 40rem; }
+  max-width: 64rem; }
+  @media (min-width: 64.125rem) {
+    figure img {
+      border-radius: 0.25rem; } }
 
 footer {
   border-top: 0.0625rem solid #868e96;

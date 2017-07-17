@@ -290,7 +290,12 @@ main {
 }
 
 figure {
-	max-width: $maxWidthText;
+	max-width: 64rem;
+	img {
+		@media (min-width: 64.125rem) {
+			border-radius: 0.25rem;
+		}
+	}
 }
 
 footer {
