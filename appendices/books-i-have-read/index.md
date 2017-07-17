@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: The Krueger Report - Books I Have Read
 type: page
-updated: 2017.07.15:1500
+updated: 2017.07.16:1815
 ---
 
 # Books I Have Read
@@ -25,6 +25,7 @@ Out of all of the lists I have created, this one will be the hardest to fill in.
 - Harari, Yuval Noah - Sapiens: A Brief History of Humankind
 - Holiday, Ryan - Ego Is the Enemy
 - Howrey, Meg - The Wanderers
+- Keith, Jeremy - Resilient Web Design
 - King, Stephen - On Writing
 - Koenig, David - Realityland: True-Life Adventures at Walt Disney World
 - Kurzweil, Ray - The Age of the Intelligent Machines
