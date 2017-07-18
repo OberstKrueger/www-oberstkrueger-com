@@ -14,7 +14,7 @@ html {
       font-size: 10pt; } }
 
 b, strong {
-  font-weight: 700; }
+  font-weight: 600; }
 
 code {
   display: block;
@@ -29,7 +29,7 @@ em {
 
 h1 {
   font-size: 2rem;
-  font-weight: 700;
+  font-weight: 600;
   margin: 2.75rem auto 2.75rem;
   text-align: center; }
   h1 a:link, h1 a:visited, h1 a:hover, h1 a:active {
@@ -38,7 +38,7 @@ h1 {
 
 h2 {
   font-size: 1.5rem;
-  font-weight: 700;
+  font-weight: 600;
   margin: 2.75rem auto;
   page-break-after: avoid;
   text-align: center; }
@@ -51,7 +51,7 @@ h4,
 h5,
 h6 {
   font-size: 1rem;
-  font-weight: 700;
+  font-weight: 600;
   margin: 0 auto;
   page-break-after: avoid;
   text-align: left; }
@@ -72,15 +72,15 @@ h6 {
     text-decoration: none; }
 
 li {
-  font-weight: 400; }
+  font-weight: 300; }
   li a:link, li a:visited, li a:hover, li a:active {
     color: #72c3fc;
-    font-weight: 700;
+    font-weight: 600;
     text-decoration: none; }
     @media print {
       li a:link, li a:visited, li a:hover, li a:active {
         color: #f1f3f5;
-        font-weight: 400; } }
+        font-weight: 300; } }
   li a:visited {
     color: #8ce99a; }
     @media print {
@@ -94,17 +94,17 @@ ol {
   page-break-inside: avoid; }
 
 p {
-  font-weight: 400;
+  font-weight: 300;
   margin: 0 auto 1.375rem;
   text-align: left; }
   p a:link, p a:visited, p a:hover, p a:active {
     color: #72c3fc;
-    font-weight: 700;
+    font-weight: 600;
     text-decoration: none; }
     @media print {
       p a:link, p a:visited, p a:hover, p a:active {
         color: #f1f3f5;
-        font-weight: 400; } }
+        font-weight: 300; } }
   p a:visited {
     color: #8ce99a; }
     @media print {
