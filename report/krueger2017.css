@@ -214,6 +214,18 @@ video {
 /*
 	TKR VARIATIONS
 */
+body.index h2 {
+  border-bottom: 0.0625rem solid #868e96; }
+
+body.index li {
+  text-align: center; }
+  @media (min-width: 30rem) {
+    body.index li {
+      text-align: center; } }
+
+body.index ul {
+  list-style: none; }
+
 main h1,
 main h2,
 main h3,
@@ -238,18 +250,6 @@ main ul {
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     text-align: justify; } }
-
-main.index h2 {
-  border-bottom: 0.0625rem solid #868e96; }
-
-main.index li {
-  text-align: center; }
-  @media (min-width: 30rem) {
-    main.index li {
-      text-align: center; } }
-
-main.index ul {
-  list-style: none; }
 
 figure {
   max-width: 64rem; }

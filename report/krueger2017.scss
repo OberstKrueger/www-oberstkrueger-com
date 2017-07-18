@@ -264,6 +264,23 @@ video {
 /*
 	TKR VARIATIONS
 */
+body {
+	&.index {
+		h2 {
+			border-bottom: $dividerThin;
+		}
+		li {
+			text-align: center;
+			@media (min-width: $justifyText) {
+				text-align: center;
+			}
+		}
+		ul {
+			list-style: none;
+		}
+	}
+}
+
 main {
 	h1,
 	h2,
@@ -289,20 +306,6 @@ main {
 			-ms-hyphens: auto;
 			-webkit-hyphens: auto;
 			text-align: justify;
-		}
-	}
-	&.index {
-		h2 {
-			border-bottom: $dividerThin;
-		}
-		li {
-			text-align: center;
-			@media (min-width: $justifyText) {
-				text-align: center;
-			}
-		}
-		ul {
-			list-style: none;
 		}
 	}
 }
