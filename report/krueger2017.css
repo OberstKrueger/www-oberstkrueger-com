@@ -261,6 +261,8 @@ header {
   margin: 0 auto;
   max-width: 64rem;
   width: 90%; }
+  header h2 {
+    margin: 12vmin auto; }
 
 .bandcamp {
   margin: auto;
