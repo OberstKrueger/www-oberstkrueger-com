@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.07.16:0700
+updated: 2017.07.18:0600
 ---
 
 # About The Author
@@ -50,6 +50,7 @@ updated: 2017.07.16:0700
 
 ## Current Games
 
+- [Bayonetta](http://www.sega.com/games/bayonetta™)
 - [Final Fantasy XIV: Stormblood](http://www.finalfantasyxiv.com)
 - [Torment: Tides of Numenera](https://torment.inxile-entertainment.com)
 
