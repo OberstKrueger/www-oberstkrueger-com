@@ -256,6 +256,12 @@ footer {
     margin-bottom: 0;
     text-align: center; }
 
+header {
+  border-bottom: 0.0625rem solid #868e96;
+  margin: 0 auto;
+  max-width: 64rem;
+  width: 90%; }
+
 .bandcamp {
   margin: auto;
   max-width: 40rem;

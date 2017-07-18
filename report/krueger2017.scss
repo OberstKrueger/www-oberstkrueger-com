@@ -16,6 +16,7 @@ $fontWeightThin: 400;
 
 $lineHeight: 1.375;
 
+$maxWidthImage: 64rem;
 $maxWidthText: 40rem;
 
 $dividerColor: rgba(134, 142, 150, 1);
@@ -290,7 +291,7 @@ main {
 }
 
 figure {
-	max-width: 64rem;
+	max-width: $maxWidthImage;
 	img {
 		@media (min-width: 64.125rem) {
 			border-radius: 0.25rem;
@@ -309,6 +310,13 @@ footer {
 		margin-bottom: 0;
 		text-align: center;
 	}
+}
+
+header {
+	border-bottom: 0.0625rem solid $dividerColor;
+	margin: 0 auto;
+	max-width: $maxWidthImage;
+	width: 90%;
 }
 
 .bandcamp {
