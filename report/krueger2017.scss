@@ -16,10 +16,13 @@ $fontWeightThin: 300;
 
 $lineHeight: 1.375;
 
+$justifyText: 30rem;
+
 $maxWidthImage: 64rem;
 $maxWidthText: 40rem;
 
 $dividerColor: rgba(134, 142, 150, 1);
+$dividerThin: 0.0625rem solid $dividerColor;
 
 /*
 		TYPOGRAPHY
@@ -281,11 +284,25 @@ main {
 	ol,
 	p,
 	ul {
-		@media (min-width: 30rem) {
+		@media (min-width: $justifyText) {
 			hyphens: auto;
 			-ms-hyphens: auto;
 			-webkit-hyphens: auto;
 			text-align: justify;
+		}
+	}
+	&.index {
+		h2 {
+			border-bottom: $dividerThin;
+		}
+		li {
+			text-align: center;
+			@media (min-width: $justifyText) {
+				text-align: center;
+			}
+		}
+		ul {
+			list-style: none;
 		}
 	}
 }
@@ -300,7 +317,7 @@ figure {
 }
 
 footer {
-	border-top: 0.0625rem solid $dividerColor;
+	border-top: $dividerThin;
 	margin: 0 auto;
 	max-width: ($maxWidthText / 2);
 	width: 75%;
@@ -313,7 +330,7 @@ footer {
 }
 
 header {
-	border-bottom: 0.0625rem solid $dividerColor;
+	border-bottom: $dividerThin;
 	margin: 0 auto;
 	max-width: $maxWidthImage;
 	width: 90%;
