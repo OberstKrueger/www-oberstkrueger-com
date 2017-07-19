@@ -37,7 +37,8 @@ html {
 	}
 }
 
-b, strong {
+b,
+strong {
 	font-weight: $fontWeightThick;
 }
 
@@ -59,7 +60,10 @@ h1 {
 	font-weight: $fontWeightThick;
 	margin: ($lineHeight * 2rem) auto ($lineHeight * 2rem);
 	text-align: center;
-	a:link, a:visited, a:hover, a:active {
+	a:link,
+	a:visited,
+	a:hover,
+	a:active {
 		color: $colorText;
 		text-decoration: none;
 	}
@@ -71,7 +75,10 @@ h2 {
 	margin: ($lineHeight * 2rem) auto;
 	page-break-after: avoid;
 	text-align: center;
-	a:link, a:visited, a:hover, a:active {
+	a:link,
+	a:visited,
+	a:hover,
+	a:active {
 		color: $colorText;
 		text-decoration: none;
 	}
@@ -86,7 +93,10 @@ h6 {
 	margin: 0 auto;
 	page-break-after: avoid;
 	text-align: left;
-	a:link, a:visited, a:hover, a:active {
+	a:link,
+	a:visited,
+	a:hover,
+	a:active {
 		color: $colorText;
 		text-decoration: none;
 	}
@@ -94,7 +104,10 @@ h6 {
 
 li {
 	font-weight: $fontWeightThin;
-	a:link, a:visited, a:hover, a:active {
+	a:link,
+	a:visited,
+	a:hover,
+	a:active {
 		color: $colorPrimary;
 		font-weight: $fontWeightThick;
 		text-decoration: none;
@@ -122,7 +135,10 @@ p {
 	font-weight: $fontWeightThin;
 	margin: 0 auto ($lineHeight + rem);
 	text-align: left;
-	a:link, a:visited, a:hover, a:active {
+	a:link,
+	a:visited,
+	a:hover,
+	a:active {
 		color: $colorPrimary;
 		font-weight: $fontWeightThick;
 		text-decoration: none;
