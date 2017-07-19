@@ -271,6 +271,9 @@ body {
 			border-top: $dividerThin;
 			margin: ($lineHeight + rem) auto;
 			max-width: 20.5rem; // Calculated based upon widest li
+			&:first-of-type {
+				margin-top: ($lineHeight * 2rem)
+			}
 		}
 		li {
 			text-align: center;
@@ -311,6 +314,12 @@ main {
 			text-align: justify;
 		}
 	}
+}
+
+blockquote,
+pre {
+	max-width: $maxWidthText;
+	width: 90%;
 }
 
 figure {

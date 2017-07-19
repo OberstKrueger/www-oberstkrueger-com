@@ -219,6 +219,8 @@ body.index h2 {
   border-top: 0.0625rem solid #868e96;
   margin: 1.375rem auto;
   max-width: 20.5rem; }
+  body.index h2:first-of-type {
+    margin-top: 2.75rem; }
 
 body.index li {
   text-align: center; }
@@ -253,6 +255,11 @@ main ul {
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     text-align: justify; } }
+
+blockquote,
+pre {
+  max-width: 40rem;
+  width: 90%; }
 
 figure {
   max-width: 64rem; }
