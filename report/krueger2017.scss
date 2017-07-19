@@ -215,6 +215,10 @@ figure {
 		font-size: 0.75rem;
 		text-align: center;
 	}
+	&.half {
+		max-width: $maxWidthText;
+		width: 50%;
+	}
 	&.halfLeft {
 		float: left;
 		margin-bottom: 0;
