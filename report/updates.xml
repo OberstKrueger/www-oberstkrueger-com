@@ -7,7 +7,76 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2017-06-27T15:00:00Z</updated>
+<updated>2017-07-20T23:00:00Z</updated>
+
+<entry>
+<title>Updates For July 20, 2017</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/20170720</id>
+<published>2017-07-20T23:00:00Z</published>
+<updated>2017-07-20T23:00:00Z</updated>
+<content type="html">
+<![CDATA[
+<h3>A Slightly New Look</h3>
+
+<p>I updated the overall theme this month to a darker theme. Lately, I have found myself living inside of dark themed code editors and terminal windows, and wanted my website to match this overall aesthetic. Other sections of the CSS were simplified and cleaned up. Swapping color palettes in the future should be easy, as there are 6 Sass variables that control the entire scheme.</p>
+
+<p>Most blogs are lighter in color, with common thinking being that dark text on a light background is most legible. This might be the case, but I still wanted to try to do the opposite, to see where it would lead me. I am happy with the results so far, especially because it did not take too much time to rework the code to accommodate this look.</p>
+
+<h3>Helpful Algorithms</h3>
+
+<p>In programming, algorithms and functions are one of the main tools at your disposal. Many functions can be re-used in later projects. <a href="https://krueger.report/programming/helpful-algorithms">Helpful Algorithms</a> is a resource for common algorithms that I use. Starting out, a lot of them are math functions that I created for Project Euler, but I also plan to go back and learn more fundamental programming algorithms and create my own implementations of them.</p>
+
+<h3>Updates</h3>
+
+<p>I did not make any substantial updates to any pages this month, due to focusing on updating the theme of the site. Additionally, as can be seen below, I spent a lot of time this month both playing new games and reading, which left less time for writing than normal.</p>
+
+<h3>Books Read</h3>
+
+<ul>
+<li>Ego Is the Enemy, by Ryan Holiday</li>
+<li>The Last Battle, by C.S. Lewis</li>
+<li>The Magician's Nephew, by C.S. Lewis</li>
+<li>The One Device: The Secret History of the iPhone, by Brian Merchant</li>
+<li>Resilient Web Design, by Jeremy Keith</li>
+</ul>
+
+<h3>Favorite Articles</h3>
+
+<ul>
+<li><a href="https://sonniesedge.co.uk/blog/a-day-without-javascript">A day without Javascript</a></li>
+<li><a href="https://n-o-d-e.net/duality.html">The duality of technology</a></li>
+<li><a href="https://aeon.co/essays/why-is-the-language-of-transhumanists-and-religion-so-similar">fAIth</a></li>
+<li><a href="https://medium.com/time-dorks/my-year-of-headspace-i-meditated-for-400-days-and-all-i-got-was-this-lousy-sense-of-clarity-and-9b0bc69c9fd8">How I tricked myself into meditating: or, “I used Headspace for 400 Days and all I got was this lousy sense of clarity and well-being”</a></li>
+<li><a href="https://www.nytimes.com/2017/07/16/business/china-cash-smartphone-payments.html">In urban China, cash is rapidly becoming obsolete</a></li>
+<li><a href="https://daringfireball.net/2017/07/iphone_silly_season">iPhone silly season</a></li>
+<li><a href="https://medium.com/@OlarkLiveChat/its-2017-and-mental-health-is-still-an-issue-in-the-workplace-61efbef092f">It’s 2017 and Mental Health is still an issue in the workplace</a></li>
+<li><a href="http://meow.noopkat.com/lessons-from-one-year-of-streaming-on-twitch/">Lessons from my first year of live coding on Twitch</a></li>
+<li><a href="http://www.npr.org/sections/health-shots/2017/07/12/536812206/living-drug-that-fights-cancer-by-harnessing-the-immune-system-clears-key-hurdle">'Living drug' that fights cancer by harnessing immune system clears key hurdle</a></li>
+<li><a href="https://www.macobserver.com/news/mac-mini-turns-1000-days-old-today/">The Mac mini turns 1000 days old today</a></li>
+<li><a href="https://www.polygon.com/features/2017/7/5/15916862/the-making-of-final-fantasy-12">The making of Final Fantasy 12</a></li>
+<li><a href="https://blog.mozilla.org/blog/2017/07/11/mozilla-paid-parental-leave-program/">Mozilla fully paid parental leave program officially rolls out worldwide</a></li>
+<li><a href="http://blog.rust-lang.org/2017/07/05/Rust-Roadmap-Update.html">Rust's 2017 roadmap, six months in</a></li>
+<li><a href="https://fivethirtyeight.com/features/seattles-minimum-wage-hike-may-have-gone-too-far/">Seattle's minimum wage hike may have gone too far</a></li>
+<li><a href="http://blog.soylent.com/post/162322724087/soylent-kickstarts-the-summer-with-new-cafe-line">Soylent kickstarts the summer with new Cafe line flavors</a></li>
+<li><a href="https://qz.com/1019145/weve-been-worrying-about-the-end-of-work-for-500-years/">We’ve been worrying about the end of work for 500 years</a></li>
+</ul>
+
+<h3>Games Played</h3>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Bayonetta">Bayonetta</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Chrono_Trigger">Chrono Trigger</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood">Final Fantasy XIV: Stormblood</a></li>
+<li><a href="https://playoverwatch.com/en-us/">Overwatch</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Torment:_Tides_of_Numenera">Torment: Tides of Numenera</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For June 27, 2017</title>
