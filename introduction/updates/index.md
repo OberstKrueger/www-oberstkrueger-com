@@ -3,10 +3,61 @@ category: introduction
 created: 2017.02.27:1700
 title: The Krueger Report - Updates
 type: page
-updated: 2017.06.27:1500
+updated: 2017.07.20:2300
 ---
 
 # Updates
+
+## 2017.07.20
+
+### A Slightly New Look
+
+I updated the overall theme this month to a darker theme. Lately, I have found myself living inside of dark themed code editors and terminal windows, and wanted my website to match this overall aesthetic. Other sections of the CSS were simplified and cleaned up. Swapping color palettes in the future should be easy, as there are 6 Sass variables that control the entire scheme.
+
+Most blogs are lighter in color, with common thinking being that dark text on a light background is most legible. This might be the case, but I still wanted to try to do the opposite, to see where it would lead me. I am happy with the results so far, especially because it did not take too much time to rework the code to accommodate this look.
+
+### Helpful Algorithms
+
+In programming, algorithms and functions are one of the main tools at your disposal. Many functions can be re-used in later projects. [Helpful Algorithms](https://krueger.report/programming/helpful-algorithms) is a resource for common algorithms that I use. Starting out, a lot of them are math functions that I created for Project Euler, but I also plan to go back and learn more fundamental programming algorithms and create my own implementations of them.
+
+### Updates
+
+I did not make any substantial updates to any pages this month, due to focusing on updating the theme of the site. Additionally, as can be seen below, I spent a lot of time this month both playing new games and reading, which left less time for writing than normal.
+
+### Books Read
+
+- Ego Is the Enemy, by Ryan Holiday
+- The Last Battle, by C.S. Lewis
+- The Magician's Nephew, by C.S. Lewis
+- The One Device: The Secret History of the iPhone, by Brian Merchant
+- Resilient Web Design, by Jeremy Keith
+
+### Favorite Articles
+
+- [A day without Javascript](https://sonniesedge.co.uk/blog/a-day-without-javascript)
+- [The duality of technology](https://n-o-d-e.net/duality.html)
+- [fAIth](https://aeon.co/essays/why-is-the-language-of-transhumanists-and-religion-so-similar)
+- [How I tricked myself into meditating: or, “I used Headspace for 400 Days and all I got was this lousy sense of clarity and well-being”](https://medium.com/time-dorks/my-year-of-headspace-i-meditated-for-400-days-and-all-i-got-was-this-lousy-sense-of-clarity-and-9b0bc69c9fd8)
+- [In urban China, cash is rapidly becoming obsolete](https://www.nytimes.com/2017/07/16/business/china-cash-smartphone-payments.html)
+- [iPhone silly season](https://daringfireball.net/2017/07/iphone_silly_season)
+- [It’s 2017 and Mental Health is still an issue in the workplace](https://medium.com/@OlarkLiveChat/its-2017-and-mental-health-is-still-an-issue-in-the-workplace-61efbef092f)
+- [Lessons from my first year of live coding on Twitch](http://meow.noopkat.com/lessons-from-one-year-of-streaming-on-twitch/)
+- ['Living drug' that fights cancer by harnessing immune system clears key hurdle](http://www.npr.org/sections/health-shots/2017/07/12/536812206/living-drug-that-fights-cancer-by-harnessing-the-immune-system-clears-key-hurdle)
+- [The Mac mini turns 1000 days old today](https://www.macobserver.com/news/mac-mini-turns-1000-days-old-today/)
+- [The making of Final Fantasy 12](https://www.polygon.com/features/2017/7/5/15916862/the-making-of-final-fantasy-12)
+- [Mozilla fully paid parental leave program officially rolls out worldwide](https://blog.mozilla.org/blog/2017/07/11/mozilla-paid-parental-leave-program/)
+- [Rust's 2017 roadmap, six months in](http://blog.rust-lang.org/2017/07/05/Rust-Roadmap-Update.html)
+- [Seattle's minimum wage hike may have gone too far](https://fivethirtyeight.com/features/seattles-minimum-wage-hike-may-have-gone-too-far/)
+- [Soylent kickstarts the summer with new Cafe line flavors](http://blog.soylent.com/post/162322724087/soylent-kickstarts-the-summer-with-new-cafe-line)
+- [We’ve been worrying about the end of work for 500 years](https://qz.com/1019145/weve-been-worrying-about-the-end-of-work-for-500-years/)
+
+### Games Played
+
+- [Bayonetta](https://en.wikipedia.org/wiki/Bayonetta)
+- [Chrono Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger)
+- [Final Fantasy XIV: Stormblood](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood)
+- [Overwatch](https://playoverwatch.com/en-us/)
+- [Torment: Tides of Numenera](https://en.wikipedia.org/wiki/Torment:_Tides_of_Numenera)
 
 ## 2017.06.27
 
