@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.07.18:0600
+updated: 2017.07.22:0900
 ---
 
 # About The Author
@@ -61,7 +61,6 @@ updated: 2017.07.18:0600
 - [Flash Forward](http://www.flashforwardpod.com)
 - [IRL](https://irlpodcast.org)
 - [Main Engine Cut Off](https://mainenginecutoff.com/podcast)
-- [The Minimalists](http://www.theminimalists.com/podcast/)
 - [Note To Self](http://www.wnyc.org/shows/notetoself/)
 - [Reasonably Sound](http://reasonablysound.com)
 - [Science Vs](https://gimletmedia.com/science-vs/)
