@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2017.07.02:1915
+updated: 2017.07.24:1700
 ---
 
 ## Introduction
@@ -17,6 +17,7 @@ updated: 2017.07.02:1915
 
 - [Asheron's Call](/gaming/asherons-call)
 - [Disabling Gaming Platform's Social Features](/gaming/disabling-gaming-platforms-social-features)
+- [Notes On Final Fantasy XIV](/gaming/notes-on-final-fantasy-xiv)
 
 ## Health
 
