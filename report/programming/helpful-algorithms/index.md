@@ -3,7 +3,7 @@ category: programming
 created: 2017.07.02:1915
 title: The Krueger Report - Helpful Algorithms
 type: page
-updated: 2017.07.27:0545
+updated: 2017.07.27:0600
 ---
 
 # Helpful Algorithms
@@ -87,6 +87,8 @@ Note: For large enough values of n, some environments might run out of memory du
 	
 	func primeSieve(_ target: Int) -> [Int] {
 		if target <= 1 { return [] }
+		if target == 2 { return [2] }
+		if target == 3 { return [2, 3] }
 		let targetSquareRoot = Int(sqrt(Double(target)))
 		var checks: [Bool] = Array(repeating: true, count: target + 1)
 		var primes: [Int] = []
