@@ -3,21 +3,12 @@ category: programming
 created: 2017.07.02:1915
 title: The Krueger Report - Helpful Algorithms
 type: page
-updated: 2017.07.08:2045
+updated: 2017.07.27:0545
 ---
 
 # Helpful Algorithms
 
 ## Greatest Common Divisor
-
-### Python
-
-	def gcd(x, y):
-		while y:
-			x, y = y, x % y
-		return x
-
-### Swift
 
 	func gcd(_ first: Int, _ second: Int) -> Int {
 		var x: Int = first
@@ -29,17 +20,6 @@ updated: 2017.07.08:2045
 	}
 
 ## Lowest Common Multiple
-
-### Python
-
-	def lcm(x, y):
-		if x == y == 0: return 0
-		a, b = x, y
-		while b:
-			a, b = b, a % b
-		return int((x * y) / a)
-
-### Swift
 
 	func lcm(_ first: Int, _ second: Int) -> Int {
 		if first == 0 && second == 0 { return 0 }
@@ -53,13 +33,6 @@ updated: 2017.07.08:2045
 
 ## Palindrome Check
 
-### Python
-
-	def palindrome_check(s):
-		return s.lower() == s.lower()[::-1]
-
-### Swift
-
 	extension String {
 		var isPalindrome: Bool {
 			return self.lowercased() == String(self.characters.reversed()).lowercased()
@@ -69,22 +42,6 @@ updated: 2017.07.08:2045
 ## Primality Check
 
 Note: This algorithm uses a languages standard square root function. Most languages have efficient implementations of the function that are faster than anything else that could be coded by hand.
-
-### Python
-
-	from math import sqrt
-	
-	def prime_check(n):
-		if n <= 1: return False
-		if n % 2 == 0: return n == 2
-		if n % 3 == 0: return n == 3
-		r, f = int(sqrt(n)), 5
-		while f <= r:
-			if n % f == 0 or n % (f+2) == 0: return False
-			f += 6
-		return True
-
-### Swift
 
 	import Foundation
 	
@@ -104,19 +61,6 @@ Note: This algorithm uses a languages standard square root function. Most langua
 	}
 
 ## Prime Factors
-
-### Python
-
-	def prime_factors(n):
-		f, i, m = [], 2, n
-		while i <= m:
-			if m % i == 0:
-				f.append(i)
-				m /= i
-			else: i += 1
-		return f
-
-### Swift
 
 	extension Int {
 		var primeFactors: [Int] {
@@ -138,25 +82,6 @@ Note: This algorithm uses a languages standard square root function. Most langua
 The [sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) returns all prime numbers up to the value n provided to the function. This implementation returns the values as an array.
 
 Note: For large enough values of n, some environments might run out of memory due to the initial large boolean array. If this is the case, running all numbers against the above mentioned primality check is faster than modifying this algorithm to check against known primes.
-
-### Python
-
-	from math import sqrt
-	
-	def prime_sieve(n):
-		if n <= 1: return []
-		c = [True] * (n + 1)
-		p = []
-		for i in range(2, int(sqrt(n)), 1):
-			if c[i]:
-				p.append(i)
-				for x in range(i * i, n + 1, i): c[x] = False
-		for i in range(int(sqrt(n)) + 1, n + 1, 1):
-			if c[i]: p.append(i)
-		return p
-
-
-### Swift
 
 	import Foundation
 	
