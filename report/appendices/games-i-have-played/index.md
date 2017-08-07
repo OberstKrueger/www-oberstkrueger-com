@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: The Krueger Report - Games I Have Played
 type: page
-updated: 2017.06.19:1645
+updated: 2017.08.07:0645
 ---
 
 # Games I Have Played
@@ -202,6 +202,7 @@ updated: 2017.06.19:1645
 - [Baldur's Gate: Tales of the Sword Coast](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Tales_of_the_Sword_Coast)
 - [Baldur's Gate II: Shadows of Amn](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn)
 - [Baldur's Gate II: Throne of Bhaal](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal)
+- [Bayonetta](https://en.wikipedia.org/wiki/Bayonetta)
 - [BioShock](https://en.wikipedia.org/wiki/BioShock)
 - [BioShock Infinite](https://en.wikipedia.org/wiki/BioShock_Infinite)
 - [Borderlands](https://en.wikipedia.org/wiki/Borderlands_(video_game))
@@ -421,6 +422,7 @@ updated: 2017.06.19:1645
 - [TIS-100](https://en.wikipedia.org/wiki/TIS-100)
 - [Tomb Raider](https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game))
 - [Tomb Raider (2013)](https://en.wikipedia.org/wiki/Tomb_Raider_(2013_video_game))
+- [Torment: Tides of Numenera](https://en.wikipedia.org/wiki/Torment:_Tides_of_Numenera)
 - [Transistor](https://en.wikipedia.org/wiki/Transistor_(video_game))
 - [Tribes 2](https://en.wikipedia.org/wiki/Tribes_2)
 - [Tron 2.0](https://en.wikipedia.org/wiki/Tron_2.0)
