@@ -3,7 +3,7 @@ category: technology
 created: 2016.11.17:0400
 title: The Krueger Report - Backups
 type: page
-updated: 2017.08.06:1430
+updated: 2017.08.06:1945
 ---
 
 # Backups
@@ -76,7 +76,7 @@ Monthly storage cost is important, but if restoring the data is prohibitively ex
 
 Dropbox, Google Drive, and Microsoft OneDrive are all priced nicely, but their cost comes in strict tiers. For example, Google Drive charges $8.33/month for 1 terabyte when paid annually or $19.99/month for 2 terabytes with no option for an annual discount, but if you need to store more, you must pay $99.99/month for 10 terabytes. There is no middle-ground between 2 terabytes and 10 terabytes. Dropbox and OneDrive offer larger tiers, but there are similar gaps between the small and large tiers. Without more precise control over the amount of storage purchased, these services are either too expensive or not adaptable enough for my needs. Amazon Drive charges per terabyte with a max of 30 terabytes total, but allows the most flexibility of those in this category of services.
 
-### B2
+## B2
 
 B2 was selected as my cloud backup for a variety of reasons. Due to my data needs currently being sub-terabyte, I wanted to use a service that allowed me to pay per gigabyte. All of the services that charge in this manner are still comparably priced to the ones that charge by terabyte. In the short-term, I am able to save some money by paying per gigabyte, while still not overpaying when my data again reaches the terabyte range.
 
@@ -88,7 +88,7 @@ This leaves B2 and Wasabi. B2 is run by [Backblaze](https://www.backblaze.com), 
 
 For all of the above reasons, B2 provides the best bang for my buck without the risks of huge costs further down the road when I will be needing them the least.
 
-### Current Solution
+## Current Solution
 
 My data is split into two sets: irreplaceable personal data, and multimedia. Both sets of data are stored on the same drive, but my backup solution for the irreplaceable data has a few more parts to it.
 
