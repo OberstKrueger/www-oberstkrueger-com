@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: The Krueger Report - Books I Have Read
 type: page
-updated: 2017.07.31:1445
+updated: 2017.08.07:0930
 ---
 
 # Books I Have Read
@@ -42,6 +42,7 @@ Out of all of the lists I have created, this one will be the hardest to fill in.
 - Smith, Sean - The Internet of Risky Things: Trusting the Devices That Surround Us
 - Stephens, Rod - Essential Algorithms: A Practical Approach to Computer Algorithms
 - Stephenson, Neal - Reamde
+- Stephenson, Neal - Seveneves
 - Stephenson, Neal - Snow Crash
 - Sweigart, Al - Automate the Boring Stuff with Python: Practical Programming for Total Beginners
 - Taylor, Dave & Perry, Brandon - Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, and UNIX Systems
