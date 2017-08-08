@@ -276,6 +276,8 @@ natural numbers and the square of the sum.
 >
 > Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
 
+*Note: The above number is entered as a String from a separate file due to size.*
+
 	func p008(input: String = p008_input) -> Int {
 		var output: Int = 0
 		var currentNumbers: [Int] = []
