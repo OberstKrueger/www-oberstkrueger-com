@@ -3,7 +3,7 @@ category: appendices
 created: 2017.08.07:2045
 title: The Krueger Report - Movies I Have Watched
 type: page
-updated: 2017.08.07:2045
+updated: 2017.08.09.0400
 ---
 
 # Movies I Have Watched
@@ -11,6 +11,8 @@ updated: 2017.08.07:2045
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
 - [101 Dalmatians (1996)](https://en.wikipedia.org/wiki/101_Dalmatians_(1996_film))
 - [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film))
+- [The Addams Family](https://en.wikipedia.org/wiki/The_Addams_Family_(film))
+- [Addams Family Values](https://en.wikipedia.org/wiki/Addams_Family_Values)
 - [Akira](https://en.wikipedia.org/wiki/Akira_(1988_film))
 - [Aladdin](https://en.wikipedia.org/wiki/Aladdin_(1992_Disney_film))
 - [Alice in Wonderland (1951)](https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1951_film))
