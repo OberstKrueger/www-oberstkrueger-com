@@ -1,9 +1,9 @@
 ---
 category: technology
 created: 2017.02.27:1700
-title: Selecting Software Tools
+title: The Krueger Report - Selecting Software Tools
 type: page
-updated: 2017.06.05:1900
+updated: 2017.08.09:2100
 ---
 
 # Software Tools
