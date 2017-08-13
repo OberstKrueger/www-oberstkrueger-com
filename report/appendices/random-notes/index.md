@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1300
 title: The Krueger Report - Random Notes
 type: page
-updated: 2017.07.01:1300
+updated: 2017.08.12:1245
 ---
 
 # Random Notes
@@ -16,7 +16,18 @@ The following are random ideas, quotes, or thoughts that I have come across.
 >
 > - Eliezer S. Yodkowsky
 
-### Deep Work
+### Programming
+
+> I used to be an architect before I became a programmer, so since I started programming I noticed I hag a big advantage over my peers when it comes to the high level designing and structuring a program.
+> 
+> Thing is, the more experienced I become at programming, the less of that I end up doing. I more and more tend to break everything down into tiny parts that can all work independently and be composed into bigger bits. Most of my career I've used OO languages, especially C#, but nowadays I usually avoid using a lot of the features of OO, like inheritance, and just try and make everything from tiny little methods (functions) big things are just made from several of those methods in sequence and really big things are just made from several of the big ones.
+> 
+> From a development perspective it means I can just go ahead and start writing useful little snippets of code and start composing them together into bigger and bigger features as I go. So, I'm switching from a top-down style to more of a bottom-up one.
+> 
+> - [everyone on Hacker News](https://news.ycombinator.com/item?id=14827848)
+
+
+### Work
 
 > Imagine your mind like your desk. Every morning it's empty. (Usually) You wake up you load it up with all sorts of crap to entertain yourself, social media, Reddit, hacker news etc, etc.
 > 
