@@ -3,10 +3,67 @@ category: introduction
 created: 2017.02.27:1700
 title: The Krueger Report - Updates
 type: page
-updated: 2017.07.20:2300
+updated: 2017.08.12:2215
 ---
 
 # Updates
+
+## 2017.08.12
+
+### base-css
+
+Last month as I was working on revamping this site's theme, I decided to create a small set of boilerplate CSS that I can use on future projects. What I have called [base-css](http://krueger.report/programming/base-css) is my new set of CSS that I used as the core of the new theme. Going forward, I plan to use base-css for all projects just so that some essential values can be set without having to spend time rebuilding it from scratch.
+
+### Movies I Have Watched
+
+[Movies I Have Watched](https://krueger.report/appendices/movies-i-have-watched) is a new appendix with a list of all of the movies I have watched. There are some that will be missing from that list as of right now, but after having spent a few hours working on this, I know the vast majority are already listed.
+
+### Notes On Final Fantasy XIV
+
+Final Fantasy XIV has been my main MMORPG since it's relaunch in August, 2013. One of my favorite aspects of the game is the focus on Trials, which are essentially boss fights without a corresponding dungeon to clear through beforehand. [Notes On Final Fantasy XIV](https://krueger.report/gaming/notes-on-final-fantasy-xiv) is mostly notes to myself on what to watch for during each Trial, from the perspective of a main-tank or off-tank.
+
+### Updates
+
+A few months back, Amazon Drive pricing changed from being $5/month for unlimited storage to $5/month per terabyte of storage. At the time of the change, I did not feel the need to change my backup plan, but at the back of my mind was the fleeting thought that Amazon might change their offerings again. After surveying the backup field again, I have since moved my [backups](https://krueger.report/technology/backups) off of Amazon to B2.
+
+### Books Read
+
+- Emacs Field Guide, by Harley Hahn
+- Essential Algorithms: A Practical Approach to Computer Algorithms, by Rod Stephens
+- Seveneves, by Neal Stephenson
+
+### Favorite Articles
+
+- [3 – That's the magic number](http://www.literatureandlatte.com/blog/?p=1032)
+- [Apple removes iPod nano and iPod shuffle from sale ](https://512pixels.net/2017/07/rip-ipod-nano-shuffle/)
+- [Curated list of falsehoods programmers believe in](https://github.com/kdeldycke/awesome-falsehood)
+- [The digital native is a myth](http://www.nature.com/news/the-digital-native-is-a-myth-1.22363)
+- [The emotional labor of ASMR](https://www.theatlantic.com/amp/article/490811/)
+- [First human embryos edited in U.S.](https://www.technologyreview.com/s/608350/first-human-embryos-edited-in-us/)
+- [Flash & the future of interactive content](https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html)
+- [Font-size: an unexpectedly complex CSS property](https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property/)
+- [Growing up alongside tech](https://eev.ee/blog/2017/08/09/growing-up-alongside-tech/)
+- [I'm a Google manufacturing robot and I believe humans are biologically unfit to have jobs in tech](https://www.mcsweeneys.net/articles/im-a-google-manufacturing-robot-and-i-believe-humans-are-biologically-unfit-to-have-jobs-in-tech)
+- [In conversation: Trent Reznor](http://www.vulture.com/2017/07/trent-reznor-nine-inch-nails.html)
+- [The languages which almost became CSS](https://blog.cloudflare.com/the-languages-which-almost-became-css/)
+- [Official support for open-source Rust plugin for IntelliJ IDEA, CLion, and other JetBrains IDEs](https://blog.jetbrains.com/blog/2017/08/04/official-support-for-open-source-rust-plugin-for-intellij-idea-clion-and-other-jetbrains-ides/)
+- [OpenAI at The International](https://openai.com/the-international/)
+- [Petrified forest: Fear is America's top-selling consumer product](http://laphamsquarterly.org/fear/petrified-forest)
+- [Social media is the new smoking](https://theroamingmind.com/2017/03/06/social-media-is-the-new-smoking/)
+- [Subscriptions](http://leancrew.com/all-this/2017/08/subscriptions/)
+- [Swift 5: start your engines](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170807/038645.html)
+- [Upward and worn](https://ethanmarcotte.com/wrote/upward-and-worn/)
+- [We’ve studied gender and STEM for 25 years. The science doesn’t support the Google memo.](https://www.recode.net/2017/8/11/16127992/google-engineer-memo-research-science-women-biology-tech-james-damore)
+
+### Games Played
+
+- [Bayonetta](https://en.wikipedia.org/wiki/Bayonetta)
+- [Final Fantasy XIV: Stormblood](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood)
+- [Torment: Tides of Numenera](https://en.wikipedia.org/wiki/Torment:_Tides_of_Numenera)
+
+### Movies Watched
+
+- [Dunkirk](https://en.wikipedia.org/wiki/Dunkirk_(2017_film))
 
 ## 2017.07.20
 

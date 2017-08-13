@@ -7,7 +7,84 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2017-07-20T23:00:00Z</updated>
+<updated>2017-08-12T22:15:00Z</updated>
+
+<entry>
+<title>Updates For August 12, 2017</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/20170812</id>
+<published>2017-08-12T22:15:00Z</published>
+<updated>2017-08-12T22:15:00Z</updated>
+<content type="html">
+<![CDATA[
+<h3>base-css</h3>
+
+<p>Last month as I was working on revamping this site's theme, I decided to create a small set of boilerplate CSS that I can use on future projects. What I have called <a href="http://krueger.report/programming/base-css">base-css</a> is my new set of CSS that I used as the core of the new theme. Going forward, I plan to use base-css for all projects just so that some essential values can be set without having to spend time rebuilding it from scratch.</p>
+
+<h3>Movies I Have Watched</h3>
+
+<p><a href="https://krueger.report/appendices/movies-i-have-watched">Movies I Have Watched</a> is a new appendix with a list of all of the movies I have watched. There are some that will be missing from that list as of right now, but after having spent a few hours working on this, I know the vast majority are already listed.</p>
+
+<h3>Notes On Final Fantasy XIV</h3>
+
+<p>Final Fantasy XIV has been my main MMORPG since it's relaunch in August, 2013. One of my favorite aspects of the game is the focus on Trials, which are essentially boss fights without a corresponding dungeon to clear through beforehand. <a href="https://krueger.report/gaming/notes-on-final-fantasy-xiv">Notes On Final Fantasy XIV</a> is mostly notes to myself on what to watch for during each Trial, from the perspective of a main-tank or off-tank.</p>
+
+<h3>Updates</h3>
+
+<p>A few months back, Amazon Drive pricing changed from being $5/month for unlimited storage to $5/month per terabyte of storage. At the time of the change, I did not feel the need to change my backup plan, but at the back of my mind was the fleeting thought that Amazon might change their offerings again. After surveying the backup field again, I have since moved my <a href="https://krueger.report/technology/backups">backups</a> off of Amazon to B2.</p>
+
+<h3>Books Read</h3>
+
+<ul>
+<li>Emacs Field Guide, by Harley Hahn</li>
+<li>Essential Algorithms: A Practical Approach to Computer Algorithms, by Rod Stephens</li>
+<li>Seveneves, by Neal Stephenson</li>
+</ul>
+
+<h3>Favorite Articles</h3>
+
+<ul>
+<li><a href="http://www.literatureandlatte.com/blog/?p=1032">3 – That's the magic number</a></li>
+<li><a href="https://512pixels.net/2017/07/rip-ipod-nano-shuffle/">Apple removes iPod nano and iPod shuffle from sale </a></li>
+<li><a href="https://github.com/kdeldycke/awesome-falsehood">Curated list of falsehoods programmers believe in</a></li>
+<li><a href="http://www.nature.com/news/the-digital-native-is-a-myth-1.22363">The digital native is a myth</a></li>
+<li><a href="https://www.theatlantic.com/amp/article/490811/">The emotional labor of ASMR</a></li>
+<li><a href="https://www.technologyreview.com/s/608350/first-human-embryos-edited-in-us/">First human embryos edited in U.S.</a></li>
+<li><a href="https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html">Flash &amp; the future of interactive content</a></li>
+<li><a href="https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property/">Font-size: an unexpectedly complex CSS property</a></li>
+<li><a href="https://eev.ee/blog/2017/08/09/growing-up-alongside-tech/">Growing up alongside tech</a></li>
+<li><a href="https://www.mcsweeneys.net/articles/im-a-google-manufacturing-robot-and-i-believe-humans-are-biologically-unfit-to-have-jobs-in-tech">I'm a Google manufacturing robot and I believe humans are biologically unfit to have jobs in tech</a></li>
+<li><a href="http://www.vulture.com/2017/07/trent-reznor-nine-inch-nails.html">In conversation: Trent Reznor</a></li>
+<li><a href="https://blog.cloudflare.com/the-languages-which-almost-became-css/">The languages which almost became CSS</a></li>
+<li><a href="https://blog.jetbrains.com/blog/2017/08/04/official-support-for-open-source-rust-plugin-for-intellij-idea-clion-and-other-jetbrains-ides/">Official support for open-source Rust plugin for IntelliJ IDEA, CLion, and other JetBrains IDEs</a></li>
+<li><a href="https://openai.com/the-international/">OpenAI at The International</a></li>
+<li><a href="http://laphamsquarterly.org/fear/petrified-forest">Petrified forest: Fear is America's top-selling consumer product</a></li>
+<li><a href="https://theroamingmind.com/2017/03/06/social-media-is-the-new-smoking/">Social media is the new smoking</a></li>
+<li><a href="http://leancrew.com/all-this/2017/08/subscriptions/">Subscriptions</a></li>
+<li><a href="https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170807/038645.html">Swift 5: start your engines</a></li>
+<li><a href="https://ethanmarcotte.com/wrote/upward-and-worn/">Upward and worn</a></li>
+<li><a href="https://www.recode.net/2017/8/11/16127992/google-engineer-memo-research-science-women-biology-tech-james-damore">We’ve studied gender and STEM for 25 years. The science doesn’t support the Google memo.</a></li>
+</ul>
+
+<h3>Games Played</h3>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Bayonetta">Bayonetta</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood">Final Fantasy XIV: Stormblood</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Torment:_Tides_of_Numenera">Torment: Tides of Numenera</a></li>
+</ul>
+
+<h3>Movies Watched</h3>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Dunkirk_(2017_film)">Dunkirk</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For July 20, 2017</title>
