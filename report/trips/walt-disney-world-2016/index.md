@@ -58,7 +58,7 @@ The version of Fantasmic at Walt Disney World is not up to the standard set by t
 </figure>
 
 <figure>
-	<video src="/images/walt-disney-world-2016_fantasmic-finale.mp4" preload="none"></video>
+	<video src="/images/walt-disney-world-2016_fantasmic-finale.mp4" controls preload="metadata"></video>
 </figure>
 
 ### The Tower of Terror
