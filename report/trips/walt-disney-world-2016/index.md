@@ -3,7 +3,7 @@ category: trips
 created: 2017.08.14:1100
 title: The Krueger Report - Walt Disney World - 2016
 type: page
-updated: 2017.08.14:1345
+updated: 2017.08.14:1430
 ---
 
 # Walt Disney World - 2016
@@ -57,9 +57,9 @@ The version of Fantasmic at Walt Disney World is not up to the standard set by t
 	<figcaption>Maleficent lights the river on fire</figcaption>
 </figure>
 
-<div class='youtube'>
-<iframe src="https://www.youtube.com/embed/s1ZOA8g5Lys" frameborder="0" allowfullscreen></iframe>
-</div>
+<figure>
+	<video src="/images/walt-disney-world-2016_fantasmic-finale.mp4" preload="none"></video>
+</figure>
 
 ### The Tower of Terror
 
