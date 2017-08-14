@@ -394,6 +394,7 @@ header {
 }
 
 .youtube {
+	max-width: $maxWidthImage;
 	position: relative;
 	padding-bottom: 56.25%;
 	overflow: hidden;
