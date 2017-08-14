@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: The Krueger Report - Games I Have Played
 type: page
-updated: 2017.08.07:0645
+updated: 2017.08.14:1200
 ---
 
 # Games I Have Played
@@ -227,6 +227,7 @@ updated: 2017.08.07:0645
 - [Day of Defeat](https://en.wikipedia.org/wiki/Day_of_Defeat)
 - [Day of Defeat: Source](https://en.wikipedia.org/wiki/Day_of_Defeat:_Source)
 - [Dear Esther](https://en.wikipedia.org/wiki/Dear_Esther)
+- [Dear Esther: Landmark Edition](https://en.wikipedia.org/wiki/Dear_Esther)
 - [DEFCON](https://en.wikipedia.org/wiki/DEFCON_(video_game))
 - [Deus Ex](https://en.wikipedia.org/wiki/Deus_Ex_(video_game))
 - [Deus Ex: Human Revolution](https://en.wikipedia.org/wiki/Deus_Ex:_Human_Revolution)
