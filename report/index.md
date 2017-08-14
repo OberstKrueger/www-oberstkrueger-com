@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2017.08.07:2045
+updated: 2017.08.14:1100
 ---
 
 ## Introduction
@@ -43,6 +43,10 @@ updated: 2017.08.07:2045
 - [Backups](/technology/backups)
 - [DuckDuckGo](/technology/duckduckgo)
 - [Logging Off Facebook](/technology/logging-off-facebook)
+
+## Trips
+
+- [Walt Disney World - 2016](/trips/walt-disney-world-2016)
 
 ## Appendices
 
