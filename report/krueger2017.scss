@@ -231,6 +231,9 @@ figure {
 		font-size: 0.75rem;
 		text-align: center;
 	}
+	img {
+		margin-bottom: 0;
+	}
 	&.half {
 		max-width: $maxWidthText;
 		width: 50%;
