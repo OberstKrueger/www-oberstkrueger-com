@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: The Krueger Report - Games I Have Played
 type: page
-updated: 2017.08.14:1200
+updated: 2017.08.14:1600
 ---
 
 # Games I Have Played
@@ -311,6 +311,7 @@ updated: 2017.08.14:1200
 - [Icewind Dale](https://en.wikipedia.org/wiki/Icewind_Dale)
 - [Icewind Dale: Heart of Winter](https://en.wikipedia.org/wiki/Icewind_Dale:_Heart_of_Winter)
 - [Icewind Dale II](https://en.wikipedia.org/wiki/Icewind_Dale_II)
+- [Inside](https://en.wikipedia.org/wiki/Inside_(video_game))
 - [King's Quest V: Absence Makes the Heart Go Yonder!](https://en.wikipedia.org/wiki/King%27s_Quest_V)
 - [King's Quest VI: Heir Today, Gone Tomorrow](https://en.wikipedia.org/wiki/King%27s_Quest_VI)
 - [King's Quest VII: The Princeless Bride](https://en.wikipedia.org/wiki/King%27s_Quest_VII)
