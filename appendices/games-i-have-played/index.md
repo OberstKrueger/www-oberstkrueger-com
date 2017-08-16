@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: The Krueger Report - Games I Have Played
 type: page
-updated: 2017.08.14:1600
+updated: 2017.08.15:1745
 ---
 
 # Games I Have Played
@@ -384,6 +384,7 @@ updated: 2017.08.14:1600
 - [Soldier of Fortune II: Double Helix](https://en.wikipedia.org/wiki/Soldier_of_Fortune_II:_Double_Helix)
 - [StarCraft](https://en.wikipedia.org/wiki/StarCraft_(video_game))
 - [StarCraft: Brood War](https://en.wikipedia.org/wiki/StarCraft:_Brood_War)
+- [StarCraft: Remastered](https://en.wikipedia.org/wiki/StarCraft:_Remastered)
 - [StarCraft II: Wings of Liberty](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty)
 - [Starsiege: Tribes](https://en.wikipedia.org/wiki/Starsiege:_Tribes)
 - [Star Wars: Dark Forces](https://en.wikipedia.org/wiki/Star_Wars:_Dark_Forces)
