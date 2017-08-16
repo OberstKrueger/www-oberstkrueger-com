@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.08.15:1445
+updated: 2017.08.15:1745
 ---
 
 # About The Author
@@ -51,6 +51,7 @@ updated: 2017.08.15:1445
 ## Current Games
 
 - [Final Fantasy XIV: Stormblood](http://www.finalfantasyxiv.com)
+- [StarCraft: Remastered](https://en.wikipedia.org/wiki/StarCraft:_Remastered)
 
 ## Current Podcasts
 
