@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: The Krueger Report - Notes On Final Fantasy XIV
 type: page
-updated: 2017.07.24:1700
+updated: 2017.08.16:2000
 ---
 
 # Notes On Final Fantasy XIV
@@ -57,3 +57,53 @@ updated: 2017.07.24:1700
 4. Stormsplitter: MT and OT swap after it hits.
 5. Levin Bolt 1: Affected players jump to other side of platform for the AE.
 6. Levin Bolt 2: All players move to other side of arena.
+
+## Raids
+
+### Deltascape V1.0 (Normal)
+
+1. Move away from fire orbs, as they explode for damage and debuff.
+2. Breathwing: Knocks back players and fire orbs. Pre-position close to the boss.
+3. Twin Bolt: hits the MT and whoever is physically closest to them. OT should stand on top of MT before its casting concludes.
+4. Levinbolt: Move away from other players.
+5. The Classical Elements: multiple above abilities at once.
+6. Charybdid: Brings all players to low HP. Stand near healer to be AE healed up.
+
+### Deltascape V2.0 (Normal)
+1. Earthquake: Use Duty Action to levitate above damage.
+2. Evil Sphere: Tank-buster. 
+3. Aetherial Rift: Use Duty Action to rise out of the sinking death.
+4. Gravitational Explosion: Yellow arrow stack.
+5. Maniacal Probe: After Epicenter is cast, move away from any raised tentacle with a blue eye above it.
+6. Blue Spheres: Use Duty Action to levitate above damage.
+7. Yellow Spheres: Make sure you're on the ground to avoid damage.
+8. Demon Eye: Gaze attack.
+9. -1000GS: Stand on the side where no blue or yellow spheres are.
+
+### Deltascape V3.0 (Normal)
+
+1. Ribbit: Frontal cone, turns player into frog.
+2. Spellblade Holy: Yellow arrow stack on one player, AE damage on two other marked players.
+3. Place Dark Token: Adds spawn that have PBAE attacks.
+4. The Playing Field: Four tiles spawn in the middle of the room, each with a different class role icon. Stand on the icon with the same role as your character.
+5. Panel Swap: Stay standing on light blue tiles at all times to avoid The Queen's Waltz.
+6. Place Token: Spawns yellow dragon, OT should tank facing away from party.
+7. Mindjack: Forces players to run in specified directions.
+8. Aetherial Tear: Sand maze.
+9. Phase 3: Some of the floor tiles will be of frogs. Get hit by Ribbit to avoid damage from these attacks.
+
+### Deltascape V4.0 (Normal)
+
+1. Void: When Exdeath is drawing energy from the black void in the back of the arena, attacks are altered as listed below.
+2. Blizzard III: AE.
+3. Blizzard III + Void: Move around as the cast finishes.
+4. Fire III: Marks players for PBAE damage.
+5. Fire III + Void: Do not move or attack while debuff is present.
+6. Thunder III: Tankbuster and a debuff. When two stacks of debuff are present, MT and OT swap roles.
+7. Thunder III + Void: Large AE + debuff. Move away.
+8. Vacuum Wave: Knocks players back
+9. Holy: Yellow arrow stack.
+10. The Decisive Battle: Run behind the creepy face to avoid frontal cone debuff.
+11. Flare: All marked players move away.
+12. Meteor: High unavoidable damage.
+13. Black Hole: Places black holes around arena that debuts.
