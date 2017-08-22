@@ -3,7 +3,7 @@ category: health
 created: 2016.03.27:1230
 title: The Krueger Report - Tracking Sleep
 type: page
-updated: 2017.07.19:0445
+updated: 2017.08.22:0930
 ---
 
 # Tracking Sleep
@@ -24,6 +24,11 @@ The previous apps that I have used, [Sleep++](https://itunes.apple.com/us/app/sl
 AutoSleep works by using the motion data that the Apple Watch and iPhone regularly record. After telling the app what your sleep schedule is, it combines this data with your movement to see if you were actually asleep. In the morning, it reviews the nights motion data to track how well you slept.
 
 In addition, AutoSleep syncs with [Apple Health](https://www.apple.com/ios/health/), allowing me to add it to the overall picture of my health. This makes it easy to see graphs of how well I have slept throughout the past week, month, or year.
+
+<figure>
+	<img src='/images/tracking-sleep_health.png'>
+	<figcaption>Summaries for Day, Month, Week, and Year provided by Health</figcaption>
+</figure>
 
 In the past, I have used [Sleep Cycle](http://www.sleepcycle.com), but this app's method of sleep tracking presented many problems. Having my phone laying on the bed next to me left me nervous that I was going to roll over and knock it off of the bed, losing out on the sleep tracking and/or damaging the phone. Sleep Cycle now uses a method that captures the sound in the room to determine restfulness, but since I am not the only one sleeping in the same bed, I worry about inaccuracies in its recording.
 
