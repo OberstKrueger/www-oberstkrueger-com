@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: The Krueger Report - Notes On Final Fantasy XIV
 type: page
-updated: 2017.08.16:2000
+updated: 2017.08.22:0900
 ---
 
 # Notes On Final Fantasy XIV
@@ -40,6 +40,16 @@ updated: 2017.08.16:2000
 4. Divine Denial: Use Vril, and stand near Lakshmi.
 5. Be ready to stack on the Yellow Arrow.
 6. Path of Light: Targets OT. Cleave attack, point away from the group.
+
+### The Final Steps of Faith
+
+1. Phase 1: Face Nidhogg away from party.
+2. Phase 1: When adds spawn, MT grabs one of the adds that isn't the Shadow Dragon, and OT grabs the other. Face both away from party. Kill ASAP.
+3. Phase 2: Face Nidhogg away from party.
+4. Phase 2: If marked, move towards the walls spread out. Will follow up with line attacks towards the center of arena.
+5. Phase 3: Same as Phase 1, with additional following mechanics.
+6. Phase 3 Aka Morn: Yellow arrow stack attack with multiple hits. Stay stacked until all have gone off.
+7. Phase 3 Fireballs: Explode across X and Y axis. 
 
 ### The Pool of Tribute (Normal)
 
