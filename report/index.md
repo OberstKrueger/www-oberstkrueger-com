@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2017.08.14:1100
+updated: 2017.08.22:0830
 ---
 
 ## Introduction
@@ -47,6 +47,7 @@ updated: 2017.08.14:1100
 ## Trips
 
 - [Walt Disney World - 2016](/trips/walt-disney-world-2016)
+- [Solar Eclipse - 2017](/trips/solar-eclipse-2017)
 
 ## Appendices
 
