@@ -3,7 +3,7 @@ category: programming
 created: 2017.08.06:1745
 title: The Krueger Report - base-css
 type: page
-updated: 2017.08.06:1745
+updated: 2017.08.22:0945
 ---
 
 # base-css
@@ -262,6 +262,9 @@ Additionally, the entire .scss file can be found below. It was compiled with ver
 		figcaption {
 			font-size: 0.75rem;
 			text-align: center;
+		}
+		img {
+			margin-bottom: 0;
 		}
 		&.halfLeft {
 			float: left;
