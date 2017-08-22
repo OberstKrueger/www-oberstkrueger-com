@@ -3,7 +3,7 @@ category: technology
 created: 2017.02.27:1700
 title: The Krueger Report - Selecting Software Tools
 type: page
-updated: 2017.08.09:2100
+updated: 2017.08.22:1000
 ---
 
 # Software Tools
@@ -60,44 +60,76 @@ The second part is that the program makes good use of computer resources. Today,
 
 This is my criteria for all software that I use. When evaluating new applications, if it does not meet all of these criteria, I rule out its use. I also do not constantly try to replace my tools. To be sure, I keep up with new tools released, but given the first point of using something that has been around for a while, I will not switch to it right away. It is easy to fall into the trap of constantly learning new tools instead of using them to do actual work.
 
-## Tools I Use
+## Cross-platform Tools
+
+### eBook Reader
+
+**Name**: [iBooks](https://www.apple.com/ibooks/)<br>
+**OS**: iOS, macOS<br>
+**Used Since**: April 2, 2010<br>
+**Previously Used**: [Google Play Books](https://en.wikipedia.org/wiki/Google_Play_Books)
+
+### Password Manager
 
 **Name**: [1Password](https://1password.com)<br>
-**Type**: Password manager<br>
 **OS**: iOS, macOS<br>
 **Used Since**: August 26, 2013
 
-**Name**: [AutoSleep](http://autosleep.tantsissa.com)<br>
-**Type**: Sleep tracking<br>
-**OS**: iOS<br>
-**Used Since**: December 22, 2016<br>
-**Previously Used**: [Sleep Cycle](https://www.sleepcycle.com), [Sleep++](https://david-smith.org/apps/)
-
-**Name**: [iA Writer](https://ia.net/writer/)<br>
-**Type**: Notes<br>
-**OS**: iOS, macOS<br>
-**Used Since**: January 14, 2014
-
-**Name**: [Overcast](https://overcast.fm)<br>
-**Type**: Podcast player<br>
-**OS**: iOS, watchOS<br>
-**Used Since**: July 16, 2014<br>
-**Previously Used**: [Apple Podcasts](https://support.apple.com/en-us/HT201859), [iTunes](https://www.apple.com/itunes/)
-
-**Name**: [Pixelmator](http://www.pixelmator.com)<br>
-**Type**: Image editor<br>
-**OS**: macOS<br>
-**Used Since**: June 30, 2011<br>
-**Previously Used**: [Adobe Photoshop CS6](https://en.wikipedia.org/wiki/Adobe_Photoshop), [GIMP](https://www.gimp.org)
+### RSS Reader
 
 **Name**: [Reeder](http://reederapp.com)<br>
-**Type**: RSS reader<br>
 **OS**: iOS, macOS<br>
 **Used Since**: December 12, 2010<br>
 **Previously Used**: [NetNewsWire](http://netnewswireapp.com), [Unread](http://supertop.co/unread/)
 
+### Writing
+
+**Name**: [iA Writer](https://ia.net/writer/)<br>
+**OS**: iOS, macOS<br>
+**Used Since**: January 14, 2014<br>
+**Previously Used**: [Bean](http://www.bean-osx.com/Bean.html), [OpenOffice.org](https://en.wikipedia.org/wiki/OpenOffice.org), [Pages](https://www.apple.com/pages/), [Scrivener](http://www.literatureandlatte.com/scrivener.php)
+
+## iOS Tools
+
+### Podcasts
+
+**Name**: [Overcast](https://overcast.fm)<br>
+**Used Since**: July 16, 2014<br>
+**Previously Used**: [Apple Podcasts](https://support.apple.com/en-us/HT201859), [iTunes](https://www.apple.com/itunes/)
+
+### Sleep Tracking
+
+**Name**: [AutoSleep](http://autosleep.tantsissa.com)<br>
+**Used Since**: December 22, 2016<br>
+**Previously Used**: [Sleep Cycle](https://www.sleepcycle.com), [Sleep++](https://david-smith.org/apps/)
+
+## macOS Tools
+
+### Code Editor
+
 **Name**: [Sublime Text](https://www.sublimetext.com)<br>
-**Type**: Code editor<br>
-**OS**: macOS<br>
 **Used Since**: July 1, 2011<br>
-**Previously Used**: [TextWrangler](http://www.barebones.com/products/textwrangler/)
+**Previously Used**: [Atom](https://atom.io), [emacs](https://www.gnu.org/software/emacs/), [TextWrangler](http://www.barebones.com/products/textwrangler/)
+
+### Command-Line Terminal
+
+**Name**: [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS))<br>
+**Used Since**: December 25, 2007<br>
+**Previously Used**: [iTerm](https://www.iterm2.com)
+
+### Git GUI
+
+**Name**: [Tower](https://www.git-tower.com/mac/)<br>
+**Used Since**: March 14, 2017
+
+### Image Editing
+
+**Name**: [Pixelmator](http://www.pixelmator.com)<br>
+**Used Since**: June 30, 2011<br>
+**Previously Used**: [Adobe Photoshop CS6](https://en.wikipedia.org/wiki/Adobe_Photoshop), [GIMP](https://www.gimp.org)
+
+### IRC
+
+**Name**: [Textual](https://www.codeux.com/textual/)<br>
+**Used Since**: May 13, 2016<br>
+**Previously Used**: [Colloquy](http://colloquy.info), [Limechat](http://limechat.net/mac/), [mIRC](http://www.mirc.com)
