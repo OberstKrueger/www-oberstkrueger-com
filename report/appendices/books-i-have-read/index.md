@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: The Krueger Report - Books I Have Read
 type: page
-updated: 2017.08.16:0445
+updated: 2017.08.23:1015
 ---
 
 # Books I Have Read
@@ -29,6 +29,7 @@ Out of all of the lists I have created, this one will be the hardest to fill in.
 - Keith, Jeremy - Resilient Web Design
 - King, Stephen - On Writing
 - Koenig, David - Realityland: True-Life Adventures at Walt Disney World
+- Koski, Olivia & Grcevich, Jana - Vacation Guide to the Solar System: Science for the Savvy Space Traveler!
 - Kurzweil, Ray - The Age of the Intelligent Machines
 - Kurzweil, Ray - The Age of the Spiritual Machines
 - Kurzweil, Ray - The Singularity Is Near
