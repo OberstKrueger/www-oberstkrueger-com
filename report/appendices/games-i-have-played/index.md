@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: The Krueger Report - Games I Have Played
 type: page
-updated: 2017.08.15:1745
+updated: 2017.08.23:2030
 ---
 
 # Games I Have Played
@@ -446,6 +446,7 @@ updated: 2017.08.15:1745
 - [Warcraft III: Reign of Chaos](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos)
 - [Warcraft III: The Frozen Throne](https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne)
 - [Warhammer Online: Age of Reckoning](https://en.wikipedia.org/wiki/Warhammer_Online:_Age_of_Reckoning)
+- [What Remains of Edith Finch](https://en.wikipedia.org/wiki/What_Remains_of_Edith_Finch)
 - [Wing Commander IV: The Price of Freedom](https://en.wikipedia.org/wiki/Wing_Commander_IV:_The_Price_of_Freedom)
 - [World of Goo](https://en.wikipedia.org/wiki/World_of_Goo)
 - [World of Warcraft](https://en.wikipedia.org/wiki/World_of_Warcraft)
