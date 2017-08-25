@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: The Krueger Report - About The Author
 type: page
-updated: 2017.08.23:2030
+updated: 2017.08.24:1930
 ---
 
 # About The Author
@@ -51,8 +51,8 @@ updated: 2017.08.23:2030
 ## Current Games
 
 - [Final Fantasy XIV: Stormblood](http://www.finalfantasyxiv.com)
+- [Life Is Strange](https://www.lifeisstrange.com/en-us)
 - [StarCraft: Remastered](https://en.wikipedia.org/wiki/StarCraft:_Remastered)
-- [What Remains of Edith Finch](http://annapurna.pictures/interactive/what-remains-of-edith-finch)
 
 ## Current Podcasts
 

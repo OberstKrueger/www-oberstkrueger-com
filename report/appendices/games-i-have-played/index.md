@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: The Krueger Report - Games I Have Played
 type: page
-updated: 2017.08.23:2030
+updated: 2017.08.24:1930
 ---
 
 # Games I Have Played
@@ -319,6 +319,7 @@ updated: 2017.08.23:2030
 - [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends)
 - [Left 4 Dead](https://en.wikipedia.org/wiki/Left_4_Dead)
 - [Left 4 Dead 2](https://en.wikipedia.org/wiki/Left_4_Dead_2)
+- [Life Is Strange](https://en.wikipedia.org/wiki/Life_Is_Strange)
 - [Little Inferno](https://en.wikipedia.org/wiki/Little_Inferno)
 - [Little Nightmares](https://en.wikipedia.org/wiki/Little_Nightmares)
 - [Limbo](https://en.wikipedia.org/wiki/Limbo_(video_game))
