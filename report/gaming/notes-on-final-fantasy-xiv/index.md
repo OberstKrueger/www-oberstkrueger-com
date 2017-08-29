@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: The Krueger Report - Notes On Final Fantasy XIV
 type: page
-updated: 2017.08.22:0900
+updated: 2017.08.28:1715
 ---
 
 # Notes On Final Fantasy XIV
@@ -50,6 +50,14 @@ updated: 2017.08.22:0900
 5. Phase 3: Same as Phase 1, with additional following mechanics.
 6. Phase 3 Aka Morn: Yellow arrow stack attack with multiple hits. Stay stacked until all have gone off.
 7. Phase 3 Fireballs: Explode across X and Y axis. 
+
+### The Navel (Normal)
+
+1. Leap: Stay as far away from the center while still not being inside the red circle.
+2. Landslide: Avoid or get knocked off the platform.
+3. Granite Gaol: Targets one play and traps them inside a rock. Destroy the rock to prevent player from being knocked off.
+4. Titan's Heart: Destroy the heart.
+5. Weight of the Land: Targets 2 random players. Move out of AE before it goes off.
 
 ### The Pool of Tribute (Normal)
 
