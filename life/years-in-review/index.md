@@ -1,12 +1,10 @@
 ---
 category: life
 created: 2017.01.01:1500
-title: The Krueger Report - Years In Review
+title: Years In Review
 type: page
-updated: 2017.07.16:1600
+updated: 2017.09.01:0545
 ---
-
-# Years In Review
 
 ## 2016
 
