@@ -1,12 +1,10 @@
 ---
 category: trips
 created: 2017.08.22:0830
-title: The Krueger Report - Solar Eclipse - 2017
+title: Solar Eclipse - 2017
 type: page
-updated: 2017.08.22:0830
+updated: 2017.09.01:0545
 ---
-
-# Solar Eclipse - 2017
 
 On August 21, 2017, a [solar eclipse passed over the US](https://en.wikipedia.org/wiki/Solar_eclipse_of_August_21,_2017). Astronomy events such as this are fun to watch, but this particular eclipse became such a huge event that traveling far for it would be difficult and time consuming. Thankfully, we did not have to go far to have a great viewing experience.
 

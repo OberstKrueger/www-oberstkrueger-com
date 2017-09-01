@@ -1,12 +1,10 @@
 ---
 category: life
 created: 2016.04.25:0045
-title: The Krueger Report - Work Music
+title: Work Music
 type: page
-updated: 2016.04.25:0045
+updated: 2017.09.01:0545
 ---
-
-# Work Music
 
 Music is an integral part of how I work. Most often when I am working on a task, music is playing in the background.
 

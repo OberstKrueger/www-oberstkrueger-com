@@ -1,12 +1,10 @@
 ---
 category: trips
 created: 2017.08.14:1100
-title: The Krueger Report - Walt Disney World - 2016
+title: Walt Disney World - 2016
 type: page
-updated: 2017.08.14:1430
+updated: 2017.09.01:0545
 ---
-
-# Walt Disney World - 2016
 
 ### The Grand Floridian and Boardwalk Villas
 

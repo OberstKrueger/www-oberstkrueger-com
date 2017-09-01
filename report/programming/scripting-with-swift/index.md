@@ -1,12 +1,10 @@
 ---
 category: programming
 created: 2017.08.26:1615
-title: The Krueger Report - Scripting With Swift
+title: Scripting With Swift
 type: page
-updated: 2017.08.26:1615
+updated: 2017.09.01:0545
 ---
-
-# Scripting With Swift
 
 One of the strengths of any [Unix](https://en.wikipedia.org/wiki/Unix)-based operating system is the ability to automate it using custom scripts. A typical script is created using [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) or [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) and run through the terminal or automated using something like systemd or launchd.
 

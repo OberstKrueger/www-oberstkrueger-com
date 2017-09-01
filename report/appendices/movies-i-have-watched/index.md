@@ -1,12 +1,10 @@
 ---
 category: appendices
 created: 2017.08.07:2045
-title: The Krueger Report - Movies I Have Watched
+title: Movies I Have Watched
 type: page
-updated: 2017.08.09.0400
+updated: 2017.09.01:0545
 ---
-
-# Movies I Have Watched
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
 - [101 Dalmatians (1996)](https://en.wikipedia.org/wiki/101_Dalmatians_(1996_film))

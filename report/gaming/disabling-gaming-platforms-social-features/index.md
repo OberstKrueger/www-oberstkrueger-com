@@ -1,12 +1,10 @@
 ---
 category: gaming
 created: 2016.06.22:0745
-title: The Krueger Report - Disabling Gaming Platforms’ Social Features
+title: Disabling Gaming Platforms’ Social Features
 type: page
-updated: 2017.07.19:0515
+updated: 2017.09.01:0545
 ---
-
-# Disabling Gaming Platforms' Social Features
 
 Most modern game platforms include a number of forced social features. They can be difficult to hide, and some platforms do not allow you to disable them at all.
 

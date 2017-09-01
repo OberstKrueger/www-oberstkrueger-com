@@ -1,12 +1,10 @@
 ---
 category: programming
 created: 2017.08.06:1745
-title: The Krueger Report - base-css
+title: base-css
 type: page
-updated: 2017.08.22:0945
+updated: 2017.09.01:0545
 ---
-
-# base-css
 
 I have never been keen to using larger full-featured web frameworks like [Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)). While Bootstrap provides a lot of advanced features, CSS Has something that I have always enjoyed crafting by hand. At the same time, most of my projects start with me taking some boilerplate from previous projects and then building on top of that. Up until now, I have not have a specific source of this boilerplate that I pulled from. To rectify this, I created base-css.
 

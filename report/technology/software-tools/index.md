@@ -1,12 +1,10 @@
 ---
 category: technology
 created: 2017.02.27:1700
-title: The Krueger Report - Selecting Software Tools
+title: Selecting Software Tools
 type: page
-updated: 2017.08.22:1000
+updated: 2017.09.01:0545
 ---
-
-# Software Tools
 
 Choosing the right software for the job can be a painstaking process. On all of the major platforms, there is a plethora of tools available for most tasks. Picking the first thing that comes along without evaluating all of the options might save some time up front, but it will lead to headaches further on down the line.
 

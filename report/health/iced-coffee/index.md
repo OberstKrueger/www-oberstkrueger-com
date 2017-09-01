@@ -1,12 +1,10 @@
 ---
 category: health
 created: 2017.05.14:0845
-title: The Krueger Report - Iced Coffee
+title: Iced Coffee
 type: page
-updated: 2017.05.14:0845
+updated: 2017.09.01:0545
 ---
-
-# Iced Coffee
 
 With the warm summer months returning, it is time to write about my favorite summer drink: iced coffee.
 

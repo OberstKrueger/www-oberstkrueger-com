@@ -1,12 +1,10 @@
 ---
 category: introduction
 created: 2016.12.10:1010
-title: The Krueger Report - Tools Used To Make This
+title: Tools Used To Make This
 type: page
-updated: 2017.04.01:1800
+updated: 2017.09.01:0545
 ---
-
-# Tools Used To Make This
 
 There are two major tools used to make everything you read here: [Markdown](http://daringfireball.net/projects/markdown/) for the writing, and [Caddy](https://caddyserver.com) for compiling it.
 

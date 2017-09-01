@@ -1,12 +1,10 @@
 ---
 category: introduction
 created: 2016.02.10:0606
-title: The Krueger Report - About The Author
+title: About The Author
 type: page
-updated: 2017.08.30:2030
+updated: 2017.09.01:0545
 ---
-
-# About The Author
 
 ## Current Computing Devices
 

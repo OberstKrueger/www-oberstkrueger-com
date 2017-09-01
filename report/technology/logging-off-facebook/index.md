@@ -1,12 +1,10 @@
 ---
 category: technology
 created: 2016.08.17:1545
-title: The Krueger Report - Logging Off Facebook
+title: Logging Off Facebook
 type: page
-updated: 2017.03.07:0815
+updated: 2017.09.01:0545
 ---
-
-# Logging Off Facebook
 
 Last month, after deliberating on the topic for over a year, I closed my [Facebook](https://www.facebook.com) account. My main objective in doing this was to evaluate how Facebook fit into my life, or if it fit in at all anymore. What I discovered is that after a month of no Facebook, I do not miss it in the slightest.
 

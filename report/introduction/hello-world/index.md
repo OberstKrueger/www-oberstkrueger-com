@@ -1,12 +1,10 @@
 ---
 category: introduction
 created: 2017.06.20:1615
-title: The Krueger Report - Hello, world!
+title: Hello, world!
 type: page
-updated: 2017.06.20:1615
+updated: 2017.09.01:0545
 ---
-
-# Hello, world!
 
 Hello! My name is Paul Krueger, and welcome to my little piece of the [intertubes](http://en.wiktionary.org/wiki/Intertubes).
 

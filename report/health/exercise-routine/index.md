@@ -1,12 +1,10 @@
 ---
 category: health
 created: 2017.03.18:1945
-title: The Krueger Report - Exercise Routine
+title: Exercise Routine
 type: page
-updated: 2017.06.19:2100
+updated: 2017.09.01:0545
 ---
-
-# Exercise Routine
 
 ## Current Schedule
 

@@ -1,12 +1,10 @@
 ---
 category: appendices
 created: 2017.06.04:1920
-title: The Krueger Report - Podcasts I Have Listened To
+title: Podcasts I Have Listened To
 type: page
-updated: 2017.07.16:0715
+updated: 2017.09.01:0545
 ---
-
-# Podcasts I Have Listened To
 
 **Accidental Tech Podcast**: [Site](http://atp.fm)<br>
 **Hosts**: [Marco Arment](https://marco.org), [Casey Liss](https://www.caseyliss.com), [John Siracusa](http://hypercritical.co)<br>

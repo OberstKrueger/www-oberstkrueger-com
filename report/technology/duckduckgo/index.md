@@ -1,12 +1,10 @@
 ---
 category: technology
 created: 2016.10.02:1650
-title: The Krueger Report - DuckDuckGo
+title: DuckDuckGo
 type: page
-updated: 2016.10.02.1650
+updated: 2017.09.01:0545
 ---
-
-# DuckDuckGo
 
 Two years ago, I was introduced to a new search engine called [DuckDuckGo](https://duckduckgo.com). [Apple](http://www.apple.com) introduced it as a search engine option alongside their push for improved privacy and security. Since its inclusion in [Safari](https://www.apple.com/safari/) for both [iOS 8](https://en.wikipedia.org/wiki/IOS_8) and [OS X Yosemite](https://en.wikipedia.org/wiki/OS_X_Yosemite), I have been using it as my primary search engine.
 

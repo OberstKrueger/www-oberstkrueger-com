@@ -1,12 +1,10 @@
 ---
 category: appendices
 created: 2017.06.11:1300
-title: The Krueger Report - Random Notes
+title: Random Notes
 type: page
-updated: 2017.08.12:1245
+updated: 2017.09.01:0545
 ---
-
-# Random Notes
 
 The following are random ideas, quotes, or thoughts that I have come across.
 

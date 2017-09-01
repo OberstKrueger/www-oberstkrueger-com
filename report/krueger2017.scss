@@ -301,6 +301,9 @@ body {
 		}
 	}
 	&.index {
+		header {
+			border-bottom: $dividerThin;
+		}
 		h2 {
 			border-bottom: $dividerThin;
 			border-top: $dividerThin;
@@ -380,7 +383,6 @@ footer {
 }
 
 header {
-	border-bottom: $dividerThin;
 	margin: 0 auto;
 	max-width: $maxWidthImage;
 	width: 90%;

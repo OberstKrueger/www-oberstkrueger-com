@@ -1,12 +1,10 @@
 ---
 category: gaming
 created: 2017.07.24:1700
-title: The Krueger Report - Notes On Final Fantasy XIV
+title: Notes On Final Fantasy XIV
 type: page
-updated: 2017.08.28:1715
+updated: 2017.09.01:0545
 ---
-
-# Notes On Final Fantasy XIV
 
 ## Trials
 
