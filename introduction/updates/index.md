@@ -1,12 +1,10 @@
 ---
 category: introduction
 created: 2017.02.27:1700
-title: The Krueger Report - Updates
+title: Updates
 type: page
-updated: 2017.08.12:2215
+updated: 2017.09.01:0545
 ---
-
-# Updates
 
 ## 2017.08.12
 
