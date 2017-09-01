@@ -1,12 +1,10 @@
 ---
 category: appendices
 created: 2016.11.23:0700
-title: The Krueger Report - Games I Have Played
+title: Games I Have Played
 type: page
-updated: 2017.08.24:1930
+updated: 2017.09.01:0545
 ---
-
-# Games I Have Played
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
 
