@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: About The Author
 type: page
-updated: 2017.09.01:0545
+updated: 2017.09.04:1645
 ---
 
 ## Current Computing Devices
@@ -45,21 +45,3 @@ updated: 2017.09.01:0545
 - SSD: 128 GB
 
 **GeekBench Score**: [1345  / 2315](https://browser.geekbench.com/v4/cpu/2233406)
-
-## Current Games
-
-- [Final Fantasy XIV: Stormblood](http://www.finalfantasyxiv.com)
-- [Life Is Strange](https://www.lifeisstrange.com/en-us)
-
-## Current Podcasts
-
-- [Accidental Tech Podcast](http://atp.fm)
-- [Cortex](https://www.relay.fm/cortex)
-- [Flash Forward](http://www.flashforwardpod.com)
-- [IRL](https://irlpodcast.org)
-- [Main Engine Cut Off](https://mainenginecutoff.com/podcast)
-- [Note To Self](http://www.wnyc.org/shows/notetoself/)
-- [Reasonably Sound](http://reasonablysound.com)
-- [Science Vs](https://gimletmedia.com/science-vs/)
-- [Welcome To Macintosh](http://www.macintosh.fm)
-- [The West Wing Weekly](http://thewestwingweekly.com)
