@@ -3,12 +3,12 @@ category: technology
 created: 2016.10.02:1650
 title: DuckDuckGo
 type: page
-updated: 2017.09.01:0545
+updated: 2017.09.03:1000
 ---
 
-Two years ago, I was introduced to a new search engine called [DuckDuckGo](https://duckduckgo.com). [Apple](http://www.apple.com) introduced it as a search engine option alongside their push for improved privacy and security. Since its inclusion in [Safari](https://www.apple.com/safari/) for both [iOS 8](https://en.wikipedia.org/wiki/IOS_8) and [OS X Yosemite](https://en.wikipedia.org/wiki/OS_X_Yosemite), I have been using it as my primary search engine.
+In 2014, I was introduced to a new search engine called [DuckDuckGo](https://duckduckgo.com). [Apple](http://www.apple.com) added it as a search engine option alongside their push for improved privacy and security. Since its inclusion in [Safari](https://www.apple.com/safari/) for both [iOS 8](https://en.wikipedia.org/wiki/IOS_8) and [Mac OS X Yosemite](https://en.wikipedia.org/wiki/OS_X_Yosemite), I have been using it as my primary search engine.
 
-DuckDuckGo hits upon many major advantages for me over using [Google](https://www.google.com).
+DuckDuckGo has many major advantages for me over using [Google](https://www.google.com).
 
 The first advantage, and the primary reason I began experimenting with DuckDuckGo, is privacy. There are many privacy concerns with Google, from Google recording all of your previous search history, to the prevalence of Google Analytics that can track a user from site to site. DuckDuckGo does not track their users, and ads served on the website are based on the search terms used and not tied to specific users. DuckDuckGo's [privacy policy](https://duckduckgo.com/privacy) is well written and lays out what the search engine does and does not do.
 
