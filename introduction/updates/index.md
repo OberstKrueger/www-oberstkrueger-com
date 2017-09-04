@@ -3,8 +3,61 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2017.09.01:0545
+updated: 2017.09.04:0715
 ---
+
+## 2017.09.04
+
+### Scripting With Swift
+
+One of my favorite parts of macOS is the scripting capabilities of it. GUI applications can be scripted with AppleScript, and terminal applications and OS-level features can be scripted using Bash, Python, and now Swift. I've been experimenting with [creating scripts using Swift](https://krueger.report/programming/scripting-with-swift/), and while the results are still early, it's turning out to be a capable language for this usage.
+
+### Walt Disney World - 2106
+
+Last year, Whitney and I went to [Walt Disney World](https://krueger.report/trips/walt-disney-world-2016). This was my third trip there, but the first for Whitney. I did not take as many photographs as I would have liked, some of the highlights are included here.
+
+### Solar Eclipse - 2017
+
+This month saw a total eclipse pass over the United States. While it did not pass with 100% coverage over Portland, it was close enough to make it worth a [short trip out to see it](https://krueger.report/trips/solar-eclipse-2017).
+
+### Updates
+
+Since I have now been [tracking my sleep for over a year](https://krueger.report/health/tracking-sleep/), I am able to include an example of the graphical representation from health of that sleep data.
+
+I categorized all of the tools I have listed on [Software Tools](https://krueger.report/technology/software-tools/). By breaking it up into operating system and task categories, I am better able to see my reliance on any single operating system. macOS remains the more important operating system for my uses, particularly with more power user functions, but iOS is catching up. I will continue my goal of staying as cross-platform as possible, should the day ever arrive where removing macOS from the equation is a possibility.
+
+### Books Read
+
+- Nayebi, Fatih - Swift Functional Programming
+- Koski, Olivia & Grcevich, Jana - Vacation Guide to the Solar System: Science for the Savvy Space Traveler!
+
+### Favorite Articles
+
+- [AMPersand](https://ethanmarcotte.com/wrote/ampersand/)
+- [Dota 2 review](https://www.polygon.com/2017/8/15/16151674/dota-2-review)
+- [Epistle 3](http://www.marclaidlaw.com/epistle-3/)
+- [The girl from Plainville](http://www.esquire.com/news-politics/a57125/michelle-carter-trial/)
+- [Hard lessons in living off the grid](https://longreads.com/2017/08/08/hard-lessons-in-living-off-the-grid/)
+- [Here at the end of all things](https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/)
+- [How NASA kept the ISS flying while Harvey hit Mission Control](https://www.theverge.com/2017/8/31/16228906/nasa-mission-control-center-tropical-storm-harvey-international-space-station)
+- [Just how important are female protagonists?](http://quanticfoundry.com/2017/08/29/just-important-female-protagonists/)
+- [I doped like Maria Sharapova and it was actually pretty great](https://deadspin.com/i-doped-like-maria-sharapova-and-it-was-actually-pretty-1798352480)
+- [In the future, your body won’t be buried... you’ll dissolve](http://www.wired.co.uk/article/alkaline-hydrolysis-biocremation-resomation-water-cremation-dissolving-bodies)
+- [Living on Mars: the stuff you never thought about](http://hackaday.com/2017/08/17/living-on-mars-the-stuff-you-never-thought-about/)
+- [Software development 450 words per minute](https://www.vincit.fi/en/blog/software-development-450-words-per-minute/)
+- [Susan Fowler's Uber post was the first shot in a new war against Silicon Valley sexism](https://www.theverge.com/2017/8/29/16200106/susan-fowlers-uber-post-sexism-silicon-valley-women-problem)
+- [This is one of the most complex wristwatches ever made](http://www.wired.co.uk/article/celestia-vacheron-constantin-complicated-watch)
+- [The Web in 2050](http://jacquesmattheij.com/the-web-in-2050)
+- [You are the product](https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product)
+
+### Games Played
+
+- [Dear Esther: Landmark Edition](http://dear-esther.com)
+- [Final Fantasy XIV: Stormblood](http://na.finalfantasyxiv.com/stormblood/)
+- [Inside](http://www.playdead.com/games/inside/)
+- [Life Is Strange](https://www.lifeisstrange.com/en-us)
+- [StarCraft: Remastered](https://starcraft.com/en-us/)
+- [What Remains of Edith Finch](http://annapurna.pictures/interactive/what-remains-of-edith-finch/)
 
 ## 2017.08.12
 
