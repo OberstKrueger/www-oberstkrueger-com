@@ -7,7 +7,78 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2017-08-12T22:15:00Z</updated>
+<updated>2017-09-04T07:15:00Z</updated>
+
+<entry>
+<title>Updates For September 4, 2017</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/20170904</id>
+<published>2017-09-04T07:15:00Z</published>
+<updated>2017-09-04T07:15:00Z</updated>
+<content type="html">
+<![CDATA[
+<h3>Scripting With Swift</h3>
+
+<p>One of my favorite parts of macOS is the scripting capabilities of it. GUI applications can be scripted with AppleScript, and terminal applications and OS-level features can be scripted using Bash, Python, and now Swift. I've been experimenting with <a href="https://krueger.report/programming/scripting-with-swift/">creating scripts using Swift</a>, and while the results are still early, it's turning out to be a capable language for this usage.</p>
+
+<h3>Walt Disney World - 2106</h3>
+
+<p>Last year, Whitney and I went to <a href="https://krueger.report/trips/walt-disney-world-2016">Walt Disney World</a>. This was my third trip there, but the first for Whitney. I did not take as many photographs as I would have liked, some of the highlights are included here.</p>
+
+<h3>Solar Eclipse - 2017</h3>
+
+<p>This month saw a total eclipse pass over the United States. While it did not pass with 100% coverage over Portland, it was close enough to make it worth a <a href="https://krueger.report/trips/solar-eclipse-2017">short trip out to see it</a>.</p>
+
+<h3>Updates</h3>
+
+<p>Since I have now been <a href="https://krueger.report/health/tracking-sleep/">tracking my sleep for over a year</a>, I am able to include an example of the graphical representation from health of that sleep data.</p>
+
+<p>I categorized all of the tools I have listed on <a href="https://krueger.report/technology/software-tools/">Software Tools</a>. By breaking it up into operating system and task categories, I am better able to see my reliance on any single operating system. macOS remains the more important operating system for my uses, particularly with more power user functions, but iOS is catching up. I will continue my goal of staying as cross-platform as possible, should the day ever arrive where removing macOS from the equation is a possibility.</p>
+
+<h3>Books Read</h3>
+
+<ul>
+<li>Nayebi, Fatih - Swift Functional Programming</li>
+<li>Koski, Olivia &amp; Grcevich, Jana - Vacation Guide to the Solar System: Science for the Savvy Space Traveler!</li>
+</ul>
+
+<h3>Favorite Articles</h3>
+
+<ul>
+<li><a href="https://ethanmarcotte.com/wrote/ampersand/">AMPersand</a></li>
+<li><a href="https://www.polygon.com/2017/8/15/16151674/dota-2-review">Dota 2 review</a></li>
+<li><a href="http://www.marclaidlaw.com/epistle-3/">Epistle 3</a></li>
+<li><a href="http://www.esquire.com/news-politics/a57125/michelle-carter-trial/">The girl from Plainville</a></li>
+<li><a href="https://longreads.com/2017/08/08/hard-lessons-in-living-off-the-grid/">Hard lessons in living off the grid</a></li>
+<li><a href="https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/">Here at the end of all things</a></li>
+<li><a href="https://www.theverge.com/2017/8/31/16228906/nasa-mission-control-center-tropical-storm-harvey-international-space-station">How NASA kept the ISS flying while Harvey hit Mission Control</a></li>
+<li><a href="http://quanticfoundry.com/2017/08/29/just-important-female-protagonists/">Just how important are female protagonists?</a></li>
+<li><a href="https://deadspin.com/i-doped-like-maria-sharapova-and-it-was-actually-pretty-1798352480">I doped like Maria Sharapova and it was actually pretty great</a></li>
+<li><a href="http://www.wired.co.uk/article/alkaline-hydrolysis-biocremation-resomation-water-cremation-dissolving-bodies">In the future, your body won’t be buried... you’ll dissolve</a></li>
+<li><a href="http://hackaday.com/2017/08/17/living-on-mars-the-stuff-you-never-thought-about/">Living on Mars: the stuff you never thought about</a></li>
+<li><a href="https://www.vincit.fi/en/blog/software-development-450-words-per-minute/">Software development 450 words per minute</a></li>
+<li><a href="https://www.theverge.com/2017/8/29/16200106/susan-fowlers-uber-post-sexism-silicon-valley-women-problem">Susan Fowler's Uber post was the first shot in a new war against Silicon Valley sexism</a></li>
+<li><a href="http://www.wired.co.uk/article/celestia-vacheron-constantin-complicated-watch">This is one of the most complex wristwatches ever made</a></li>
+<li><a href="http://jacquesmattheij.com/the-web-in-2050">The Web in 2050</a></li>
+<li><a href="https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product">You are the product</a></li>
+</ul>
+
+<h3>Games Played</h3>
+
+<ul>
+<li><a href="http://dear-esther.com">Dear Esther: Landmark Edition</a></li>
+<li><a href="http://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
+<li><a href="http://www.playdead.com/games/inside/">Inside</a></li>
+<li><a href="https://www.lifeisstrange.com/en-us">Life Is Strange</a></li>
+<li><a href="https://starcraft.com/en-us/">StarCraft: Remastered</a></li>
+<li><a href="http://annapurna.pictures/interactive/what-remains-of-edith-finch/">What Remains of Edith Finch</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For August 12, 2017</title>
