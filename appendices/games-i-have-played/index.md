@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2017.09.01:0545
+updated: 2017.09.05:0945
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -318,6 +318,7 @@ updated: 2017.09.01:0545
 - [Left 4 Dead](https://en.wikipedia.org/wiki/Left_4_Dead)
 - [Left 4 Dead 2](https://en.wikipedia.org/wiki/Left_4_Dead_2)
 - [Life Is Strange](https://en.wikipedia.org/wiki/Life_Is_Strange)
+- [Life Is Strange: Before the Storm](https://en.wikipedia.org/wiki/Life_Is_Strange:_Before_the_Storm)
 - [Little Inferno](https://en.wikipedia.org/wiki/Little_Inferno)
 - [Little Nightmares](https://en.wikipedia.org/wiki/Little_Nightmares)
 - [Limbo](https://en.wikipedia.org/wiki/Limbo_(video_game))
@@ -357,6 +358,7 @@ updated: 2017.09.01:0545
 - [Portal 2](https://en.wikipedia.org/wiki/Portal_2)
 - [POSTAL²](https://en.wikipedia.org/wiki/Postal_2)
 - [Prey](https://en.wikipedia.org/wiki/Prey_(2006_video_game))
+- [Pyre](https://en.wikipedia.org/wiki/Pyre_(video_game))
 - [Riven](https://en.wikipedia.org/wiki/Riven)
 - [Rune](https://en.wikipedia.org/wiki/Rune_(video_game))
 - [Quake](https://en.wikipedia.org/wiki/Quake_(video_game))
