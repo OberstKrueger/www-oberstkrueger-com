@@ -53,9 +53,9 @@ updated: 2017.09.04:1700
 
 1. Keep Garuda facing away from the center rocks.
 2. Slipstream: Frontal cone, move to the side.
-3. Shriek: LOS attack, keep a rock between yourself and Garuda.
+3. Mistral Song / Aerial Blast: LOS attack, keep a rock between yourself and Garuda.
 4. Razor Plumes: Adds, kill ASAP.
-5. Phase 2 Shriek: Move behind Garuda.
+5. Phase 2 Mistral Song: Move behind Garuda.
 
 ### The Navel (Normal)
 
