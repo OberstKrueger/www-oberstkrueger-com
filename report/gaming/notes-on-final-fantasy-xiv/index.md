@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2017.09.01:0545
+updated: 2017.09.04:1700
 ---
 
 ## Trials
@@ -48,6 +48,14 @@ updated: 2017.09.01:0545
 5. Phase 3: Same as Phase 1, with additional following mechanics.
 6. Phase 3 Aka Morn: Yellow arrow stack attack with multiple hits. Stay stacked until all have gone off.
 7. Phase 3 Fireballs: Explode across X and Y axis. 
+
+### The Howling Eye (Normal)
+
+1. Keep Garuda facing away from the center rocks.
+2. Slipstream: Frontal cone, move to the side.
+3. Shriek: LOS attack, keep a rock between yourself and Garuda.
+4. Razor Plumes: Adds, kill ASAP.
+5. Phase 2 Shriek: Move behind Garuda.
 
 ### The Navel (Normal)
 
