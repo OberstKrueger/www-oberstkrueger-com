@@ -104,6 +104,7 @@ h6 {
 
 li {
 	font-weight: $fontWeightThin;
+	margin-left: 1rem;
 	a:link,
 	a:visited,
 	a:hover,
@@ -125,7 +126,7 @@ li {
 }
 
 ol {
-	list-style: decimal inside;
+	list-style: decimal outside;
 	margin: 0 auto ($lineHeight + rem);
 	padding: 0;
 	page-break-inside: avoid;
@@ -175,7 +176,7 @@ sup {
 }
 
 ul {
-	list-style: circle inside;
+	list-style: circle outside;
 	margin: 0 auto ($lineHeight + rem);
 	padding: 0;
 	page-break-inside: avoid;
@@ -311,6 +312,7 @@ body {
 			}
 		}
 		li {
+			margin-left: 0;
 			text-align: center;
 			@media (min-width: $justifyText) {
 				text-align: center;
