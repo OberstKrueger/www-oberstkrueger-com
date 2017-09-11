@@ -3,7 +3,7 @@ category: programming
 created: 2017.08.06:1745
 title: base-css
 type: page
-updated: 2017.09.01:0545
+updated: 2017.09.11:1445
 ---
 
 I have never been keen to using larger full-featured web frameworks like [Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)). While Bootstrap provides a lot of advanced features, CSS Has something that I have always enjoyed crafting by hand. At the same time, most of my projects start with me taking some boilerplate from previous projects and then building on top of that. Up until now, I have not have a specific source of this boilerplate that I pulled from. To rectify this, I created base-css.
@@ -134,6 +134,7 @@ Additionally, the entire .scss file can be found below. It was compiled with ver
 	
 	li {
 		font-weight: $fontWeightThin;
+		margin-left: 1rem;
 		a:link,
 		a:visited,
 		a:hover,
@@ -155,7 +156,7 @@ Additionally, the entire .scss file can be found below. It was compiled with ver
 	}
 	
 	ol {
-		list-style: decimal inside;
+		list-style: decimal outside;
 		margin: 0 auto ($lineHeight + rem);
 		padding: 0;
 		page-break-inside: avoid;
@@ -205,7 +206,7 @@ Additionally, the entire .scss file can be found below. It was compiled with ver
 	}
 	
 	ul {
-		list-style: circle inside;
+		list-style: circle outside;
 		margin: 0 auto ($lineHeight + rem);
 		padding: 0;
 		page-break-inside: avoid;
