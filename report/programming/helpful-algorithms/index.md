@@ -3,7 +3,7 @@ category: programming
 created: 2017.07.02:1915
 title: Helpful Algorithms
 type: page
-updated: 2017.09.01:0545
+updated: 2017.09.15:0600
 ---
 
 ## Greatest Common Divisor
@@ -31,9 +31,12 @@ updated: 2017.09.01:0545
 
 ## Palindrome Check
 
+	import Foundation
+	
 	extension String {
 		var isPalindrome: Bool {
-			return self.lowercased() == String(self.characters.reversed()).lowercased()
+			let s: String = String(self.unicodeScalars.filter({CharacterSet.alphanumerics.contains($0)})).lowercased()
+			return s == String(s.reversed())
 		}
 	}
 
