@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2017.09.09:1130
+updated: 2017.09.16:1430
 ---
 
 Out of all of the lists I have created, this one will be the hardest to fill in. The number of books written in all of history is just too large. That said, as I come across books I know I have read, and obviously as I read more books, they will be added to this list.
@@ -54,6 +54,7 @@ Out of all of the lists I have created, this one will be the hardest to fill in.
 - Tolkien, J.R.R. - The Silmarillion
 - Twain, Mark - Adventures of Huckleberry Finn
 - Twain, Mark - The Adventures of Tom Sawyer
+- van Santen, Rutger, Vermeer, Bram, & Khoi, Djan - 2030: Technology that will change the world
 - Vance, J.D. - Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
 - Weber, Imogen Lloyd - The Intelligent Conversationalist
 - Williams, Terry - The Cocaine Kids: The Inside Story Of A Teenage Drug Ring
