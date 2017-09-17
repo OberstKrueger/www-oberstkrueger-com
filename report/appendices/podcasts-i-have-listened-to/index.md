@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.04:1920
 title: Podcasts I Have Listened To
 type: page
-updated: 2017.09.01:0545
+updated: 2017.09.17:0615
 ---
 
 **Accidental Tech Podcast**: [Site](http://atp.fm)<br>
@@ -38,9 +38,17 @@ Host Veronica Belmont shares real stories of life online – and real talk about
 **Hosts**: Anthony Colangelo<br>
 A short, weekly podcast about spaceflight, exploration, policy, and strategy in the modern era and near future..
 
+**Material**: [Site](https://www.relay.fm/material)<br>
+**Hosts**: [Andy Ihnatko](http://ihnatko.com), [Russell Ivanovic](https://rustyshelf.org), [Florence Ion](http://www.florenceion.com)<br>
+Material is a weekly discussion about the Google and Android universe. Your intrepid hosts try to answer the question, “What holds up the digital world?” The answer, so far, is that it’s Google all the way down.
+
 **The Minimalists**: [Site](http://www.theminimalists.com/podcast/) / [Wiki](https://en.wikipedia.org/wiki/The_Minimalists)<br>
 **Hosts**: [Joshua Fields Millburn](http://joshuafieldsmillburn.com), [Ryan Nicodemus](http://www.theminimalists.com/nicodemus/)<br>
 Joshua Fields Millburn & Ryan Nicodemus discuss living a meaningful life with less.
+
+**Mixed Feelings**: [Site](https://www.relay.fm/mixedfeelings)<br>
+**Hosts**: [Gillian Parker](https://gillianslongisland.wordpress.com), [Quinn Rose](http://aspiringrobot.com)<br>
+A show about news, politics and pop culture. Every episode, your hosts talk about their favorite stories of the week … and probably at least one random current event that has nothing to do with anything.
 
 **Note To Self**: [Site](http://www.wnyc.org/shows/notetoself/) / [Wiki](https://en.wikipedia.org/wiki/Note_To_Self)<br>
 **Host**: [Manoush Zomorodi](http://www.manoushz.com)<br>
@@ -53,6 +61,10 @@ The Presentable Podcast focuses on how we design and build the products that are
 **Reasonably Sound**: [Site](http://reasonablysound.com)<br>
 **Host**: [Mike Rugnetta](http://rugnetta.com/)<br>
 Do you enjoy sound? You’re reading a podcast description right now, so chances are good that you do. Mike Rugnetta does, too. And on Reasonably Sound, Mike will provide context, explanation and a little celebration of the complexities and awesomeness of audio, and the various cultures which surround and have grown around it. Not just for audiophiles, Reasonably Sound will be your guide to the world of sound.
+
+**Roboism**: [Site](https://www.relay.fm/roboism)<br>
+**Hosts**: [Savannah Million](http://savannahmillion.com), Alex Cox<br>
+Roboism is a fortnightly show mostly about robots. We care about how robots, artificial intelligence, and machine learning are affecting our culture. Come explore the humanity behind the bots that are quickly becoming a part of every day life.
 
 **Science Vs**: [Site](https://gimletmedia.com/science-vs/)<br>
 **Host**: [Wendy Zukerman](https://twitter.com/wendyzuk?lang=en)<br>
