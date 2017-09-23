@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2017.08.26:1615
+updated: 2017.09.23:0500
 ---
 
 ## Introduction
@@ -44,6 +44,10 @@ updated: 2017.08.26:1615
 - [Backups](/technology/backups)
 - [DuckDuckGo](/technology/duckduckgo)
 - [Logging Off Facebook](/technology/logging-off-facebook)
+
+## All About The Mac
+
+- [Setting Up Homebrew](/all-about-the-mac/setting-up-homebrew)
 
 ## Trips
 
