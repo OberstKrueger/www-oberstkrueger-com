@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2017.09.05:0945
+updated: 2017.09.24:1845
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -387,6 +387,8 @@ updated: 2017.09.05:0945
 - [StarCraft: Brood War](https://en.wikipedia.org/wiki/StarCraft:_Brood_War)
 - [StarCraft: Remastered](https://en.wikipedia.org/wiki/StarCraft:_Remastered)
 - [StarCraft II: Wings of Liberty](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty)
+- [StarCraft II: Heart of the Swarm](https://en.wikipedia.org/wiki/StarCraft_II:_Heart_of_the_Swarm)
+- [StarCraft II: Legacy of the Void](https://en.wikipedia.org/wiki/StarCraft_II:_Legacy_of_the_Void)
 - [Starsiege: Tribes](https://en.wikipedia.org/wiki/Starsiege:_Tribes)
 - [Star Wars: Dark Forces](https://en.wikipedia.org/wiki/Star_Wars:_Dark_Forces)
 - [Star Wars: Rebel Assault](https://en.wikipedia.org/wiki/Star_Wars:_Rebel_Assault)
