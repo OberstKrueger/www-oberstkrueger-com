@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: About The Author
 type: page
-updated: 2017.09.25.0730
+updated: 2017.09.25.1030
 ---
 
 ## Current Computing Devices
@@ -53,7 +53,7 @@ updated: 2017.09.25.0730
 	<figcaption>macOS on 2017.09.25</figcaption>
 </figure>
 
-<figure>
+<figure class='half'>
 	<img src='/images/about-the-author_ios.jpg'>
 	<figcaption>iOS on 2017.09.26</figcaption>
 </figure>
