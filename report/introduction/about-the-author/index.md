@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: About The Author
 type: page
-updated: 2017.09.04:1645
+updated: 2017.09.25.0730
 ---
 
 ## Current Computing Devices
@@ -45,3 +45,15 @@ updated: 2017.09.04:1645
 - SSD: 128 GB
 
 **GeekBench Score**: [1345  / 2315](https://browser.geekbench.com/v4/cpu/2233406)
+
+## Current Workspaces
+
+<figure>
+	<img src='/images/about-the-author_macos.png'>
+	<figcaption>macOS on 2017.09.25</figcaption>
+</figure>
+
+<figure>
+	<img src='/images/about-the-author_ios.jpg'>
+	<figcaption>iOS on 2017.09.26</figcaption>
+</figure>
