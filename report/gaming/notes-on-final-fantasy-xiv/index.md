@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2017.09.04:1700
+updated: 2017.09.26:1745
 ---
 
 ## Trials
@@ -29,6 +29,12 @@ updated: 2017.09.04:1700
 5. Phase 1 Radiant Plumes: spawns at 1 o'clock, then 7 o'clock
 6. Phase 2 Radiant Plumes: spawns at 2 o'clock, then 8 o'clock
 7. Phase 3 Radiant Plumes: spawns at 3 o'clock, then 9 o'clock
+
+### Cape Westwind
+
+1. MT: Tank the main boss.
+2. OT: Pick up adds.
+3. Avoid AE that drops on boss.
 
 ### Emanation (Normal)
 
