@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2017.09.24:1845
+updated: 2017.09.28:0700
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -76,6 +76,7 @@ updated: 2017.09.24:1845
 - [Spy Mouse](https://en.wikipedia.org/wiki/Spy_Mouse)
 - [Super Mario Run](https://en.wikipedia.org/wiki/Super_Mario_Run)
 - [Terra Battle](https://en.wikipedia.org/wiki/Terra_Battle)
+- [Terra Battle 2](https://en.wikipedia.org/wiki/Terra_Battle_2)
 - [Threes!](https://en.wikipedia.org/wiki/Threes)
 - [Year Walk](https://en.wikipedia.org/wiki/Year_Walk)
 
