@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2017.09.28:0700
+updated: 2017.09.29:2030
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -358,7 +358,8 @@ updated: 2017.09.28:0700
 - [Portal](https://en.wikipedia.org/wiki/Portal_(video_game))
 - [Portal 2](https://en.wikipedia.org/wiki/Portal_2)
 - [POSTAL²](https://en.wikipedia.org/wiki/Postal_2)
-- [Prey](https://en.wikipedia.org/wiki/Prey_(2006_video_game))
+- [Prey (2006)](https://en.wikipedia.org/wiki/Prey_(2006_video_game))
+- [Prey (2017)](https://en.wikipedia.org/wiki/Prey_(2017_video_game))
 - [Pyre](https://en.wikipedia.org/wiki/Pyre_(video_game))
 - [Riven](https://en.wikipedia.org/wiki/Riven)
 - [Rune](https://en.wikipedia.org/wiki/Rune_(video_game))
