@@ -7,7 +7,79 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2017-09-04T07:15:00Z</updated>
+<updated>2017-09-30T11:55:00Z</updated>
+
+<entry>
+<title>Updates For September 30, 2017</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/20170930</id>
+<published>2017-09-30T11:55:00Z</published>
+<updated>2017-09-30T11:55:00Z</updated>
+<content type="html">
+<![CDATA[
+<h3>Setting Up Homebrew</h3>
+
+<p>Homebrew is one of my most used utilities on macOS. <a href="https://krueger.report/all-about-the-mac/setting-up-homebrew">Setting Up Homebrew</a> is both a quick guide for setting up Homebrew from scratch and a reference for its most used commands.</p>
+
+<h3>Updates</h3>
+
+<p>I have added current screenshots of both my iOS and macOS workspaces to <a href="https://krueger.report/introduction/about-the-author/">About The Author</a>. Monthly updates to this are my intention, so that I can see how my workspaces change with time.</p>
+
+<h3>Books Read</h3>
+
+<ul>
+<li>Amariei, Cornel - Arduino Development Cookbook</li>
+<li>Quinn, Zoë - Crash Override: How Gamergate (Nearly) Destroyed My Life, and How We Can Win the Fight Against Online Hate</li>
+<li>Vance, J.D. - Hillbilly Elegy: A Memoir of a Family and Culture in Crisis</li>
+</ul>
+
+<h3>Favorite Articles</h3>
+
+<ul>
+<li><a href="https://macdaddy.io/apfs-backup-software-developers-perspective/">APFS - A backup software developer's perspective</a></li>
+<li><a href="https://plausible.coop/blog/2017/09/13/best-new-features-in-swift-4">The best new features in Swift 4</a></li>
+<li><a href="https://arstechnica.com/gaming/2017/09/build-gather-brawl-repeat-the-history-of-real-time-strategy-games/">Build, gather, brawl, repeat: The history of real-time strategy games</a></li>
+<li><a href="https://www.nytimes.com/2017/09/13/opinion/chelsea-manning-big-data-dystopia.html">The dystopia we signed up for</a></li>
+<li><a href="https://krebsonsecurity.com/2017/09/equifax-breach-response-turns-dumpster-fire/">Equifax breach response turns dumpster fire</a></li>
+<li><a href="http://nullprogram.com/blog/2017/09/07/">Gap buffers are not optimized for multiple cursors</a></li>
+<li><a href="https://www.polygon.com/2017/9/21/16341458/pewdiepie-racial-slurs-online-gaming">Gamers like PewDiePie are why I don't play online</a></li>
+<li><a href="https://www.nytimes.com/2017/09/15/business/amish-technology.html?referer=">In Amish country, the future is calling</a></li>
+<li><a href="https://news.vice.com/story/indias-biometric-database-is-a-massive-achievement-and-a-dystopian-nightmare">India's biometric database is a dystopian nightmare</a></li>
+<li><a href="https://www.macstories.net/news/itunes-removes-the-app-store-and-more-to-focus-on-music-movies-tv-shows-podcasts-and-audiobooks/">iTunes removes the App Store and more to focus on music, movies, TV shows, podcasts, and audiobooks</a></li>
+<li><a href="https://arstechnica.com/gadgets/2017/09/macos-10-13-high-sierra-the-ars-technica-review/">macOS 10.13 High Sierra: The Ars Technica review</a></li>
+<li><a href="https://blog.mapbox.com/a-new-kind-of-map-its-about-time-7bd9f7916f7f">A new kind of map: it's about time</a></li>
+<li><a href="https://theconversation.com/the-only-safe-email-is-text-only-email-81434">The only safe email is text-only email</a></li>
+<li><a href="https://arstechnica.com/gadgets/2017/09/the-psychology-of-soylent-and-the-prison-of-first-world-food-choices/">The psychology of Soylent and the prison of first-world food choices</a></li>
+<li><a href="https://www.macstories.net/mac/reliving-that-snow-leopard-magic/">Reliving that Snow Leopard magic</a></li>
+<li><a href="https://blog.rust-lang.org/2017/09/05/Rust-2017-Survey-Results.html">Rust 2017 survey results</a></li>
+<li><a href="http://www.sfchronicle.com/politics/article/Schwarzenegger-s-bipartisan-next-political-act-12170898.php">Schwarzenegger’s bipartisan next political act: Terminating gerrymandering</a></li>
+<li><a href="https://www.theguardian.com/lifeandstyle/2017/sep/24/why-lack-of-sleep-health-worst-enemy-matthew-walker-why-we-sleep">The shorter your sleep, the shorter your life: the new sleep science</a></li>
+<li><a href="https://www.sublimetext.com/blog/articles/sublime-text-3-point-0">Sublime Text 3.0</a></li>
+<li><a href="http://dtrace.org/blogs/bmc/2017/09/04/the-sudden-death-and-eternal-life-of-solaris/">The sudden death and eternal life of Solaris</a></li>
+<li><a href="https://daringfireball.net/2017/09/iphone_x_event_thoughts_and_observations">Thoughts and observations on the products announced at this week's iPhone X introductory event</a></li>
+<li><a href="http://onlinelibrary.wiley.com/doi/10.1002/leap.1116/full">We've failed: Pirate black open access is trumping green and gold and we must change our approach</a></li>
+<li><a href="https://blog.plan99.net/what-should-follow-the-web-8dcbbeaccd93">What should follow the web?</a></li>
+<li><a href="https://marco.org/2017/09/24/what-watch-podcast-apps-need">What we need from Apple to make standalone Apple Watch podcast apps</a></li>
+</ul>
+
+<h3>Games Played</h3>
+
+<ul>
+<li><a href="http://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
+<li><a href="https://www.lifeisstrange.com/en-us">Life Is Strange: Before the Storm - Episode 1</a></li>
+<li><a href="https://prey.bethesda.net">Prey</a></li>
+<li><a href="https://www.supergiantgames.com/games/pyre/">Pyre</a></li>
+<li><a href="http://us.battle.net/sc2/en/">StarCraft II: Wings of Liberty</a></li>
+<li><a href="http://us.battle.net/sc2/en/">StarCraft II: Heart of the Swarm</a></li>
+<li><a href="http://us.battle.net/sc2/en/">StarCraft II: Legacy of the Void</a></li>
+<li><a href="http://www.terrabattle2.com/en/">Terra Battle 2</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For September 4, 2017</title>
