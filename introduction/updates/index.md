@@ -3,8 +3,62 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2017.09.04:0715
+updated: 2017.09.30:1155
 ---
+
+## 2017.09.30
+
+### Setting Up Homebrew
+
+Homebrew is one of my most used utilities on macOS. [Setting Up Homebrew](https://krueger.report/all-about-the-mac/setting-up-homebrew) is both a quick guide for setting up Homebrew from scratch and a reference for its most used commands.
+
+### Updates
+
+I have added current screenshots of both my iOS and macOS workspaces to [About The Author](https://krueger.report/introduction/about-the-author/). Monthly updates to this are my intention, so that I can see how my workspaces change with time.
+
+### Books Read
+
+- Amariei, Cornel - Arduino Development Cookbook
+- Quinn, Zoë - Crash Override: How Gamergate (Nearly) Destroyed My Life, and How We Can Win the Fight Against Online Hate
+- Vance, J.D. - Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
+
+### Favorite Articles
+
+- [APFS - A backup software developer's perspective](https://macdaddy.io/apfs-backup-software-developers-perspective/)
+- [The best new features in Swift 4](https://plausible.coop/blog/2017/09/13/best-new-features-in-swift-4)
+- [Build, gather, brawl, repeat: The history of real-time strategy games](https://arstechnica.com/gaming/2017/09/build-gather-brawl-repeat-the-history-of-real-time-strategy-games/)
+- [The dystopia we signed up for](https://www.nytimes.com/2017/09/13/opinion/chelsea-manning-big-data-dystopia.html)
+- [Equifax breach response turns dumpster fire](https://krebsonsecurity.com/2017/09/equifax-breach-response-turns-dumpster-fire/)
+- [Gap buffers are not optimized for multiple cursors](http://nullprogram.com/blog/2017/09/07/)
+- [Gamers like PewDiePie are why I don't play online](https://www.polygon.com/2017/9/21/16341458/pewdiepie-racial-slurs-online-gaming)
+- [In Amish country, the future is calling](https://www.nytimes.com/2017/09/15/business/amish-technology.html?referer=)
+- [India's biometric database is a dystopian nightmare](https://news.vice.com/story/indias-biometric-database-is-a-massive-achievement-and-a-dystopian-nightmare)
+- [iTunes removes the App Store and more to focus on music, movies, TV shows, podcasts, and audiobooks](https://www.macstories.net/news/itunes-removes-the-app-store-and-more-to-focus-on-music-movies-tv-shows-podcasts-and-audiobooks/)
+- [macOS 10.13 High Sierra: The Ars Technica review](https://arstechnica.com/gadgets/2017/09/macos-10-13-high-sierra-the-ars-technica-review/)
+- [A new kind of map: it's about time](https://blog.mapbox.com/a-new-kind-of-map-its-about-time-7bd9f7916f7f)
+- [The only safe email is text-only email](https://theconversation.com/the-only-safe-email-is-text-only-email-81434)
+- [The psychology of Soylent and the prison of first-world food choices](https://arstechnica.com/gadgets/2017/09/the-psychology-of-soylent-and-the-prison-of-first-world-food-choices/)
+- [Reliving that Snow Leopard magic](https://www.macstories.net/mac/reliving-that-snow-leopard-magic/)
+- [Rust 2017 survey results](https://blog.rust-lang.org/2017/09/05/Rust-2017-Survey-Results.html)
+- [Schwarzenegger’s bipartisan next political act: Terminating gerrymandering](http://www.sfchronicle.com/politics/article/Schwarzenegger-s-bipartisan-next-political-act-12170898.php)
+- [The shorter your sleep, the shorter your life: the new sleep science](https://www.theguardian.com/lifeandstyle/2017/sep/24/why-lack-of-sleep-health-worst-enemy-matthew-walker-why-we-sleep)
+- [Sublime Text 3.0](https://www.sublimetext.com/blog/articles/sublime-text-3-point-0)
+- [The sudden death and eternal life of Solaris](http://dtrace.org/blogs/bmc/2017/09/04/the-sudden-death-and-eternal-life-of-solaris/)
+- [Thoughts and observations on the products announced at this week's iPhone X introductory event](https://daringfireball.net/2017/09/iphone_x_event_thoughts_and_observations)
+- [We've failed: Pirate black open access is trumping green and gold and we must change our approach](http://onlinelibrary.wiley.com/doi/10.1002/leap.1116/full)
+- [What should follow the web?](https://blog.plan99.net/what-should-follow-the-web-8dcbbeaccd93)
+- [What we need from Apple to make standalone Apple Watch podcast apps](https://marco.org/2017/09/24/what-watch-podcast-apps-need)
+
+### Games Played
+
+- [Final Fantasy XIV: Stormblood](http://na.finalfantasyxiv.com/stormblood/)
+- [Life Is Strange: Before the Storm - Episode 1](https://www.lifeisstrange.com/en-us)
+- [Prey](https://prey.bethesda.net)
+- [Pyre](https://www.supergiantgames.com/games/pyre/)
+- [StarCraft II: Wings of Liberty](http://us.battle.net/sc2/en/)
+- [StarCraft II: Heart of the Swarm](http://us.battle.net/sc2/en/)
+- [StarCraft II: Legacy of the Void](http://us.battle.net/sc2/en/)
+- [Terra Battle 2](http://www.terrabattle2.com/en/)
 
 ## 2017.09.04
 
