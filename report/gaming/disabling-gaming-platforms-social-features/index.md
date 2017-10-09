@@ -3,7 +3,7 @@ category: gaming
 created: 2016.06.22:0745
 title: Disabling Gaming Platforms’ Social Features
 type: page
-updated: 2017.09.01:0545
+updated: 2017.10.09:1145
 ---
 
 Most modern game platforms include a number of forced social features. They can be difficult to hide, and some platforms do not allow you to disable them at all.
@@ -12,7 +12,7 @@ Since most of my gaming is on the PC, I wanted to look at all of the platforms t
 
 ### Blizzard
 
-There are two main ways to play Blizzard games: download the individual clients from the <s>Battle.net</s> [Blizzard](https://worldofwarcraft.com/en-us/news/20297652/battlenet-update-9-21-2016) website, or download the [Blizzard Desktop App](http://us.battle.net/en/app/). Unfortunately, Blizzard [mandated the use of the Blizzard Desktop App for all of their modern games](http://us.battle.net/wow/en/blog/14568367/upgrade-to-the-battlenet®-desktop-app-6-24-2014). Even games like [World of Warcraft](http://us.battle.net/wow/en/) that launched before the Desktop App existed are forced to use the Blizzard Desktop App.
+There are two main ways to play Blizzard games: download the individual clients from the [Battle.net](http://us.battle.net/en/) website, or download the [Blizzard Desktop App](http://us.battle.net/en/app/). Unfortunately, Blizzard [mandated the use of the Blizzard Desktop App for all of their modern games](http://us.battle.net/wow/en/blog/14568367/upgrade-to-the-battlenet®-desktop-app-6-24-2014). Even games like [World of Warcraft](http://us.battle.net/wow/en/) that launched before the Desktop App existed are forced to use the Blizzard Desktop App.
 
 The only games that do not require the Desktop app are Blizzard's repetoire of classic games: [Diablo 2](http://classic.battle.net/diablo2exp/), [Starcraft](http://classic.battle.net/scc/), and [Warcraft 3](http://classic.battle.net/war3/).
 
