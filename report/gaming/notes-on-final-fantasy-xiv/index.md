@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2017.09.26:1745
+updated: 2017.10.10:1545
 ---
 
 ## Trials
@@ -62,6 +62,14 @@ updated: 2017.09.26:1745
 3. Mistral Song / Aerial Blast: LOS attack, keep a rock between yourself and Garuda.
 4. Razor Plumes: Adds, kill ASAP.
 5. Phase 2 Mistral Song: Move behind Garuda.
+
+### The Howling Eye (Hard)
+
+1. Phase 1: Identical to Normal.
+2. Phase 2: Tank in northwest corner, avoiding green AE circles on the ground.
+3. Phase 3: Two adds spawn. Kill add with green beam between her and Garuda, and then kill other add.
+4. Satin Plume: Kill ASAP.
+5. Eye of the Storm: Move to the center and do not touch blue areas. Kill two adds.
 
 ### The Navel (Normal)
 
