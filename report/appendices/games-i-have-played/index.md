@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2017.10.09:1200
+updated: 2017.10.11:2015
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -347,8 +347,9 @@ updated: 2017.10.09:1200
 - [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights)
 - [No Man's Sky](https://en.wikipedia.org/wiki/No_Man%27s_Sky)
 - [Osmos](https://en.wikipedia.org/wiki/Osmos)
-- [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game))
 - [Outlaws](https://en.wikipedia.org/wiki/Outlaws_(1997_video_game))
+- [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game))
+- [Oxygen Not Included](https://en.wikipedia.org/wiki/Oxygen_Not_Included)
 - [Papers, Please](https://en.wikipedia.org/wiki/Papers,_Please)
 - [Pillars of Eternity](https://en.wikipedia.org/wiki/Pillars_of_Eternity)
 - [Plague, Inc: Evolved](https://en.wikipedia.org/wiki/Plague_Inc:_Evolved)
