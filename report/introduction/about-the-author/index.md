@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: About The Author
 type: page
-updated: 2017.10.12:1800
+updated: 2017.10.12:1945
 ---
 
 ## Current Computing Devices
@@ -21,7 +21,7 @@ updated: 2017.10.12:1800
 ### iPad
 
 - CPU: [Apple A9, 1.8 GHz](https://en.wikipedia.org/wiki/Apple_A9)
-- GPU: [PowerVR GT7600]()
+- GPU: [PowerVR GT7600](https://en.wikipedia.org/wiki/PowerVR#Series7XT_.28Rogue.29)
 - RAM: 2048 MB
 - SSD: 32 GB
 
