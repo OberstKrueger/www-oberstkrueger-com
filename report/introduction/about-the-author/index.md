@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: About The Author
 type: page
-updated: 2017.09.25.1030
+updated: 2017.10.12:1800
 ---
 
 ## Current Computing Devices
@@ -17,6 +17,15 @@ updated: 2017.09.25.1030
 - Peripherals: [LG 25UM58-P](http://www.lg.com/us/monitors/lg-25UM58-P-ultrawide-monitor), [Steam Controller](http://store.steampowered.com/app/353370/)
 
 **GeekBench Score**: [4714 / 14907](https://browser.geekbench.com/v4/cpu/2184942)
+
+### iPad
+
+- CPU: [Apple A9, 1.8 GHz](https://en.wikipedia.org/wiki/Apple_A9)
+- GPU: [PowerVR GT7600]()
+- RAM: 2048 MB
+- SSD: 32 GB
+
+**Geekbench Score**: [2534 / 4368](https://browser.geekbench.com/v4/cpu/4450937)
 
 ### iPhone 6 Plus
 
