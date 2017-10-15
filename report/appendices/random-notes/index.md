@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1300
 title: Random Notes
 type: page
-updated: 2017.09.01:0545
+updated: 2017.10.14:2015
 ---
 
 The following are random ideas, quotes, or thoughts that I have come across.
@@ -24,6 +24,11 @@ The following are random ideas, quotes, or thoughts that I have come across.
 > 
 > - [everyone on Hacker News](https://news.ycombinator.com/item?id=14827848)
 
+### The United States
+
+> Today the United States is at once a hypermodern society in its embrace of the contemporary free-market system, but an antiquarian society in leaving it to families and other community institutions to address the problems the system creates. Seen from a Nordic perspective, the United States is stuck in a conflict, but it’s not the conflict between liberals and conservatives, or between Democrats and Republicans, and it’s not the old debate about bigger government versus smaller government. It’s the conflict between the past and the future. Much of America’s government does look ridiculously bloated and intrusive in all the wrong ways for modernity. The way the United States government micromanages society with case-by-case policies, and hands out uniquely tailored gifts left and right to special interests, strikes a Nordic as a clearly outdated way to govern. And whether the United States wants to admit this to itself or not, staying stuck in the past is putting itself at an ever-increasing disadvantage in the world.
+> 
+> - Anu Partanen
 
 ### Work
 
