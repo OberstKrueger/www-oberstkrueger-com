@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.04:1920
 title: Podcasts I Have Listened To
 type: page
-updated: 2017.09.17:0615
+updated: 2017.10:16:1045
 ---
 
 **Accidental Tech Podcast**: [Site](http://atp.fm)<br>
@@ -69,6 +69,10 @@ Roboism is a fortnightly show mostly about robots. We care about how robots, art
 **Science Vs**: [Site](https://gimletmedia.com/science-vs/)<br>
 **Host**: [Wendy Zukerman](https://twitter.com/wendyzuk?lang=en)<br>
 There are a lot of fads, blogs and strong opinions, but then there’s SCIENCE. Science Vs is the show from Gimlet Media that finds out what’s fact, what’s not, and what’s somewhere in between. We do the hard work of sifting through all the science so you don't have to.
+
+**Simplify**: [Site](https://www.blinkist.com/simplify)<br>
+**Hosts**: Ben Schuman-Stoler, Caitlin Schiller<br>
+Simplify is a podcast for anyone who’s taken a critical look at their habits, their happiness, their relationships, or their health and thought, "There’s got to be a better way to do this."
 
 **The Talk Show**: [Site](http://daringfireball.net/thetalkshow/) / [Wiki](https://en.wikipedia.org/wiki/The_Talk_Show_(podcast))<br>
 **Host**: [John Gruber](http://daringfireball.net)<br>
