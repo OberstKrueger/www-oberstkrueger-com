@@ -3,7 +3,7 @@ category: notes-on-books
 created: 2017.10.16:1100
 title: Resilient Web Design
 type: page
-updated: 2017.10.16:1110
+updated: 2017.10.16:1335
 ---
 
 **Title**: Resilient Web Design<br>
@@ -37,10 +37,13 @@ updated: 2017.10.16:1110
 
 > Design adds clarity. Using colour, typography, hierarchy, contrast, and all the other tools at their disposal, designers can take an unordered jumble of information and turn it into something that’s easy to use and pleasurable to behold. Like life itself, design can win a small victory against the entropy of the universe, creating pockets of order from the raw materials of chaos.
 
+<div></div>
 > JavaScript gave web designers the power to create websites that were slicker, smoother, and more reactive. The same technology also gave web designers the power to create websites that were sluggish, unwieldy, and more difficult to use.
 
+<div></div>
 > This doesn’t mean that web designers shouldn’t use JavaScript. But it does mean that web designers shouldn’t rely on JavaScript when a simpler solution exists.
 
+<div></div>
 > Here’s a three-step approach I take to web design:
 > 
 > 1. Identify core functionality.
