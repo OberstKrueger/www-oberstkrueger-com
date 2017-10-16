@@ -33,7 +33,6 @@ updated: 2017.10.16:1110
 - Every design does not need to be rendered pixel-perfect on every browser. Good design will take advantage of as many new features as it wants, but will still gracefully fall back to eventually being nothing but basic HTML, and still function properly. Trying to force pixel-perfect designs on web pages is the same as trying to force print designs on the web.
 - Progressive enhancement does not mean every browser must support every feature. Core functionality must be split from enhanced functionality, the latter of which does not need to be guaranteed to every user.
 
-
 ### Quotes
 
 > Design adds clarity. Using colour, typography, hierarchy, contrast, and all the other tools at their disposal, designers can take an unordered jumble of information and turn it into something that’s easy to use and pleasurable to behold. Like life itself, design can win a small victory against the entropy of the universe, creating pockets of order from the raw materials of chaos.
