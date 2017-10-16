@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2017.09.23:0500
+updated: 2017.10.16:1100
 ---
 
 ## Introduction
@@ -53,6 +53,10 @@ updated: 2017.09.23:0500
 
 - [Walt Disney World - 2016](/trips/walt-disney-world-2016)
 - [Solar Eclipse - 2017](/trips/solar-eclipse-2017)
+
+## Notes On Books
+
+- [Resilient Web Design](/notes-on-books/resilient-web-design)
 
 ## Appendices
 
