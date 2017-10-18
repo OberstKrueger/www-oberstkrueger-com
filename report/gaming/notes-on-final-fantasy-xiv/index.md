@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2017.10.10:1545
+updated: 2017.10.17:2015
 ---
 
 ## Trials
@@ -95,6 +95,20 @@ updated: 2017.10.10:1545
 4. Stormsplitter: MT and OT swap after it hits.
 5. Levin Bolt 1: Affected players jump to other side of platform for the AE.
 6. Levin Bolt 2: All players move to other side of arena.
+
+### Thornmarch (Hard)
+
+1. Phase 1: Kill all adds.
+2. Phase 2 MT: Tank King Moggle Mogl XII.
+3. Phase 2 OT: Pull Whiskerwall Kupdi Koop (PLD) and Ruffletuft Kupta Kapa (WAR) away from the group and tank.
+
+In Phase 2, the DPS will kill adds in this order:
+
+1. Pukla Puki the Pomburner (BLM)
+2. Furryfoot Kupli Kipp (WHM)
+3. Puksi Piko the Shaggysong (BRD)
+4. Woolywart Kupqu Kogi (ARC)
+5. Pukna Pako the Tailturner (ROG)
 
 ## Raids
 
