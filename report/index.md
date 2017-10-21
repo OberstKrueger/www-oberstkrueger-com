@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2017.10.16:1100
+updated: 2017.10.21:0615
 ---
 
 ## Introduction
@@ -56,6 +56,7 @@ updated: 2017.10.16:1100
 
 ## Notes On Books
 
+- [Crash Override](/notes-on-books/crash-override)
 - [Resilient Web Design](/notes-on-books/resilient-web-design)
 
 ## Appendices
