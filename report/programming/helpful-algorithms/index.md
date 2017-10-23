@@ -3,7 +3,7 @@ category: programming
 created: 2017.07.02:1915
 title: Helpful Algorithms
 type: page
-updated: 2017.09.15:0600
+updated: 2017.10.23:1310
 ---
 
 ## Greatest Common Divisor
@@ -27,6 +27,17 @@ updated: 2017.09.15:0600
 			(x, y) = (y, x % y)
 		}
 		return (first * second) / x
+	}
+
+<div></div>
+
+	func lcm(_ numbers: [Int]) -> Int {
+		if numbers.count < 2 { return 0 }
+		var baseNumber: Int = numbers.first!
+		for index in 1 ..< numbers.endIndex {
+			baseNumber = lcm(baseNumber, numbers[index])
+		}
+		return baseNumber
 	}
 
 ## Palindrome Check
