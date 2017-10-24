@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2017.10.11:2015
+updated: 2017.10.24:0500
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -324,6 +324,7 @@ updated: 2017.10.11:2015
 - [Little Inferno](https://en.wikipedia.org/wiki/Little_Inferno)
 - [Little Nightmares](https://en.wikipedia.org/wiki/Little_Nightmares)
 - [Limbo](https://en.wikipedia.org/wiki/Limbo_(video_game))
+- [Lineage II](https://en.wikipedia.org/wiki/Lineage_II)
 - [Magicka](https://en.wikipedia.org/wiki/Magicka)
 - [Mass Effect](https://en.wikipedia.org/wiki/Mass_Effect_(video_game))
 - [Max Payne](https://en.wikipedia.org/wiki/Max_Payne_(video_game))
