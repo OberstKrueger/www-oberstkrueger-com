@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2017.10.24:0500
+updated: 2017.10.24:1925
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -229,6 +229,7 @@ updated: 2017.10.24:0500
 - [Dear Esther: Landmark Edition](https://en.wikipedia.org/wiki/Dear_Esther)
 - [DEFCON](https://en.wikipedia.org/wiki/DEFCON_(video_game))
 - [Depression Quest](https://en.wikipedia.org/wiki/Depression_Quest)
+- [Destiny 2](https://en.wikipedia.org/wiki/Destiny_2)
 - [Deus Ex](https://en.wikipedia.org/wiki/Deus_Ex_(video_game))
 - [Deus Ex: Human Revolution](https://en.wikipedia.org/wiki/Deus_Ex:_Human_Revolution)
 - [Deus Ex: Human Revolution - The Missing Link](https://en.wikipedia.org/wiki/Deus_Ex:_Human_Revolution_–_The_Missing_Link)
