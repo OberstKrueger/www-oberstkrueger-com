@@ -7,7 +7,76 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2017-09-30T11:55:00Z</updated>
+<updated>2017-10-31T08:45:00Z</updated>
+
+<entry>
+<title>Updates For October 31, 2017</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/20171031</id>
+<published>2017-10-31T08:45:00Z</published>
+<updated>2017-08-31T08:45:00Z</updated>
+<content type="html">
+<![CDATA[
+<h3>Notes On Books</h3>
+<p>A new habit that I have picked up recently is taking notes on non-fiction books that I can reference later. Taking notes has forced me to slow down my reading speed while also reinforcing my comprehension of the work. Since The Krueger Report is as much a reference for myself as anyone else, adding those notes here makes sense. My initial entries into this category are for a pair of books: <a href="https://krueger.report/notes-on-books/crashoverride">Crash Override</a> and <a href="https://krueger.report/notes-on-books/resilient-web-design">Resilient Web Design</a>.</p>
+<h3>Favorite Articles</h3>
+<ul>
+<li><a href="https://kotaku.com/activision-patents-matchmaking-that-encourages-players-1819630937">Activision patents matchmaking that encourages players to buy microtransactions</a></li>
+<li><a href="https://www.theverge.com/2017/10/6/16435690/aim-shutting-down-after-20-years-aol-instant-messenger">AIM will shut down after 20 years</a></li>
+<li><a href="http://psychochild.org/?p=1473">An article on Meridian 59</a></li>
+<li><a href="https://hmemcpy.com/2017/10/becoming-foolish/">Becoming foolish</a></li>
+<li><a href="https://medium.com/@evidanary/cognitive-biases-in-programming-5e937707c27b">Cognitive biases in programming</a></li>
+<li><a href="https://www.vox.com/science-and-health/2017/10/18/15995478/chocolate-health-benefits-heart-disease">Dark chocolate is now a health food. Here’s how that happened.</a></li>
+<li><a href="http://blog.supertop.co/post/166084374062/design-details-drag-and-drop">Design details: Drag and drop</a></li>
+<li><a href="https://blogs.windows.com/msedgedev/2017/10/18/documenting-web-together-mdn-web-docs">Documenting the web together</a></li>
+<li><a href="https://www.buzzfeed.com/danvergano/fentanyl-leading-overdoses?utm_term=.rtZn4Y3Q2#.wrlW9LR6e">Fentanyl is now the leading cause of US overdose deaths</a></li>
+<li><a href="https://blog.prototypr.io/google-and-the-resurgence-of-italian-design-e9234cf3d073">Google and the resurgent of Italian design</a></li>
+<li><a href="https://mobile.nytimes.com/2017/10/09/technology/russia-election-facebook-ads-rage.html?referer=">How Russia harvested American rage to reshape U.S. politics</a></li>
+<li><a href="https://marco.org/2017/10/14/impossible-dream-of-usb-c">The impossible dream of USB-C</a></li>
+<li><a href="http://fortune.com/2017/04/27/estonia-digital-life-tech-startups/">Is Estonia a preview of our tech future?</a></li>
+<li><a href="https://www.wired.com/story/track-location-with-mobile-ads-1000-dollars-study/">It takes just $1,000 to track someone’s location with mobile ads</a></li>
+<li><a href="http://nautil.us/issue/53/monsters/the-last-invention-of-man">The last invention of man</a></li>
+<li><a href="https://medium.com/@Gargron/mastodon-2-0-e93d9d28dbb9?">Mastodon 2.0</a></li>
+<li><a href="https://adactio.com/journal/13035">The meaning of AMP</a></li>
+<li><a href="http://jordansmith.io/on-performant-arrays-in-swift/">On performant arrays in Swift</a></li>
+<li><a href="https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia?src=longreads">‘Our minds can be hijacked’: The tech insiders who fear a smartphone dystopia</a></li>
+<li><a href="https://jann.is/ipad-pro-for-programming/">The iPad Pro as main computer for programming</a></li>
+<li><a href="http://morrick.me/archives/7998">The next mini</a></li>
+<li><a href="https://www.nih.gov/news-events/news-releases/nih-researchers-uncover-drain-pipes-our-brains">NIH researchers uncover drain pipes in our brains</a></li>
+<li><a href="https://ethanmarcotte.com/wrote/seven-into-seven/">Seven into seven</a></li>
+<li><a href="http://digitalfreepen.com/2017/10/06/simple-real-time-collaborative-text-editor.html">A simple approach to building a real-time collaborative text editor</a></li>
+<li><a href="https://alistapart.com/article/the-story-of-css-grid-from-its-creators">The story of CSS Grid, from its creators</a></li>
+<li><a href="https://swift.org/blog/swift-4-1-release-process/">Swift 4.1 release process</a></li>
+<li><a href="https://medium.com/@andre_videla/total-programming-in-swift-526508c12a74">Total programming in Swift</a></li>
+<li><a href="https://www.newyorker.com/culture/cultural-comment/the-uncanny-resurrection-of-dungeons-and-dragons">The uncanny resurrection of Dungeons &amp; Dragons</a></li>
+<li><a href="https://www.raphkoster.com/2017/09/28/ultima-onlines-influence/">Ultima Online’s influence</a></li>
+<li><a href="http://massivelyop.com/2017/10/07/the-game-archaeologist-ultima-worlds-online-origin/">Ultima Worlds Online</a></li>
+<li><a href="https://statico.github.io/vim3.html">Vim after 15 years</a></li>
+<li><a href="https://medium.com/@philipn/want-to-see-something-crazy-open-this-link-on-your-phone-with-wifi-turned-off-9e0adb00d024">Want to see something crazy? Open this link on your phone with WiFi turned off</a></li>
+<li><a href="https://krebsonsecurity.com/2017/10/what-you-should-know-about-the-krack-wifi-security-weakness/">What you should know about ‘KRAFK’ WiFi security weakness</a></li>
+<li><a href="https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/">The whole web at maximum FPS: How WebRender gets rid of jank</a></li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Zomorodi, Manoush - Bored and Brilliant: How Spacing Out Can Unlock Your Most Productive and Creative Self</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="http://www.depressionquest.com">Depression Quest</a></li>
+<li><a href="https://www.destinythegame.com">Destiny 2</a></li>
+<li><a href="http://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
+<li><a href="http://us.battle.net/heroes/en/">Heroes of the Storm</a></li>
+<li><a href="https://www.kleientertainment.com/games/oxygen-not-included">Oxygen Not Included</a></li>
+<li><a href="https://prey.bethesda.net">Prey</a></li>
+<li><a href="http://us.battle.net/sc2/en/">StarCraft II: Legacy of the Void</a></li>
+<li><a href="http://www.terrabattle2.com/en/">Terra Battle 2</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For September 30, 2017</title>

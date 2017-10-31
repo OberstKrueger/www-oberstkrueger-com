@@ -3,8 +3,66 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2017.09.30:1155
+updated: 2017.10.31:0845
 ---
+
+## 2017.10.31
+
+### Notes On Books
+
+A new habit that I have picked up recently is taking notes on non-fiction books that I can reference later. Taking notes has forced me to slow down my reading speed while also reinforcing my comprehension of the work. Since The Krueger Report is as much a reference for myself as anyone else, adding those notes here makes sense. My initial entries into this category are for a pair of books: [Crash Override](https://krueger.report/notes-on-books/crashoverride) and [Resilient Web Design](https://krueger.report/notes-on-books/resilient-web-design).
+
+### Favorite Articles
+
+- [Activision patents matchmaking that encourages players to buy microtransactions](https://kotaku.com/activision-patents-matchmaking-that-encourages-players-1819630937)
+- [AIM will shut down after 20 years](https://www.theverge.com/2017/10/6/16435690/aim-shutting-down-after-20-years-aol-instant-messenger)
+- [An article on Meridian 59](http://psychochild.org/?p=1473)
+- [Becoming foolish](https://hmemcpy.com/2017/10/becoming-foolish/)
+- [Cognitive biases in programming](https://medium.com/@evidanary/cognitive-biases-in-programming-5e937707c27b)
+- [Dark chocolate is now a health food. Here’s how that happened.](https://www.vox.com/science-and-health/2017/10/18/15995478/chocolate-health-benefits-heart-disease)
+- [Design details: Drag and drop](http://blog.supertop.co/post/166084374062/design-details-drag-and-drop)
+- [Documenting the web together](https://blogs.windows.com/msedgedev/2017/10/18/documenting-web-together-mdn-web-docs)
+- [Fentanyl is now the leading cause of US overdose deaths](https://www.buzzfeed.com/danvergano/fentanyl-leading-overdoses?utm_term=.rtZn4Y3Q2#.wrlW9LR6e)
+- [Google and the resurgent of Italian design](https://blog.prototypr.io/google-and-the-resurgence-of-italian-design-e9234cf3d073)
+- [How Russia harvested American rage to reshape U.S. politics](https://mobile.nytimes.com/2017/10/09/technology/russia-election-facebook-ads-rage.html?referer=)
+- [The impossible dream of USB-C](https://marco.org/2017/10/14/impossible-dream-of-usb-c)
+- [Is Estonia a preview of our tech future?](http://fortune.com/2017/04/27/estonia-digital-life-tech-startups/)
+- [It takes just $1,000 to track someone's location with mobile ads](https://www.wired.com/story/track-location-with-mobile-ads-1000-dollars-study/)
+- [The last invention of man](http://nautil.us/issue/53/monsters/the-last-invention-of-man)
+- [Mastodon 2.0](https://medium.com/@Gargron/mastodon-2-0-e93d9d28dbb9?)
+- [The meaning of AMP](https://adactio.com/journal/13035)
+- [On performant arrays in Swift](http://jordansmith.io/on-performant-arrays-in-swift/)
+- ['Our minds can be hijacked': The tech insiders who fear a smartphone dystopia](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia?src=longreads)
+- [The iPad Pro as main computer for programming](https://jann.is/ipad-pro-for-programming/)
+- [The next mini](http://morrick.me/archives/7998)
+- [NIH researchers uncover drain pipes in our brains](https://www.nih.gov/news-events/news-releases/nih-researchers-uncover-drain-pipes-our-brains)
+- [Seven into seven](https://ethanmarcotte.com/wrote/seven-into-seven/)
+- [A simple approach to building a real-time collaborative text editor](http://digitalfreepen.com/2017/10/06/simple-real-time-collaborative-text-editor.html)
+- [The story of CSS Grid, from its creators](https://alistapart.com/article/the-story-of-css-grid-from-its-creators)
+- [Swift 4.1 release process](https://swift.org/blog/swift-4-1-release-process/)
+- [Total programming in Swift](https://medium.com/@andre_videla/total-programming-in-swift-526508c12a74)
+- [The uncanny resurrection of Dungeons & Dragons](https://www.newyorker.com/culture/cultural-comment/the-uncanny-resurrection-of-dungeons-and-dragons)
+- [Ultima Online's influence](https://www.raphkoster.com/2017/09/28/ultima-onlines-influence/)
+- [Ultima Worlds Online](http://massivelyop.com/2017/10/07/the-game-archaeologist-ultima-worlds-online-origin/)
+- [Vim after 15 years](https://statico.github.io/vim3.html)
+- [Want to see something crazy? Open this link on your phone with WiFi turned off](https://medium.com/@philipn/want-to-see-something-crazy-open-this-link-on-your-phone-with-wifi-turned-off-9e0adb00d024)
+- [What you should know about 'KRAFK' WiFi security weakness](https://krebsonsecurity.com/2017/10/what-you-should-know-about-the-krack-wifi-security-weakness/)
+- [The whole web at maximum FPS: How WebRender gets rid of jank](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)
+
+### Books Read
+
+- Zomorodi, Manoush - Bored and Brilliant: How Spacing Out Can Unlock Your Most Productive and Creative Self
+
+### Games Played
+
+- [Depression Quest](http://www.depressionquest.com)
+- [Destiny 2](https://www.destinythegame.com)
+- [Final Fantasy XIV: Stormblood](http://na.finalfantasyxiv.com/stormblood/)
+- [Heroes of the Storm](http://us.battle.net/heroes/en/)
+- [Oxygen Not Included](https://www.kleientertainment.com/games/oxygen-not-included)
+- [Prey](https://prey.bethesda.net)
+- [StarCraft II: Legacy of the Void](http://us.battle.net/sc2/en/)
+- [Terra Battle 2](http://www.terrabattle2.com/en/)
 
 ## 2017.09.30
 
