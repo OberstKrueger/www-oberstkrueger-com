@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.04:1920
 title: Podcasts I Have Listened To
 type: page
-updated: 2017.10:16:1045
+updated: 2017.11.06:0740
 ---
 
 **Accidental Tech Podcast**: [Site](http://atp.fm)<br>
@@ -73,6 +73,10 @@ There are a lot of fads, blogs and strong opinions, but then there’s SCIENCE. 
 **Simplify**: [Site](https://www.blinkist.com/simplify)<br>
 **Hosts**: Ben Schuman-Stoler, Caitlin Schiller<br>
 Simplify is a podcast for anyone who’s taken a critical look at their habits, their happiness, their relationships, or their health and thought, "There’s got to be a better way to do this."
+
+**Stay Tuned With Preet**: [Site](http://www.wnyc.org/shows/preetbharara)<br>
+**Host**: [Preet Bharara](https://en.wikipedia.org/wiki/Preet_Bharara)<br>
+Join Preet Bharara, the former U.S. Attorney who fought corruption, financial fraud and violent crime, in a podcast about justice and fairness.
 
 **The Talk Show**: [Site](http://daringfireball.net/thetalkshow/) / [Wiki](https://en.wikipedia.org/wiki/The_Talk_Show_(podcast))<br>
 **Host**: [John Gruber](http://daringfireball.net)<br>
