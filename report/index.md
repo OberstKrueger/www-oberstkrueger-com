@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2017.10.21:0615
+updated: 2017.11.06:0805
 ---
 
 ## Introduction
@@ -48,6 +48,10 @@ updated: 2017.10.21:0615
 ## All About The Mac
 
 - [Setting Up Homebrew](/all-about-the-mac/setting-up-homebrew)
+
+## Music
+
+- [Rebooting iTunes](/music/rebooting-itunes)
 
 ## Trips
 
