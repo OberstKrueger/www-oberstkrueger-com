@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2017.10.24:1925
+updated: 2017.11.11:1735
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -304,6 +304,7 @@ updated: 2017.10.24:1925
 - [Half-Life 2: Episode Two](https://en.wikipedia.org/wiki/Half-Life_2:_Episode_Two)
 - [Hearthstone](https://en.wikipedia.org/wiki/Hearthstone_(video_game))
 - [Hellgate: London](https://en.wikipedia.org/wiki/Hellgate:_London)
+- [Hellblade: Senua's Sacrifice](https://en.wikipedia.org/wiki/Hellblade:_Senua%27s_Sacrifice)
 - [Heroes of Might and Magic III](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III)
 - [Heroes of Newerth](https://en.wikipedia.org/wiki/Heroes_of_Newerth)
 - [Heroes of the Storm](https://en.wikipedia.org/wiki/Heroes_of_the_Storm)
