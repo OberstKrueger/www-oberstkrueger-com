@@ -3,7 +3,7 @@ category: appendices
 created: 2017.08.07:2045
 title: Movies I Have Watched
 type: page
-updated: 2017.09.01:0545
+updated: 2017.11.23:1930
 ---
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
@@ -192,6 +192,7 @@ updated: 2017.09.01:0545
 - [Robin Hood (1973)](https://en.wikipedia.org/wiki/Robin_Hood_(1973_film))
 - [The Rocketeer](https://en.wikipedia.org/wiki/The_Rocketeer_(film))
 - [Rocky](https://en.wikipedia.org/wiki/Rocky)
+- [Rogue One: A Star Wars Story](https://en.wikipedia.org/wiki/Rogue_One)
 - [Rush Hour](https://en.wikipedia.org/wiki/Rush_Hour_(1998_film))
 - [Rush Hour 2](https://en.wikipedia.org/wiki/Rush_Hour_2)
 - [Saving Private Ryan](https://en.wikipedia.org/wiki/Saving_Private_Ryan)
