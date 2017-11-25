@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2017.11.22:1725
+updated: 2017.11.24:2035
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -53,7 +53,7 @@ updated: 2017.11.22:1725
 - [Exploding Kittens](https://en.wikipedia.org/wiki/Exploding_Kittens)
 - [Fallout Shelter](https://en.wikipedia.org/wiki/Fallout_Shelter)
 - [Final Fantasy Record Keeper](https://en.wikipedia.org/wiki/Final_Fantasy_Record_Keeper)
-- [Flappy Birdy](https://en.wikipedia.org/wiki/Flappy_Bird)
+- [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird)
 - [Flight Control](https://en.wikipedia.org/wiki/Flight_Control_(video_game))
 - [Fruit Ninja](https://en.wikipedia.org/wiki/Fruit_Ninja)
 - [geoDefense](https://en.wikipedia.org/wiki/GeoDefense)
