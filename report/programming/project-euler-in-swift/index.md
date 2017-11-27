@@ -3,7 +3,7 @@ category: programming
 created: 2017.04.06:0845
 title: Project Euler In Swift
 type: page
-updated: 2017.11.27:1210
+updated: 2017.11.27:1340
 ---
 
 My favorite way to learn a new programming language is using problems from [Project Euler](https://projecteuler.net). These problems are largely math problems, with a smattering of cryptography and other such topics. Many of the problems can be brute forced, but even on modern CPUs, these can take minutes or hours to solve. To truly solve the problem, one must come up with an efficient algorithm, and most are solvable in only a few seconds of time.
@@ -607,5 +607,6 @@ Work out the first ten digits of the sum of the following one-hundred 50-digit n
 	import Foundation
 
 	func p013(_ input: [String] = p013_input) -> String {
-		return input.reduce(Decimal(0), {$0 + Decimal(string: $1)!}).description.prefix(10).description
+		let output: String = input.reduce(Decimal(0), {$0 + Decimal(string: $1)!}).description
+		return output.prefix(10).description
 	}
