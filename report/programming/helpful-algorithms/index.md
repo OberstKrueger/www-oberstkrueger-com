@@ -3,7 +3,7 @@ category: programming
 created: 2017.07.02:1915
 title: Helpful Algorithms
 type: page
-updated: 2017.10.23:1310
+updated: 2017.11.27.1320
 ---
 
 ## Greatest Common Divisor
@@ -55,14 +55,12 @@ updated: 2017.10.23:1310
 
 Note: This algorithm uses a languages standard square root function. Most languages have efficient implementations of the function that are faster than anything else that could be coded by hand.
 
-	import Foundation
-	
 	extension Int {
 		var isPrime: Bool {
 			if self <= 1 { return false }
 			if self % 2 == 0 { return self == 2 }
 			if self % 3 == 0 { return self == 3 }
-			let r: Int = Int(sqrt(Double(self)))
+			let r: Int = Int(Double(self).squareRoot())
 			var f: Int = 5
 			while f <= r {
 				if self % f == 0 || self % (f + 2) == 0 { return false }
