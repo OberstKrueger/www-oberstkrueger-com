@@ -306,7 +306,7 @@ body {
 			border-bottom: $dividerThin;
 			border-top: $dividerThin;
 			margin: ($lineHeight + rem) auto;
-			max-width: 20.5rem; // Calculated based upon widest li
+			max-width: 21.5rem; // Calculated based upon widest li
 			&:first-of-type {
 				margin-top: ($lineHeight * 2rem)
 			}
