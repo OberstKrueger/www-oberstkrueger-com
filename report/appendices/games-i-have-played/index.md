@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2017.11.24:2035
+updated: 2017.11.27:2010
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -239,6 +239,7 @@ updated: 2017.11.24:2035
 - [Diablo II: Lord of Destruction](https://en.wikipedia.org/wiki/Diablo_II:_Lord_of_Destruction)
 - [Diablo III](https://en.wikipedia.org/wiki/Diablo_III)
 - [Diablo III: Reaper of Souls](https://en.wikipedia.org/wiki/Diablo_III:_Reaper_of_Souls)
+- [Divinity: Original Sin II](https://en.wikipedia.org/wiki/Divinity:_Original_Sin_II)
 - [Don't Starve](https://en.wikipedia.org/wiki/Don%27t_Starve)
 - [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
 - [Doom II: Hell on Earth](https://en.wikipedia.org/wiki/Doom_II:_Hell_on_Earth)
