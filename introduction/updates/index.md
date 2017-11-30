@@ -3,8 +3,66 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2017.10.31:0845
+updated: 2017.11.30:0255
 ---
+
+## 2017.11.30
+
+### Rebooting iTunes
+
+Nearly 10 years ago, I created the iTunes library that I had been using consistently up until 6 months ago. This library was bloated and hard to reason around, as it had more songs in it than I could listen to. To fix this problem, I decided to [reboot iTunes](https://krueger.report/rebooting-itunes), to purge everything out of it and start fresh. This has been a huge task and one that I was unsure would work out, but in the end, it has helped revitalize my music listening and helped solidify what I actually enjoy listening to.
+
+### Selecting Movies
+
+On an old version of The Krueger Report, I wrote about how the amount of new movies I was watching had gone down. At the time, I resolved to watch at least a couple new movies every month, working down the list of what is considered the best movies of all time as well as any personal preferences that I have. I kept up this habit for about about a year, but then it again fell by the wayside. Getting back in the habit of [selecting movies](https://krueger.report/selecting-movies) to watch and keeping up with it is a goal of mine for the upcoming year.
+
+### Favorite Articles
+
+- [Are Facebook, Twitter, and Google American Companies?](https://www.theatlantic.com/technology/archive/2017/11/are-facebook-twitter-and-google-american-companies/544670/)
+- [Bionic eye trial approved](https://hackaday.com/2017/11/07/bionic-eye-trial-approved/)
+- [The case for RSS](https://www.macsparky.com/blog/2017/11/the-case-for-rss)
+- [A clash of cultures](https://www.bunniestudios.com/blog/?p=5046)
+- [Demystifying Floating Point Precision](https://blog.demofox.org/2017/11/21/floating-point-precision/)
+- [The end of the social era can't come soon enough](https://www.vanityfair.com/news/2017/11/the-end-of-the-social-era-twitter-facebook-snapchat)
+- [Firefox 57.0 release notes](https://www.mozilla.org/en-US/firefox/57.0/releasenotes/)
+- [The first woman to translate The Odossey into English](https://www.nytimes.com/2017/11/02/magazine/the-first-woman-to-translate-the-odyssey-into-english.html)
+- [From Markdown to RCE in Atom](https://statuscode.ch/2017/11/from-markdown-to-rce-in-atom/)
+- [HDMI 2.1 specification released: Variable refresh, dynamic HDR, & more in 2018](https://www.anandtech.com/show/12095/hdmi-21-specification-released)
+- [Hooked: How slot machines are designed to be addictive](https://www.theguardian.com/australia-news/datablog/ng-interactive/2017/sep/28/hooked-how-pokies-are-designed-to-be-addictive)
+- [How do groups work on Linux?](https://jvns.ca/blog/2017/11/20/groups/)
+- [I'm on the FCC. Please stop us from killing net neutrality](http://www.latimes.com/opinion/op-ed/la-oe-rosenworcel-fcc-net-neutrality-repeal-20171122-story.html)
+- [iMac Pro appears to include A10 Fusion chip for always-on 'Hey Siri'](https://www.macrumors.com/2017/11/19/imac-pro-a10-chip-hey-siri/)
+- [In search of the perfect writing font](https://ia.net/topics/in-search-of-the-perfect-writing-font/)
+- [The Mac still feels like home](http://www.macdrifter.com/2017/11/the-mac-still-feels-like-home.html)
+- [Much ado about iOS app architecture](http://aplus.rs/2017/much-ado-about-ios-app-architecture/)
+- [An open letter to Intel](http://www.cs.vu.nl/~ast/intel/)
+- [Overcast 4.0 brings UI optimizations for iOS 11 and iPhone X, drag and drop, and new advanced settings](https://www.macstories.net/reviews/overcast-4-0-brings-ui-optimizations-for-ios-11-and-iphone-x-drag-and-drop-and-new-advanced-settings/)
+- [Promethea unbound](https://magazine.atavist.com/promethea-unbound-child-genius-montana)
+- [The strange science of Destiny 2's 'uniquely complicated' netcode](http://www.pcgamer.com/the-strange-science-of-destiny-2s-uniquely-complicated-netcode/)
+- [The struggle to maintain EVE Online's only graveyard](http://www.pcgamer.com/the-struggle-to-maintain-eve-onlines-only-graveyard/)
+- [Swift for Data Science / ML / Big Data analytics](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20171023/040733.html)
+- [Two major Cydia hosts shut down as jailbreaking fades in popularity](https://www.macrumors.com/2017/11/23/modmyi-macciti-cydia-repos-shut-down/)
+- [Ubuntu 17.10: Return of the GNOME](https://arstechnica.com/gadgets/2017/11/ubuntu-17-10-return-of-the-gnome/)
+- [Why I'm digging deep into Alzheimer's](https://www.gatesnotes.com/Health/Digging-Deep-Into-Alzheimers)
+- [A woman approached The Post with dramatic — and false — tale about Roy Moore. She appears to be part of undercover sting operation.](https://www.washingtonpost.com/investigations/a-woman-approached-the-post-with-dramatic--and-false--tale-about-roy-moore-sje-appears-to-be-part-of-undercover-sting-operation/2017/11/27/0c2e335a-cfb6-11e7-9d3a-bcbe2af58c3a_story.html)
+- [World of Warcraft ‘Classic’ finally delivers on legacy servers](http://massivelyop.com/2017/11/04/blizzcon-2017-world-of-warcrafts-classic-server-will-be-a-massive-effort/)
+
+### Books Read
+
+- Foer, Joshua - Moonwalking with Einstein: The Art and Science of Remembering Everything
+
+### Games Played
+
+- [Destiny 2](https://www.destinythegame.com)
+- [Divinity: Original Sin II](http://divinity.game/)
+- [Final Fantasy XIV: Stormblood](http://na.finalfantasyxiv.com/stormblood/)
+- [Hellblade: Senua's Sacrifice](http://www.hellblade.com)
+= [Opus Magnum](http://www.zachtronics.com/opus-magnum/)
+- [Oxygen Not Included](https://www.kleientertainment.com/games/oxygen-not-included)
+
+### Movies Watched
+
+- [Rogue One: A Star Wars Story](https://en.wikipedia.org/wiki/Rogue_One)
 
 ## 2017.10.31
 
@@ -124,7 +182,7 @@ I have added current screenshots of both my iOS and macOS workspaces to [About T
 
 One of my favorite parts of macOS is the scripting capabilities of it. GUI applications can be scripted with AppleScript, and terminal applications and OS-level features can be scripted using Bash, Python, and now Swift. I've been experimenting with [creating scripts using Swift](https://krueger.report/programming/scripting-with-swift/), and while the results are still early, it's turning out to be a capable language for this usage.
 
-### Walt Disney World - 2106
+### Walt Disney World - 2016
 
 Last year, Whitney and I went to [Walt Disney World](https://krueger.report/trips/walt-disney-world-2016). This was my third trip there, but the first for Whitney. I did not take as many photographs as I would have liked, some of the highlights are included here.
 
