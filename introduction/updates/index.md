@@ -57,7 +57,7 @@ On an old version of The Krueger Report, I wrote about how the amount of new mov
 - [Divinity: Original Sin II](http://divinity.game/)
 - [Final Fantasy XIV: Stormblood](http://na.finalfantasyxiv.com/stormblood/)
 - [Hellblade: Senua's Sacrifice](http://www.hellblade.com)
-= [Opus Magnum](http://www.zachtronics.com/opus-magnum/)
+- [Opus Magnum](http://www.zachtronics.com/opus-magnum/)
 - [Oxygen Not Included](https://www.kleientertainment.com/games/oxygen-not-included)
 
 ### Movies Watched
