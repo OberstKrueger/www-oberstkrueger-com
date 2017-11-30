@@ -7,7 +7,85 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2017-10-31T08:45:00Z</updated>
+<updated>2017-11-30T02:55:00Z</updated>
+
+<entry>
+<title>Updates For November 30, 2017</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/20171130</id>
+<published>2017-11-30T02:55:00Z</published>
+<updated>2017-11-30T02:55:00Z</updated>
+<content type="html">
+<![CDATA[
+<h3>Rebooting iTunes</h3>
+
+<p>Nearly 10 years ago, I created the iTunes library that I had been using consistently up until 6 months ago. This library was bloated and hard to reason around, as it had more songs in it than I could listen to. To fix this problem, I decided to <a href="https://krueger.report/rebooting-itunes">reboot iTunes</a>, to purge everything out of it and start fresh. This has been a huge task and one that I was unsure would work out, but in the end, it has helped revitalize my music listening and helped solidify what I actually enjoy listening to.</p>
+
+<h3>Selecting Movies</h3>
+
+<p>On an old version of The Krueger Report, I wrote about how the amount of new movies I was watching had gone down. At the time, I resolved to watch at least a couple new movies every month, working down the list of what is considered the best movies of all time as well as any personal preferences that I have. I kept up this habit for about about a year, but then it again fell by the wayside. Getting back in the habit of <a href="https://krueger.report/selecting-movies">selecting movies</a> to watch and keeping up with it is a goal of mine for the upcoming year.</p>
+
+<h3>Favorite Articles</h3>
+
+<ul>
+<li><a href="https://www.theatlantic.com/technology/archive/2017/11/are-facebook-twitter-and-google-american-companies/544670/">Are Facebook, Twitter, and Google American Companies?</a></li>
+<li><a href="https://hackaday.com/2017/11/07/bionic-eye-trial-approved/">Bionic eye trial approved</a></li>
+<li><a href="https://www.macsparky.com/blog/2017/11/the-case-for-rss">The case for RSS</a></li>
+<li><a href="https://www.bunniestudios.com/blog/?p=5046">A clash of cultures</a></li>
+<li><a href="https://blog.demofox.org/2017/11/21/floating-point-precision/">Demystifying Floating Point Precision</a></li>
+<li><a href="https://www.vanityfair.com/news/2017/11/the-end-of-the-social-era-twitter-facebook-snapchat">The end of the social era can't come soon enough</a></li>
+<li><a href="https://www.mozilla.org/en-US/firefox/57.0/releasenotes/">Firefox 57.0 release notes</a></li>
+<li><a href="https://www.nytimes.com/2017/11/02/magazine/the-first-woman-to-translate-the-odyssey-into-english.html">The first woman to translate The Odossey into English</a></li>
+<li><a href="https://statuscode.ch/2017/11/from-markdown-to-rce-in-atom/">From Markdown to RCE in Atom</a></li>
+<li><a href="https://www.anandtech.com/show/12095/hdmi-21-specification-released">HDMI 2.1 specification released: Variable refresh, dynamic HDR, &amp; more in 2018</a></li>
+<li><a href="https://www.theguardian.com/australia-news/datablog/ng-interactive/2017/sep/28/hooked-how-pokies-are-designed-to-be-addictive">Hooked: How slot machines are designed to be addictive</a></li>
+<li><a href="https://jvns.ca/blog/2017/11/20/groups/">How do groups work on Linux?</a></li>
+<li><a href="http://www.latimes.com/opinion/op-ed/la-oe-rosenworcel-fcc-net-neutrality-repeal-20171122-story.html">I'm on the FCC. Please stop us from killing net neutrality</a></li>
+<li><a href="https://www.macrumors.com/2017/11/19/imac-pro-a10-chip-hey-siri/">iMac Pro appears to include A10 Fusion chip for always-on 'Hey Siri'</a></li>
+<li><a href="https://ia.net/topics/in-search-of-the-perfect-writing-font/">In search of the perfect writing font</a></li>
+<li><a href="http://www.macdrifter.com/2017/11/the-mac-still-feels-like-home.html">The Mac still feels like home</a></li>
+<li><a href="http://aplus.rs/2017/much-ado-about-ios-app-architecture/">Much ado about iOS app architecture</a></li>
+<li><a href="http://www.cs.vu.nl/~ast/intel/">An open letter to Intel</a></li>
+<li><a href="https://www.macstories.net/reviews/overcast-4-0-brings-ui-optimizations-for-ios-11-and-iphone-x-drag-and-drop-and-new-advanced-settings/">Overcast 4.0 brings UI optimizations for iOS 11 and iPhone X, drag and drop, and new advanced settings</a></li>
+<li><a href="https://magazine.atavist.com/promethea-unbound-child-genius-montana">Promethea unbound</a></li>
+<li><a href="http://www.pcgamer.com/the-strange-science-of-destiny-2s-uniquely-complicated-netcode/">The strange science of Destiny 2's 'uniquely complicated' netcode</a></li>
+<li><a href="http://www.pcgamer.com/the-struggle-to-maintain-eve-onlines-only-graveyard/">The struggle to maintain EVE Online's only graveyard</a></li>
+<li><a href="https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20171023/040733.html">Swift for Data Science / ML / Big Data analytics</a></li>
+<li><a href="https://www.macrumors.com/2017/11/23/modmyi-macciti-cydia-repos-shut-down/">Two major Cydia hosts shut down as jailbreaking fades in popularity</a></li>
+<li><a href="https://arstechnica.com/gadgets/2017/11/ubuntu-17-10-return-of-the-gnome/">Ubuntu 17.10: Return of the GNOME</a></li>
+<li><a href="https://www.gatesnotes.com/Health/Digging-Deep-Into-Alzheimers">Why I'm digging deep into Alzheimer's</a></li>
+<li><a href="https://www.washingtonpost.com/investigations/a-woman-approached-the-post-with-dramatic--and-false--tale-about-roy-moore-sje-appears-to-be-part-of-undercover-sting-operation/2017/11/27/0c2e335a-cfb6-11e7-9d3a-bcbe2af58c3a_story.html">A woman approached The Post with dramatic — and false — tale about Roy Moore. She appears to be part of undercover sting operation.</a></li>
+<li><a href="http://massivelyop.com/2017/11/04/blizzcon-2017-world-of-warcrafts-classic-server-will-be-a-massive-effort/">World of Warcraft ‘Classic’ finally delivers on legacy servers</a></li>
+</ul>
+
+<h3>Books Read</h3>
+
+<ul>
+<li>Foer, Joshua - Moonwalking with Einstein: The Art and Science of Remembering Everything</li>
+</ul>
+
+<h3>Games Played</h3>
+
+<ul>
+<li><a href="https://www.destinythegame.com">Destiny 2</a></li>
+<li><a href="http://divinity.game/">Divinity: Original Sin II</a></li>
+<li><a href="http://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
+<li><a href="http://www.hellblade.com">Hellblade: Senua's Sacrifice</a>
+= <a href="http://www.zachtronics.com/opus-magnum/">Opus Magnum</a></li>
+<li><a href="https://www.kleientertainment.com/games/oxygen-not-included">Oxygen Not Included</a></li>
+</ul>
+
+<h3>Movies Watched</h3>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Rogue_One">Rogue One: A Star Wars Story</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For October 31, 2017</title>
@@ -165,7 +243,7 @@
 
 <p>One of my favorite parts of macOS is the scripting capabilities of it. GUI applications can be scripted with AppleScript, and terminal applications and OS-level features can be scripted using Bash, Python, and now Swift. I've been experimenting with <a href="https://krueger.report/programming/scripting-with-swift/">creating scripts using Swift</a>, and while the results are still early, it's turning out to be a capable language for this usage.</p>
 
-<h3>Walt Disney World - 2106</h3>
+<h3>Walt Disney World - 2016</h3>
 
 <p>Last year, Whitney and I went to <a href="https://krueger.report/trips/walt-disney-world-2016">Walt Disney World</a>. This was my third trip there, but the first for Whitney. I did not take as many photographs as I would have liked, some of the highlights are included here.</p>
 
