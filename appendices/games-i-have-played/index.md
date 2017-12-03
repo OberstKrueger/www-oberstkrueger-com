@@ -356,6 +356,7 @@ updated: 2017.11.27:2010
 - [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game))
 - [Oxygen Not Included](https://en.wikipedia.org/wiki/Oxygen_Not_Included)
 - [Papers, Please](https://en.wikipedia.org/wiki/Papers,_Please)
+- [Path of Exile](https://en.wikipedia.org/wiki/Path_of_Exile)
 - [Pillars of Eternity](https://en.wikipedia.org/wiki/Pillars_of_Eternity)
 - [Plague, Inc: Evolved](https://en.wikipedia.org/wiki/Plague_Inc:_Evolved)
 - [PlanetSide](https://en.wikipedia.org/wiki/PlanetSide)
