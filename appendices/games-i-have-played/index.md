@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2017.11.27:2010
+updated: 2017.12.11:2020
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -408,6 +408,7 @@ updated: 2017.11.27:2010
 - [Star Wars: The Old Republic](https://en.wikipedia.org/wiki/Star_Wars:_The_Old_Republic)
 - [Star Wars Episode I: Racer](https://en.wikipedia.org/wiki/Star_Wars_Episode_I:_Racer)
 - [Star Wars Galaxies](https://en.wikipedia.org/wiki/Star_Wars_Galaxies)
+- [Stardew Valley](https://en.wikipedia.org/wiki/Stardew_Valley)
 - [Stellaris](https://en.wikipedia.org/wiki/Stellaris_(video_game))
 - [Super Meat Boy](https://en.wikipedia.org/wiki/Super_Meat_Boy)
 - [Superbrothers: Swords and Sworcery EP](https://en.wikipedia.org/wiki/Superbrothers:_Sword_%26_Sworcery_EP)
