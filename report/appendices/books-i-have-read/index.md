@@ -3,13 +3,14 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2017.11.27:2010
+updated: 2017.12.16:1145
 ---
 
 Out of all of the lists I have created, this one will be the hardest to fill in. The number of books written in all of history is just too large. That said, as I come across books I know I have read, and obviously as I read more books, they will be added to this list.
 
 - Amariei, Cornel - Arduino Development Cookbook
 - Ambrose, Stephen E. - Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest
+- Andrew, Rachel - The New CSS Layout
 - Blakeslee, Sandra & Blakeslee, Matthew - The Body Has a Mind of Its Own: How Body Maps in Your Brain Help You Do (Almost) Everything Better
 - Bradbury, Ray - Fahrenheit 451
 - Bradbury, Ray - The Martian Chronicles
