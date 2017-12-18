@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2017.12.11:2020
+updated: 2017.12.17:2005
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -369,6 +369,7 @@ updated: 2017.12.11:2020
 - [Prey (2006)](https://en.wikipedia.org/wiki/Prey_(2006_video_game))
 - [Prey (2017)](https://en.wikipedia.org/wiki/Prey_(2017_video_game))
 - [Pyre](https://en.wikipedia.org/wiki/Pyre_(video_game))
+- [Rise of the Tomb Raider](https://en.wikipedia.org/wiki/Rise_of_the_Tomb_Raider)
 - [Riven](https://en.wikipedia.org/wiki/Riven)
 - [Rune](https://en.wikipedia.org/wiki/Rune_(video_game))
 - [Quake](https://en.wikipedia.org/wiki/Quake_(video_game))
