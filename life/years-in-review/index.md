@@ -3,8 +3,88 @@ category: life
 created: 2017.01.01:1500
 title: Years In Review
 type: page
-updated: 2017.09.01:0545
+updated: 2017.12.26:1055
 ---
+
+## 2017
+
+### Favorite Games
+
+When I looked at the upcoming titles of 2017 back in January, I thought this year was going to be a boring year for games. Last year saw some instant classics for myself, and 2017 seemed like it would underperform in comparison. Thankfully, there were some great games this year that I look forward to playing through again in the future.
+
+<figure>
+	<img src='/images/years-in-review_prey-2017.jpg'>
+	<figcaption>Prey</figcaption> 
+</figure>
+
+Earlier this year, I played [System Shock 2](https://en.wikipedia.org/wiki/System_Shock_2) from beginning to end for the first time. It is an older game, but considered a classic of the FPS/RPG hybrid genre. The initial reviews for [Prey](https://en.wikipedia.org/wiki/Prey_(2017_video_game)) kept saying it was the spiritual successor to System Shock 2, and as close as we'll get to a System Shock 3 anytime in the near future.
+
+These reviews were not exaggerations either. Prey is every bit the same as System Shock 2, including in quality. The gameplay is the perfect blend of FPS and RPG, and it has the same overall game structure as System Shock 2. The open-ended nature of the game is why I love the Deus Ex games so much. Prey is a game that I have already slotted in to play again in the future, and much like with any Deus Ex game, I plan to approach it in a new manner on the second playthrough.
+
+<figure>
+	<img src='/images/years-in-review_final-fantasy-xiv-stormblood.jpg'>
+	<figcaption>Final Fantasy XIV: Stormblood</figcaption>
+</figure>
+
+This year saw the release of Stormblood, the second expansion for [Final Fantasy XIV](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_A_Realm_Reborn). Final Fantasy XIV is one of my top MMORPGs of all time, and Stormblood keeps going with the same formula that has made the original game amazing. The story has been wonderful to follow along with, the dungeons and raids fun, and the new mechanics add some more depth to the already spectacular combat.
+
+<figure>
+	<img src='/images/years-in-review_what-remains-of-edith-finch.jpg'>
+	<figcaption>What Remains of Edith Finch</figcaption>
+</figure>
+
+My year would not be complete without a new [walking simulator](https://en.wikipedia.org/wiki/Adventure_game#Exploration_games) to play through. [What Remains of Edith Finch](https://en.wikipedia.org/wiki/What_Remains_of_Edith_Finch) is my walking simulator of choice for 2017, and what an amazing game it is. It surpasses every other in the genre, including the perennial [Dear Esther](https://en.wikipedia.org/wiki/Dear_Esther).
+
+<figure>
+	<img src='/images/years-in-review_life-is-strange-before-the-storm.jpg'>
+	<figcaption>Life Is Strange: Before the Storm</figcaption>
+</figure>
+
+[Life Is Strange: Before the Storm](https://en.wikipedia.org/wiki/Life_Is_Strange:_Before_the_Storm) is how prequels should be done. [Life Is Strange](https://en.wikipedia.org/wiki/Life_Is_Strange) is a good but flawed game, and Before the Storm improves on it in most categories. The dialogue between the characters runs the emotional gamut, and the art style of the game makes it quite visually pleasing. There are so many memorable scenes in the game, from Episode 1's Dungeons and Dragons session, to the high school play in Episode 2. The first game is one I have no plans to revisit again, but Before The Storm is one I know I'll play again in the future.
+
+### Favorite Albums
+
+- Derelict, by Carbon Based Lifeforms
+- Deus Ex: Breach, by Ed Harrison
+- The Elder Scrolls Online: Morrowind, by Brad Derrick
+- Ligand, by Martin Nonstatic
+- Luna, by Austin Wintory
+- Prey, by Mick Gordon
+- The Vietnam War, by Trent Reznor
+- What Remains of Edith Finch, by Jeff Russo
+
+<figure>
+	<img src='/images/years-in-review_music-2017.jpg'>
+	<figcaption>Favorite Music of 2017</figcaption>
+</figure>
+
+### Using Swift to run my life
+
+Every since I first tried it out in high school, programming has been an activity that I have enjoyed immensely. Whether it's working on a bigger project for myself or just solving some simple math puzzles, programming is a great way for me to relax. It has also been a phenomenal tool for organizing my life and experimenting with different work routines.
+
+Last year, I felt that Swift was not in a place where I wanted to use it regularly. I loved the language itself, but the tooling around it did not interest me. It was next to impossible to integrate well with Sublime Text and Xcode was so bloated that I did not enjoy opening it, let alone using it.
+
+This year saw a lot of change in regards to the Swift tooling. With the release of Swift 4, the Swift Package Manager has become more powerful and easy to work with, and Xcode 9 brought speed improvements to the editor, making it so that I could better cope with working in it. A good portion of this year was spent experimenting with different programming tools, and this included the beta versions of Xcode 9. I discovered that Xcode is now in a place where I can combine it with using the Swift Package Manager from the command-line and be happy with the workflow. Consequently, Xcode is now the main editor I use for all Swift work. I do not use many of the additional IDE tools it provides, although it does make a great debugger on the occasions that I need it.
+
+One thing I discovered this year is that as much as I would love to create apps for iOS and macOS, it is just not something I enjoy doing. I am more of a command-line person, so whatever tooling works best there is what I want to learn. Python and Rust are great for this usage, but Swift has also turned into a solid entry as well. When Apple first announced Swift, they partially billed it as a programming language. Despite being sort of garbage-collected, it has great performance and provides all of the tools necessary to great command-line programs. It also works well in a scripting capacity, although it is yet to be as fast as Python in that area.
+
+All of this adds up to Swift having become my primary language for my personal projects. Python is out. Rust is a great language, but not one I feel I can comfortably devote time to while still being productive, as I sometimes have limited hours in the day to work on programming projects. Improved Linux support means that if I switch to Linux, I will be able to take the language with me, which is something that is always at the back of my mind.
+
+### Replacing my iPhone with an iPad
+
+I have wanted an iPad ever since they were first announced. iOS is a great operating system, but I have become more disillusioned with smartphones as corporations and app developers use every tool at their disposal to make apps "addictive" and something that you must come back to regularly, instead of a just a tool to use. Sorting through the trash of these apps takes more and more time that would be better spent on other things.
+
+When I bought an iPad during the summer, I decided to run an experiment: allow my phone to be a glorified iPod, and convert all the rest of my mobile computing to the iPad. This might not seem like a huge change, but it has actually changed my life in ways that I did not at first imagine.
+
+The big change came from the fact that I can't simply pull out my iPad everywhere. Everywhere in public, people are always using their smartphones for random tasks. Bored on the train? Pull our your phone. Waiting simply 30 seconds in line at the grocery? Pull out your phone. Bored of the conversation you are having with a co-worker? Pull out your phone. I fell into the same trap of doing this in many of the same situations.
+
+To try and combat this, I removed all apps from my iPhone except for music, podcasting, and basic communication tools(phone calls and texting). E-mail is delayed on there, and outside of texting, no other messaging apps are installed. I even went through the trouble to make Safari inaccessible. What I found is that when I am out of the house, I notice more things around me. Music is still playing in my ears, but I can visually see a lot more. It also gives me more time to just think about things, instead of trying to quickly beat a level on a mobile game designed to suck money out of me.
+
+This has also helped me keep the iPad more of a focused device for reading and researching. Since I no longer am used to doing random stuff on my iPhone, I do not feel the inclination to do it on the iPad. Even mobile gaming has dropped for me, as the money-seeking games on the iPhone are the same on the iPad.
+
+The iPad is great in the roles I have relegated it to. iBooks makes reading a wonderful task, where I prefer it there over paper books. Writing is equally nice, when I have the time to do some writing projects on it. And the focused nature of full-screen apps is one I long ago adopted on my Mac. Even as I write this in Sublime Text, it is set to fullscreen and most UI elements are turned so I can focus on the text.
+
+One financial gain from this is that I no longer desire to spend nearly a thousand dollars on a new phone every couple of years. My 3 year old iPhone 6 Plus is still more than adequate for my needs, and when I do decide to upgrade this again, it will be to a iPhone SE that is both smaller and cheaper. More productive time on my devices, more knowledge of what is going on around me, less money spent. This transition has had many positive changes for me this year.
 
 ## 2016
 
