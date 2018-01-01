@@ -3,8 +3,57 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2017.11.30:0255
+updated: 2017.12.31:0545
 ---
+
+## 2017.12.31
+
+### Year In Review
+
+2017 has come and gone. [Years In Review](https://krueger.report/life/years-in-review/) has been updated with some of my favorite games, music, and thoughts about the year.
+
+### Favorite Articles
+
+- [Adderall risks: Much more than you wanted to know](http://slatestarcodex.com/2017/12/28/adderall-risks-much-more-than-you-wanted-to-know/)
+- [The Amazon machine](https://www.ben-evans.com/benedictevans/2017/12/12/the-amazon-machine)
+- [Apple's new Utility library will power up command-line apps](https://www.hackingwithswift.com/articles/44/apple-s-new-utility-library-will-power-up-command-line-apps)
+- [Apple plans combined iPhone, iPad, & Mac apps to create one user experience](https://www.bloomberg.com/news/articles/2017-12-20/apple-is-said-to-have-plan-to-combine-iphone-ipad-and-mac-apps)
+- [Disney has acquired 21st Century Fox’s film and TV studios in a landmark deal](https://www.theverge.com/2017/12/14/16735502/disney-fox-deal-film-tv-studio-acquisition)
+- [Entitled to](https://ethanmarcotte.com/wrote/entitled-to/)
+- [FCC repeals net neutrality rules](https://www.nytimes.com/2017/12/14/technology/net-neutrality-repeal-vote.html)
+- [Firefox is on a slippery slope](https://drewdevault.com/2017/12/16/Firefox-is-on-a-slippery-slope.html)
+- [Homebrew 1.4.0](https://brew.sh/2017/12/11/homebrew-1.4.0/)
+- [Internet chemotherapy](https://ghostbin.com/paste/q2vq2)
+- [iPhone X: A new frontier](https://www.macstories.net/stories/iphone-x-a-new-frontier/)
+- [The merge](http://blog.samaltman.com/the-merge)
+- [A message to our customers about iPhone batteries and performance](https://www.apple.com/iphone-battery-and-performance/)
+- [My grandfather’s travel logs and other repetitive tasks](http://alistapart.com/article/my-grandfathers-travel-logs-and-other-repetitive-tasks)
+- [The problem with Muzak](https://thebaffler.com/salvos/the-problem-with-muzak-pelly)
+- [Racing for realism](https://renderman.pixar.com/stories/cars-3)
+- [Raising a teenage daughter](https://story.californiasunday.com/raising-a-teenage-daughter)
+- [Rust in 2017: What we achieved](https://blog.rust-lang.org/2017/12/21/rust-in-2017.html)
+- [The silence breakers](http://time.com/time-person-of-the-year-2017-silence-breakers/)
+- [To serve man, with software](https://blog.codinghorror.com/to-serve-man-with-software/)
+- [Using psychology to design leveling systems](http://www.psychologyofgames.com/2017/12/using-psychology-to-design-leveling-systems/)
+- [We all live in a bubble](https://pointersgonewild.com/2017/12/04/we-all-live-in-a-bubble/)
+- [Why hasn't The Year of the Linux Desktop happened yet?](https://blogs.gnome.org/uraeus/2017/12/19/why-hasnt-the-year-of-the-linux-desktop-happened-yet/)
+- [Why millennials are facing the scariest financial future of any generation since the Great Depression](http://highline.huffingtonpost.com/articles/en/poor-millennials/)
+
+### Books Read
+
+- Andrew, Rachel - The New CSS Layout
+- Stephenson, Neal - Snow Crash
+
+### Games Played
+
+- [Deus Ex](https://en.wikipedia.org/wiki/Deus_Ex_(video_game))
+- [Divinity: Original Sin II](http://divinity.game/)
+- [Heroes of the Storm](http://us.battle.net/heroes/en/)
+- [Obduction](http://obduction.com/)
+- [Path of Exile](https://www.pathofexile.com/)
+- [Rise of the Tomb Raider](https://www.tombraider.com/en-us)
+- [Scanner Sombre](https://www.introversion.co.uk/scannersombre/)
+- [Stardew Valley](http://stardewvalley.net/)
 
 ## 2017.11.30
 
