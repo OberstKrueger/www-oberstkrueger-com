@@ -7,7 +7,74 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2017-11-30T02:55:00Z</updated>
+<updated>2017-12-31T05:45:00Z</updated>
+
+<entry>
+<title>Updates For December 31, 2017</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/20171130</id>
+<published>2017-12-31T05:45:00Z</published>
+<updated>2017-12-31T05:45:00Z</updated>
+<content type="html">
+<![CDATA[
+<h3>Year In Review</h3>
+
+<p>2017 has come and gone. <a href="https://krueger.report/life/years-in-review/">Years In Review</a> has been updated with some of my favorite games, music, and thoughts about the year.</p>
+
+<h3>Favorite Articles</h3>
+
+<ul>
+<li><a href="http://slatestarcodex.com/2017/12/28/adderall-risks-much-more-than-you-wanted-to-know/">Adderall risks: Much more than you wanted to know</a></li>
+<li><a href="https://www.ben-evans.com/benedictevans/2017/12/12/the-amazon-machine">The Amazon machine</a></li>
+<li><a href="https://www.hackingwithswift.com/articles/44/apple-s-new-utility-library-will-power-up-command-line-apps">Apple's new Utility library will power up command-line apps</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2017-12-20/apple-is-said-to-have-plan-to-combine-iphone-ipad-and-mac-apps">Apple plans combined iPhone, iPad, &amp; Mac apps to create one user experience</a></li>
+<li><a href="https://www.theverge.com/2017/12/14/16735502/disney-fox-deal-film-tv-studio-acquisition">Disney has acquired 21st Century Fox’s film and TV studios in a landmark deal</a></li>
+<li><a href="https://ethanmarcotte.com/wrote/entitled-to/">Entitled to</a></li>
+<li><a href="https://www.nytimes.com/2017/12/14/technology/net-neutrality-repeal-vote.html">FCC repeals net neutrality rules</a></li>
+<li><a href="https://drewdevault.com/2017/12/16/Firefox-is-on-a-slippery-slope.html">Firefox is on a slippery slope</a></li>
+<li><a href="https://brew.sh/2017/12/11/homebrew-1.4.0/">Homebrew 1.4.0</a></li>
+<li><a href="https://ghostbin.com/paste/q2vq2">Internet chemotherapy</a></li>
+<li><a href="https://www.macstories.net/stories/iphone-x-a-new-frontier/">iPhone X: A new frontier</a></li>
+<li><a href="http://blog.samaltman.com/the-merge">The merge</a></li>
+<li><a href="https://www.apple.com/iphone-battery-and-performance/">A message to our customers about iPhone batteries and performance</a></li>
+<li><a href="http://alistapart.com/article/my-grandfathers-travel-logs-and-other-repetitive-tasks">My grandfather’s travel logs and other repetitive tasks</a></li>
+<li><a href="https://thebaffler.com/salvos/the-problem-with-muzak-pelly">The problem with Muzak</a></li>
+<li><a href="https://renderman.pixar.com/stories/cars-3">Racing for realism</a></li>
+<li><a href="https://story.californiasunday.com/raising-a-teenage-daughter">Raising a teenage daughter</a></li>
+<li><a href="https://blog.rust-lang.org/2017/12/21/rust-in-2017.html">Rust in 2017: What we achieved</a></li>
+<li><a href="http://time.com/time-person-of-the-year-2017-silence-breakers/">The silence breakers</a></li>
+<li><a href="https://blog.codinghorror.com/to-serve-man-with-software/">To serve man, with software</a></li>
+<li><a href="http://www.psychologyofgames.com/2017/12/using-psychology-to-design-leveling-systems/">Using psychology to design leveling systems</a></li>
+<li><a href="https://pointersgonewild.com/2017/12/04/we-all-live-in-a-bubble/">We all live in a bubble</a></li>
+<li><a href="https://blogs.gnome.org/uraeus/2017/12/19/why-hasnt-the-year-of-the-linux-desktop-happened-yet/">Why hasn't The Year of the Linux Desktop happened yet?</a></li>
+<li><a href="http://highline.huffingtonpost.com/articles/en/poor-millennials/">Why millennials are facing the scariest financial future of any generation since the Great Depression</a></li>
+</ul>
+
+<h3>Books Read</h3>
+
+<ul>
+<li>Andrew, Rachel - The New CSS Layout</li>
+<li>Stephenson, Neal - Snow Crash</li>
+</ul>
+
+<h3>Games Played</h3>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Deus_Ex_(video_game)">Deus Ex</a></li>
+<li><a href="http://divinity.game/">Divinity: Original Sin II</a></li>
+<li><a href="http://us.battle.net/heroes/en/">Heroes of the Storm</a></li>
+<li><a href="http://obduction.com/">Obduction</a></li>
+<li><a href="https://www.pathofexile.com/">Path of Exile</a></li>
+<li><a href="https://www.tombraider.com/en-us">Rise of the Tomb Raider</a></li>
+<li><a href="https://www.introversion.co.uk/scannersombre/">Scanner Sombre</a></li>
+<li><a href="http://stardewvalley.net/">Stardew Valley</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For November 30, 2017</title>
