@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2017.12.27:1900
+updated: 2018.01.01.0610
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -290,6 +290,7 @@ updated: 2017.12.27:1900
 - [Grand Theft Auto 2](https://en.wikipedia.org/wiki/Grand_Theft_Auto_2)
 - [Grand Theft Auto 3](https://en.wikipedia.org/wiki/Grand_Theft_Auto_III)
 - [Grand Theft Auto: Vice City](https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City)
+- [Grim Dawn](https://en.wikipedia.org/wiki/Grim_Dawn)
 - [Grim Fandango](https://en.wikipedia.org/wiki/Grim_Fandango)
 - [Guild Wars Factions](https://en.wikipedia.org/wiki/Guild_Wars_Factions)
 - [Guild Wars Nightfall](https://en.wikipedia.org/wiki/Guild_Wars_Nightfall)
