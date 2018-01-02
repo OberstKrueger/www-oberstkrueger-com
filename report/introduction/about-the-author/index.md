@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: About The Author
 type: page
-updated: 2017.11.01:1825
+updated: 2018.01.01:1805
 ---
 
 ## Current Computing Devices
@@ -58,7 +58,7 @@ updated: 2017.11.01:1825
 ## Current Workspaces
 
 <figure>
-	<img src='/images/about-the-author_macos.png'>
+	<img src='/images/about-the-author_macos.jpg'>
 	<figcaption>macOS</figcaption>
 </figure>
 
