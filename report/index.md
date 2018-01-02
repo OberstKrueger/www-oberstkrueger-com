@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2017.11.12:1650
+updated: 2018.01.02:1130
 ---
 
 ## Introduction
@@ -63,6 +63,7 @@ updated: 2017.11.12:1650
 
 - [Bored and Brilliant](/notes-on-books/bored-and-brilliant)
 - [Crash Override](/notes-on-books/crash-override)
+- [Moonwalking With Einstein](/notes-on-books/moonwalking-with-einstein)
 - [Resilient Web Design](/notes-on-books/resilient-web-design)
 
 ## Appendices
