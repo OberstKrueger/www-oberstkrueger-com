@@ -3,7 +3,7 @@ category: appendices
 created: 2017.08.07:2045
 title: Movies I Have Watched
 type: page
-updated: 2017.11.23:1930
+updated: 2018.01.09:0950
 ---
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
@@ -217,6 +217,7 @@ updated: 2017.11.23:1930
 - [Star Wars: Episode V - The Empire Strikes Back](https://en.wikipedia.org/wiki/The_Empire_Strikes_Back)
 - [Star Wars: Episode VI - Return of the Jedi](https://en.wikipedia.org/wiki/Return_of_the_Jedi)
 - [Star Wars: Episode VII - The Force Awakens](https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens)
+- [Star Wars: Episode VIII - The Last Jedi](https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi)
 - [Super 8](https://en.wikipedia.org/wiki/Super_8_(film))
 - [Tarzan](https://en.wikipedia.org/wiki/Tarzan_(1999_film))
 - [The Terminator](https://en.wikipedia.org/wiki/The_Terminator)
