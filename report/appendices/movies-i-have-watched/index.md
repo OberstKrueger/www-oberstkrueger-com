@@ -3,7 +3,7 @@ category: appendices
 created: 2017.08.07:2045
 title: Movies I Have Watched
 type: page
-updated: 2018.01.09:0950
+updated: 2018.01.21:2155
 ---
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
@@ -241,6 +241,7 @@ updated: 2018.01.09:0950
 - [Vanilla Sky](https://en.wikipedia.org/wiki/Vanilla_Sky)
 - [The Virgin Suicides](https://en.wikipedia.org/wiki/The_Virgin_Suicides_(film))
 - [WALL·E](https://en.wikipedia.org/wiki/WALL-E)
+- [Warcraft](https://en.wikipedia.org/wiki/Warcraft_(film))
 - [Who Framed Roger Rabbit](https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit)
 - [The Wolf of Wall Street](https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film))
 - [The World Is Not Enough](https://en.wikipedia.org/wiki/The_World_Is_Not_Enough)
