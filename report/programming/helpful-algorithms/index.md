@@ -3,7 +3,7 @@ category: programming
 created: 2017.07.02:1915
 title: Helpful Algorithms
 type: page
-updated: 2017.11.27.1320
+updated: 2018.01.25:0315
 ---
 
 ## Greatest Common Divisor
@@ -93,13 +93,11 @@ The [sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 
 Note: For large enough values of n, some environments might run out of memory due to the initial large boolean array. If this is the case, running all numbers against the above mentioned primality check is faster than modifying this algorithm to check against known primes.
 
-	import Foundation
-	
 	func primeSieve(_ target: Int) -> [Int] {
 		if target <= 1 { return [] }
 		if target == 2 { return [2] }
 		if target == 3 { return [2, 3] }
-		let targetSquareRoot = Int(sqrt(Double(target)))
+		let targetSquareRoot = Int(Double(target).squareRoot())
 		var checks: [Bool] = Array(repeating: true, count: target + 1)
 		var primes: [Int] = []
 		for number in 2...targetSquareRoot {
