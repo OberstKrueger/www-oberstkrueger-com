@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2018.01.25:0310
+updated: 2018.01.27:1745
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -18,7 +18,7 @@ updated: 2018.01.25:0310
 - [Smash TV](https://en.wikipedia.org/wiki/Smash_TV)
 - [Star Wars](https://en.wikipedia.org/wiki/Star_Wars_(1983_video_game))
 - [Time Crisis II](https://en.wikipedia.org/wiki/Time_Crisis_II)
-- [Toobin'](https://en.wikipedia.org/wiki/Toobin')
+- [Toobin'](https://en.wikipedia.org/wiki/Toobin%27)
 - [X-Men](https://en.wikipedia.org/wiki/X-Men_(1992_video_game))
 
 ## [Game Boy](https://en.wikipedia.org/wiki/Game_Boy)
