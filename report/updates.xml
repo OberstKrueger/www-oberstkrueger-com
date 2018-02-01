@@ -7,7 +7,85 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2017-12-31T05:45:00Z</updated>
+<updated>2018-01-31T23:35:00Z</updated>
+
+<entry>
+<title>Updates For January, 2018</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201801</id>
+<published>2018-01-31T23:35:00Z</published>
+<updated>2018-01-31T23:35:00Z</updated>
+<content type="html">
+<![CDATA[
+<h3>Updates</h3>
+
+<p><a href="https://krueger.report/notes-on-books/moonwalking-with-einstein">Moonwalking With Einstein</a> is a great read about the techniques used by master memory competition champions. This has been one of the more fun books I have read recently, especially since I sometimes worry that my memory is going bad. It isn't, necessarily, but I still plan to incorporate some of the techniques mentioned in this book to try and remember more things, instead of simply relying on technology to do it for me.</p>
+
+<h3>Favorite Articles</h3>
+
+<ul>
+<li><a href="https://www.raphkoster.com/2018/01/17/the-cost-of-games/">The cost of games</a></li>
+<li><a href="http://blog.zdsmith.com/posts/digital-minimalism-for-the-working-hacker.html">Digital minimalism for the working hacker</a></li>
+<li><a href="https://logicmag.io/03-dont-be-evil/">Don't be evil</a></li>
+<li><a href="https://www.quantamagazine.org/the-era-of-quantum-computing-is-here-outlook-cloudy-20180124/">The era of quantum computing is here. Outlook: cloudy</a></li>
+<li><a href="https://beyondgrep.com/feature-comparison/">Feature comparison of ack, ag, git-grep, GNU grep and ripgrep</a></li>
+<li><a href="https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html">The follower factory</a></li>
+<li><a href="https://panic.com/blog/the-future-of-transmit-ios/">The future of Transmit on iOS</a></li>
+<li><a href="https://www.mersenne.org/primes/press/M77232917.html">GIMPS project discovers largest known prime number: 277,232,917-1</a></li>
+<li><a href="https://lareviewofbooks.org/article/the-great-attention-heist/">The great attention heist</a></li>
+<li><a href="https://anniecherkaev.com/grep-your-way-to-freedom">grep your way to freedom</a></li>
+<li><a href="https://www.nytimes.com/2018/01/13/us/hawaii-missile.html">Hawaii panics after alert about incoming missile is sent in error</a></li>
+<li><a href="http://www.usrsb.in/How-Old-School-C-Programmers-Process-Arguments.html">How old school C programmers process arguments</a></li>
+<li><a href="https://longreads.com/2018/01/24/is-2018-the-year-we-step-away-from-social-media/">Is 2018 the year we step away from social media?</a></li>
+<li><a href="http://idlewords.com/talks/ancient_web.htm">Legends of the ancient web</a></li>
+<li><a href="https://www.macstories.net/mac/the-macbook-air-a-decades-worth-of-legacy/">MacBook Air: A decade's worth of legacy</a></li>
+<li><a href="http://blog.ycombinator.com/mistakes-in-time/">Mistakes in time</a></li>
+<li><a href="http://pythonsweetness.tumblr.com/post/169166980422/the-mysterious-case-of-the-linux-page-table">The mysterious case of the Linux Page Table Isolation patches</a></li>
+<li><a href="https://medium.com/@JPRobinson/the-mystery-of-jesus-the-naked-hippie-dancer-9822c0da8765">The mystery of Jesus, the naked hippie dancer</a></li>
+<li><a href="https://unencumberedbyfacts.com/2018/01/01/new-year-new-terminal/">New year, new terminal</a></li>
+<li><a href="https://ia.net/topics/news-from-facebook/">News from Facebook</a></li>
+<li><a href="https://medium.com/tall-west/no-cutting-corners-on-the-iphone-x-97a9413b94e">No cutting corners on the iPhone X</a></li>
+<li><a href="https://www.theguardian.com/technology/2018/jan/09/apple-tracking-block-costs-advertising-companies-millions-dollars-criteo-web-browser-safari">No tracking, no revenue: Apple's privacy feature costs ad companies millions</a></li>
+<li><a href="https://arstechnica.com/information-technology/2018/01/now-even-youtube-serves-ads-with-cpu-draining-cryptocurrency-miners/">Now even YouTube serves ads with CPU-draining cryptocurrency miners</a></li>
+<li><a href="https://arstechnica.com/features/2018/01/a-practical-guide-to-microchip-implants/">A practical guide to microchip implants</a></li>
+<li><a href="https://eev.ee/blog/2018/01/02/random-with-care/">Random with care</a></li>
+<li><a href="https://jvns.ca/blog/2018/01/13/rust-in-2018--way-easier-to-use/">Rust in 2018: it's way easier to use!</a></li>
+<li><a href="https://krebsonsecurity.com/2018/01/serial-swatter-swautistic-bragged-he-hit-100-schools-10-homes/">Serial swatter “SWAuTistic” bragged he hit 100 schools, 10 homes</a></li>
+<li><a href="https://quanticfoundry.com/2018/01/24/visualizing-steam-tags-related/">Visualizing how Steam tags are related</a></li>
+<li><a href="https://www.hackingwithswift.com/articles/50/what-s-new-in-swift-4-1">What's new in Swift 4.1</a></li>
+<li><a href="https://www.polygon.com/2018/1/8/16841956/what-remains-of-edith-finch-year-in-review-cara-ellison">The warning of Edith Finch: what we love is killing us</a></li>
+<li><a href="https://webkit.org/blog/8048/what-spectre-and-meltdown-mean-for-webkit/">What Spectre and Meltdown mean for WebKit</a></li>
+<li><a href="https://vorner.github.io/difficult.html">Why is Rust difficult?</a></li>
+</ul>
+
+<h3>Books Read</h3>
+
+<ul>
+<li>Arbesman, Samuel - The Half-Life of Facts: Why Everything We Know Has an Expiration Date</li>
+</ul>
+
+<h3>Games Played</h3>
+
+<ul>
+<li><a href="https://www.everquest2.com/home">EverQuest 2</a></li>
+<li><a href="https://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
+<li><a href="http://grimdawn.com">Grim Dawn</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Subnautica">Subnautica</a></li>
+<li><a href="http://worldofgoo.com">World of Goo</a></li>
+</ul>
+
+<h3>Movies Watched</h3>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi">Star Wars: Episode VIII - The Last Jedi</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Warcraft_(film)">Warcraft</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For December 31, 2017</title>
