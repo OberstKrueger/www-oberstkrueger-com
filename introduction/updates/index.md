@@ -6,6 +6,64 @@ type: page
 updated: 2017.12.31:0545
 ---
 
+## 2018.01
+
+### Updates
+
+[Moonwalking With Einstein](https://krueger.report/notes-on-books/moonwalking-with-einstein) is a great read about the techniques used by master memory competition champions. This has been one of the more fun books I have read recently, especially since I sometimes worry that my memory is going bad. It isn't, necessarily, but I still plan to incorporate some of the techniques mentioned in this book to try and remember more things, instead of simply relying on technology to do it for me.
+
+### Favorite Articles
+
+- [The cost of games](https://www.raphkoster.com/2018/01/17/the-cost-of-games/)
+- [Digital minimalism for the working hacker](http://blog.zdsmith.com/posts/digital-minimalism-for-the-working-hacker.html)
+- [Don't be evil](https://logicmag.io/03-dont-be-evil/)
+- [The era of quantum computing is here. Outlook: cloudy](https://www.quantamagazine.org/the-era-of-quantum-computing-is-here-outlook-cloudy-20180124/)
+- [Feature comparison of ack, ag, git-grep, GNU grep and ripgrep](https://beyondgrep.com/feature-comparison/)
+- [The follower factory](https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html)
+- [The future of Transmit on iOS](https://panic.com/blog/the-future-of-transmit-ios/)
+- [GIMPS project discovers largest known prime number: 277,232,917-1](https://www.mersenne.org/primes/press/M77232917.html)
+- [The great attention heist](https://lareviewofbooks.org/article/the-great-attention-heist/)
+- [grep your way to freedom](https://anniecherkaev.com/grep-your-way-to-freedom)
+- [Hawaii panics after alert about incoming missile is sent in error](https://www.nytimes.com/2018/01/13/us/hawaii-missile.html)
+- [How old school C programmers process arguments](http://www.usrsb.in/How-Old-School-C-Programmers-Process-Arguments.html)
+- [Is 2018 the year we step away from social media?](https://longreads.com/2018/01/24/is-2018-the-year-we-step-away-from-social-media/)
+- [Legends of the ancient web](http://idlewords.com/talks/ancient_web.htm)
+- [MacBook Air: A decade's worth of legacy](https://www.macstories.net/mac/the-macbook-air-a-decades-worth-of-legacy/)
+- [Mistakes in time](http://blog.ycombinator.com/mistakes-in-time/)
+- [The mysterious case of the Linux Page Table Isolation patches](http://pythonsweetness.tumblr.com/post/169166980422/the-mysterious-case-of-the-linux-page-table)
+- [The mystery of Jesus, the naked hippie dancer](https://medium.com/@JPRobinson/the-mystery-of-jesus-the-naked-hippie-dancer-9822c0da8765)
+- [New year, new terminal](https://unencumberedbyfacts.com/2018/01/01/new-year-new-terminal/)
+- [News from Facebook](https://ia.net/topics/news-from-facebook/)
+- [No cutting corners on the iPhone X](https://medium.com/tall-west/no-cutting-corners-on-the-iphone-x-97a9413b94e)
+- [No tracking, no revenue: Apple's privacy feature costs ad companies millions](https://www.theguardian.com/technology/2018/jan/09/apple-tracking-block-costs-advertising-companies-millions-dollars-criteo-web-browser-safari)
+- [Now even YouTube serves ads with CPU-draining cryptocurrency miners](https://arstechnica.com/information-technology/2018/01/now-even-youtube-serves-ads-with-cpu-draining-cryptocurrency-miners/)
+- [A practical guide to microchip implants](https://arstechnica.com/features/2018/01/a-practical-guide-to-microchip-implants/)
+- [Random with care](https://eev.ee/blog/2018/01/02/random-with-care/)
+- [Rust in 2018: it's way easier to use!](https://jvns.ca/blog/2018/01/13/rust-in-2018--way-easier-to-use/)
+- [Serial swatter “SWAuTistic” bragged he hit 100 schools, 10 homes](https://krebsonsecurity.com/2018/01/serial-swatter-swautistic-bragged-he-hit-100-schools-10-homes/)
+- [Visualizing how Steam tags are related](https://quanticfoundry.com/2018/01/24/visualizing-steam-tags-related/)
+- [What's new in Swift 4.1](https://www.hackingwithswift.com/articles/50/what-s-new-in-swift-4-1)
+- [The warning of Edith Finch: what we love is killing us](https://www.polygon.com/2018/1/8/16841956/what-remains-of-edith-finch-year-in-review-cara-ellison)
+- [What Spectre and Meltdown mean for WebKit](https://webkit.org/blog/8048/what-spectre-and-meltdown-mean-for-webkit/)
+- [Why is Rust difficult?](https://vorner.github.io/difficult.html)
+
+### Books Read
+
+- Arbesman, Samuel - The Half-Life of Facts: Why Everything We Know Has an Expiration Date
+
+### Games Played
+
+- [EverQuest 2](https://www.everquest2.com/home)
+- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
+- [Grim Dawn](http://grimdawn.com)
+- [Subnautica](https://en.wikipedia.org/wiki/Subnautica)
+- [World of Goo](http://worldofgoo.com)
+
+### Movies Watched
+
+- [Star Wars: Episode VIII - The Last Jedi](https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi)
+- [Warcraft](https://en.wikipedia.org/wiki/Warcraft_(film))
+
 ## 2017.12.31
 
 ### Year In Review
