@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2018.02.17:0820
+updated: 2018.02.19:0330
 ---
 
 Out of all of the lists I have created, this one will be the hardest to fill in. The number of books written in all of history is just too large. That said, as I come across books I know I have read, and obviously as I read more books, they will be added to this list.
@@ -64,4 +64,5 @@ Out of all of the lists I have created, this one will be the hardest to fill in.
 - Weber, Imogen Lloyd - The Intelligent Conversationalist
 - Williams, Terry - The Cocaine Kids: The Inside Story Of A Teenage Drug Ring
 - Wohlsen, Marcus - Biopunk: DIY Scientists Hack the Software of Life
+- Yudkowsky, Eliezer - Inadequate Equilibria: Where and How Civilizations Get Stuck
 - Zomorodi, Manoush - Bored and Brilliant: How Spacing Out Can Unlock Your Most Productive and Creative Self
