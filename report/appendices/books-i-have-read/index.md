@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2018.02.22:0345
+updated: 2018.02.22:0350
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -59,6 +59,9 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Tolkien, J.R.R. - The Silmarillion
 - Twain, Mark - Adventures of Huckleberry Finn
 - Twain, Mark - The Adventures of Tom Sawyer
+- Tyson, Neil deGrasse - Death by Blackhole: And Other Cosmic Quandaries
+- Tyson, Neil deGrasse - The Pluto Files: The Rise and Fall of America's Favorite Planet
+- Tyson, Neil deGrasse - Space Chronicles: Facing the Ultimate Frontier
 - van Santen, Rutger, Vermeer, Bram, & Khoi, Djan - 2030: Technology that will change the world
 - Vance, J.D. - Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
 - Weber, Imogen Lloyd - The Intelligent Conversationalist
