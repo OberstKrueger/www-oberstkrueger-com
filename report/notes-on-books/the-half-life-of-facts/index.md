@@ -22,7 +22,7 @@ updated: 2018.02.22:0320
 	- Known asteroids: 10 years
 	- Engineers in the United States: 10 years
 - In 1947, Harvey Lehman published a similar list looking at the doubling rate of contributions in specific fields:
-	- Medicine and hygeine: 87 years
+	- Medicine and hygiene: 87 years
 	- Philosophy: 77 years
 	- Mathematics: 63 years
 	- Geology: 46 years
@@ -35,7 +35,7 @@ updated: 2018.02.22:0320
 - Early scientific experiments required asking the right questions, but could be tested in much simpler ways than modern science. Most of the easier discoveries have been taken care of, with the harder and more computationally difficult questions remaining.
 - Ease of discovery goes down by an average percentage each year.
 - The last human organ to be discovered was the parathyroid gland. It was discovered in 1880.
-- Lazaras taxa: Species thought to be extinct by later discvered to still be alive.
+- Lazaras taxa: Species thought to be extinct by later discovered to still be alive.
 - The logistic curve is the function that shows an exponential growth slowing down as it reaches its carrying capacity. Also known as an S-curve due to its shape.
 - S-curves of multiple related technologies can be combined to show how the related technologies grow as a whole, even if individual technologies have reached their carrying capacity.
 - Magnetism in iron has increased over the last couple hundred years, as iron is mined and manufactured in a more pure form.
@@ -43,7 +43,7 @@ updated: 2018.02.22:0320
 - A hyperbolic growth rate is where the rate of growth continues to increase as the population increases. This eventually leads to an infinite growth rate.
 - The first cities to receive the printing press were those with larger German communities who could better understand Gutenberg's work.
 - Within the first 50 years after the invention of the printing press, its use spread to only 1/3 of European cities. These cities skewed towards being the larger ones, so that those 1/3 of cities had more than half of Europe's population.
-- Errors in texts can be used to track how knowledge spreads. If an error is made in one copy of a text, and later dated copies of the text contain the same error, they most likely originated from that original errored copy.
+- Errors in texts can be used to track how knowledge spreads. If an error is made in one copy of a text, and later dated copies of the text contain the same error, they most likely originated from that original incorrect copy.
 - About 20% of the authors for scientific journals read the original paper before citing it. The rest of the time, they cite it based on how another article cited it.
 - When conducting a new study, scientists cite less than 25% of the relevant research to that study, with a bias towards newer research over older research.
 
