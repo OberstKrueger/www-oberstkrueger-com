@@ -3,12 +3,16 @@ category: appendices
 created: 2017.06.04:1920
 title: Podcasts I Have Listened To
 type: page
-updated: 2017.11.06:0740
+updated: 2018.02.22:0340
 ---
 
 **Accidental Tech Podcast**: [Site](http://atp.fm)<br>
 **Hosts**: [Marco Arment](https://marco.org), [Casey Liss](https://www.caseyliss.com), [John Siracusa](http://hypercritical.co)<br>
 Three nerds discussing tech, Apple, programming, and loosely related matters.
+
+**The Bike Shed**: [Site](http://bikeshed.fm)<br>
+**Hosts**: [Derek Prior](http://www.prioritized.net), [Sean Griffin](https://twitter.com/sgrif), [Amanda Hill](http://www.mandybess.com)<br>
+On The Bike Shed, hosts Derek Prior, Sean Griffin, Amanda Hill, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week..
 
 **Cortex**: [Site](https://www.relay.fm/cortex)<br>
 **Hosts**: [CGP Grey](http://www.cgpgrey.com/), [Myke Hurley](http://mykewasright.com)<br>
@@ -42,6 +46,10 @@ A short, weekly podcast about spaceflight, exploration, policy, and strategy in 
 **Hosts**: [Andy Ihnatko](http://ihnatko.com), [Russell Ivanovic](https://rustyshelf.org), [Florence Ion](http://www.florenceion.com)<br>
 Material is a weekly discussion about the Google and Android universe. Your intrepid hosts try to answer the question, “What holds up the digital world?” The answer, so far, is that it’s Google all the way down.
 
+**The Menu Bar**: [Site](http://www.themenu.bar)<br>
+**Hosts**: [Zac Cichy](https://twitter.com/zcichy), [Andrew J. Clark](http://www.andrewjclark.com.au)<br>
+A place to relax, talk tech, and drink.
+
 **The Minimalists**: [Site](http://www.theminimalists.com/podcast/) / [Wiki](https://en.wikipedia.org/wiki/The_Minimalists)<br>
 **Hosts**: [Joshua Fields Millburn](http://joshuafieldsmillburn.com), [Ryan Nicodemus](http://www.theminimalists.com/nicodemus/)<br>
 Joshua Fields Millburn & Ryan Nicodemus discuss living a meaningful life with less.
@@ -57,6 +65,10 @@ Host Manoush Zomorodi talks with everyone from big name techies to elementary sc
 **Presentable**: [Site](https://www.relay.fm/presentable)<br>
 **Host**: [Jeff Veen](https://about.me/veen)<br>
 The Presentable Podcast focuses on how we design and build the products that are shaping our digital future. We’ll track the tools, trends, and methods being used by teams from the biggest companies and latest startups. In each episode, Jeff will bring over two decades of experience as a designer, developer, entrepreneur, and investor as he chats with guests about how design is changing the world.
+
+**Psychology of Video Games**: [Site](http://www.blogtalkradio.com/pog)<br>
+**Host**: [Jamie Madigan](http://www.psychologyofgames.com)<br>
+Examining how psychology explains why video games are made how they are and why gamers behave as we do.
 
 **Reasonably Sound**: [Site](http://reasonablysound.com)<br>
 **Host**: [Mike Rugnetta](http://rugnetta.com/)<br>
@@ -77,6 +89,10 @@ Simplify is a podcast for anyone who’s taken a critical look at their habits, 
 **Stay Tuned With Preet**: [Site](http://www.wnyc.org/shows/preetbharara)<br>
 **Host**: [Preet Bharara](https://en.wikipedia.org/wiki/Preet_Bharara)<br>
 Join Preet Bharara, the former U.S. Attorney who fought corruption, financial fraud and violent crime, in a podcast about justice and fairness.
+
+**Swift By Sundell**: [Site](https://www.swiftbysundell.com/podcast)<br>
+**Host**: [John Sundell](https://www.swiftbysundell.com)<br>
+Answering your questions about Swift development.
 
 **The Talk Show**: [Site](http://daringfireball.net/thetalkshow/) / [Wiki](https://en.wikipedia.org/wiki/The_Talk_Show_(podcast))<br>
 **Host**: [John Gruber](http://daringfireball.net)<br>
