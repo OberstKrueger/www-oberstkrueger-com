@@ -7,7 +7,62 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2018-01-31T23:35:00Z</updated>
+<updated>2018-02-28T12:45:00Z</updated>
+
+<entry>
+<title>Updates For February, 2018</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201802</id>
+<published>2018-02-28T12:45:00Z</published>
+<updated>2018-02-28T12:45:00Z</updated>
+<content type="html">
+<![CDATA[
+<h3>Updates</h3>
+<p>This month, I finished up the notes I took for <a href="https://krueger.report/notes-on-books/the-half-life-of-facts">The Half-Life of Facts</a>. This book looks as how knowledge changes over time, and particularly how different fields are affected. It also highlights some of the issues that modern research has, particularly with regards to how incorrect facts can persist no matter what other research shows.</p>
+<h3>Favorite Articles</h3>
+<ul>
+<li><a href="https://techcrunch.com/2018/02/13/amp-for-email-is-a-terrible-idea/">AMP for email is a terrible idea</a></li>
+<li><a href="https://techcrunch.com/2018/02/27/california-to-allow-testing-of-self-driving-cars-without-a-driver-present/">California to allow testing of self-driving cars without a driver present</a></li>
+<li><a href="https://swift.org/blog/osize/">Code size optimization mode in Swift 4.1</a></li>
+<li><a href="https://www.scientificamerican.com/article/cognitive-ability-and-vulnerability-to-fake-news/">Cognitive ability and vulnerability to fake news</a></li>
+<li><a href="https://blog.bradfieldcs.com/the-cost-of-forsaking-c-113986438784">The cost of forsaking C</a></li>
+<li><a href="https://gizmodo.com/do-not-i-repeat-do-not-download-onavo-facebook-s-vam-1822937825">Do not, I repeat, do not download Onavo, Facebook’s vampiric VPN service</a></li>
+<li><a href="https://blog.fastmail.com/2018/02/14/email-is-your-electronic-memory/">Email is your electronic memory</a></li>
+<li><a href="http://audreyii-fic.tumblr.com/post/170886347853/the-entirely-unnecessary-demise-of-barnes-noble">The entirely unnecessary demise of Barnes &amp; Noble</a></li>
+<li><a href="https://www.recode.net/2018/2/12/16998750/facebooks-teen-users-decline-instagram-snap-emarketer">Facebook lost around 2.8 million U.S. users under 25 last year. 2018 won’t be much better</a></li>
+<li><a href="https://mashable.com/2018/02/14/facebook-spam-2fa/#SV_dAaqJEiqH">Facebook spamming users via their 2FA phone numbers</a></li>
+<li><a href="http://www.independent.co.uk/news/health/human-eggs-grown-lab-fertility-breakthrough-first-time-ivf-development-scientists-edinburgh-a8201001.html">Fertility 'breakthrough' as human eggs grown in lab for first time</a></li>
+<li><a href="http://raganwald.com/2018/02/23/forde.html">Forde's Tenth Rule, or, &quot;how i learned to stop worrying and love the state machine&quot;</a></li>
+<li><a href="http://store.steampowered.com/news/37575/">Free and open-source Vulkan on macOS and iOS</a></li>
+<li><a href="https://thenextweb.com/facebook/2018/02/01/i-salute-the-1-million-north-americans-who-ditched-facebook-last-quarter/">I salute the 1 million North Americans who ditched Facebook last quarter</a></li>
+<li><a href="http://helentran.com/identitysmindset">Identity's mindset</a></li>
+<li><a href="https://arstechnica.com/science/2018/02/new-studies-zero-in-on-roots-of-depression-and-why-ketamine-reverses-it/">New studies zero in on roots of depression and why ketamine reverses it</a></li>
+<li><a href="https://fedoramagazine.org/oxidizing-fedora-try-rust-applications-today/">Oxidizing Fedora: try Rust and its applications today</a></li>
+<li><a href="https://www.epicgames.com/fortnite/en-US/news/postmortem-of-service-outage-at-3-4m-ccu">Postmortem of service outage at 3.4m CCU</a></li>
+<li><a href="https://metarabbit.wordpress.com/2018/02/05/pythons-weak-performance-matters/">Python's weak performance matters</a></li>
+<li><a href="http://blog.stephenwolfram.com/2018/01/showing-off-to-the-universe-beacons-for-the-afterlife-of-our-civilization/">Showing off to the universe: beacons for the afterlife of our civilization</a></li>
+<li><a href="http://geroscience.com/space-aging/">Space aging</a></li>
+<li><a href="https://techcrunch.com/2018/02/06/spacexs-historic-falcon-heavy-successfully-launches/">SpaceX’s historic Falcon Heavy successfully launches</a></li>
+<li><a href="https://marco.org/2018/02/26/watchkit-baby-apps">WatchKit is a sweet solution that will only ever give us baby apps</a></li>
+<li><a href="https://www.raphkoster.com/2018/02/06/why-i-loved-edith-finch/">Why I loved “Edith Finch”</a></li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Stephenson, Neal - The Diamond Age</li>
+<li>Yudkowsky, Eliezer - Inadequate Equilibria: Where and How Civilizations Get Stuck</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Alto%27s_Adventure#Sequel_(Alto&#39;s_Odyssey)">Alto's Odyssey</a></li>
+<li><a href="https://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Subnautica">Subnautica</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For January, 2018</title>
@@ -21,11 +76,8 @@
 <content type="html">
 <![CDATA[
 <h3>Updates</h3>
-
 <p><a href="https://krueger.report/notes-on-books/moonwalking-with-einstein">Moonwalking With Einstein</a> is a great read about the techniques used by master memory competition champions. This has been one of the more fun books I have read recently, especially since I sometimes worry that my memory is going bad. It isn't, necessarily, but I still plan to incorporate some of the techniques mentioned in this book to try and remember more things, instead of simply relying on technology to do it for me.</p>
-
 <h3>Favorite Articles</h3>
-
 <ul>
 <li><a href="https://www.raphkoster.com/2018/01/17/the-cost-of-games/">The cost of games</a></li>
 <li><a href="http://blog.zdsmith.com/posts/digital-minimalism-for-the-working-hacker.html">Digital minimalism for the working hacker</a></li>
@@ -60,15 +112,11 @@
 <li><a href="https://webkit.org/blog/8048/what-spectre-and-meltdown-mean-for-webkit/">What Spectre and Meltdown mean for WebKit</a></li>
 <li><a href="https://vorner.github.io/difficult.html">Why is Rust difficult?</a></li>
 </ul>
-
 <h3>Books Read</h3>
-
 <ul>
 <li>Arbesman, Samuel - The Half-Life of Facts: Why Everything We Know Has an Expiration Date</li>
 </ul>
-
 <h3>Games Played</h3>
-
 <ul>
 <li><a href="https://www.everquest2.com/home">EverQuest 2</a></li>
 <li><a href="https://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
@@ -76,9 +124,7 @@
 <li><a href="https://en.wikipedia.org/wiki/Subnautica">Subnautica</a></li>
 <li><a href="http://worldofgoo.com">World of Goo</a></li>
 </ul>
-
 <h3>Movies Watched</h3>
-
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi">Star Wars: Episode VIII - The Last Jedi</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Warcraft_(film)">Warcraft</a></li>
@@ -99,11 +145,8 @@
 <content type="html">
 <![CDATA[
 <h3>Year In Review</h3>
-
 <p>2017 has come and gone. <a href="https://krueger.report/life/years-in-review/">Years In Review</a> has been updated with some of my favorite games, music, and thoughts about the year.</p>
-
 <h3>Favorite Articles</h3>
-
 <ul>
 <li><a href="http://slatestarcodex.com/2017/12/28/adderall-risks-much-more-than-you-wanted-to-know/">Adderall risks: Much more than you wanted to know</a></li>
 <li><a href="https://www.ben-evans.com/benedictevans/2017/12/12/the-amazon-machine">The Amazon machine</a></li>
@@ -130,16 +173,12 @@
 <li><a href="https://blogs.gnome.org/uraeus/2017/12/19/why-hasnt-the-year-of-the-linux-desktop-happened-yet/">Why hasn't The Year of the Linux Desktop happened yet?</a></li>
 <li><a href="http://highline.huffingtonpost.com/articles/en/poor-millennials/">Why millennials are facing the scariest financial future of any generation since the Great Depression</a></li>
 </ul>
-
 <h3>Books Read</h3>
-
 <ul>
 <li>Andrew, Rachel - The New CSS Layout</li>
 <li>Stephenson, Neal - Snow Crash</li>
 </ul>
-
 <h3>Games Played</h3>
-
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Deus_Ex_(video_game)">Deus Ex</a></li>
 <li><a href="http://divinity.game/">Divinity: Original Sin II</a></li>
@@ -166,15 +205,10 @@
 <content type="html">
 <![CDATA[
 <h3>Rebooting iTunes</h3>
-
 <p>Nearly 10 years ago, I created the iTunes library that I had been using consistently up until 6 months ago. This library was bloated and hard to reason around, as it had more songs in it than I could listen to. To fix this problem, I decided to <a href="https://krueger.report/rebooting-itunes">reboot iTunes</a>, to purge everything out of it and start fresh. This has been a huge task and one that I was unsure would work out, but in the end, it has helped revitalize my music listening and helped solidify what I actually enjoy listening to.</p>
-
 <h3>Selecting Movies</h3>
-
 <p>On an old version of The Krueger Report, I wrote about how the amount of new movies I was watching had gone down. At the time, I resolved to watch at least a couple new movies every month, working down the list of what is considered the best movies of all time as well as any personal preferences that I have. I kept up this habit for about about a year, but then it again fell by the wayside. Getting back in the habit of <a href="https://krueger.report/selecting-movies">selecting movies</a> to watch and keeping up with it is a goal of mine for the upcoming year.</p>
-
 <h3>Favorite Articles</h3>
-
 <ul>
 <li><a href="https://www.theatlantic.com/technology/archive/2017/11/are-facebook-twitter-and-google-american-companies/544670/">Are Facebook, Twitter, and Google American Companies?</a></li>
 <li><a href="https://hackaday.com/2017/11/07/bionic-eye-trial-approved/">Bionic eye trial approved</a></li>
@@ -205,15 +239,11 @@
 <li><a href="https://www.washingtonpost.com/investigations/a-woman-approached-the-post-with-dramatic--and-false--tale-about-roy-moore-sje-appears-to-be-part-of-undercover-sting-operation/2017/11/27/0c2e335a-cfb6-11e7-9d3a-bcbe2af58c3a_story.html">A woman approached The Post with dramatic — and false — tale about Roy Moore. She appears to be part of undercover sting operation.</a></li>
 <li><a href="http://massivelyop.com/2017/11/04/blizzcon-2017-world-of-warcrafts-classic-server-will-be-a-massive-effort/">World of Warcraft ‘Classic’ finally delivers on legacy servers</a></li>
 </ul>
-
 <h3>Books Read</h3>
-
 <ul>
 <li>Foer, Joshua - Moonwalking with Einstein: The Art and Science of Remembering Everything</li>
 </ul>
-
 <h3>Games Played</h3>
-
 <ul>
 <li><a href="https://www.destinythegame.com">Destiny 2</a></li>
 <li><a href="http://divinity.game/">Divinity: Original Sin II</a></li>
@@ -222,9 +252,7 @@
 <li><a href="http://www.zachtronics.com/opus-magnum/">Opus Magnum</a></li>
 <li><a href="https://www.kleientertainment.com/games/oxygen-not-included">Oxygen Not Included</a></li>
 </ul>
-
 <h3>Movies Watched</h3>
-
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Rogue_One">Rogue One: A Star Wars Story</a></li>
 </ul>
@@ -313,23 +341,16 @@
 <content type="html">
 <![CDATA[
 <h3>Setting Up Homebrew</h3>
-
 <p>Homebrew is one of my most used utilities on macOS. <a href="https://krueger.report/all-about-the-mac/setting-up-homebrew">Setting Up Homebrew</a> is both a quick guide for setting up Homebrew from scratch and a reference for its most used commands.</p>
-
 <h3>Updates</h3>
-
 <p>I have added current screenshots of both my iOS and macOS workspaces to <a href="https://krueger.report/introduction/about-the-author/">About The Author</a>. Monthly updates to this are my intention, so that I can see how my workspaces change with time.</p>
-
 <h3>Books Read</h3>
-
 <ul>
 <li>Amariei, Cornel - Arduino Development Cookbook</li>
 <li>Quinn, Zoë - Crash Override: How Gamergate (Nearly) Destroyed My Life, and How We Can Win the Fight Against Online Hate</li>
 <li>Vance, J.D. - Hillbilly Elegy: A Memoir of a Family and Culture in Crisis</li>
 </ul>
-
 <h3>Favorite Articles</h3>
-
 <ul>
 <li><a href="https://macdaddy.io/apfs-backup-software-developers-perspective/">APFS - A backup software developer's perspective</a></li>
 <li><a href="https://plausible.coop/blog/2017/09/13/best-new-features-in-swift-4">The best new features in Swift 4</a></li>
@@ -356,9 +377,7 @@
 <li><a href="https://blog.plan99.net/what-should-follow-the-web-8dcbbeaccd93">What should follow the web?</a></li>
 <li><a href="https://marco.org/2017/09/24/what-watch-podcast-apps-need">What we need from Apple to make standalone Apple Watch podcast apps</a></li>
 </ul>
-
 <h3>Games Played</h3>
-
 <ul>
 <li><a href="http://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
 <li><a href="https://www.lifeisstrange.com/en-us">Life Is Strange: Before the Storm - Episode 1</a></li>
@@ -385,32 +404,20 @@
 <content type="html">
 <![CDATA[
 <h3>Scripting With Swift</h3>
-
 <p>One of my favorite parts of macOS is the scripting capabilities of it. GUI applications can be scripted with AppleScript, and terminal applications and OS-level features can be scripted using Bash, Python, and now Swift. I've been experimenting with <a href="https://krueger.report/programming/scripting-with-swift/">creating scripts using Swift</a>, and while the results are still early, it's turning out to be a capable language for this usage.</p>
-
 <h3>Walt Disney World - 2016</h3>
-
 <p>Last year, Whitney and I went to <a href="https://krueger.report/trips/walt-disney-world-2016">Walt Disney World</a>. This was my third trip there, but the first for Whitney. I did not take as many photographs as I would have liked, some of the highlights are included here.</p>
-
 <h3>Solar Eclipse - 2017</h3>
-
 <p>This month saw a total eclipse pass over the United States. While it did not pass with 100% coverage over Portland, it was close enough to make it worth a <a href="https://krueger.report/trips/solar-eclipse-2017">short trip out to see it</a>.</p>
-
 <h3>Updates</h3>
-
 <p>Since I have now been <a href="https://krueger.report/health/tracking-sleep/">tracking my sleep for over a year</a>, I am able to include an example of the graphical representation from health of that sleep data.</p>
-
 <p>I categorized all of the tools I have listed on <a href="https://krueger.report/technology/software-tools/">Software Tools</a>. By breaking it up into operating system and task categories, I am better able to see my reliance on any single operating system. macOS remains the more important operating system for my uses, particularly with more power user functions, but iOS is catching up. I will continue my goal of staying as cross-platform as possible, should the day ever arrive where removing macOS from the equation is a possibility.</p>
-
 <h3>Books Read</h3>
-
 <ul>
 <li>Nayebi, Fatih - Swift Functional Programming</li>
 <li>Koski, Olivia &amp; Grcevich, Jana - Vacation Guide to the Solar System: Science for the Savvy Space Traveler!</li>
 </ul>
-
 <h3>Favorite Articles</h3>
-
 <ul>
 <li><a href="https://ethanmarcotte.com/wrote/ampersand/">AMPersand</a></li>
 <li><a href="https://www.polygon.com/2017/8/15/16151674/dota-2-review">Dota 2 review</a></li>
@@ -429,9 +436,7 @@
 <li><a href="http://jacquesmattheij.com/the-web-in-2050">The Web in 2050</a></li>
 <li><a href="https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product">You are the product</a></li>
 </ul>
-
 <h3>Games Played</h3>
-
 <ul>
 <li><a href="http://dear-esther.com">Dear Esther: Landmark Edition</a></li>
 <li><a href="http://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
@@ -456,31 +461,20 @@
 <content type="html">
 <![CDATA[
 <h3>base-css</h3>
-
 <p>Last month as I was working on revamping this site's theme, I decided to create a small set of boilerplate CSS that I can use on future projects. What I have called <a href="http://krueger.report/programming/base-css">base-css</a> is my new set of CSS that I used as the core of the new theme. Going forward, I plan to use base-css for all projects just so that some essential values can be set without having to spend time rebuilding it from scratch.</p>
-
 <h3>Movies I Have Watched</h3>
-
 <p><a href="https://krueger.report/appendices/movies-i-have-watched">Movies I Have Watched</a> is a new appendix with a list of all of the movies I have watched. There are some that will be missing from that list as of right now, but after having spent a few hours working on this, I know the vast majority are already listed.</p>
-
 <h3>Notes On Final Fantasy XIV</h3>
-
 <p>Final Fantasy XIV has been my main MMORPG since it's relaunch in August, 2013. One of my favorite aspects of the game is the focus on Trials, which are essentially boss fights without a corresponding dungeon to clear through beforehand. <a href="https://krueger.report/gaming/notes-on-final-fantasy-xiv">Notes On Final Fantasy XIV</a> is mostly notes to myself on what to watch for during each Trial, from the perspective of a main-tank or off-tank.</p>
-
 <h3>Updates</h3>
-
 <p>A few months back, Amazon Drive pricing changed from being $5/month for unlimited storage to $5/month per terabyte of storage. At the time of the change, I did not feel the need to change my backup plan, but at the back of my mind was the fleeting thought that Amazon might change their offerings again. After surveying the backup field again, I have since moved my <a href="https://krueger.report/technology/backups">backups</a> off of Amazon to B2.</p>
-
 <h3>Books Read</h3>
-
 <ul>
 <li>Emacs Field Guide, by Harley Hahn</li>
 <li>Essential Algorithms: A Practical Approach to Computer Algorithms, by Rod Stephens</li>
 <li>Seveneves, by Neal Stephenson</li>
 </ul>
-
 <h3>Favorite Articles</h3>
-
 <ul>
 <li><a href="http://www.literatureandlatte.com/blog/?p=1032">3 – That's the magic number</a></li>
 <li><a href="https://512pixels.net/2017/07/rip-ipod-nano-shuffle/">Apple removes iPod nano and iPod shuffle from sale </a></li>
@@ -503,17 +497,13 @@
 <li><a href="https://ethanmarcotte.com/wrote/upward-and-worn/">Upward and worn</a></li>
 <li><a href="https://www.recode.net/2017/8/11/16127992/google-engineer-memo-research-science-women-biology-tech-james-damore">We’ve studied gender and STEM for 25 years. The science doesn’t support the Google memo.</a></li>
 </ul>
-
 <h3>Games Played</h3>
-
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Bayonetta">Bayonetta</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood">Final Fantasy XIV: Stormblood</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Torment:_Tides_of_Numenera">Torment: Tides of Numenera</a></li>
 </ul>
-
 <h3>Movies Watched</h3>
-
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Dunkirk_(2017_film)">Dunkirk</a></li>
 </ul>
@@ -533,21 +523,13 @@
 <content type="html">
 <![CDATA[
 <h3>A Slightly New Look</h3>
-
 <p>I updated the overall theme this month to a darker theme. Lately, I have found myself living inside of dark themed code editors and terminal windows, and wanted my website to match this overall aesthetic. Other sections of the CSS were simplified and cleaned up. Swapping color palettes in the future should be easy, as there are 6 Sass variables that control the entire scheme.</p>
-
 <p>Most blogs are lighter in color, with common thinking being that dark text on a light background is most legible. This might be the case, but I still wanted to try to do the opposite, to see where it would lead me. I am happy with the results so far, especially because it did not take too much time to rework the code to accommodate this look.</p>
-
 <h3>Helpful Algorithms</h3>
-
 <p>In programming, algorithms and functions are one of the main tools at your disposal. Many functions can be re-used in later projects. <a href="https://krueger.report/programming/helpful-algorithms">Helpful Algorithms</a> is a resource for common algorithms that I use. Starting out, a lot of them are math functions that I created for Project Euler, but I also plan to go back and learn more fundamental programming algorithms and create my own implementations of them.</p>
-
 <h3>Updates</h3>
-
 <p>I did not make any substantial updates to any pages this month, due to focusing on updating the theme of the site. Additionally, as can be seen below, I spent a lot of time this month both playing new games and reading, which left less time for writing than normal.</p>
-
 <h3>Books Read</h3>
-
 <ul>
 <li>Ego Is the Enemy, by Ryan Holiday</li>
 <li>The Last Battle, by C.S. Lewis</li>
@@ -555,9 +537,7 @@
 <li>The One Device: The Secret History of the iPhone, by Brian Merchant</li>
 <li>Resilient Web Design, by Jeremy Keith</li>
 </ul>
-
 <h3>Favorite Articles</h3>
-
 <ul>
 <li><a href="https://sonniesedge.co.uk/blog/a-day-without-javascript">A day without Javascript</a></li>
 <li><a href="https://n-o-d-e.net/duality.html">The duality of technology</a></li>
@@ -576,9 +556,7 @@
 <li><a href="http://blog.soylent.com/post/162322724087/soylent-kickstarts-the-summer-with-new-cafe-line">Soylent kickstarts the summer with new Cafe line flavors</a></li>
 <li><a href="https://qz.com/1019145/weve-been-worrying-about-the-end-of-work-for-500-years/">We’ve been worrying about the end of work for 500 years</a></li>
 </ul>
-
 <h3>Games Played</h3>
-
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Bayonetta">Bayonetta</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Chrono_Trigger">Chrono Trigger</a></li>
@@ -602,23 +580,16 @@
 <content type="html">
 <![CDATA[
 <h3>Hello, World!</h3>
-
 <p>I have never written a proper introduction for The Krueger Report. This has now been corrected with <a href="https://krueger.report/introduction/hello-world">Hello, World!</a>, with my objectives of this site as well as how I am accomplishing that.</p>
-
 <h3>Updates</h3>
-
 <p>With Amazon Cloud Drive's removal of unlimited storage, I needed to review my <a href="https://krueger.report/technology/backups/">Backup</a> plan. Even at a price of $5/month per terabyte instead of $5/month for unlimited, Amazon Cloud Drive remains one of the best deals available For now, I am not changing what service I am backing up to, although Amazon's penchant for changing their offerings with little notice outside of core AWS services leaves me wary of continuing to use them into the future.</p>
-
 <h3>Books Read</h3>
-
 <ul>
 <li>Book: A Futurist's Manifesto, by Hugh McGuire and Brian O'Leary</li>
 <li>The Nordic Theory of Everything: In Search of a Better Life, by Any Partanen</li>
 <li>Shrinking the Technosphere: Getting a Grip on the Technologies That Limit Our Autonomy, Self-Sufficiency and Freedom, by Dmitry Orlov</li>
 </ul>
-
 <h3>Favorite Articles</h3>
-
 <ul>
 <li><a href="https://www.theverge.com/2017/6/21/15845378/neuroscience-memory-remembering-forgetting-artificial-intelligence">Are you forgetful? That's just your brain erasing useless memories</a></li>
 <li><a href="http://www.journals.uchicago.edu/doi/abs/10.1086/691462">Brain drain: the mere presence of one's own smartphone reduces available cognitive capacity</a></li>
@@ -637,9 +608,7 @@
 <li><a href="https://krebsonsecurity.com/2017/06/why-so-many-top-hackers-hail-from-russia/">Why so many top hackers hail from Russia</a></li>
 <li><a href="https://www.macstories.net/stories/the-10-5-ipad-pro-future-proof/">The 10.5&quot; iPad Pro: Future-proof</a></li>
 </ul>
-
 <h3>Games Played</h3>
-
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood">Final Fantasy XIV: Stormblood</a></li>
 <li><a href="http://tomorrowcorporation.com/littleinferno">Little Inferno</a></li>
@@ -662,20 +631,15 @@
 <content type="html">
 <![CDATA[
 <h3>Appendices</h3>
-
 <p>One of the (largely less interesting?) parts of this project is documenting all of the types of media that I have experienced. The first page of this was <a href="https://krueger.report/appendices/games-i-have-played">Games I Have Played</a>, and with the addition of <a href="https://krueger.report/appendices/podcasts-i-have-listened-to/">Podcasts I Have Listened To</a>, I decided to move this information to a new section. Since I am mimicking the structure of a book, I thought that putting these in as Appendices made sense, since it's less important information and can sit at the end of the whole project. It also opens up the possibility of me adding other appendices as time goes on without it diluting the worth of other content.</p>
-
 <h3>Books Read</h3>
-
 <ul>
 <li>The Body Has a Mind of Its Own: How Body Maps in Your Brain Help You Do (Almost) Everything Better, by Sandra Blakeslee and Matthew Blakeslee</li>
 <li>The Horse and His Boy, by C.S. Lewis</li>
 <li>The Wanderers, by Meg Howrey</li>
 <li>Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, and UNIX Systems, 2nd Edition, by Dave Taylor and Brandon Perry</li>
 </ul>
-
 <h3>Favorite Readings</h3>
-
 <ul>
 <li><a href="https://www.theverge.com/2017/5/15/15640596/google-android-auto-audi-volvo-apple-carplay-io-2017">Audi and Volvo will use Android as the operating system in upcoming cars</a></li>
 <li><a href="https://arstechnica.com/tech-policy/2017/05/chelsea-manning-freed-from-military-prison/">Chelsea Manning, who served more prison time than any US leaker, is freed</a></li>
@@ -702,22 +666,16 @@
 <li><a href="https://shubhamjain.co/2017/05/06/why-programmers-should-automate-more">Why programmers should automate more</a></li>
 <li><a href="http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age">Why you can't help but act your age</a></li>
 </ul>
-
 <h3>Games Played</h3>
-
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/EverQuest">EverQuest</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Heavensward">Final Fantasy XIV: Heavensward</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Monument_Valley_2">Monument Valley 2</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Tron_2.0">Tron 2.0</a></li>
 </ul>
-
 <h3>Updates</h3>
-
 <p>In the past month, I have revamped my <a href="https://krueger.report/health/exercise-routine/">Exercise Routine</a>. The activities are largely the same, but I have moved away from certain exercises being done only on certain days. The scripts for calculating my exercise build-ups has also been updated to Python due to the simplicity of the used code.</p>
-
 <p>In March, GOG updated GOG Galaxy to include more typical gaming platform features: achievement tracking and playtime tracking. Since these are features that I do not wish to take part in, I explored if GOG allowed these features to be disabled. Thankfully, they are, and I have updated <a href="https://krueger.report/gaming/disabling-gaming-platforms-social-features/">Disabling Gaming Platforms' Social Features</a> with that information.</p>
-
 <p>I added a few more problems to <a href="https://krueger.report/programming/project-euler-in-swift/">Project Euler In Swift</a>, but not as many as I would have liked. The past few months, I have been experimenting with the tools I use to program, and going through a philosophical debate between the lean Sublime Text and heavier Xcode. With the addition of a solid-state drive in my Mac Mini and all of the recent announcements at WWDC 2017, I have decided to double down not only on Xcode but GUI application development as well. Project Euler will continue to be my weekly programming puzzle to solve, but I will first be reworking it to fit better into Xcode.</p>
 ]]>
 </content>
@@ -735,11 +693,8 @@
 <content type="html">
 <![CDATA[
 <h3>Iced Coffee</h3>
-
 <p>One of the first things I do every morning is start drinking a nice cool cup of coffee. It helps start my day quicker and jump right into the tasks that I have for the day. Over the last few years, I have worked on perfecting my <a href="https://krueger.report/health/iced-coffee">Iced Coffee</a> recipe, and have found an easy and consistent way to make it exactly to my liking.</p>
-
 <h3>Favorite Readings</h3>
-
 <ol>
 <li><a href="https://arstechnica.com/gadgets/2017/05/amazon-alexa-ads-voicelabs/">15-second ads coming to Amazon’s Alexa</a></li>
 <li><a href="https://arstechnica.com/gaming/2017/05/success-the-nintendo-playstation-prototype-is-fully-functional/">18 months after discovery, the “Nintendo PlayStation” is finally working</a></li>
@@ -768,14 +723,11 @@
 </ol>
 
 <h3>Books Read</h3>
-
 <ul>
 <li>Biopunk: DIY Scientists Hack the Software of Life, by Marcus Wohlsen</li>
 <li>The Internet of Risky Things: Trusting the Devices That Surround Us, by Sean Smith</li>
 </ul>
-
 <h3>Games Played</h3>
-
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_X/X-2_HD_Remaster">Final Fantasy X-2 HD Remaster</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Little_Nightmares">Little Nightmares</a></li>
@@ -797,11 +749,8 @@
 <content type="html">
 <![CDATA[
 <h3>Vitamin B12</h3>
-
 <p>In continuing my goal of understanding the ways I can become more healthy, I spent this past month researching <a href="https://krueger.report/health/vitamin-b12">Vitamin B<sub>12</sub></a>. This vitamin is important for vegetarians like myself to stay on top of, as it is easy to become deficient in it. </p>
-
 <h3>Favorite Readings</h3>
-
 <ol>
 <li><a href="http://www.theverge.com/2017/4/12/15265530/walt-mossberg-internet-plan-privacy-freedom">A plan to preserve the internet</a></li>
 <li><a href="http://www.pixelpoppers.com/2009/11/awesome-by-proxy-addicted-to-fake.html">Awesome by proxy: addicted to fake achievements</a></li>
@@ -822,9 +771,7 @@
 </ol>
 
 <h3>Updates</h3>
-
 <p>I added a few more problems to <a href="https://krueger.report/programming/project-euler-in-swift/">Project Euler In Swift</a>. Since completing these, I have experimented briefly with Python and Rust, and have started to plan out doing a comparison of all these languages using Project Euler. But getting a more in-depth grasp of Swift is important before doing so.</p>
-
 <p>AutoSleep 4.0 brought about a slight update to <a href="https://krueger.report/health/tracking-sleep/">Tracking Sleep</a>. Functionality remains the same, but the graphics of the app have been refreshed to provide for a nicer experience.</p>
 ]]>
 </content>
@@ -842,21 +789,13 @@
 <content type="html">
 <![CDATA[
 <h3>Project Euler In Swift</h3>
-
 <p>Since I am not a full-time professional programmer, a lot of the code work that I do is just for fun. A lot of this consists of small projects and solving challenges and puzzles that other people release.</p>
-
 <p>Project Euler is my main source of these types of puzzles. All of them are math problems of varying difficulty. As of right now, there are currently 585 problems to solve on there.</p>
-
 <p>My language of choice when it comes to non-web programming is constantly changing. I enjoy seeing what is available and playing around with the different paradigms. Since it's release, Swift is a language I keep coming back to. It hits all of the right marks for me, ones that a lot of other popular languages like Python do not. For that reason, I have decided to work through all of the problems in <a href="https://krueger.report/programming/project-euler-in-swift">Project Euler In Swift</a>. One new problem a week is my current goal, which given that there are 585 problems, with more periodically being added, it will take me over 11 years to complete this exercise.</p>
-
 <h3>Updates</h3>
-
 <p><a href="https://krueger.report/introduction/about-the-author/">About The Author</a> was updated to include detailed information about all of my current computer systems. During this process, I did a basic benchmark of all of the systems using GeekBench 4. Seeing how all of my computing devices stack up on performance was interesting, particularly the part where my phone is now faster than my laptop.</p>
-
 <p><a href="https://krueger.report/technology/software-tools">Software Tools</a> now displays the first selection of applications that I regularly use. Every application on there follows the principles I listed, when it is relevant.</p>
-
 <p>This month, <a href="https://krueger.report/gaming/games-i-have-played/">my game of choice</a> was the original System Shock. I missed out on this game when it first came out in 1994, and unfortunately, it is a hard game to go back and play. It is an old school game, particularly with regards to complexity. The interface is cluttered and controls are obtuse, even by the standards of the time. Still, it was an enlightening experience, particularly to see an earlier work of Warren Spector.</p>
-
 <p><a href="https://krueger.report/introduction/tools-used-to-create-this/">Tools Used To Make This</a> has been updated with more information about how this site functions automatically, as well as information about how I test the performance of the site.</p>
 ]]>
 </content>
@@ -874,19 +813,12 @@
 <content type="html">
 <![CDATA[
 <h3>Exercise</h3>
-
 <p>In recent years, the amount of time I spend exercising has lessened. I would occasionally exercise, but it kept becoming more sporadic. Weight gain has been steady since I left college, and especially since we moved up here to Oregon.</p>
-
 <p>In an attempt to help alleviate these problems, I looked back at how I exercised in college and recreated a similar routine. I have been following this <a href="https://krueger.report/health/exercise-routine">exercise routine</a> for a few months now, and while I am still perfectin certain aspects of it, I have found it easy to keep up with and it is helping my weight and overall health.</p>
-
 <h3>Updates</h3>
-
 <p>AutoSleep is now the app I use for <a href="https://krueger.report/health/tracking-sleep">tracking my sleep</a>. There are a number of improvements that it has over Sleep++, with the main one being that I no longer have to manually enable it every night and disable it every morning. It just works™. </p>
-
 <p>6 months ago, I wrote my first steps to completely <a href="https://krueger.report/technology/logging-off-facebook">logging off Facebook</a>. Since then, I have missed Facebook not in the slightest. The other night, I reopened my account just so I can go in and initiate the full deletion of the account. Before doing that, I looked around at the news feed and the walls of a few of my friends. My decision to cut back on social media has been solidified. Facebook has not changed in the 6 months since I stopped using it, and it probably never will. My life is better without it.</p>
-
 <p>I am at the end of building the list of <a href="https://krueger.report/gaming/games-i-have-played">Games I Have Played</a>. All major systems have their games entered and linked up to further information about the game. I know there are going to be random games here and there that I have not entered due to not remembering them. But as now, this is the most complete list of every game I have played. And it is much bigger than I anticipated.</p>
-
 <p>And finally, this month's new game was <a href="https://en.wikipedia.org/wiki/Grim_Fandango#Remastered_version">Grim Fandango Remastered</a>. Overall, it was an enjoyable game, and a fun revisit to one of my favorite adventure games of all time. But as much as I enjoyed playing through it, adventure games of this style do not hold me the way that they used to. I love everything about this game, except for the gameplay. Too bad it's not a movie, or a TV miniseries, or something else along those lines.</p>
 ]]>
 </content>
@@ -904,25 +836,15 @@
 <content type="html">
 <![CDATA[
 <h3>A New Format... Again</h3>
-
 <p>Before getting into other topics, I would be remiss to not talk about the slightly new format on here. When I created this site, I initially started it out as a standard blog, where I would post every few weeks. These were my &quot;notes&quot;. After 10 months of doing this, I created the &quot;book&quot;, which took the same content, but acted as my most up-to-date versions of those writings. I tried to make the two sit together, but this ended up being more work than I enjoyed.</p>
-
 <p>The &quot;book&quot; portion of the site ended up being the more fun part for me. While I do not wish to put unfinished work up, the nature of some of what I enjoy writing about is that it will never be complete, or it would become outdated at some point.</p>
-
 <p>The solution I have come up with is to combine the two into one. Now, The Krueger Report is just one piece that more closely resembles the &quot;book&quot; portion of the old version.</p>
-
 <p>My writing will still be the same as it was before. The way I write is to focus on a single topic each month, and work on completing that. I will be maintaining that schedule, but instead of a separate &quot;notes&quot; section, I will post updates to both this page as well as a new Atom feed that can be subscribed to. This feed will show periodical updates, linking to the new pages I have written, along with quick summaries of what I have updated. Much like this very update.</p>
-
 <h3>Software Tools</h3>
-
 <p>Anyone who knows me knows that I am incredibly picky about what software I use. I will painstakingly research as many possibilities as I can for any application type that I use.</p>
-
 <p>There has always been a set of criteria that I follow, but I wanted to write down exactly what they were, instead of just leaving it a bit nebulous in my head. The last few months, I made notes about my thinking as I evaluated new applications. When reviewing these notes, I found that they were all related to five specific criteria.</p>
-
 <p>In <a href="https://krueger.report/technology/software-tools">Software Tools</a>, I wrote up what these five criteria are. In the future, this will also be where I delve into specific examples of applications that I currently use, and how they make use of all of the rules set forth.</p>
-
 <h3>Updates</h3>
-
 <p><a href="https://krueger.report/gaming/games-i-have-played/">Games I Have Played</a> saw the biggest change this month. I began to add console systems and mobile games to the list, as well as breaking out the list into different sections based on the platform the game was played on. This page is time consuming, as I have played a lot of games in my life, but it is one of my favorite to go back and research, just to remember again the many games I have played but since forgotten. There is a lot of work to do yet on this list, but it is shaping up to being closer to where I want it to be.</p>
 ]]>
 </content>
