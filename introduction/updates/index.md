@@ -3,8 +3,52 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2017.12.31:0545
+updated: 2018.02.28:1245
 ---
+
+## 2018.02
+
+### Updates
+
+This month, I finished up the notes I took for [The Half-Life of Facts](https://krueger.report/notes-on-books/the-half-life-of-facts). This book looks as how knowledge changes over time, and particularly how different fields are affected. It also highlights some of the issues that modern research has, particularly with regards to how incorrect facts can persist no matter what other research shows.
+
+### Favorite Articles
+
+- [AMP for email is a terrible idea](https://techcrunch.com/2018/02/13/amp-for-email-is-a-terrible-idea/)
+- [California to allow testing of self-driving cars without a driver present](https://techcrunch.com/2018/02/27/california-to-allow-testing-of-self-driving-cars-without-a-driver-present/)
+- [Code size optimization mode in Swift 4.1](https://swift.org/blog/osize/)
+- [Cognitive ability and vulnerability to fake news](https://www.scientificamerican.com/article/cognitive-ability-and-vulnerability-to-fake-news/)
+- [The cost of forsaking C](https://blog.bradfieldcs.com/the-cost-of-forsaking-c-113986438784)
+- [Do not, I repeat, do not download Onavo, Facebook’s vampiric VPN service](https://gizmodo.com/do-not-i-repeat-do-not-download-onavo-facebook-s-vam-1822937825)
+- [Email is your electronic memory](https://blog.fastmail.com/2018/02/14/email-is-your-electronic-memory/)
+- [The entirely unnecessary demise of Barnes & Noble](http://audreyii-fic.tumblr.com/post/170886347853/the-entirely-unnecessary-demise-of-barnes-noble)
+- [Facebook lost around 2.8 million U.S. users under 25 last year. 2018 won’t be much better](https://www.recode.net/2018/2/12/16998750/facebooks-teen-users-decline-instagram-snap-emarketer)
+- [Facebook spamming users via their 2FA phone numbers](https://mashable.com/2018/02/14/facebook-spam-2fa/#SV_dAaqJEiqH)
+- [Fertility 'breakthrough' as human eggs grown in lab for first time](http://www.independent.co.uk/news/health/human-eggs-grown-lab-fertility-breakthrough-first-time-ivf-development-scientists-edinburgh-a8201001.html)
+- [Forde's Tenth Rule, or, "how i learned to stop worrying and love the state machine"](http://raganwald.com/2018/02/23/forde.html)
+- [Free and open-source Vulkan on macOS and iOS](http://store.steampowered.com/news/37575/)
+- [I salute the 1 million North Americans who ditched Facebook last quarter](https://thenextweb.com/facebook/2018/02/01/i-salute-the-1-million-north-americans-who-ditched-facebook-last-quarter/)
+- [Identity's mindset](http://helentran.com/identitysmindset)
+- [New studies zero in on roots of depression and why ketamine reverses it](https://arstechnica.com/science/2018/02/new-studies-zero-in-on-roots-of-depression-and-why-ketamine-reverses-it/)
+- [Oxidizing Fedora: try Rust and its applications today](https://fedoramagazine.org/oxidizing-fedora-try-rust-applications-today/)
+- [Postmortem of service outage at 3.4m CCU](https://www.epicgames.com/fortnite/en-US/news/postmortem-of-service-outage-at-3-4m-ccu)
+- [Python's weak performance matters](https://metarabbit.wordpress.com/2018/02/05/pythons-weak-performance-matters/)
+- [Showing off to the universe: beacons for the afterlife of our civilization](http://blog.stephenwolfram.com/2018/01/showing-off-to-the-universe-beacons-for-the-afterlife-of-our-civilization/)
+- [Space aging](http://geroscience.com/space-aging/)
+- [SpaceX’s historic Falcon Heavy successfully launches](https://techcrunch.com/2018/02/06/spacexs-historic-falcon-heavy-successfully-launches/)
+- [WatchKit is a sweet solution that will only ever give us baby apps](https://marco.org/2018/02/26/watchkit-baby-apps)
+- [Why I loved “Edith Finch”](https://www.raphkoster.com/2018/02/06/why-i-loved-edith-finch/)
+
+### Books Read
+
+- Stephenson, Neal - The Diamond Age
+- Yudkowsky, Eliezer - Inadequate Equilibria: Where and How Civilizations Get Stuck
+
+### Games Played
+
+- [Alto's Odyssey](https://en.wikipedia.org/wiki/Alto%27s_Adventure#Sequel_(Alto's_Odyssey))
+- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
+- [Subnautica](https://en.wikipedia.org/wiki/Subnautica)
 
 ## 2018.01
 
