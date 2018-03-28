@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2018.03.18:1715
+updated: 2018.03.27:1730
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -11,6 +11,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Amariei, Cornel - Arduino Development Cookbook
 - Ambrose, Stephen E. - Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest
 - Andrew, Rachel - The New CSS Layout
+- Arbesman, Samuel - Overcomplicated: Technology at the Limits of Comprehension
 - Arbesman, Samuel - The Half-Life of Facts: Why Everything We Know Has an Expiration Date
 - Blakeslee, Sandra & Blakeslee, Matthew - The Body Has a Mind of Its Own: How Body Maps in Your Brain Help You Do (Almost) Everything Better
 - Bradbury, Ray - Fahrenheit 451
