@@ -3,7 +3,7 @@ category: technology
 created: 2017.02.27:1700
 title: Selecting Software Tools
 type: page
-updated: 2017.09.01:0545
+updated: 2017.03.29:0245
 ---
 
 Choosing the right software for the job can be a painstaking process. On all of the major platforms, there is a plethora of tools available for most tasks. Picking the first thing that comes along without evaluating all of the options might save some time up front, but it will lead to headaches further on down the line.
@@ -80,6 +80,13 @@ This is my criteria for all software that I use. When evaluating new application
 **Used Since**: December 12, 2010<br>
 **Previously Used**: [NetNewsWire](http://netnewswireapp.com), [Unread](http://supertop.co/unread/)
 
+### Task Management
+
+**Name**: [OmniFocus](https://www.omnigroup.com/omnifocus)<br>
+**OS**: iOS, macOS<br>
+**Used Since**: February 20, 2018<br>
+**Previously Used**: [Reminders](https://en.wikipedia.org/wiki/Reminders_(Apple))
+
 ### Writing
 
 **Name**: [iA Writer](https://ia.net/writer/)<br>
@@ -107,13 +114,19 @@ This is my criteria for all software that I use. When evaluating new application
 
 **Name**: [Sublime Text](https://www.sublimetext.com)<br>
 **Used Since**: July 1, 2011<br>
-**Previously Used**: [Atom](https://atom.io), [emacs](https://www.gnu.org/software/emacs/), [TextWrangler](http://www.barebones.com/products/textwrangler/)
+**Previously Used**: [Atom](https://atom.io), [Emacs](https://www.gnu.org/software/emacs/), [TextWrangler](http://www.barebones.com/products/textwrangler/), [Neovim](https://neovim.io), [Visual Studio Code](https://code.visualstudio.com)
 
 ### Command-Line Terminal
 
-**Name**: [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS))<br>
+**Name**: [iTerm](https://www.iterm2.com)
 **Used Since**: December 25, 2007<br>
-**Previously Used**: [iTerm](https://www.iterm2.com)
+**Previously Used**: [Alacritty](https://github.com/jwilm/alacritty), [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS))<br>
+
+### File Backup
+
+**Name**: [Arq](https://www.arqbackup.com)<br>
+**Used Since**: July 15, 2016<br>
+**Previously Used**: [Time Machine](https://en.wikipedia.org/wiki/Time_Machine_(macOS))
 
 ### Git GUI
 
