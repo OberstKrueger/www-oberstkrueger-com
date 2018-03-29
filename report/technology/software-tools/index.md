@@ -1,7 +1,7 @@
 ---
 category: technology
 created: 2017.02.27:1700
-title: Selecting Software Tools
+title: Software Tools
 type: page
 updated: 2017.03.29:0245
 ---
