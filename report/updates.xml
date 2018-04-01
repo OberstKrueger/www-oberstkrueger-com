@@ -7,7 +7,79 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2018-02-28T12:45:00Z</updated>
+<updated>2018-03-31T17:15:00Z</updated>
+
+<entry>
+<title>Updates For March, 2018</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201802</id>
+<published>2018-03-31T17:15:00Z</published>
+<updated>2018-03-31T17:15:00Z</updated>
+<content type="html">
+<![CDATA[
+<h3>Updating Sublime</h3>
+<p>When it comes to programming tools, I am always looking at what is available that might replace what I currently have. Last year, I wanted to give all of the major text editors a go to see if it was worth considering replacing Sublime Text as my main text editor after many years of use. The experiments were fruitful, and while I am back using Sublime for the foreseeable future, I took away a lot of useful information from how the other editors functioned that I have included in <a href="https://krueger.report/programming/updating-sublime-text">Updating Sublime Text</a>.</p>
+<h3>Updates</h3>
+<p><a href="https://krueger.report/technology/software-tools/">Software Tools</a> has been updated with many new categories of tools, as well as updates to old tools that I no longer use.</p>
+<h3>Favorite Articles</h3>
+<ul>
+<li><a href="https://techcrunch.com/2018/03/07/all-of-oculuss-rift-headsets-have-stopped-working-due-to-an-expired-certificate/">All of Oculus’s Rift headsets have stopped working due to an expired certificate</a></li>
+<li><a href="https://www.anandtech.com/show/12601/alliance-for-open-media-releases-royaltyfree-av1-10-codec-spec">Alliance for Open Media releases royalty-free AV1 1.0 codec spec</a></li>
+<li><a href="https://www.elevationlab.com/blogs/news/amazon-is-complicit-with-counterfeit-sellers">Amazon is complicit with counterfeiting</a></li>
+<li><a href="https://david-smith.org/blog/2018/03/14/apple-watch-series-3-adoption/">Apple Watch adoption</a></li>
+<li><a href="https://blog.emojipedia.org/apple-proposes-new-accessibility-emojis/">Apple proposes new accessibility emojis</a></li>
+<li><a href="http://www.independent.co.uk/news/health/cleaning-products-lungs-damage-cigarettes-smoking-20-day-scientists-warning-a8214051.html">Cleaning products as bad for lungs as smoking 20 cigarettes a day, scientists warn</a></li>
+<li><a href="https://zettelkasten.de/posts/collectors-fallacy/">The collector's fallacy</a></li>
+<li><a href="http://www.asymco.com/2018/03/01/determining-the-average-apple-device-lifespan/">Determining the average Apple device lifespan</a></li>
+<li><a href="https://www.theverge.com/2018/3/23/17156402/elon-musk-deleted-tesla-and-spacex-facebook-pages-twitter-challenge">Elon Musk has removed Tesla and SpaceX’s Facebook pages after Twitter challenge</a></li>
+<li><a href="https://www.anandtech.com/show/12547/expanding-directx-12-microsoft-announces-directx-raytracing">Expanding DirectX 12: Microsoft announces directx raytracing</a></li>
+<li><a href="https://arstechnica.com/information-technology/2018/03/facebook-scraped-call-text-message-data-for-years-from-android-phones/">Facebook scraped call, text message data for years from Android phones</a></li>
+<li><a href="https://www.nytimes.com/2018/03/19/opinion/facebook-cambridge-analytica.html">Facebook's surveillance machine</a></li>
+<li><a href="https://spectrum.ieee.org/tech-talk/aerospace/satellites/fcc-accuses-stealthy-startup-of-launching-rogue-satellites">FCC accuses stealthy startup of launching rogue satellites</a></li>
+<li><a href="http://morrick.me/archives/8101">A few stray observations on voice assistants</a></li>
+<li><a href="https://drewdevault.com/2018/03/17/Hack-everything-without-fear.html">Hack everything without fear</a></li>
+<li><a href="https://www.nytimes.com/2018/03/04/technology/fake-videos-deepfakes.html?">Here come the fake videos, too</a></li>
+<li><a href="https://www.nature.com/articles/d41586-018-02391-6">How flashing lights and pink noise might banish Alzheimer’s, improve memory and more</a></li>
+<li><a href="https://www.engadget.com/2018/03/15/iheartradio-owner-iheartmedia-bankruptcy/">iHeartRadio owner files for bankruptcy, but you won't feel it</a></li>
+<li><a href="https://story.californiasunday.com/jerry-brown-last-days">The last days of Jerry Brown</a></li>
+<li><a href="https://www.theverge.com/circuitbreaker/2018/3/1/17066494/light-phone-2-ultra-minimalist-cellphone-indiegogo-crowdfunding">The Light Phone 2 adds messaging and more to the ultra-minimalist cellphone</a></li>
+<li><a href="http://rachelbythebay.com/w/2018/03/23/ducttape/">Look for the duct tape</a></li>
+<li><a href="https://www.theverge.com/2018/3/30/17179328/microsoft-windows-reorganization-future-2018">Microsoft is ready for a world beyond Windows</a></li>
+<li><a href="https://blog.rust-lang.org/2018/03/12/roadmap.html">Rust's 2018 roadmap</a></li>
+<li><a href="https://insights.stackoverflow.com/survey/2018">Stack Overflow developer survey results 2018</a></li>
+<li><a href="https://www.technologyreview.com/s/610456/a-startup-is-pitching-a-mind-uploading-service-that-is-100-percent-fatal/">A startup is pitching a mind-uploading service that is “100 percent fatal”</a></li>
+<li><a href="http://www.bbc.com/news/uk-43396008">Stephen Hawking: Visionary physicist dies aged 76</a></li>
+<li><a href="https://www.rockpapershotgun.com/2018/02/27/what-works-and-why-opus-magnum/">What works and why: Opus Magnum</a></li>
+<li><a href="https://www.nytimes.com/2018/03/08/us/daylight-saving-time-florida.html">Year-round daylight saving time? Florida says yes, but it’s not so simple</a></li>
+<li><a href="https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election">50 million Facebook profiles harvested for Cambridge Analytica in major data breach</a></li>
+<li><a href="https://longreads.com/2018/03/26/6-minutes-and-20-seconds/">6 minutes and 20 seconds</a></li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Arbesman, Samuel - Overcomplicated: Technology at the Limits of Comprehension</li>
+<li>Gibson, William - Count Zero</li>
+<li>Greene, Brian - The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Alto%27s_Adventure#Sequel_(Alto's_Odyssey)">Alto's Odyssey</a></li>
+<li><a href="https://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fortnite_Battle_Royale">Fortnite Battle Royale</a></li>
+<li><a href="http://subsetgames.com/itb.html">Into The Breach</a></li>
+<li><a href="https://www.lifeisstrange.com/en-us">Life Is Strange: Before the Storm</a></li>
+<li><a href="http://us.battle.net/sc2/en/">StarCraft II: Legacy of the Void</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Subnautica">Subnautica</a></li>
+</ul>
+<h3>Movies Watched</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Blade_Runner_2049">Blade Runner 2049</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For February, 2018</title>
