@@ -3,8 +3,71 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2018.02.28:1245
+updated: 2018.03.31:1715
 ---
+
+## 2018.03
+
+### Updating Sublime
+
+When it comes to programming tools, I am always looking at what is available that might replace what I currently have. Last year, I wanted to give all of the major text editors a go to see if it was worth considering replacing Sublime Text as my main text editor after many years of use. The experiments were fruitful, and while I am back using Sublime for the foreseeable future, I took away a lot of useful information from how the other editors functioned that I have included in [Updating Sublime Text](https://krueger.report/programming/updating-sublime-text).
+
+### Updates
+
+[Software Tools](https://krueger.report/technology/software-tools/) has been updated with many new categories of tools, as well as updates to old tools that I no longer use.
+
+### Favorite Articles
+
+- [All of Oculus’s Rift headsets have stopped working due to an expired certificate](https://techcrunch.com/2018/03/07/all-of-oculuss-rift-headsets-have-stopped-working-due-to-an-expired-certificate/)
+- [Alliance for Open Media releases royalty-free AV1 1.0 codec spec](https://www.anandtech.com/show/12601/alliance-for-open-media-releases-royaltyfree-av1-10-codec-spec)
+- [Amazon is complicit with counterfeiting](https://www.elevationlab.com/blogs/news/amazon-is-complicit-with-counterfeit-sellers)
+- [Apple Watch adoption](https://david-smith.org/blog/2018/03/14/apple-watch-series-3-adoption/)
+- [Apple proposes new accessibility emojis](https://blog.emojipedia.org/apple-proposes-new-accessibility-emojis/)
+- [Cleaning products as bad for lungs as smoking 20 cigarettes a day, scientists warn](http://www.independent.co.uk/news/health/cleaning-products-lungs-damage-cigarettes-smoking-20-day-scientists-warning-a8214051.html)
+- [The collector's fallacy](https://zettelkasten.de/posts/collectors-fallacy/)
+- [Determining the average Apple device lifespan](http://www.asymco.com/2018/03/01/determining-the-average-apple-device-lifespan/)
+- [Elon Musk has removed Tesla and SpaceX’s Facebook pages after Twitter challenge](https://www.theverge.com/2018/3/23/17156402/elon-musk-deleted-tesla-and-spacex-facebook-pages-twitter-challenge)
+- [Expanding DirectX 12: Microsoft announces directx raytracing](https://www.anandtech.com/show/12547/expanding-directx-12-microsoft-announces-directx-raytracing)
+- [Facebook scraped call, text message data for years from Android phones](https://arstechnica.com/information-technology/2018/03/facebook-scraped-call-text-message-data-for-years-from-android-phones/)
+- [Facebook's surveillance machine](https://www.nytimes.com/2018/03/19/opinion/facebook-cambridge-analytica.html)
+- [FCC accuses stealthy startup of launching rogue satellites](https://spectrum.ieee.org/tech-talk/aerospace/satellites/fcc-accuses-stealthy-startup-of-launching-rogue-satellites)
+- [A few stray observations on voice assistants](http://morrick.me/archives/8101)
+- [Hack everything without fear](https://drewdevault.com/2018/03/17/Hack-everything-without-fear.html)
+- [Here come the fake videos, too](https://www.nytimes.com/2018/03/04/technology/fake-videos-deepfakes.html?)
+- [How flashing lights and pink noise might banish Alzheimer’s, improve memory and more](https://www.nature.com/articles/d41586-018-02391-6)
+- [iHeartRadio owner files for bankruptcy, but you won't feel it](https://www.engadget.com/2018/03/15/iheartradio-owner-iheartmedia-bankruptcy/)
+- [The last days of Jerry Brown](https://story.californiasunday.com/jerry-brown-last-days)
+- [The Light Phone 2 adds messaging and more to the ultra-minimalist cellphone](https://www.theverge.com/circuitbreaker/2018/3/1/17066494/light-phone-2-ultra-minimalist-cellphone-indiegogo-crowdfunding)
+- [Look for the duct tape](http://rachelbythebay.com/w/2018/03/23/ducttape/)
+- [Microsoft is ready for a world beyond Windows](https://www.theverge.com/2018/3/30/17179328/microsoft-windows-reorganization-future-2018)
+- [Rust's 2018 roadmap](https://blog.rust-lang.org/2018/03/12/roadmap.html)
+- [Stack Overflow developer survey results 2018](https://insights.stackoverflow.com/survey/2018)
+- [A startup is pitching a mind-uploading service that is “100 percent fatal”](https://www.technologyreview.com/s/610456/a-startup-is-pitching-a-mind-uploading-service-that-is-100-percent-fatal/)
+- [Stephen Hawking: Visionary physicist dies aged 76](http://www.bbc.com/news/uk-43396008)
+- [What works and why: Opus Magnum](https://www.rockpapershotgun.com/2018/02/27/what-works-and-why-opus-magnum/)
+- [Year-round daylight saving time? Florida says yes, but it’s not so simple](https://www.nytimes.com/2018/03/08/us/daylight-saving-time-florida.html)
+- [50 million Facebook profiles harvested for Cambridge Analytica in major data breach](https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election)
+- [6 minutes and 20 seconds](https://longreads.com/2018/03/26/6-minutes-and-20-seconds/)
+
+### Books Read
+
+- Arbesman, Samuel - Overcomplicated: Technology at the Limits of Comprehension
+- Gibson, William - Count Zero
+- Greene, Brian - The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory
+
+### Games Played
+
+- [Alto's Odyssey](https://en.wikipedia.org/wiki/Alto%27s_Adventure#Sequel_(Alto's_Odyssey))
+- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
+- [Fortnite Battle Royale](https://en.wikipedia.org/wiki/Fortnite_Battle_Royale)
+- [Into The Breach](http://subsetgames.com/itb.html)
+- [Life Is Strange: Before the Storm](https://www.lifeisstrange.com/en-us)
+- [StarCraft II: Legacy of the Void](http://us.battle.net/sc2/en/)
+- [Subnautica](https://en.wikipedia.org/wiki/Subnautica)
+
+### Movies Watched
+
+- [Blade Runner 2049](https://en.wikipedia.org/wiki/Blade_Runner_2049)
 
 ## 2018.02
 
