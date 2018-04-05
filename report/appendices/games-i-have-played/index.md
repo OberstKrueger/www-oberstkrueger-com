@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2018.03.20:0800
+updated: 2018.04.05:0200
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -28,13 +28,13 @@ updated: 2018.03.20:0800
 - [Kirby's Dream Land](https://en.wikipedia.org/wiki/Kirby%27s_Dream_Land)
 - [Kirby's Dream Land 2](https://en.wikipedia.org/wiki/Kirby%27s_Dream_Land_2)
 - [Kirby's Pinball Land](https://en.wikipedia.org/wiki/Kirby%27s_Pinball_Land)
+- [The Legend of Zelda: Link's Awakening](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening)
 - [Metroid II: Return of Samus](https://en.wikipedia.org/wiki/Metroid_II:_Return_of_Samus)
 - [Paperboy](https://en.wikipedia.org/wiki/Paperboy_(video_game))
 - [Pokémon Blue](https://en.wikipedia.org/wiki/Pokémon_Red_and_Blue)
 - [Super Mario Land](https://en.wikipedia.org/wiki/Super_Mario_Land)
 - [Super Mario Land 2: 6 Golden Coins](https://en.wikipedia.org/wiki/Super_Mario_Land_2:_6_Golden_Coins)
 - [Tetris](https://en.wikipedia.org/wiki/Tetris_(Game_Boy))
-- [The Legend of Zelda: Link's Awakening](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening)
 
 ## [GameCube](https://en.wikipedia.org/wiki/GameCube)
 
@@ -91,6 +91,7 @@ updated: 2018.03.20:0800
 - [Duck Hunt](https://en.wikipedia.org/wiki/Duck_Hunt)
 - [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy_(video_game))
 - [Kirby's Adventure](https://en.wikipedia.org/wiki/Kirby%27s_Adventure)
+- [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game))
 - [Lemmings](https://en.wikipedia.org/wiki/Lemmings_(video_game))
 - [Mega Man](https://en.wikipedia.org/wiki/Mega_Man_(video_game))
 - [Mega Man 2](https://en.wikipedia.org/wiki/Mega_Man_2)
@@ -103,7 +104,6 @@ updated: 2018.03.20:0800
 - [Super Mario Bros.](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
 - [Super Mario Bros. 2](https://en.wikipedia.org/wiki/Super_Mario_Bros._2)
 - [Super Mario Bros. 3](https://en.wikipedia.org/wiki/Super_Mario_Bros._3)
-- [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game))
 
 ## [Nintendo 3DS](https://en.wikipedia.org/wiki/Nintendo_3DS)
 
@@ -121,6 +121,7 @@ updated: 2018.03.20:0800
 - [Doom 64](https://en.wikipedia.org/wiki/Doom_64)
 - [GoldenEye 007](https://en.wikipedia.org/wiki/GoldenEye_007_(1997_video_game))
 - [Killer Instinct Gold](https://en.wikipedia.org/wiki/Killer_Instinct_Gold)
+- [The Legend of Zelda: Ocarina of Time](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time)
 - [Major League Baseball Featuring Ken Griffy Jr.](https://en.wikipedia.org/wiki/Major_League_Baseball_Featuring_Ken_Griffey_Jr.)
 - [Mario Kart 64](https://en.wikipedia.org/wiki/Mario_Kart_64)
 - [Mario Party](https://en.wikipedia.org/wiki/Mario_Party_(video_game))
@@ -129,7 +130,6 @@ updated: 2018.03.20:0800
 - [Star Wars: Shadows of the Empire](https://en.wikipedia.org/wiki/Star_Wars:_Shadows_of_the_Empire_(video_game))
 - [Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64)
 - [Super Smash Bros.](https://en.wikipedia.org/wiki/Super_Smash_Bros._(video_game))
-- [The Legend of Zelda: Ocarina of Time](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time)
 - [Turok: Dinosaur Hunter](https://en.wikipedia.org/wiki/Turok:_Dinosaur_Hunter)
 - [Wayne Gretzky's 3D Hockey](https://en.wikipedia.org/wiki/Wayne_Gretzky%27s_3D_Hockey)
 
@@ -203,6 +203,7 @@ updated: 2018.03.20:0800
 - [Baldur's Gate II: Shadows of Amn](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn)
 - [Baldur's Gate II: Throne of Bhaal](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal)
 - [Bayonetta](https://en.wikipedia.org/wiki/Bayonetta)
+- [The Binding of Isaac](https://en.wikipedia.org/wiki/The_Binding_of_Isaac_(video_game))
 - [BioShock](https://en.wikipedia.org/wiki/BioShock)
 - [BioShock Infinite](https://en.wikipedia.org/wiki/BioShock_Infinite)
 - [Borderlands](https://en.wikipedia.org/wiki/Borderlands_(video_game))
@@ -253,6 +254,15 @@ updated: 2018.03.20:0800
 - [Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D)
 - [Duke Nukem Forever](https://en.wikipedia.org/wiki/Duke_Nukem_Forever)
 - [Dungeons of Dredmor](https://en.wikipedia.org/wiki/Dungeons_of_Dredmor)
+- [The Elder Scrolls III: Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind)
+- [The Elder Scrolls III: Tribunal](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Tribunal)
+- [The Elder Scrolls III: Bloodmoon](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Bloodmoon)
+- [The Elder Scrolls IV: Oblivion](https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion)
+- [The Elder Scrolls V: Skyrim](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim)
+- [The Elder Scrolls V: Skyrim - Dawnguard](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_–_Dawnguard)
+- [The Elder Scrolls V: Skyrim - Hearthfire](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_–_Hearthfire)
+- [The Elder Scrolls V: Skyrim - Dragonborn](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_–_Dragonborn)
+- [The Elder Scrolls Online](https://en.wikipedia.org/wiki/The_Elder_Scrolls_Online)
 - [Elite: Dangerous](https://en.wikipedia.org/wiki/Elite:_Dangerous)
 - [Eufloria](https://en.wikipedia.org/wiki/Eufloria)
 - [EVE Online](https://en.wikipedia.org/wiki/Eve_Online)
@@ -396,9 +406,13 @@ updated: 2018.03.20:0800
 - [SimCity 2000](https://en.wikipedia.org/wiki/SimCity_2000)
 - [SimCity 3000](https://en.wikipedia.org/wiki/SimCity_3000)
 - [SimCity 4](https://en.wikipedia.org/wiki/SimCity_4)
+- [The Sims](https://en.wikipedia.org/wiki/The_Sims_(video_game))
+- [The Sims 3](https://en.wikipedia.org/wiki/The_Sims_3)
+- [The Sims Online](https://en.wikipedia.org/wiki/The_Sims_Online)
 - [Sins of a Solar Empire: Rebellion](https://en.wikipedia.org/wiki/Sins_of_a_Solar_Empire#Rebellion)
 - [Soldier of Fortune](https://en.wikipedia.org/wiki/Soldier_of_Fortune_(video_game))
 - [Soldier of Fortune II: Double Helix](https://en.wikipedia.org/wiki/Soldier_of_Fortune_II:_Double_Helix)
+- [The Stanley Parable](https://en.wikipedia.org/wiki/The_Stanley_Parable)
 - [StarCraft](https://en.wikipedia.org/wiki/StarCraft_(video_game))
 - [StarCraft: Brood War](https://en.wikipedia.org/wiki/StarCraft:_Brood_War)
 - [StarCraft: Remastered](https://en.wikipedia.org/wiki/StarCraft:_Remastered)
@@ -424,24 +438,6 @@ updated: 2018.03.20:0800
 - [Team Fortress Classic](https://en.wikipedia.org/wiki/Team_Fortress_Classic)
 - [Team Fortress 2](https://en.wikipedia.org/wiki/Team_Fortress_2)
 - [Terraria](https://en.wikipedia.org/wiki/Terraria)
-- [The 7th Guest](https://en.wikipedia.org/wiki/The_7th_Guest)
-- [The 11th Hour](https://en.wikipedia.org/wiki/The_11th_Hour_(video_game))
-- [The Binding of Isaac](https://en.wikipedia.org/wiki/The_Binding_of_Isaac_(video_game))
-- [The Elder Scrolls III: Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind)
-- [The Elder Scrolls III: Tribunal](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Tribunal)
-- [The Elder Scrolls III: Bloodmoon](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Bloodmoon)
-- [The Elder Scrolls IV: Oblivion](https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion)
-- [The Elder Scrolls V: Skyrim](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim)
-- [The Elder Scrolls V: Skyrim - Dawnguard](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_–_Dawnguard)
-- [The Elder Scrolls V: Skyrim - Hearthfire](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_–_Hearthfire)
-- [The Elder Scrolls V: Skyrim - Dragonborn](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_–_Dragonborn)
-- [The Elder Scrolls Online](https://en.wikipedia.org/wiki/The_Elder_Scrolls_Online)
-- [The Sims](https://en.wikipedia.org/wiki/The_Sims_(video_game))
-- [The Sims 3](https://en.wikipedia.org/wiki/The_Sims_3)
-- [The Sims Online](https://en.wikipedia.org/wiki/The_Sims_Online)
-- [The Stanley Parable](https://en.wikipedia.org/wiki/The_Stanley_Parable)
-- [The Witcher](https://en.wikipedia.org/wiki/The_Witcher_(video_game))
-- [The Witness](https://en.wikipedia.org/wiki/The_Witness_(2016_video_game))
 - [Thomas Was Alone](https://en.wikipedia.org/wiki/Thomas_Was_Alone)
 - [TIS-100](https://en.wikipedia.org/wiki/TIS-100)
 - [Tomb Raider](https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game))
@@ -469,6 +465,8 @@ updated: 2018.03.20:0800
 - [Warhammer Online: Age of Reckoning](https://en.wikipedia.org/wiki/Warhammer_Online:_Age_of_Reckoning)
 - [What Remains of Edith Finch](https://en.wikipedia.org/wiki/What_Remains_of_Edith_Finch)
 - [Wing Commander IV: The Price of Freedom](https://en.wikipedia.org/wiki/Wing_Commander_IV:_The_Price_of_Freedom)
+- [The Witcher](https://en.wikipedia.org/wiki/The_Witcher_(video_game))
+- [The Witness](https://en.wikipedia.org/wiki/The_Witness_(2016_video_game))
 - [World of Goo](https://en.wikipedia.org/wiki/World_of_Goo)
 - [World of Warcraft](https://en.wikipedia.org/wiki/World_of_Warcraft)
 - [World of Warcraft: The Burning Crusade](https://en.wikipedia.org/wiki/World_of_Warcraft:_The_Burning_Crusade)
@@ -477,6 +475,8 @@ updated: 2018.03.20:0800
 - [World of Warcraft: Mists of Pandaria](https://en.wikipedia.org/wiki/World_of_Warcraft:_Mists_of_Pandaria)
 - [World of Warcraft: Warlords of Draenor](https://en.wikipedia.org/wiki/World_of_Warcraft:_Warlords_of_Draenor)
 - [World of Warcraft: Legion](https://en.wikipedia.org/wiki/World_of_Warcraft:_Legion)
+- [The 7th Guest](https://en.wikipedia.org/wiki/The_7th_Guest)
+- [The 11th Hour](https://en.wikipedia.org/wiki/The_11th_Hour_(video_game))
 
 ## [Sega Genesis](https://en.wikipedia.org/wiki/Sega_Genesis)
 
@@ -488,6 +488,8 @@ updated: 2018.03.20:0800
 
 ## [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System)
 
+- [The Addams Family](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game))
+- [The Addams Family: Pugley's Scavenger Hunt](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game_series)#The_Addams_Family:_Pugsley.27s_Scavenger_Hunt)
 - [Chrono Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger)
 - [ClayFighter](https://en.wikipedia.org/wiki/ClayFighter)
 - [ClayFighter 2: Judgement Clay](https://en.wikipedia.org/wiki/ClayFighter_2:_Judgment_Clay)
@@ -504,6 +506,8 @@ updated: 2018.03.20:0800
 - [Harvest Moon](https://en.wikipedia.org/wiki/Harvest_Moon_(video_game))
 - [Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park_(SNES_video_game))
 - [Killer Instinct](https://en.wikipedia.org/wiki/Killer_Instinct_(1994_video_game))
+- [The Legend of Zelda: A Link To The Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)
+- [The Lion King](https://en.wikipedia.org/wiki/The_Lion_King_(video_game))
 - [Mario Is Missing](https://en.wikipedia.org/wiki/List_of_Mario_educational_games#Mario_is_Missing.21)
 - [Mario Paint](https://en.wikipedia.org/wiki/Mario_Paint)
 - [Mega Man X](https://en.wikipedia.org/wiki/Mega_Man_X_(video_game))
@@ -530,10 +534,6 @@ updated: 2018.03.20:0800
 - [Super Star Wars: The Empire Strikes Back](https://en.wikipedia.org/wiki/Super_Star_Wars:_The_Empire_Strikes_Back)
 - [Super Star Wars: Return of the Jedi](https://en.wikipedia.org/wiki/Super_Star_Wars:_Return_of_the_Jedi)
 - [Teenage Mutant Ninja Turtles: Turtles In Time](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Turtles_in_Time)
-- [The Addams Family](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game))
-- [The Addams Family: Pugley's Scavenger Hunt](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game_series)#The_Addams_Family:_Pugsley.27s_Scavenger_Hunt)
-- [The Legend of Zelda: A Link To The Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)
-- [The Lion King](https://en.wikipedia.org/wiki/The_Lion_King_(video_game))
 - [Toy Story](https://en.wikipedia.org/wiki/Toy_Story_(video_game))
 - [WWF Raw](https://en.wikipedia.org/wiki/WWF_Raw_(video_game))
 - [Yoshi's Cookie](https://en.wikipedia.org/wiki/Yoshi%27s_Cookie)
@@ -541,14 +541,14 @@ updated: 2018.03.20:0800
 
 ## [Wii](https://en.wikipedia.org/wiki/Wii)
 
-- [Super Smash Bros. Brawl](https://en.wikipedia.org/wiki/Super_Smash_Bros._Brawl)
 - [The Legend of Zelda: Twilight Princess](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Twilight_Princess)
+- [Super Smash Bros. Brawl](https://en.wikipedia.org/wiki/Super_Smash_Bros._Brawl)
 - [Wii Sports](https://en.wikipedia.org/wiki/Wii_Sports)
 - [Wii Sports Resort](https://en.wikipedia.org/wiki/Wii_Sports_Resort)
 
 ## [Wii U](https://en.wikipedia.org/wiki/Wii_U)
 
+- [The Legend of Zelda: The Wind Waker HD](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker_HD)
 - [Super Mario 3D World](https://en.wikipedia.org/wiki/Super_Mario_3D_World)
 - [Super Smash Bros. For Wii U](https://en.wikipedia.org/wiki/Super_Smash_Bros._for_Nintendo_3DS_and_Wii_U)
-- [The Legend of Zelda: The Wind Waker HD](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker_HD)
 - [Wii Fit U](https://en.wikipedia.org/wiki/Wii_Fit_U)
