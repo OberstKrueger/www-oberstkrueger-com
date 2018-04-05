@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2018.03.29:0230
+updated: 2018.04.05:0050
 ---
 
 ## Introduction
@@ -21,7 +21,6 @@ updated: 2018.03.29:0230
 
 ## Health
 
-- [Exercise Routine](/health/exercise-routine)
 - [Iced Coffee](/health/iced-coffee)
 - [Vitamin B<sub>12</sub>](/health/vitamin-b12)
 - [Tracking Sleep](/health/tracking-sleep)
