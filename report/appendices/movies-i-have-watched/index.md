@@ -3,7 +3,7 @@ category: appendices
 created: 2017.08.07:2045
 title: Movies I Have Watched
 type: page
-updated: 2018.03.08:2000
+updated: 2018.04.11:1605
 ---
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
@@ -209,6 +209,7 @@ updated: 2018.03.08:2000
 - [Snow White and the Seven Dwarfs](https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film))
 - [The Social Network](https://en.wikipedia.org/wiki/The_Social_Network)
 - [Spectre](https://en.wikipedia.org/wiki/Spectre_(2015_film))
+- [Speed Racer](https://en.wikipedia.org/wiki/Speed_Racer_(film))
 - [Spirited Away](https://en.wikipedia.org/wiki/Spirited_Away)
 - [Stalag 17](https://en.wikipedia.org/wiki/Stalag_17)
 - [Star Wars: Episode I - The Phantom Menace](https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_–_The_Phantom_Menace)
