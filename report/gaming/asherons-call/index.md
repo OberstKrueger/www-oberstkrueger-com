@@ -3,7 +3,7 @@ category: gaming
 created: 2017.02.08:0700
 title: Asheron's Call
 type: page
-updated: 2017.09.01:0545
+updated: 2018.04.12:0015
 ---
 
 In the 1990s, [MMORPGs](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game) were a new category of gaming. A few early MMORPGs, such as [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights_(1991_video_game)) and [Meridian 59](https://en.wikipedia.org/wiki/Meridian_59) were successful but still niche. With the release of [Asheron's Call](https://en.wikipedia.org/wiki/Asheron%27s_Call), [EverQuest](https://en.wikipedia.org/wiki/EverQuest), and [Ultima Online](https://en.wikipedia.org/wiki/Ultima_Online), the genre entered the mainstream. Together, these three games were commonly referred to as the "Big Three", and helped introduce the genre to the world.
@@ -53,7 +53,7 @@ This approach to the structure of the world is something not even modern games t
 
 From the time it launched through March 2014, the game had monthly updates. These updates added new content to the game, and progressed the story along. Sometimes the changes from these updates could be huge.
 
-One example of a big change was the destruction of Arwic. For the first few years of the game's launch, Arwic was the main place where players gathered to trade and meet up, similar to the [East Commons Tunnel](https://wiki.project1999.com/East_Commonlands) in EverQuest and [Jita](http://wiki.eveuniversity.org/Jita) in [EVE Online](https://en.wikipedia.org/wiki/Eve_Online). During the the [Twilight's Gleaming](http://asheron.wikia.com/wiki/Twilight%27s_Gleaming) event in 2000, Arwic was destroyed. All that was left was ruins. The town has since been rebuilt anew, but for a time, players had to find a new place to gather.
+One example of a big change was the destruction of Arwic. For the first few years of the game's launch, Arwic was the main place where players gathered to trade and meet up, similar to the [East Commons Tunnel](https://wiki.project1999.com/East_Commonlands) in EverQuest and [Jita](http://wiki.eveuniversity.org/Jita) in [EVE Online](https://en.wikipedia.org/wiki/Eve_Online). During the [Twilight's Gleaming](http://asheron.wikia.com/wiki/Twilight%27s_Gleaming) event in 2000, Arwic was destroyed. All that was left was ruins. The town has since been rebuilt anew, but for a time, players had to find a new place to gather.
 
 The world also changed with the seasons. During the winter months, most of the world would be covered in snow, and fall would have the plants and trees starting to die off.
 
