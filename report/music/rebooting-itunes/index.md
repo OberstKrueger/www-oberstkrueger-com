@@ -3,10 +3,10 @@ category: music
 created: 2017.11.06:0805
 title: Rebooting iTunes
 type: page
-updated: 2017.11.06:0805
+updated: 2018.04.12:0030
 ---
 
-Sometime around 2003 or 2004, I received my first [iPod](https://en.wikipedia.org/wiki/IPod). This was the first piece of Apple hardware that I personally owned, although it was not my first experience with the Apple ecosystem. The iPod also introduced me to [iTunes](https://en.wikipedia.org/wiki/ITunes), which ever since has been my primary music application.
+Sometime around 2003 or 2004, I received my first [iPod](https://en.wikipedia.org/wiki/IPod). This was the first piece of Apple hardware that I owned, although it was not my first experience with the Apple ecosystem. The iPod also introduced me to [iTunes](https://en.wikipedia.org/wiki/ITunes), which ever since has been my primary music application.
 
 My first few libraries in iTunes were later wiped, as they were not large collections. But on July 20, 2007, I created an iTunes library that would last for nearly a decade. As of May 31, 2017, this library contained 45,7320 songs and totaled 1.21 terabytes in size, largely due to 41,806 of the songs stored in a [lossless format](https://en.wikipedia.org/wiki/Lossless_compression). This library contained just about every song I listened to while going through college, and a lot of holdovers from high school. The size of the library also forced many of the decisions I made technologically, as I had to be sure to keep it safe in backups. There would be a greater sadness at losing that library than anything else, as so many hundreds of hours went into cataloging the music within it.
 
