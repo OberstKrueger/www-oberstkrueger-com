@@ -3,7 +3,7 @@ category: programming
 created: 2018.03.29:0230
 title: Updating Sublime Text
 type: page
-updated: 2018.03.29:0230
+updated: 2018.04.12:0040
 ---
 
 For 7 years, Sublime Text has been my go-to text editor for everything. No other text editor I have used matches the speed of Sublime, and the customization options available rival most other editors out there.
@@ -56,7 +56,7 @@ Compared to Emacs, Vim is easy to pickup. There are a lot of commands available 
 
 In this way, Atom succeeds. The plugin ecosystem is rich, customizability of the editor is superior to any other option out there, and due to the web-based nature of its GUI, it can perform tasks that command-line editors can not.
 
-But that web-based GUI is the source of Atom's problems. Atom runs on [Electron](https://en.wikipedia.org/wiki/Electron_(software_framework)), which renders all GUI elements of an application as a webpage. The key advantage of Electron is that it is easy to create cross-platform applications with it. The downside is performance. Atom is slower in almost every way compared to every other editor and IDE that I have used. Even [JetBrain's](https://en.wikipedia.org/wiki/JetBrains) IDEs, which runs on [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), is faster than Atom. Atom is slower to open, introduces significant typing lag, and does not support large files.
+Unfortunately, that web-based GUI is the source of Atom's problems. Atom runs on [Electron](https://en.wikipedia.org/wiki/Electron_(software_framework)), which renders all GUI elements of an application as a webpage. The key advantage of Electron is that it is easy to create cross-platform applications with it. The downside is performance. Atom is slower in almost every way compared to every other editor and IDE that I have used. Even [JetBrain's](https://en.wikipedia.org/wiki/JetBrains) IDEs, which runs on [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), is faster than Atom. Atom is slower to open, introduces significant typing lag, and does not support large files.
 
 My experience with Atom always comes in groups of a few days each. Whenever there is a new release, I try it again for a few small tasks. Despite performance getting better with each update, it still is far from being acceptable for me. It also brings nothing to the table that can't be replicated by IDEs. Since it is heavier than JetBrains IDEs and Xcode, I will opt to use those for IDE tasks.
 
