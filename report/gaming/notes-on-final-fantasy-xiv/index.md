@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2017.10.17:2015
+updated: 2018.04.12:0015
 ---
 
 ## Trials
@@ -48,7 +48,7 @@ updated: 2017.10.17:2015
 ### The Final Steps of Faith
 
 1. Phase 1: Face Nidhogg away from party.
-2. Phase 1: When adds spawn, MT grabs one of the adds that isn't the Shadow Dragon, and OT grabs the other. Face both away from party. Kill ASAP.
+2. Phase 1: When adds spawn, MT grabs one of the adds that isn't the Shadow Dragon, and OT grabs the other. Face both away from party.
 3. Phase 2: Face Nidhogg away from party.
 4. Phase 2: If marked, move towards the walls spread out. Will follow up with line attacks towards the center of arena.
 5. Phase 3: Same as Phase 1, with additional following mechanics.
@@ -60,7 +60,7 @@ updated: 2017.10.17:2015
 1. Keep Garuda facing away from the center rocks.
 2. Slipstream: Frontal cone, move to the side.
 3. Mistral Song / Aerial Blast: LOS attack, keep a rock between yourself and Garuda.
-4. Razor Plumes: Adds, kill ASAP.
+4. Razor Plumes: Kill adds.
 5. Phase 2 Mistral Song: Move behind Garuda.
 
 ### The Howling Eye (Hard)
@@ -68,7 +68,7 @@ updated: 2017.10.17:2015
 1. Phase 1: Identical to Normal.
 2. Phase 2: Tank in northwest corner, avoiding green AE circles on the ground.
 3. Phase 3: Two adds spawn. Kill add with green beam between her and Garuda, and then kill other add.
-4. Satin Plume: Kill ASAP.
+4. Satin Plume: Kill.
 5. Eye of the Storm: Move to the center and do not touch blue areas. Kill two adds.
 
 ### The Navel (Normal)
