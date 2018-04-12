@@ -3,7 +3,7 @@ category: gaming
 created: 2016.06.22:0745
 title: Disabling Gaming Platforms’ Social Features
 type: page
-updated: 2017.10.09:1145
+updated: 2018.04.12:0005
 ---
 
 Most modern game platforms include a number of forced social features. They can be difficult to hide, and some platforms do not allow you to disable them at all.
@@ -36,7 +36,7 @@ Blizzard's classic games do not have any force achievements or social features. 
 
 GOG Galaxy is much less intrusive than Steam is. The application can be used to download games, and then closed out when playing the games. It does not provide a DRM scheme that needs to be authenticated against. It has a friends list, game downloader, store front, and nothing more.
 
-An achievement system is integrated within GOG Galaxy, but unlike most other platforms, it can be disabled completely. Additionally, time tracking of games can also be disabled. These features are automatically not in use if you are playing the game with GOG Galaxy closed, but being able to disable them and letting the client stay open is a plus. Settings on GOG Galaxy are not synced between clients, so they must be set for each machine that you run it on. GOG is very upfront about the settings and makes disabling them easy.
+An achievement system is integrated within GOG Galaxy, but unlike most other platforms, it can be disabled completely. Additionally, time tracking of games can also be disabled. These features are automatically not in use if you are playing the game with GOG Galaxy closed, but being able to disable them and letting the client stay open is a plus. Settings on GOG Galaxy are not synced between clients, so they must be set for each machine that you run it on. GOG is upfront about the settings and makes disabling them easy.
 
 The only feature that can not be fully disabled is the friends list. If you wish to not participate with this feature, the only solution is to not add any friends to it.
 
