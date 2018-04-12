@@ -3,7 +3,7 @@ category: life
 created: 2017.11.12:0800
 title: Selecting Movies
 type: page
-updated: 2017.11.12:0800
+updated: 2018.04.12:0025
 ---
 
 One of my goals in life is to not fall into a rut. I do not want to be that person who listens to the same music as when they were growing up, reads the same books over and over, or watches the same television shows and movies.
@@ -14,7 +14,7 @@ Not seeing every movie released is realistic for how much free time I have right
 
 Going forward, I plan to watch a single movie every other week, carving out the few hours as needed. While it could be argued that there are [flaws in IMDb's Top 250 list](http://www.rogerebert.com/answer-man/does-imdbs-top-250-films-list-have-a-long-term-memory-gap), it is a good starting point for catching up on movies to watch.
 
-Allowing tangents from the list will be necessary. Some movies do not make sense to watch in isolation. For example, of the 8 [Harry Potter films](https://en.wikipedia.org/wiki/Harry_Potter_(film_series)), [The Deathly Hallows: Part 2](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_–_Part_2) is the only one on the Top 250 list. Watching that without having seen the previous 7 makes no sense, as I lose all context of what makes the movie great. Therefore, to check that item off of the list, I must watch all 8 of the movies in total. Additionally, some of my favorite directors and writers are not guaranteed to release movies that will be critically acclaimed, but I will still take the time to watch their movies.
+Allowing tangents from the list will be necessary. Some movies do not make sense to watch in isolation. For example, of the 8 [Harry Potter films](https://en.wikipedia.org/wiki/Harry_Potter_(film_series)), [The Deathly Hallows: Part 2](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_–_Part_2) is the only one on the Top 250 list. Watching that without having seen the previous 7 makes no sense, as I lose all context of what makes the movie great. Therefore, to check that item off the list, I must watch all 8 of the movies in total. Additionally, some of my favorite directors and writers are not guaranteed to release movies that will be critically acclaimed, but I will still take the time to watch their movies.
 
 Once the Top 250 list is complete, I will go down [IMDb's list of ratings](http://www.imdb.com/search/title?count=100&my_ratings=exclude&num_votes=25000,&release_date=,2013&sort=user_rating,desc&title_type=feature) that excludes any movie I have watched and rated. This list will exclude movies released within the past year, as new movies ratings tend to be quite volatile and do not provide a clear view of the actual quality.
 
