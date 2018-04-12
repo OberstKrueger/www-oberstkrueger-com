@@ -3,7 +3,7 @@ category: programming
 created: 2017.08.26:1615
 title: Scripting With Swift
 type: page
-updated: 2017.09.01:0545
+updated: 2018.04.12:0035
 ---
 
 One of the strengths of any [Unix](https://en.wikipedia.org/wiki/Unix)-based operating system is the ability to automate it using custom scripts. A typical script is created using [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) or [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) and run through the terminal or automated using something like systemd or launchd.
@@ -112,6 +112,6 @@ AppleScript has its place, but wrapped up in Swift is not one of them, at least 
 
 Using the above Bash method, scripting with Swift is quite powerful. I have already begun to replace other scripts of mine using this, and as I get into more advanced ones, Swift provides the same sort of APIs as Python for interacting with the computer.
 
-For myself, Swift is ready to fill this role. Python is a more concise language, but Swift's syntax makes for a very clean scripting environment. Swift support in editors such as [Atom](https://atom.io), [Sublime Text](https://www.sublimetext.com), and [Visual Studio Code](https://code.visualstudio.com) are getting better, allowing for the creation of Swift scripts without the need for a heavy IDE like [AppCode](http://www.jetbrains.com/objc) or [Xcode](https://developer.apple.com/xcode).
+For myself, Swift is ready to fill this role. Python is a more concise language, but Swift's syntax makes for a clean scripting environment. Swift support in editors such as [Atom](https://atom.io), [Sublime Text](https://www.sublimetext.com), and [Visual Studio Code](https://code.visualstudio.com) are getting better, allowing for the creation of Swift scripts without the need for a heavy IDE like [AppCode](http://www.jetbrains.com/objc) or [Xcode](https://developer.apple.com/xcode).
 
 It will be some time before all of my scripts are converted from Python to Swift. But every script I make in the future will be done in Swift, without exception.
