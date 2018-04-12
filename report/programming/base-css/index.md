@@ -3,7 +3,7 @@ category: programming
 created: 2017.08.06:1745
 title: base-css
 type: page
-updated: 2017.09.11:1445
+updated: 2018.04.12:0030
 ---
 
 I have never been keen to using larger full-featured web frameworks like [Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)). While Bootstrap provides a lot of advanced features, CSS Has something that I have always enjoyed crafting by hand. At the same time, most of my projects start with me taking some boilerplate from previous projects and then building on top of that. Up until now, I have not have a specific source of this boilerplate that I pulled from. To rectify this, I created base-css.
@@ -16,7 +16,7 @@ The goal is to be good looking uniform typography that still fits in with the en
 
 By default, base-css has a tighter line-height than most: 1.375. With a mobile-focused world, it felt right to decrease line size as many people will be reading on smaller devices with shorter lines. Large line-heights can waste space in this reading environment, and when the width is small enough, tracking between lines is not a problem at this particular line-height.
 
-HTML and Markdown provide 6 levels of headers, but I personally feel that that is too many. My own work uses 3 levels at most. To help with accidentally using a deeper level of header, I provided styles only for header levels 1, 2, and 3, with 4, 5, and 6 mirroring how 3 looks.
+HTML and Markdown provide 6 levels of headers, but I feel that that is too many. My own work uses 3 levels at most. To help with accidentally using a deeper level of header, I provided styles only for header levels 1, 2, and 3, with 4, 5, and 6 mirroring how 3 looks.
 
 Basic print styles are included in the elements where it makes sense.
 
