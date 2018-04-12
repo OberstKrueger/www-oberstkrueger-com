@@ -3,7 +3,7 @@ category: health
 created: 2016.03.27:1230
 title: Tracking Sleep
 type: page
-updated: 2017.09.01:0545
+updated: 2018.04.12:0020
 ---
 
 While much of the focus on the [Apple Watch](https://www.apple.com/watch/) has centered around notifications and interactions between it and the phone, what interests me most about the device is using it for new tasks that the [iPhone](https://www.apple.com/iphone/) and my [Mac Mini](https://www.apple.com/mac-mini/) can not do. The big area that the Apple Watch can do that the other devices can not is health tracking.
@@ -28,7 +28,7 @@ In addition, AutoSleep syncs with [Apple Health](https://www.apple.com/ios/healt
 	<figcaption>Summaries for Day, Month, Week, and Year provided by Health</figcaption>
 </figure>
 
-In the past, I have used [Sleep Cycle](http://www.sleepcycle.com), but this app's method of sleep tracking presented many problems. Having my phone laying on the bed next to me left me nervous that I was going to roll over and knock it off of the bed, losing out on the sleep tracking and/or damaging the phone. Sleep Cycle now uses a method that captures the sound in the room to determine restfulness, but since I am not the only one sleeping in the same bed, I worry about inaccuracies in its recording.
+In the past, I have used [Sleep Cycle](http://www.sleepcycle.com), but this app's method of sleep tracking presented many problems. Having my phone laying on the bed next to me left me nervous that I was going to roll over and knock it off the bed, losing out on the sleep tracking and/or damaging the phone. Sleep Cycle now uses a method that captures the sound in the room to determine restfulness, but since I am not the only one sleeping in the same bed, I worry about inaccuracies in its recording.
 
 Unrelated to AutoSleep, the Apple Watch makes a great alarm clock. The Watch is able to wake me up with a light tapping that is not jarring and also does not disturb Whitney. While I typically wake up on my own before I need to, this makes a great backup in case I sleep in longer than I should.
 
