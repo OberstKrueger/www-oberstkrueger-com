@@ -3,10 +3,10 @@ category: trips
 created: 2017.08.22:0830
 title: Solar Eclipse - 2017
 type: page
-updated: 2017.09.01:0545
+updated: 2018.04.12:0040
 ---
 
-On August 21, 2017, a [solar eclipse passed over the US](https://en.wikipedia.org/wiki/Solar_eclipse_of_August_21,_2017). Astronomy events such as this are fun to watch, but this particular eclipse became such a huge event that traveling far for it would be difficult and time consuming. Thankfully, we did not have to go far to have a great viewing experience.
+On August 21, 2017, a [solar eclipse passed over the US](https://en.wikipedia.org/wiki/Solar_eclipse_of_August_21,_2017). Astronomy events such as this are fun to watch, but this particular eclipse became such a huge event that traveling far for it would be difficult and time consuming. We did not have to go far to have a great viewing experience.
 
 <figure>
 	<img src='/images/solar-eclipse-2017_times.jpg'>
