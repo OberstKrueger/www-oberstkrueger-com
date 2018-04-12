@@ -3,7 +3,7 @@ category: programming
 created: 2017.04.06:0845
 title: Project Euler In Swift
 type: page
-updated: 2017.11.27:1340
+updated: 2018.04.12:0240
 ---
 
 My favorite way to learn a new programming language is using problems from [Project Euler](https://projecteuler.net). These problems are largely math problems, with a smattering of cryptography and other such topics. Many of the problems can be brute forced, but even on modern CPUs, these can take minutes or hours to solve. To truly solve the problem, one must come up with an efficient algorithm, and most are solvable in only a few seconds of time.
@@ -501,8 +501,8 @@ For most purposes, using the amount code and counting the numbers in the array i
 
 ## Problem 013 - Large Sum
 
-Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
-
+> Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
+> 
 > 37107287533902102798797998220837590246510135740250
 > 46376937677490009712648124896970078050417018260538
 > 74324986199524741059474233309513058123726617309629
@@ -609,4 +609,79 @@ Work out the first ten digits of the sum of the following one-hundred 50-digit n
 	func p013(_ input: [String] = p013_input) -> String {
 		let output: String = input.reduce(Decimal(0), {$0 + Decimal(string: $1)!}).description
 		return output.prefix(10).description
+	}
+
+## Problem 014 - Longest Collatz Sequence
+
+> The following iterative sequence is defined for the set of positive integers:
+> 
+> n → n/2 (n is even)
+> n → 3n + 1 (n is odd)
+> 
+> Using the rule above and starting with 13, we generate the following sequence:
+> 
+> 13 → 40 → 20 → 10 → 5 → 16 → 8 → 4 → 2 → 1
+> It can be seen that this sequence (starting at 13 and finishing at 1) contains 10 terms. Although it has not been proved yet (Collatz Problem), it is thought that all starting numbers finish at 1.
+> 
+> Which starting number, under one million, produces the longest chain?
+> 
+> NOTE: Once the chain starts the terms are allowed to go above one million.
+
+	struct collatzStruct {
+		var counts: [Int: Int] = [1:1]
+
+		mutating func collatzCount(_ input: Int) -> Int {
+			if counts.keys.contains(input) == false {
+				if input % 2 == 0 {
+					counts[input] = collatzCount(input / 2) + 1
+				} else {
+					counts[input] = collatzCount(((3 * input) + 1) / 2) + 2
+				}
+			}
+
+			return counts[input, default: 0]
+		}
+
+		mutating func collatzSequence(_ input: Int) -> [Int] {
+			var number: Int = input
+			var output: [Int] = [input]
+
+			while number != 1 {
+				if number % 2 == 0 { number = number / 2 }
+				else { number = (3 * number) + 1 }
+				output.append(number)
+			}
+
+			if counts.keys.contains(output.count) == false {
+				counts[input] = output.count
+			}
+
+			return output
+		}
+	}
+
+	func p014(_ input: Int = 1_000_000) -> Int {
+		var ccs = collatzStruct()
+		var highCount: Int = 0
+		var output: Int = 0
+
+		for number in stride(from: input - 1, to: input / 2, by: -2) {
+			let testCount: Int = ccs.collatzCount(number)
+			if testCount > highCount {
+				highCount = testCount
+				output = number
+			}
+		}
+
+		return output
+	}
+
+## Problem 015 - Lattice Paths
+
+> Starting in the top left corner of a 2×2 grid, and only being able to move to the right and down, there are exactly 6 routes to the bottom right corner.
+> 
+> How many such routes are there through a 20×20 grid?
+
+	func p015(_ input: Int = 20) -> Int {
+		return (1...input).reduce(1, {$0 * (input + $1) / $1})
 	}
