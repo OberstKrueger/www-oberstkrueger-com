@@ -3,7 +3,7 @@ category: trips
 created: 2017.08.14:1100
 title: Walt Disney World - 2016
 type: page
-updated: 2017.09.01:0545
+updated: 2018.04.12:0040
 ---
 
 ### The Grand Floridian and Boardwalk Villas
@@ -29,7 +29,7 @@ Of note around the resorts is the number of lizards that call Walt Disney World 
 
 ### The Sci-Fi Dine-In Theater
 
-One of best parts of this trip was discovering the [Sci-Fi Dine-In Theater](https://en.wikipedia.org/wiki/Sci-Fi_Dine-In_Theater_Restaurant). Normally, a restaurant would not rate too highly up on my list of things that I enjoyed, but this restaurant had everything down perfect. The theme of the restaurant is in the style of old [drive-in theaters](https://en.wikipedia.org/wiki/Drive-in_theater). The food here was excellent, and the ambiance of cheesy sci-fi movies from the 1950's and 1960's made for some wonderful meals.
+One of best parts of this trip was discovering the [Sci-Fi Dine-In Theater](https://en.wikipedia.org/wiki/Sci-Fi_Dine-In_Theater_Restaurant). Normally, a restaurant would not rate too highly up on my list of things that I enjoyed, but this restaurant had everything down perfect. The theme of the restaurant is in the style of old [drive-in theaters](https://en.wikipedia.org/wiki/Drive-in_theater). The food here was excellent, and the ambiance of cheesy sci-fi movies from the 1950s and 1960s made for some wonderful meals.
 
 <figure>
 	<img src='/images/walt-disney-world-2016_theater-cars.jpg'>
