@@ -3,7 +3,7 @@ category: technology
 created: 2017.02.27:1700
 title: Software Tools
 type: page
-updated: 2017.03.29:0245
+updated: 2018.04.18:0420
 ---
 
 Choosing the right software for the job can be a painstaking process. On all of the major platforms, there is a plethora of tools available for most tasks. Picking the first thing that comes along without evaluating all of the options might save some time up front, but it will lead to headaches further on down the line.
@@ -118,9 +118,9 @@ This is my criteria for all software that I use. When evaluating new application
 
 ### Command-Line Terminal
 
-**Name**: [iTerm](https://www.iterm2.com)
+**Name**: [Alacritty](https://github.com/jwilm/alacritty), [iTerm](https://www.iterm2.com)
 **Used Since**: December 25, 2007<br>
-**Previously Used**: [Alacritty](https://github.com/jwilm/alacritty), [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS))<br>
+**Previously Used**: [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS))<br>
 
 ### File Backup
 
