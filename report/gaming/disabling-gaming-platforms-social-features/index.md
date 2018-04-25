@@ -3,7 +3,7 @@ category: gaming
 created: 2016.06.22:0745
 title: Disabling Gaming Platforms’ Social Features
 type: page
-updated: 2018.04.25:0415
+updated: 2018.04.25:0430
 ---
 
 Most modern game platforms include a number of forced social features. They can be difficult to hide, and some platforms do not allow you to disable them at all.
@@ -40,7 +40,7 @@ An achievement system is integrated within GOG Galaxy, but unlike most other pla
 
 The only feature that can not be fully disabled is the friends list. If you wish to not participate with this feature, the only solution is to not add any friends to it.
 
-For those who do not wish to disable every feature, GOG offers granular control over every option. Certain features can be left on, and all notifications by GOG Galaxy allow you to be notified by a desktop popup, a sound, or both. 
+For those who do not wish to disable every feature, GOG offers granular control over every option. Certain features can be left on, and all notifications by GOG Galaxy allow you to be notified by a desktop pop-up, a sound, or both. 
 
 <figure class="half">
 <img src="/images/disabling-gaming-platforms-social-features_gog.png">
@@ -63,3 +63,15 @@ The second setting is to either log out of Steam Friends, or set it so that it d
 </figure>
 
 Achievement tracking as a whole can not be disabled. While they can not be seen in-game with the Steam overlay off, they will still display in your profile and on your library screen. It is possible to make your player profile hidden from everyone, including friends, but this can break functionality of outside services, such as [GOG Connect](https://www.gog.com/connect).
+
+## Xbox Live
+
+[Windows 10](https://en.wikipedia.org/wiki/Windows_10) introduced support for [Xbox Live](https://en.wikipedia.org/wiki/Xbox_Live). This support includes achievement tracking, friends lists, and messaging. Not all of the features can be disabled, but there is support for making the gaming experiences quieter.
+
+The most important of these features is making minimizing messaging. From the main profile screen, there is a button titled "Appear Offline". Clicking this will do exactly as it says: you will appear offline to those on your friends list while still remaining logged into Xbox Live. Additionally, there are settings in the application for fine-grained control over what notifications will be displayed. Different types of notifications can be disabled or enabled at will.
+
+<figure class="half">
+<img src="images/disabling-gaming-platforms-social-features_xbox.png">
+</figure>
+
+Achievement tracking can not be disabled entirely, but this rarely seems to be an issue on a PC. Most games that Xbox Live recognizes do not include achievements, even cross-platform games that are also available on Xbox Live.
