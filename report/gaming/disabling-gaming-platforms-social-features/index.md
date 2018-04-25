@@ -3,14 +3,14 @@ category: gaming
 created: 2016.06.22:0745
 title: Disabling Gaming Platforms’ Social Features
 type: page
-updated: 2018.04.12:0005
+updated: 2018.04.25:0415
 ---
 
 Most modern game platforms include a number of forced social features. They can be difficult to hide, and some platforms do not allow you to disable them at all.
 
 Since most of my gaming is on the PC, I wanted to look at all of the platforms that I use and see what would be the best way to remove as many of these social features as possible. If it is not possible to disable the feature, I at least wanted to hide them.
 
-### Blizzard
+## Blizzard
 
 There are two main ways to play Blizzard games: download the individual clients from the [Battle.net](http://us.battle.net/en/) website, or download the [Blizzard Desktop App](http://us.battle.net/en/app/). Unfortunately, Blizzard [mandated the use of the Blizzard Desktop App for all of their modern games](http://us.battle.net/wow/en/blog/14568367/upgrade-to-the-battlenet®-desktop-app-6-24-2014). Even games like [World of Warcraft](http://us.battle.net/wow/en/) that launched before the Desktop App existed are forced to use the Blizzard Desktop App.
 
@@ -30,7 +30,7 @@ Achievements are handled by each individual game, none of which can be disabled 
 
 Blizzard's classic games do not have any force achievements or social features. They can all be played single-player without logging into anything. The [Battle.net](https://en.wikipedia.org/wiki/Battle.net) interface for those games functions separate from the current iteration of Battle.net, so one can play Starcraft multiplayer without showing up to all of their [Overwatch](https://playoverwatch.com) friends.
 
-### GOG
+## GOG
 
 [GOG.com](https://gog.com), formerly Good Old Games, is similar to Blizzard in that games can be downloaded either through their website or through a desktop application called [GOG Galaxy](https://www.gog.com/galaxy). GOG Galaxy is optional, and one can make use of GOG without ever installing it.
 
@@ -46,7 +46,7 @@ For those who do not wish to disable every feature, GOG offers granular control 
 <img src="/images/disabling-gaming-platforms-social-features_gog.png">
 </figure>
 
-### Steam
+## Steam
 
 [Steam](http://steampowered.com) was the easiest to get into a more quiet state. There are two settings that need to be changed.
 
