@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2018.04.05:0200
+updated: 2018.04.26:1655
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -202,6 +202,7 @@ updated: 2018.04.05:0200
 - [Baldur's Gate: Tales of the Sword Coast](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Tales_of_the_Sword_Coast)
 - [Baldur's Gate II: Shadows of Amn](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn)
 - [Baldur's Gate II: Throne of Bhaal](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal)
+- [BattleTech](https://en.wikipedia.org/wiki/BattleTech_(video_game))
 - [Bayonetta](https://en.wikipedia.org/wiki/Bayonetta)
 - [The Binding of Isaac](https://en.wikipedia.org/wiki/The_Binding_of_Isaac_(video_game))
 - [BioShock](https://en.wikipedia.org/wiki/BioShock)
