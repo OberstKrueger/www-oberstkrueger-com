@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2018.04.12:0015
+updated: 2018.04.25:1935
 ---
 
 ## Trials
@@ -159,3 +159,15 @@ In Phase 2, the DPS will kill adds in this order:
 11. Flare: All marked players move away.
 12. Meteor: High unavoidable damage.
 13. Black Hole: Places black holes around arena that debuts.
+
+### Sigmascape V1.0 (Normal)
+
+1. Spooky Ghosts: Avoid these AEs.
+2. Head On: Move to the rear end of the platform.
+3. Spotlight: If marked with this, move the trailing light towards a ghost without touching the ghost.
+4. Diabolical Whistle: Ghost followed marked player. Bring it into a Spotlight.
+5. Diabolic Headlamp: Line up between boss and marked player.
+6. Doomstrike: Tank buster.
+7. Diabolical Wind: Move away from other players.
+8. Diabolical Light: Move to the back of the platform.
+9. Phase 2: Run into a ghost before dying.
