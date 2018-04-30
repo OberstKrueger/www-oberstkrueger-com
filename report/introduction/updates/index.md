@@ -16,7 +16,7 @@ One of the big reasons that I continue to keep macOS as my primary operating sys
 
 [Disabling Gaming Platforms' Social Features](https://krueger.report/gaming/disabling-gaming-platforms-social-features/) now includes information about disabling certain features of Xbox Live on Windows. This is largely not a concern as there is little functionality within Xbox Live on Windows, but being able to control it some is still a plus.
 
-[Scripting with Swift](https://krueger.report/programming/scripting-with/swift) has been updated to include more guidance on how to use Swift for command-line scripting purposes. One of my favorite aspects of Swift is how well it works for scripting, so I have expanded on why it is so great.
+[Scripting with Swift](https://krueger.report/programming/scripting-with-swift) has been updated to include more guidance on how to use Swift for command-line scripting purposes. One of my favorite aspects of Swift is how well it works for scripting, so I have expanded on why it is so great.
 
 ### Favorite Articles
 
