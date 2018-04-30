@@ -3,10 +3,74 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2018.03.31:1715
+updated: 2018.04.30:1420
 ---
 
-## 2018.03
+## 2018.04
+
+### CLI Tools
+
+One of the big reasons that I continue to keep macOS as my primary operating system is the first-class terminal access that it provides. Much of my work is done in GUI applications, but a command-line is always present on my screen. [CLI Tools](https://krueger.report/technology/cli-tools) is a list of all of my currently used tools, with a quick reference for the most commonly used commands. 
+
+### Updates
+
+[Disabling Gaming Platforms' Social Features](https://krueger.report/gaming/disabling-gaming-platforms-social-features/) now includes information about disabling certain features of Xbox Live on Windows. This is largely not a concern as there is little functionality within Xbox Live on Windows, but being able to control it some is still a plus.
+
+[Scripting with Swift](https://krueger.report/programming/scripting-with/swift) has been updated to include more guidance on how to use Swift for command-line scripting purposes. One of my favorite aspects of Swift is how well it works for scripting, so I have expanded on why it is so great.
+
+### Favorite Articles
+
+- [AirPods and the three stages of Apple criticism](https://medium.com/@ReThinkReviews/airpods-and-the-three-stages-of-apple-criticism-fed70b84e435)
+- [Apple hires Google's A.I. chief](https://www.nytimes.com/2018/04/03/business/apple-hires-googles-ai-chief.html)
+- [Apple's 2019 Mac Pro will be shaped by workflows](https://techcrunch.com/2018/04/05/apples-2019-imac-pro-will-be-shaped-by-workflows/)
+- [Chat is Google's next big fix for Android's messaging mess](https://www.theverge.com/2018/4/19/17252486/google-android-messages-chat-rcs-anil-sabharwal-imessage-texting)
+- [Don’t give away historic details about yourself](https://krebsonsecurity.com/2018/04/dont-give-away-historic-details-about-yourself/)
+- [Dumber phone](https://nomasters.io/posts/dumber-phone/)
+- [The end of Windows](https://stratechery.com/2018/the-end-of-windows/)
+- [Everything you know about web design just changed by Jen Simmons](https://adactio.com/journal/13671)
+- [The Facebook current](https://stratechery.com/2018/the-facebook-current/)
+- [Facebook starts its facial recognition push to Europeans](https://techcrunch.com/2018/04/20/just-say-no/)
+- [FoundationDB is open source](https://www.foundationdb.org/blog/foundationdb-is-open-source/)
+- [Gradual programming](http://willcrichton.net/notes/gradual-programming/)
+- [I'm sorry to report Instagram is bad now](https://www.buzzfeed.com/katienotopoulos/what-if-instagram-is-bad-now?utm_term=.edKjRmoYM#.rkRE2JvlD)
+- [Impressions of Project Gorgon from an Asheron's Call player](http://massivelyop.com/2018/04/24/impressions-of-project-gorgon-from-an-asherons-call-player/)
+- [It's time for an RSS revival](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/)
+- [A look at terminal emulators, part 1](https://lwn.net/Articles/749992/)
+- [A look at terminal emulators, part 2](https://lwn.net/Articles/751763/)
+- [The menu bar](http://wormsandviruses.com/2018/03/the-menu-bar/)
+- [The Netherlands declares some loot boxes are gambling](https://www.eurogamer.net/articles/2018-04-19-the-netherlands-declares-some-loot-boxes-are-gambling)
+- [Next generation video: introducing AV1](https://people.xiph.org/~xiphmont/demo/av1/demo1.shtml)
+- [No boundaries for Facebook data: third-party trackers abuse Facebook Login](https://freedom-to-tinker.com/2018/04/18/no-boundaries-for-facebook-data-third-party-trackers-abuse-facebook-login/)
+- [Pahrump-based radio host Art Bell dies at 72](https://www.reviewjournal.com/local/local-nevada/pahrump-based-radio-host-art-bell-dies-at-72/)
+- [Palantir knows everything about you](https://www.bloomberg.com/features/2018-palantir-peter-thiel/)
+- [The price of free is actually too high](https://www.feld.com/archives/2018/04/the-price-of-free-is-actually-too-high.html)
+- [Productivity](https://blog.samaltman.com/productivity)
+- [Programming languages and empiricism](https://graydon2.dreamwidth.org/259333.html)
+- [Relative's DNA from genealogy websites cracked East Area Rapist case](http://www.sacbee.com/news/local/crime/article209913514.html)
+- [Russia to block Telegram app over encryption](http://www.bbc.com/news/technology-43752337)
+- [Social media and mental health](https://sanctus.io/social-media-mental-health-b1803b6b475f)
+- [Visually mapping gopher space in 2018](http://www.jaruzel.com/blog/Visually-Mapping-Gopherspace-in-2018)
+- [What I learned by living without artificial light](http://www.bbc.com/future/story/20180424-what-i-learnt-by-living-without-artificial-light)
+- [The woman who gave the Macintosh a smile](https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile)
+
+### Books Read
+
+- Garriott, Richard - Explore/Create: My Life in Pursuit of New Frontiers, Hidden Worlds, and the Creative Spark
+- Greene, Brian - The Fabric of the Cosmos: Space, Time, and the Texture of Reality
+
+### Games Played
+
+- [BattleTech](https://en.wikipedia.org/wiki/BattleTech_(video_game))
+- [BioShock](https://en.wikipedia.org/wiki/BioShock)
+- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
+- [Heroes of the Storm](https://us.battle.net/heroes/en/)
+- [StarCraft II: Legacy of the Void](http://us.battle.net/sc2/en/)
+
+### Movies Watched
+
+- [Speed Racer](https://en.wikipedia.org/wiki/Speed_Racer_(film))
+
+# 2018.03
 
 ### Updating Sublime
 
