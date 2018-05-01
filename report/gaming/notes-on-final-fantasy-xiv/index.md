@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2018.04.25:1935
+updated: 2018.05.01:1535
 ---
 
 ## Trials
@@ -171,3 +171,13 @@ In Phase 2, the DPS will kill adds in this order:
 7. Diabolical Wind: Move away from other players.
 8. Diabolical Light: Move to the back of the platform.
 9. Phase 2: Run into a ghost before dying.
+
+### Sigmascape V2.0 (Normal)
+
+1. Demonic Shear: Tank buster.
+2. Prey: Move away from the rest of the group.
+3. Possession on fire painting: Use duty action on the water sketch.
+4. Possession on earth painting: Use duty action on the air force sketch.
+5. Possession on water painting: One player uses their duty action on boulder sketch, then everyone hides behind the boulder.
+6. Possession on wind painting: One player uses duty action on typhon sketch, then pushes adds away.
+7. Phase 2: Uses possession on 2 paintings at once.
