@@ -3,7 +3,7 @@ category: programming
 created: 2017.04.06:0845
 title: Project Euler In Swift
 type: page
-updated: 2018.04.12:0240
+updated: 2018.05.02:0400
 ---
 
 My favorite way to learn a new programming language is using problems from [Project Euler](https://projecteuler.net). These problems are largely math problems, with a smattering of cryptography and other such topics. Many of the problems can be brute forced, but even on modern CPUs, these can take minutes or hours to solve. To truly solve the problem, one must come up with an efficient algorithm, and most are solvable in only a few seconds of time.
@@ -684,4 +684,35 @@ For most purposes, using the amount code and counting the numbers in the array i
 
 	func p015(_ input: Int = 20) -> Int {
 		return (1...input).reduce(1, {$0 * (input + $1) / $1})
+	}
+
+## Problem 016 - Power Digit Sum
+
+> 2^15 = 32768 and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.
+> 
+> What is the sum of the digits of the number 2^1000?
+
+	import Foundation
+
+	func p016(_ input: Int = 1_000) -> Int {
+	    var carryOver: UInt8 = 0
+	    var digits: [UInt8] = [1]
+
+	    for _ in 1...input {
+	        for index in 0..<digits.endIndex {
+	            digits[index] = (digits[index] * 2) + carryOver
+	            if digits[index] >= 10 {
+	                digits[index] -= 10
+	                carryOver = 1
+	            } else {
+	                carryOver = 0
+	            }
+	        }
+	        if carryOver > 0 {
+	            digits.append(carryOver)
+	            carryOver = 0
+	        }
+	    }
+
+	    return digits.reduce(0, {$0 + Int($1)})
 	}
