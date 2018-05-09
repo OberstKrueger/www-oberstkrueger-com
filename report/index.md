@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2018.05.09:0210
+updated: 2018.05.09:03:25
 ---
 
 ## Introduction
@@ -53,7 +53,7 @@ updated: 2018.05.09:0210
 ## Music
 
 - [Rebooting iTunes](/music/rebooting-itunes)
-- [Work Music](/life/work-music)
+- [Work Music](/music/work-music)
 
 ## Trips
 
