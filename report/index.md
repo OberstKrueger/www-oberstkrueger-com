@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2018.04.25:0325
+updated: 2018.05.09:0210
 ---
 
 ## Introduction
@@ -28,7 +28,6 @@ updated: 2018.04.25:0325
 ## Life
 
 - [Selecting Movies](/life/selecting-movies)
-- [Work Music](/life/work-music)
 - [Years In Review](/life/years-in-review)
 
 ## Programming
@@ -54,6 +53,7 @@ updated: 2018.04.25:0325
 ## Music
 
 - [Rebooting iTunes](/music/rebooting-itunes)
+- [Work Music](/life/work-music)
 
 ## Trips
 
