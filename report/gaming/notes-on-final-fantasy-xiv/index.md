@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2018.05.01:1535
+updated: 2018.05.10:0420
 ---
 
 ## Trials
@@ -181,3 +181,13 @@ In Phase 2, the DPS will kill adds in this order:
 5. Possession on water painting: One player uses their duty action on boulder sketch, then everyone hides behind the boulder.
 6. Possession on wind painting: One player uses duty action on typhon sketch, then pushes adds away.
 7. Phase 2: Uses possession on 2 paintings at once.
+
+### Sigmascape V3.0 (Normal)
+
+1. Watch the screens at the north end of the arena. They telegraph what abilities it will use next.
+2. Arm and Hammer: Tank buster.
+3. All of the following programs spawn an add that must be tanked by the OT.
+4. Ultros Program: Avoid AEs and tenacles.
+5. Dadaluma Program: Stand in a green circle.
+6. Air Force Program: Avoid AEs and missiles.
+7. Bibliotaph Program: Groups of 3 must stand in each circle.
