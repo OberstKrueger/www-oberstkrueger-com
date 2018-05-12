@@ -3,7 +3,7 @@ category: technology
 created: 2018.04.25:0325
 title: CLI Tools
 type: page
-updated: 2018.04.25:0325
+updated: 2018.05.12:0755
 ---
 
 For most people, a [command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) is a product of a bygone era of computing. Computer users up through the 1990s had to be comfortable with a command-line in either [DOS](https://en.wikipedia.org/wiki/DOS) or [Unix](https://en.wikipedia.org/wiki/Unix) forms, but since then, [graphical interfaces](https://en.wikipedia.org/wiki/Graphical_user_interface) have been how most people interact with a computer. This is emphasized in many modern devices like smartphones and tablets where a command-line interface would be difficult to use due to the onscreen keyboard.
@@ -12,12 +12,22 @@ Despite the power of modern graphical interfaces, command-line tools are still w
 
 I remain a huge fan of command-lines. Most of my desktops on macOS have a terminal present, and I have one desktop dedicated to a full-screen instance of [Alacritty](https://github.com/jwilm/alacritty) that I use for writing and other various uses. Below are some of my favorite tools to use, along with basic some of my most commonly used commands.
 
+## bat
+
+**Site**: [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)<br>
+**Summary**: Clone of cat with syntax highlighting and Git integration
+
+- Display contents of a single file
+    - bat file
+- Specify language for syntax highlighting
+    - bat file -l language
+
 ## cloc
 
 **Site**: [https://github.com/AlDanial/cloc](https://github.com/AlDanial/cloc)<br>
 **Summary**: Statistics utility to count lines of code
 
-- Count all the liens of code in a directory:
+- Count all the lines of code in a directory:
 	- cloc /path/to/directory
 - Count all the lines of code in a directory, displaying a progress bar during the counting process:
 	- cloc --progress=1 /path/to/directory
