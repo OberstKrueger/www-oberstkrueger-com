@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2018.05.13:0800
+updated: 2018.05.16:0150
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -44,6 +44,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Leroux, Gaston - The Phantom of the Opera
 - Lewis, C.S. - The Chronicles of Narnia
 - Martin, Steve - Born Standing Up: A Comic's Life
+- Marx, Karl & Engels, Friedrich - Manifesto of the Communist Party
 - McGuire, Hugh & O'Leary, Brian - Book: A Futurist's Manifesto
 - Merchant, Brian - The One Device: The Secret History of the iPhone
 - Nayebi, Fatih - Swift Functional Programming
