@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2018.05.10:0420
+updated: 2018.05.16:0145
 ---
 
 ## Trials
@@ -78,6 +78,15 @@ updated: 2018.05.10:0420
 3. Granite Gaol: Targets one play and traps them inside a rock. Destroy the rock to prevent player from being knocked off.
 4. Titan's Heart: Destroy the heart.
 5. Weight of the Land: Targets 2 random players. Move out of AE before it goes off.
+
+### The Navel (Hard)
+
+1. Leap: Stay as far away from the center while still not being inside the red circle.
+2. Landslide: Avoid or get knocked off the platform.
+3. Bomb Boulders: Explode after set period of time, avoid.
+4. Granite Gaol: Targets one play and traps them inside a rock. Destroy the rock to prevent player from being knocked off.
+5. Titan's Heart: Destroy the heart.
+6. Weight of the Land: Targets 4 random players. Move out of AE before it goes off.
 
 ### The Pool of Tribute (Normal)
 
