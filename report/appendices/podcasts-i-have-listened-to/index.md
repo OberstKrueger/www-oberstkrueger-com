@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.04:1920
 title: Podcasts I Have Listened To
 type: page
-updated: 2018.02.22:0340
+updated: 2018.05.18:1745
 ---
 
 **Accidental Tech Podcast**: [Site](http://atp.fm)<br>
@@ -57,6 +57,10 @@ Joshua Fields Millburn & Ryan Nicodemus discuss living a meaningful life with le
 **Mixed Feelings**: [Site](https://www.relay.fm/mixedfeelings)<br>
 **Hosts**: [Gillian Parker](https://gillianslongisland.wordpress.com), [Quinn Rose](http://aspiringrobot.com)<br>
 A show about news, politics and pop culture. Every episode, your hosts talk about their favorite stories of the week … and probably at least one random current event that has nothing to do with anything.
+
+**Noclip**: [Site](http://noclippodcast.libsyn.com)<br>
+**Host**: [Danny O'Dwyer](https://mobile.twitter.com/dannyodwyer)<br>
+Dispatches from the world of video games. Noclip dives deep into the heart of gaming and tells you the stories behind the code.
 
 **Note To Self**: [Site](http://www.wnyc.org/shows/notetoself/) / [Wiki](https://en.wikipedia.org/wiki/Note_To_Self)<br>
 **Host**: [Manoush Zomorodi](http://www.manoushz.com)<br>
