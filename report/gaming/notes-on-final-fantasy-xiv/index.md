@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2018.05.16:0145
+updated: 2018.05.30:0155
 ---
 
 ## Trials
@@ -35,6 +35,21 @@ updated: 2018.05.16:0145
 1. MT: Tank the main boss.
 2. OT: Pick up adds.
 3. Avoid AE that drops on boss.
+
+# Castrum Fluminis
+
+1. Torment Unto Death: Frontal cone attack.
+2. Zashiki-Asobi: Spawns fans around arena that explode in order they spawn.
+3. Steel of the Underworld: Frontal cone attack
+4. Reprimand: Raid-wide AE.
+5. Midnight Haze: Kill adds.
+6. Lead of the Underworld: Line-up to share damage attack.
+7. Nightbloom: Raid-wide AE.
+8. Phase 2: Kill adds.
+9. Phase 3: Selenomancy: Switch sides when debuff hits 3 stacks.
+10. Phase 3: Lunacy: Stacking shared damage
+11. Phase 3: Dark Blade & Bright Blade: Platform-wide AE.
+12. Phase 3: Dance of the Dead: Raid-wide AE.
 
 ### Emanation (Normal)
 
