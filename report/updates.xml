@@ -7,7 +7,77 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2018-04-30T14:20:00Z</updated>
+<updated>2018-05-31T14:50:00Z</updated>
+
+<entry>
+<title>Updates For May, 2018</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201805</id>
+<published>2018-05-31T14:50:00Z</published>
+<updated>2018-05-31T14:50:00Z</updated>
+<content type="html">
+<![CDATA[
+<h3>Traveling Minimally</h3>
+<p>One of my least favorite parts of traveling is packing. Going down a long checklist of necessary items before hand and then double checking to make sure everything is packed before returning takes away from the joy of visiting other parts of the world. To help with this, I keep a simple philosophy of <a href="https://krueger.report/life/traveling-minimally">Traveling Minimally</a> that helps make my daily travels and vacations much easier to handle.</p>
+<h3>Updates</h3>
+<p>With the recreation of my iTunes library earlier this year, my collection of <a href="https://krueger.report/music/work-music">Work Music</a> has been updated. A number of genres have been dropped entirely, and the back to basics approach that I have taken with music as a whole has changed what I listen to while I work.</p>
+<h3>Favorite Articles</h3>
+<ul>
+<li><a href="https://blog.ghost.org/5/">After 5 years and $3M, here’s everything we’ve learned from building Ghost</a></li>
+<li><a href="https://undark.org/article/circadian-lighting-human-centric-lighting/">Age of enlightenment: the promise of circadian lighting</a></li>
+<li><a href="https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/">AI winter is well on its way</a></li>
+<li><a href="https://queue.acm.org/detail.cfm?id=3220266">Algorithms behind modern storage systems</a></li>
+<li><a href="https://arstechnica.com/gadgets/2018/05/amazon-confirms-that-echo-device-secretly-shared-users-private-audio/">Amazon confirms that Echo device secretly shared user’s private audio</a></li>
+<li><a href="https://duo.com/blog/apple-imac-pro-and-secure-storage">Apple iMac Pro and secure storage</a></li>
+<li><a href="https://zettelkasten.de/posts/barbell-method-reading/">Barbell method of reading</a></li>
+<li><a href="https://www.vanityfair.com/hollywood/2018/05/roseanne-recap-darlene-writing-roseane-opioids?mbid=social_facebook">The bitter tragedy of Darlene Conner in the Roseanne revival</a></li>
+<li><a href="https://longreads.com/2018/02/15/blockchain-just-isnt-as-radical-as-you-want-it-to-be/">Blockchain just isn’t as radical as you want it to be</a></li>
+<li><a href="https://birchtree.me/blog/duplex-shows-googles-build-it-first-then-apply-ethics-attitude/">Duplex shows Google’s “build it first, then apply ethics” attitude</a></li>
+<li><a href="https://jacquesmattheij.com/gdpr-hysteria">GDPR hysteria</a></li>
+<li><a href="https://jacquesmattheij.com/gdpr-hysteria-part-ii-nuts-and-bolts">GDPR hysteria part II, nuts and bolts, actionable advice</a></li>
+<li><a href="http://blogs.harvard.edu/doc/2018/05/12/gdpr/">GDPR will pop the adtech bubble</a></li>
+<li><a href="https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/">A guide to the state of print stylesheets in 2018</a></li>
+<li><a href="https://medium.com/@bzotto/hidden-sheep-and-mac-typography-archaeology-efce770da76c">Hidden sheep and typography archaeology</a></li>
+<li><a href="https://www.theguardian.com/world/2018/may/19/exposed-how-to-disappear-from-the-internet">‘I felt exposed online’: how to disappear from the internet</a></li>
+<li><a href="https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/">The importance of deep work and the 30-hour method for learning a new skill</a></li>
+<li><a href="http://www.novaspivack.com/science/we-have-discovered-a-new-pattern-in-the-prime-numbers-parallax-compression">An interesting pattern in the prime numbers: parallax compression</a></li>
+<li><a href="https://blog.elcomsoft.com/2018/05/ios-11-4-to-disable-usb-port-after-7-days-what-it-means-for-mobile-forensics/">iOS 11.4 to disable USB Port after 7 days: what it means for mobile forensics</a></li>
+<li><a href="https://increment.com/programming-languages/cobol-all-the-way-down/">It’s COBOL all the way down</a></li>
+<li><a href="https://ethanmarcotte.com/wrote/kumiho/">Kumiho</a></li>
+<li><a href="http://www.bbc.com/future/story/20180502-does-mindfulness-really-improve-our-health">Mindfulness may have been over-hyped</a></li>
+<li><a href="https://daringfireball.net/2018/04/scuttlebutt_regarding_ui_project">Scuttlebutt regarding Apple’s cross-platform UI oroject</a></li>
+<li><a href="https://stratechery.com/2018/techs-two-philosophies/">Tech’s two philosophies</a></li>
+<li><a href="https://kotaku.com/the-two-developers-keeping-guild-wars-1-alive-1826435630">The two developers keeping Guild Wars 1 alive</a></li>
+<li><a href="https://www.newyorker.com/culture/culture-desk/the-united-states-of-japan">The United States of Japan</a></li>
+<li><a href="https://nullprogram.com/blog/2018/05/27/">When FFI function calls beat native C</a></li>
+<li><a href="https://ticki.github.io/blog/why_im_leaving_open_source/">Why I’m leaving open source</a></li>
+<li><a href="https://librarianshipwreck.wordpress.com/2018/01/18/why-the-luddites-matter/">Why the Luddites matter</a></li>
+<li><a href="https://www.theguardian.com/science/blog/2018/may/29/why-thousands-of-ai-researchers-are-boycotting-the-new-nature-journal">Why thousands of AI researchers are boycotting the new Nature journal</a></li>
+<li><a href="https://www.eurogamer.net/articles/2018-05-25-youtuber-john-totalbiscuit-bain-dies-aged-33">YouTuber John “TotalBiscuit” Bain dies aged 33</a></li>
+<li><a href="https://itscode.red/posts/1-year-using-matrix/">1 year using Matrix and Riot</a></li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Gibson, William - Mona Lisa Overdrive</li>
+<li>Marx, Karl &amp; Engels, Friedrich - Manifesto of the Communist Party</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/BattleTech_(video_game)">BattleTech</a></li>
+<li><a href="https://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
+<li><a href="http://us.battle.net/sc2/en/">StarCraft II: Legacy of the Void</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Unreal_(1998_video_game)">Unreal</a></li>
+</ul>
+<h3>Movies Watched</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Iron_Man_(2008_film)">Iron Man</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For April, 2018</title>
