@@ -3,8 +3,69 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2018.04.30:1420
+updated: 2018.05.31:1450
 ---
+
+## 2018.05
+
+### Traveling Minimally
+
+One of my least favorite parts of traveling is packing. Going down a long checklist of necessary items before hand and then double checking to make sure everything is packed before returning takes away from the joy of visiting other parts of the world. To help with this, I keep a simple philosophy of [Traveling Minimally](https://krueger.report/life/traveling-minimally) that helps make my daily travels and vacations much easier to handle.
+
+### Updates
+
+With the recreation of my iTunes library earlier this year, my collection of [Work Music](https://krueger.report/music/work-music) has been updated. A number of genres have been dropped entirely, and the back to basics approach that I have taken with music as a whole has changed what I listen to while I work.
+
+### Favorite Articles
+
+- [After 5 years and $3M, here's everything we've learned from building Ghost](https://blog.ghost.org/5/)
+- [Age of enlightenment: the promise of circadian lighting](https://undark.org/article/circadian-lighting-human-centric-lighting/)
+- [AI winter is well on its way](https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/)
+- [Algorithms behind modern storage systems](https://queue.acm.org/detail.cfm?id=3220266)
+- [Amazon confirms that Echo device secretly shared user’s private audio](https://arstechnica.com/gadgets/2018/05/amazon-confirms-that-echo-device-secretly-shared-users-private-audio/)
+- [Apple iMac Pro and secure storage](https://duo.com/blog/apple-imac-pro-and-secure-storage)
+- [Barbell method of reading](https://zettelkasten.de/posts/barbell-method-reading/)
+- [The bitter tragedy of Darlene Conner in the Roseanne revival](https://www.vanityfair.com/hollywood/2018/05/roseanne-recap-darlene-writing-roseane-opioids?mbid=social_facebook)
+- [Blockchain just isn't as radical as you want it to be](https://longreads.com/2018/02/15/blockchain-just-isnt-as-radical-as-you-want-it-to-be/)
+- [Duplex shows Google’s “build it first, then apply ethics” attitude](https://birchtree.me/blog/duplex-shows-googles-build-it-first-then-apply-ethics-attitude/)
+- [GDPR hysteria](https://jacquesmattheij.com/gdpr-hysteria)
+- [GDPR hysteria part II, nuts and bolts, actionable advice](https://jacquesmattheij.com/gdpr-hysteria-part-ii-nuts-and-bolts)
+- [GDPR will pop the adtech bubble](http://blogs.harvard.edu/doc/2018/05/12/gdpr/)
+- [A guide to the state of print stylesheets in 2018](https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/)
+- [Hidden sheep and typography archaeology](https://medium.com/@bzotto/hidden-sheep-and-mac-typography-archaeology-efce770da76c)
+- ['I felt exposed online': how to disappear from the internet](https://www.theguardian.com/world/2018/may/19/exposed-how-to-disappear-from-the-internet)
+- [The importance of deep work and the 30-hour method for learning a new skill](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/)
+- [An interesting pattern in the prime numbers: parallax compression](http://www.novaspivack.com/science/we-have-discovered-a-new-pattern-in-the-prime-numbers-parallax-compression)
+- [iOS 11.4 to disable USB Port after 7 days: what it means for mobile forensics](https://blog.elcomsoft.com/2018/05/ios-11-4-to-disable-usb-port-after-7-days-what-it-means-for-mobile-forensics/)
+- [It’s COBOL all the way down](https://increment.com/programming-languages/cobol-all-the-way-down/)
+- [Kumiho](https://ethanmarcotte.com/wrote/kumiho/)
+- [Mindfulness may have been over-hyped](http://www.bbc.com/future/story/20180502-does-mindfulness-really-improve-our-health)
+- [Scuttlebutt regarding Apple’s cross-platform UI oroject](https://daringfireball.net/2018/04/scuttlebutt_regarding_ui_project)
+- [Tech's two philosophies](https://stratechery.com/2018/techs-two-philosophies/)
+- [The two developers keeping Guild Wars 1 alive](https://kotaku.com/the-two-developers-keeping-guild-wars-1-alive-1826435630)
+- [The United States of Japan](https://www.newyorker.com/culture/culture-desk/the-united-states-of-japan)
+- [When FFI function calls beat native C](https://nullprogram.com/blog/2018/05/27/)
+- [Why I'm leaving open source](https://ticki.github.io/blog/why_im_leaving_open_source/)
+- [Why the Luddites matter](https://librarianshipwreck.wordpress.com/2018/01/18/why-the-luddites-matter/)
+- [Why thousands of AI researchers are boycotting the new Nature journal](https://www.theguardian.com/science/blog/2018/may/29/why-thousands-of-ai-researchers-are-boycotting-the-new-nature-journal)
+- [YouTuber John "TotalBiscuit" Bain dies aged 33](https://www.eurogamer.net/articles/2018-05-25-youtuber-john-totalbiscuit-bain-dies-aged-33)
+- [1 year using Matrix and Riot](https://itscode.red/posts/1-year-using-matrix/)
+
+### Books Read
+
+- Gibson, William - Mona Lisa Overdrive
+- Marx, Karl & Engels, Friedrich - Manifesto of the Communist Party
+
+### Games Played
+
+- [BattleTech](https://en.wikipedia.org/wiki/BattleTech_(video_game))
+- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
+- [StarCraft II: Legacy of the Void](http://us.battle.net/sc2/en/)
+- [Unreal](https://en.wikipedia.org/wiki/Unreal_(1998_video_game))
+
+### Movies Watched
+
+- [Iron Man](https://en.wikipedia.org/wiki/Iron_Man_(2008_film))
 
 ## 2018.04
 
