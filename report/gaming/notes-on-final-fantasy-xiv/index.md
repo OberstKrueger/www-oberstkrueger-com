@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2018.05.30:0155
+updated: 2018.06.03:1905
 ---
 
 ## Trials
@@ -36,7 +36,7 @@ updated: 2018.05.30:0155
 2. OT: Pick up adds.
 3. Avoid AE that drops on boss.
 
-# Castrum Fluminis
+### Castrum Fluminis
 
 1. Torment Unto Death: Frontal cone attack.
 2. Zashiki-Asobi: Spawns fans around arena that explode in order they spawn.
