@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2018.06.07:2100
+updated: 2018.06.12:1645
 ---
 
 ## Trials
@@ -29,19 +29,6 @@ updated: 2018.06.07:2100
 5. Phase 1 Radiant Plumes: spawns at 1 o'clock, then 7 o'clock
 6. Phase 2 Radiant Plumes: spawns at 2 o'clock, then 8 o'clock
 7. Phase 3 Radiant Plumes: spawns at 3 o'clock, then 9 o'clock
-
-### Byakko
-
-1. Storm Pulse: Raid-wide AE
-2. Heavenly Strike: Tank-buster
-3. State of Shock: Stack up
-4. Unrelenting Anguish: Avoid red orbs
-5. Phase 2 Hakutei-Tiger: Tank this
-6. Phase 2 White Herald: move away from rest of group
-7. Phase 3 Roar of Thunder: Do as much damage as possible
-8. Phase 4 Dodge orbs
-9. Phase 4 Bombogenesis: Spread apart
-10. Phase 4 Distant Clap: Stand on top of boss or at edge of arena
 
 ### Cape Westwind
 
@@ -98,6 +85,19 @@ updated: 2018.06.07:2100
 3. Phase 3: Two adds spawn. Kill add with green beam between her and Garuda, and then kill other add.
 4. Satin Plume: Kill.
 5. Eye of the Storm: Move to the center and do not touch blue areas. Kill two adds.
+
+### The Jade Stoa
+
+1. Storm Pulse: Raid-wide AE
+2. Heavenly Strike: Tank-buster
+3. State of Shock: Stack up
+4. Unrelenting Anguish: Avoid red orbs
+5. Phase 2 Hakutei-Tiger: Tank this
+6. Phase 2 White Herald: move away from rest of group
+7. Phase 3 Roar of Thunder: Do as much damage as possible
+8. Phase 4 Dodge orbs
+9. Phase 4 Bombogenesis: Spread apart
+10. Phase 4 Distant Clap: Stand on top of boss or at edge of arena
 
 ### The Navel (Normal)
 
