@@ -3,7 +3,7 @@ category: appendices
 created: 2017.08.07:2045
 title: Movies I Have Watched
 type: page
-updated: 2018.05.17:2045
+updated: 2018.05.27:0505
 ---
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
@@ -50,6 +50,7 @@ updated: 2018.05.17:2045
 - [City of God](https://en.wikipedia.org/wiki/City_of_God_(2002_film))
 - [Close Encounters of the Third Kind](https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind)
 - [Cloud Atlas](https://en.wikipedia.org/wiki/Cloud_Atlas_(film))
+- [Coco](https://en.wikipedia.org/wiki/Coco_(2017_film))
 - [D2: The Mighty Ducks](https://en.wikipedia.org/wiki/D2:_The_Mighty_Ducks)
 - [D3: The Mighty Ducks](https://en.wikipedia.org/wiki/D3:_The_Mighty_Ducks)
 - [The Dark Knight](https://en.wikipedia.org/wiki/The_Dark_Knight_(film))
