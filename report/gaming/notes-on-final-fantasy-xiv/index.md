@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2018.06.12:1645
+updated: 2018.06.28:1955
 ---
 
 ## Trials
@@ -228,3 +228,16 @@ In Phase 2, the DPS will kill adds in this order:
 5. Dadaluma Program: Stand in a green circle.
 6. Air Force Program: Avoid AEs and missiles.
 7. Bibliotaph Program: Groups of 3 must stand in each circle.
+
+### Sigmascape V4.0 (Normal)
+
+1. If any of the following are marked with question marks, do the opposite of the normal effect.
+2. Hyperdrive: Main tank buster.
+3. Blizzard Blitz: Move into melee range.
+4. Flagrant Fire: All marked players move away from other players.
+5. Thrumming Thunder: Columns of AEs throughout arena.
+6. Ultima Upsurge: Raid-wide AE.
+7. Timely Teleport: Moves to other side of arena. Stand to side or behind to avoid damage.
+8. Aero Assault: AE knock back.
+9. Phase 2: Graven Image: Move toward orb to avoid being knocked off platform.
+10. Phase 3: Graven Image: Look away from the tower.
