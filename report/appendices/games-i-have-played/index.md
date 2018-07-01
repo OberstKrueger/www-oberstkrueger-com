@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2018.06.11:1800
+updated: 2018.06.30:1710
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -373,6 +373,8 @@ updated: 2018.06.11:1800
 - [Papers, Please](https://en.wikipedia.org/wiki/Papers,_Please)
 - [Path of Exile](https://en.wikipedia.org/wiki/Path_of_Exile)
 - [Pillars of Eternity](https://en.wikipedia.org/wiki/Pillars_of_Eternity)
+- [Pillars of Eternity: White March](https://en.wikipedia.org/wiki/Pillars_of_Eternity:_The_White_March)
+- [Pillars of Eternity II: Deadfire](https://en.wikipedia.org/wiki/Pillars_of_Eternity_II:_Deadfire)
 - [Plague, Inc: Evolved](https://en.wikipedia.org/wiki/Plague_Inc:_Evolved)
 - [PlanetSide](https://en.wikipedia.org/wiki/PlanetSide)
 - [PlanetSide 2](https://en.wikipedia.org/wiki/PlanetSide_2)
