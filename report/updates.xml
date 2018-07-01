@@ -7,7 +7,68 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2018-05-31T14:50:00Z</updated>
+<updated>2018-06-30T21:55:00Z</updated>
+
+<entry>
+<title>Updates For June, 2018</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201806</id>
+<published>2018-06-30T21:55:00Z</published>
+<updated>2018-06-30T21:55:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2018.06</h2>
+<h3>The Games of Tomorrow Corporation</h3>
+<p>Tomorrow Corporation makes some of my all-time favorite games. Each of their games have impacted me deeply, from the story and music to the fun gameplay. In <a href="https://krueger.report/gaming/the-games-of-tomorrow-corporation">The Games of Tomorrow Corporation</a>, I talk a little about why I love these games so much.</p>
+<h3>Favorite Articles</h3>
+<ul>
+<li><a href="https://techcrunch.com/2018/06/28/amazon-buys-pillpack-an-online-pharmacy-that-was-rumored-to-be-talking-to-walmart/">Amazon buys PillPack, an online pharmacy, for just under $1B</a></li>
+<li><a href="https://adactio.com/journal/13964">AMPstinction</a></li>
+<li><a href="https://blog.rust-lang.org/2018/06/21/Rust-1.27.html">Announcing Rust 1.27</a></li>
+<li><a href="https://techcrunch.com/2018/06/29/apple-is-rebuilding-maps-from-the-ground-up/">Apple is rebuilding Maps from the ground up</a></li>
+<li><a href="https://www.nytimes.com/2018/06/13/technology/apple-iphone-police.html">Apple to close iPhone security hole that police use to crack devices</a></li>
+<li><a href="https://www.technologyreview.com/s/611418/universal-basic-income-works-if-you-do-it-canada-style/">Basic income could work — if you do it Canada-style</a></li>
+<li><a href="https://www.wired.com/story/california-unanimously-passes-historic-privacy-bill/">California unanimously passes history privacy bill</a></li>
+<li><a href="https://www.destroyallsoftware.com/blog/2018/a-case-study-in-not-being-a-jerk-in-open-source">A case study in not being a jerk in open source</a></li>
+<li><a href="https://worldofwarcraft.com/en-us/news/21881587/dev-watercooler-world-of-warcraft-classic">Dev watercooler: World of Warcraft Classic</a></li>
+<li><a href="https://www.sfchronicle.com/business/article/Energy-revolution-California-approves-massive-12957685.php">Energy revolution: California approves $768 million for electric vehicles</a></li>
+<li><a href="https://www.recode.net/2018/6/7/17438928/facebook-bug-privacy-public-settings-14-million-users">Facebook says millions of users who thought they were sharing privately with their friends may have shared with everyone because of a software bug</a></li>
+<li><a href="https://www.wired.com/story/soghoian-automation/">How one Apple programmer got apps talking to each other</a></li>
+<li><a href="https://www.theguardian.com/technology/2018/jun/17/peppa-pig-youtube-weird-algorithms-automated-content">How Peppa Pig became a video nightmare for children</a></li>
+<li><a href="https://stratechery.com/2018/intel-and-the-danger-of-integration/">Intel and the danger of integration</a></li>
+<li><a href="https://www.macstories.net/news/macos-mojave-the-macstories-overview/">macOS Mojave: the MacStories overview</a></li>
+<li><a href="http://shapeof.com/archives/2018/6/marzipan_to_arm_on_mac.html">Marzipan as a path to ARM based Macs</a></li>
+<li><a href="https://www.nytimes.com/2018/06/11/technology/net-neutrality-repeal.html">Net Neutrality has officially been repealed. Here’s how that could affect you.</a></li>
+<li><a href="https://www.bunniestudios.com/blog/?p=5349">New US tariffs are anti-maker and will encourage offshoring</a></li>
+<li><a href="https://www.jetbrains.com/research/devecosystem-2018/">The state of developer ecosystem in 2018</a></li>
+<li><a href="https://krebsonsecurity.com/2018/06/plant-your-flag-mark-your-territory/">Plant your flag, mark your territory</a></li>
+<li><a href="https://medium.com/@sargun/systems-languages-an-experience-report-d008b2b12628">Systems languages: an experience report</a></li>
+<li><a href="https://www.anandtech.com/show/12814/a-thought-on-silicon-design-intels-lcc-on-hedt-is-dead">A thought on silicon design: Intel’s LCC on HEDT should be dead</a></li>
+<li><a href="https://puri.sm/posts/what-is-pureos-and-how-is-it-built/">What is PureOS and how is it built?</a></li>
+<li><a href="https://longreads.com/2018/06/05/when-the-real-world-gave-up-on-reality/">When ‘The Real World’ gave up on reality</a></li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Groen, Andrew - Empires of EVE: A History of the Great Wars of EVE Online</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/BattleTech_(video_game)">BattleTech</a></li>
+<li><a href="https://www.eveonline.com">EVE Online</a></li>
+<li><a href="https://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
+<li><a href="https://eternity.obsidian.net/">Pillars of Eternity II: Deadfire</a></li>
+<li><a href="https://prey.bethesda.net">Prey: Mooncrash</a></li>
+</ul>
+<h3>Movies Watched</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Coco_(2017_film)">Coco</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For May, 2018</title>
