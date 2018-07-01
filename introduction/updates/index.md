@@ -3,8 +3,57 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2018.05.31:1450
+updated: 2018.06.30:1825
 ---
+
+## 2018.06
+
+### The Games of Tomorrow Corporation
+
+Tomorrow Corporation makes some of my all-time favorite games. Each of their games have impacted me deeply, from the story and music to the fun gameplay. In [The Games of Tomorrow Corporation](https://krueger.report/gaming/the-games-of-tomorrow-corporation), I talk a little about why I love these games so much.
+
+### Favorite Articles
+
+- [Amazon buys PillPack, an online pharmacy, for just under $1B](https://techcrunch.com/2018/06/28/amazon-buys-pillpack-an-online-pharmacy-that-was-rumored-to-be-talking-to-walmart/)
+- [AMPstinction](https://adactio.com/journal/13964)
+- [Announcing Rust 1.27](https://blog.rust-lang.org/2018/06/21/Rust-1.27.html)
+- [Apple is rebuilding Maps from the ground up](https://techcrunch.com/2018/06/29/apple-is-rebuilding-maps-from-the-ground-up/)
+- [Apple to close iPhone security hole that police use to crack devices](https://www.nytimes.com/2018/06/13/technology/apple-iphone-police.html)
+- [Basic income could work — if you do it Canada-style](https://www.technologyreview.com/s/611418/universal-basic-income-works-if-you-do-it-canada-style/)
+- [California unanimously passes history privacy bill](https://www.wired.com/story/california-unanimously-passes-historic-privacy-bill/)
+- [A case study in not being a jerk in open source](https://www.destroyallsoftware.com/blog/2018/a-case-study-in-not-being-a-jerk-in-open-source)
+- [Dev watercooler: World of Warcraft Classic](https://worldofwarcraft.com/en-us/news/21881587/dev-watercooler-world-of-warcraft-classic)
+- [Energy revolution: California approves $768 million for electric vehicles](https://www.sfchronicle.com/business/article/Energy-revolution-California-approves-massive-12957685.php)
+- [Facebook says millions of users who thought they were sharing privately with their friends may have shared with everyone because of a software bug](https://www.recode.net/2018/6/7/17438928/facebook-bug-privacy-public-settings-14-million-users)
+- [How one Apple programmer got apps talking to each other](https://www.wired.com/story/soghoian-automation/)
+- [How Peppa Pig became a video nightmare for children](https://www.theguardian.com/technology/2018/jun/17/peppa-pig-youtube-weird-algorithms-automated-content)
+- [Intel and the danger of integration](https://stratechery.com/2018/intel-and-the-danger-of-integration/)
+- [macOS Mojave: the MacStories overview](https://www.macstories.net/news/macos-mojave-the-macstories-overview/)
+- [Marzipan as a path to ARM based Macs](http://shapeof.com/archives/2018/6/marzipan_to_arm_on_mac.html)
+- [Net Neutrality has officially been repealed. Here’s how that could affect you.](https://www.nytimes.com/2018/06/11/technology/net-neutrality-repeal.html)
+- [New US tariffs are anti-maker and will encourage offshoring](https://www.bunniestudios.com/blog/?p=5349)
+- [The state of developer ecosystem in 2018](https://www.jetbrains.com/research/devecosystem-2018/)
+- [Plant your flag, mark your territory](https://krebsonsecurity.com/2018/06/plant-your-flag-mark-your-territory/)
+- [Systems languages: an experience report](https://medium.com/@sargun/systems-languages-an-experience-report-d008b2b12628)
+- [A thought on silicon design: Intel’s LCC on HEDT should be dead](https://www.anandtech.com/show/12814/a-thought-on-silicon-design-intels-lcc-on-hedt-is-dead)
+- [What is PureOS and how is it built?](https://puri.sm/posts/what-is-pureos-and-how-is-it-built/)
+- [When ‘The Real World’ gave up on reality](https://longreads.com/2018/06/05/when-the-real-world-gave-up-on-reality/)
+
+### Books Read
+
+- Groen, Andrew - Empires of EVE: A History of the Great Wars of EVE Online
+
+### Games Played
+
+- [BattleTech](https://en.wikipedia.org/wiki/BattleTech_(video_game))
+- [EVE Online](https://www.eveonline.com)
+- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
+- [Pillars of Eternity II: Deadfire](https://eternity.obsidian.net/)
+- [Prey: Mooncrash](https://prey.bethesda.net)
+
+### Movies Watched
+
+- [Coco](https://en.wikipedia.org/wiki/Coco_(2017_film))
 
 ## 2018.05
 
