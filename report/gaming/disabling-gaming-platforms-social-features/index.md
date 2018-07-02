@@ -3,7 +3,7 @@ category: gaming
 created: 2016.06.22:0745
 title: Disabling Gaming Platforms’ Social Features
 type: page
-updated: 2018.04.25:0430
+updated: 2018.07.01:1715
 ---
 
 Most modern game platforms include a number of forced social features. They can be difficult to hide, and some platforms do not allow you to disable them at all.
@@ -71,7 +71,7 @@ Achievement tracking as a whole can not be disabled. While they can not be seen 
 The most important of these features is making minimizing messaging. From the main profile screen, there is a button titled "Appear Offline". Clicking this will do exactly as it says: you will appear offline to those on your friends list while still remaining logged into Xbox Live. Additionally, there are settings in the application for fine-grained control over what notifications will be displayed. Different types of notifications can be disabled or enabled at will.
 
 <figure class="half">
-<img src="images/disabling-gaming-platforms-social-features_xbox.png">
+<img src="/images/disabling-gaming-platforms-social-features_xbox.png">
 </figure>
 
 Achievement tracking can not be disabled entirely, but this rarely seems to be an issue on a PC. Most games that Xbox Live recognizes do not include achievements, even cross-platform games that are also available on Xbox Live.
