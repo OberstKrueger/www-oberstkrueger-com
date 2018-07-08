@@ -3,10 +3,22 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2018.06.28:1955
+updated: 2018.07.07:1805
 ---
 
 ## Trials
+
+### Akh Afah Ampitheatre (Hard)
+
+1. Keep Shiva facing away from group due to cleaving attack.
+2. Dreams of Ice: Debuff, increases damage taken.
+3. Icicle Impact: Avoid AEs in small patches at the edge of the arena.
+4. Hailstorm: Targeted AE, move away from other group members.
+5. Absolute Zero: Raid-wide AE.
+6. Phase 2: Kill adds.
+7. Phase 3: Do not touch edge of arena.
+8. Phase 3: Permafrost: Do not move.
+9. Phase 3: Icicle Impacts: Move to last AE patch to spawn, and then move out before it explodes.
 
 ### The Bowl of Embers (Normal)
 
