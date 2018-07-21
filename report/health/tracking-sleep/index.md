@@ -3,7 +3,7 @@ category: health
 created: 2016.03.27:1230
 title: Tracking Sleep
 type: page
-updated: 2018.04.12:0020
+updated: 2018.07.21:0005
 ---
 
 While much of the focus on the [Apple Watch](https://www.apple.com/watch/) has centered around notifications and interactions between it and the phone, what interests me most about the device is using it for new tasks that the [iPhone](https://www.apple.com/iphone/) and my [Mac Mini](https://www.apple.com/mac-mini/) can not do. The big area that the Apple Watch can do that the other devices can not is health tracking.
@@ -37,3 +37,5 @@ The one downside to using AutoSleep revolves around charging the device. It seem
 [David Smith's recommendation](https://david-smith.org/blog/2015/09/21/how-to-wear-your-apple-watch-24-slash-7/) to do this is to charge it while you are getting ready in the morning for about 20-30 minutes, and the same amount of time at night as you get ready for bed. This method works well, and by using it, I have never run out of battery during the day. Using this method, the watch rarely hits 100% charge, but it also typically does not fall below 50%.
 
 Beyond the app used, [watchOS 3.2](https://www.macstories.net/news/apple-releases-watchos-32-and-macos-10124/) includes a feature that allows the Apple Watch to be more bed friendly: Theater Mode. This mode, accessible by swiping up to the Control Center on the Watch, turns off Activate On Wrist Raise. To activate the screen, either of the hardware buttons must be pushed or the screen tapped with significant force. In practice, this makes the screen of the Watch stay off all throughout the night. Before this was implemented, it was common for the Watch to wake me up in the middle of the night as I shifted around. The screen can be quite bright when sleeping in a pitch black room. This is now a problem for the past, and was the final piece of the puzzle for using the Apple Watch as a sleep tracker.
+
+The final piece of the puzzle is Do Not Disturb mode. iOS [added this feature in iOS 6](https://www.cnet.com/how-to/how-to-set-up-do-not-disturb-on-ios-6/), which silences the phone so that notifications do not go off and phone calls are automatically routed to voicemail. Do Not Disturb syncs up with watchOS, so that if one device has the mode on, both devices do. My iPhone is set to automatically turn on Do Not Disturb when I go to bed, so when I sleep, neither my phone nor my Watch will wake me up unless there is an emergency of some sort.
