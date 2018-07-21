@@ -3,7 +3,7 @@ category: technology
 created: 2017.02.27:1700
 title: Software Tools
 type: page
-updated: 2018.04.18:0420
+updated: 2018.07.20:2355
 ---
 
 Choosing the right software for the job can be a painstaking process. On all of the major platforms, there is a plethora of tools available for most tasks. Picking the first thing that comes along without evaluating all of the options might save some time up front, but it will lead to headaches further on down the line.
@@ -127,11 +127,6 @@ This is my criteria for all software that I use. When evaluating new application
 **Name**: [Arq](https://www.arqbackup.com)<br>
 **Used Since**: July 15, 2016<br>
 **Previously Used**: [Time Machine](https://en.wikipedia.org/wiki/Time_Machine_(macOS))
-
-### Git GUI
-
-**Name**: [Tower](https://www.git-tower.com/mac/)<br>
-**Used Since**: March 14, 2017
 
 ### Image Editing
 
