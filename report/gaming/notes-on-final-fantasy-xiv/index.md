@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2018.07.07:1805
+updated: 2018.07.26:1705
 ---
 
 ## Trials
@@ -158,6 +158,14 @@ In Phase 2, the DPS will kill adds in this order:
 3. Puksi Piko the Shaggysong (BRD)
 4. Woolywart Kupqu Kogi (ARC)
 5. Pukna Pako the Tailturner (ROG)
+
+### The Whorleater (Hard)
+
+1. One tank on the head of Leviathan, and one on the tail.
+2. Do not stand in front of geysers from the water.
+3. Kill Gyre Spume quickly.
+4. Off-tank picks up any additional adds.
+5. Before Tsunami goes off, activate the Elemental Shield.
 
 ## Raids
 
