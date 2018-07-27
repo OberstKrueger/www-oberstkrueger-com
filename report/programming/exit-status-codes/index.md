@@ -1,4 +1,3 @@
-
 ---
 category: programming
 created: 2018.07.21:0030
