@@ -3,8 +3,59 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2018.06.30:1825
+updated: 2018.07.31:2345
 ---
+
+## 2018.07
+
+### Exit Status Codes
+
+An important part of building any CLI tool on a Unix system is to have it interact with the rest of the system in a Unix-y way. One way this manifests is by providing the proper exit status upon termination of the executable. Outside of the most basic response of success or error, this means assigning meaning to numbers that do not have any standard meaning. [Exit Status Codes](https://krueger.report/programming/exit-status-codes) highlights what I found as the best practices for implementing these codes beyond the basics provided by individual programming languages.
+
+### Updates
+
+[Software Tools](https://krueger.report/technology/software-tools/): Over the past few months, I have been using git more from the command-line and relying less on Tower. Having a GUI front-end was useful while learning the intricacies of git, but as time went on, it turned into a crutch. Tower is still my recommendation for a GUI git client for anyone who asks, but I myself no longer use it.
+
+[Tracking Sleep](https://krueger.report/health/tracking-sleep/): iOS's Do Not Disturb mode is an important part of sleep tracking, as without it, it would be precarious to sleep with both my iPhone and Watch nearby. I have updated the importance of using this 6 year old feature.
+
+### Favorite Articles
+
+- [App preservation: saving the App Store's history](https://www.macstories.net/stories/app-preservation-saving-the-app-stores-history/)
+- [The App Store turns 10](https://www.apple.com/newsroom/2018/07/app-store-turns-10/)
+- [Bridget Jones’s staggeringly outdated diary](https://longreads.com/2018/07/24/bridget-jones-nineties-relationship-books/)
+- [Designed in China, Assembled in California](https://ia.net/topics/designed-in-china-assembled-in-california)
+- [The effect of sleep on happiness](https://www.trackinghappiness.com/effect-sleep-happiness/)
+- [European Commission fines Google €4.3bn for Android market dominance abuses](https://www.anandtech.com/show/13093/european-commission-fines-google-43bn-for-android-market-dominance-abuses)
+- [The European Commission versus Android](https://stratechery.com/2018/the-european-commission-versus-android/)
+- [Fortnite’s success is due to random chance](http://www.psychologyofgames.com/2018/07/fortnites-success-is-due-to-random-chance/)
+- [Google: security keys neutralized employee phishing](https://krebsonsecurity.com/2018/07/google-security-keys-neutralized-employee-phishing/)
+- [Guido van Rossum resigns as Python leader](https://lwn.net/Articles/759654/)
+- ["I was devastated": Tim Berners-Lee, the man who created the World Wide Web, has some regrets](https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets)
+- [Inside China’s Dystopian Dreams: A.I., Shame and Lots of Cameras](https://www.nytimes.com/2018/07/08/business/china-surveillance-technology.html)
+- [It's not "Netflix for podcasts", it's more like "this site only works in IE6"](https://birchtree.me/blog/its-not-netflix-for-podcasts/)
+- [Judge orders Los Angeles Times to delete part of published article](https://www.nytimes.com/2018/07/15/us/judge-los-angeles-times-delete-article.html)
+- [A mansion filled with hidden worlds: when the internet was young](https://undark.org/article/wilo-evans-broad-band/)
+- [Melatonin: much more than you wanted to know](https://www.lesswrong.com/posts/E4cKD9iTWHaE7f3AJ/melatonin-much-more-than-you-wanted-to-know)
+- [Peterson's complaint](https://longreads.com/2018/07/12/petersons-complaint/)
+- [Is timeless UI design a thing?](https://www.imaginarycloud.com/blog/timeless-classic-ui-design/amp/)
+- [Meet the 11% of Americans who don’t use the internet](https://thehustle.co/meet-the-11-of-americans-who-dont-use-the-internet/)
+- [The news from the world of beauty](https://www.vqronline.org/essays-articles/2018/06/news-world-beauty)
+- [Technology, propaganda, and the limits of human intellect](https://arxiv.org/abs/1806.09541)
+- [The Twitch streamers who spend years broadcasting to no one](https://www.theverge.com/2018/7/16/17569520/twitch-streamers-zero-viewers-motivation-community)
+- [The value of undefined behavior](https://nullprogram.com/blog/2018/07/20/)
+- [10 years of the App Store: the design evolution of the earliest apps](https://9to5mac.com/2018/07/10/app-store-10-years-design-evolution/)
+
+### Books Read
+
+- Carroll, Lewis - Alice's Adventures in Wonderland
+- Greene, Brian - The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos
+- Rubin, Charles - Eclipse of Man: Human Extinction and the Meaning of Progress
+
+### Games Played
+
+- [EVE Online](https://www.eveonline.com)
+- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
+- [Pillars of Eternity II: Deadfire](https://eternity.obsidian.net/)
 
 ## 2018.06
 
