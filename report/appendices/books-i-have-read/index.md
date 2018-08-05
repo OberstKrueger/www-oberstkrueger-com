@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2018.07.28:2220
+updated: 2018.08.04:1815
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -18,6 +18,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Bradbury, Ray - The Martian Chronicles
 - Catford, J.C. - A Practical Introduction to Phonetics
 - Carroll, Lewis - Alice's Adventures in Wonderland
+- Carroll, Lewis - Through the Looking Glass
 - Clancy, Tom - The Bear and the Dragon
 - Clancy, Tom - Rainbow Six
 - Clancy, Tom - The Hunt for Red October
