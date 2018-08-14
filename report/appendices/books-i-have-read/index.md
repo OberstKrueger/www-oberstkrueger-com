@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2018.08.04:1815
+updated: 2018.08.13:1725
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -29,6 +29,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Gibson, William - Count Zero
 - Gibson, William - Mona Lisa Overdrive
 - Gibson, William - Neuromancer
+- Gibson, William & Sterling, Bruce - The Difference Engine
 - Greene, Brian - The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory
 - Greene, Brian - The Fabric of the Cosmos: Space, Time, and the Texture of Reality
 - Greene, Brian - The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos
