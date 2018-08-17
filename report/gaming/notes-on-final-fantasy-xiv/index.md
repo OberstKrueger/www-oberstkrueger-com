@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2018.07.26:1705
+updated: 2018.08.16:1750
 ---
 
 ## Trials
@@ -144,6 +144,23 @@ updated: 2018.07.26:1705
 4. Stormsplitter: MT and OT swap after it hits.
 5. Levin Bolt 1: Affected players jump to other side of platform for the AE.
 6. Levin Bolt 2: All players move to other side of arena.
+
+### The Royal Menagerie
+
+- 1. Tidal Wave: Move to edge of arena where Tidal Wave spawns.
+- 2. Hypernova: All players stack.
+- 3. Akh Morn: MT and OT stack away from the rest of the group.
+- 4. Spikecycles: Avoid.
+- 5. Earth Break: If targeted, move to side of arena to prevent cone attacks from hitting everyone.
+- 6. Hellfire: Move into water puddle.
+- 7. Judgement Bolt: Stay outside of water puddles.
+- 8. Phase 2: Kill adds.
+- 9. Phase 3: Tail Slap: Avoid AE, then kill tail.
+- 10. Phase 3: Burning Chains: Move away from chained partner.
+- 11. Phase 3: Levin Bolt: Move away from other players.
+- 12. Phase 3: Dragonfist: Move away from middle tile.
+- 13. Phase 3: Diamond Dust: Do not move.
+- 14. Phase 3: Aerieal Blast: Cyclone in center will push players back. Keep running towards it.
 
 ### Thornmarch (Hard)
 
