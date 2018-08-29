@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2018.07.21:0030
+updated: 2018.08.28:1740
 ---
 
 ## Introduction
@@ -45,6 +45,7 @@ updated: 2018.07.21:0030
 
 - [Software Tools](/technology/software-tools)
 - [CLI Tools](/technology/cli-tools)
+- [Simplifying the Smartphone](/technology/simplifying-the-smartphone)
 - [Backups](/technology/backups)
 - [DuckDuckGo](/technology/duckduckgo)
 - [Logging Off Facebook](/technology/logging-off-facebook)
