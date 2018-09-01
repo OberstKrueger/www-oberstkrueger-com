@@ -3,8 +3,83 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2018.07.31:2345
+updated: 2018.08.31:1905
 ---
+
+## 2018.08
+
+### Simplifying the Smartphone
+
+[Simplifying the Smartphone](https://krueger.report/technology/simplifying-the-smartphone) documents my attempt to break my smartphone addiction. I modeled my iPhone setup on the Siempo phone, an unreleased smartphone that aimed to provide the bare necessities without all of the negatives. I have had my iPhone setup like this for roughly 6 months now, and consider the experiment a success, albeit with some small app consolidations to make in the future.
+
+### Favorite Articles
+
+During the early 2000s, Amazon was a company that I frequently shopped on. My purchase history goes back quite far, with thousands of dollars spend over the years. In recent years, that has changed. Amazon is no longer the reliable seller that they used to be, with fake products and paid reviews becoming normalized. When I purchase something from then, I no longer can trust that I will receive what I am expecting. If there is something that I must purchase online, Amazon is the last resort for me, even if it means spending more money elsewhere. The final s
+
+- [Amazon dark patterns](http://www.netinstructions.com/amazon-dark-patterns/)
+- [The rise of fake Amazon reviews - and how to spot them](https://finance.yahoo.com/news/rise-fake-amazon-reviews-spot-175430368.html)
+- [Some Amazon review are too good to be believed. They're paid for](https://www.npr.org/2018/07/30/629800775/some-amazon-reviews-are-too-good-to-be-believed-theyre-paid-for)
+
+AMD's newest offerings this year and last have done a lot to bring much needed competition to Intel. Their new 32-core offering is the nichest of niche products, but shows how far they have come in the past decade. I am reminded of the AMD of 18 years ago, bring better performance than Intel's offerings while also being cheaper. I hope AMD is in the same spot when I am in the market for a new CPU in 4-5 years.
+
+- [A look at the Windows 10 vs. Linux performance on AMD Threadripper 2990WX](https://www.phoronix.com/scan.php?page=article&item=2990wx-linux-windows)
+- [The AMD Threadripper 2 teaser: pre-orders start today, up to 32 cores](https://www.anandtech.com/show/13123/amd-threadripper-2-teaser-pre-orders-start-today-up-to-32-cores)
+- [The AMD Threadripper 2990WX 32-core and 2950X 16-core review](https://www.anandtech.com/show/13124/the-amd-threadripper-2990wx-and-2950x-review)
+
+As someone who still freelances with web technology, it's hard for me to say that every aspect of it is bad. But what gets glossed over in trying to use HTML, CSS, and JavaScript for everything is that there are large performance costs to users. JavaScript has a place in the stack, but these problems can not be hand-waved away. 
+
+- [24-core CPU and I can't type an e-mail (part one)](https://randomascii.wordpress.com/2018/08/16/24-core-cpu-and-i-cant-type-an-email-part-one/)
+- [24-core CPU and I can’t type an email (part two)](https://randomascii.wordpress.com/2018/08/22/24-core-cpu-and-i-cant-type-an-email-part-two/)
+- [Bits](https://ethanmarcotte.com/wrote/bits/)
+- [The bullshit web](https://pxlnv.com/blog/bullshit-web/)
+
+I am a bit of a security nut. Strong passwords are important to me, and I keep my personal security regime as up-to-date as possible. What was considered best practices a few years ago can turn into a new way to be exploited. Two-factor authentication was heralded as the savior of hacked passwords, but this is contingent on the two-factor method being secure. Currently, two-factor through text messages is not.
+
+- [Florida Man Arrested in SIM Swap Conspiracy](https://krebsonsecurity.com/2018/08/florida-man-arrested-in-sim-swap-conspiracy/)
+- [Hanging up on mobile in the name of security](https://krebsonsecurity.com/2018/08/hanging-up-on-mobile-in-the-name-of-security/)
+
+It has been a year and a half since I last used Facebook, and the social media environment has continued to devolve since then. Social media might have a place for some, but as we learn more about how it affects people, the less positive it seems to be.
+
+- [A brief summary of the social media reform movement](http://calnewport.com/blog/2018/08/23/a-brief-summary-of-the-social-media-reform-movement/)
+- [Everything bad about Facebook is bad for the same reason](https://qz.com/1342757/everything-bad-about-facebook-is-bad-for-the-same-reason/)
+- [Logged off: meet the teens who refuse to use social media](https://www.theguardian.com/society/2018/aug/29/teens-desert-social-media)
+- [This is what filter bubbles actually look like](https://www.technologyreview.com/s/611807/this-is-what-filter-bubbles-actually-look-like/)
+- [What it's like to wallow in your own Facebook data](https://www.theatlantic.com/magazine/archive/2018/09/download-your-facebook-data/565736/)
+
+In the same vein of social media, I find myself drawn further away from mainstream gaming communities. Toxicity has been present in gaming for as long as I can remember, but the largest of games take it to the next level.
+
+- [The Overwatch League's problems can't be papered over with rainbows](https://www.eurogamer.net/articles/2018-08-09-the-overwatch-leagues-problems-cant-be-papered-over-with-rainbows)
+- [Valve's forgotten game: Team Fortress 2's shocking toxicity problem](https://www.eurogamer.net/articles/2018-08-14-valves-forgotten-game-team-fortress-2s-shocking-toxicity-problem)
+
+The below are some various other articles that I enjoyed.
+
+- [Apple's market cap hits $1 trillion](https://www.anandtech.com/show/13150/apple-market-cap-hits-1-trillion)
+- [Ethical aesthetics – Librem 5 design report #7](https://puri.sm/posts/librem5-progress-report-18/)
+- [Google boots open source anti-censorship tool from Chrome Store](https://torrentfreak.com/google-boots-open-source-anti-censorship-tool-from-chrome-store-180810/)
+- [Google tracks your movements, like it or not](https://apnews.com/f60bc112665b458cb6473d7ee9492932)
+- [Introducing the Aqua Screenshot Library](https://512pixels.net/2018/08/introducing-the-aqua-screenshot-library/)
+- [Introducing a new version of Steam Play](https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561d)
+- [Julia 1.0](https://julialang.org/blog/2018/08/one-point-zero)
+- [Just read the book already](https://slate.com/culture/2018/08/reader-come-home-by-maryanne-wolf-reviewed.html)
+- [Learning from terminals to design the future of user interfaces](https://brandur.org/interfaces)
+- [Notes on the synthesis of labyrinths](https://increment.com/documentation/notes-on-the-synthesis-of-labyrinths/)
+- [On Apple's love affair with Swift](https://stefan-lesser.com/2018/06/20/on-apples-love-affair-with-swift/)
+- [RLS 1.0 release candidate](https://www.ncameron.org/blog/rls-1-0-release-candidate/)
+- [The science behind the 'beats to study to' craze](https://www.engadget.com/2018/07/23/the-science-behind-beats-to-study-to/)
+- [What men and women consider hardcore gaming are not the same](https://quanticfoundry.com/2018/08/01/casual-hardcore/)
+
+### Books Read
+
+- Carroll, Lewis - Through the Looking Glass
+- Gibson, William & Sterling, Bruce - The Difference Engine
+- Newport, Cal - Deep Work: Rules for Focused Success in a Distracted World
+
+### Games Played
+
+- [EVE Online](https://www.eveonline.com)
+- [Exapunks](https://en.wikipedia.org/wiki/Exapunks)
+- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
+- [Pillars of Eternity II: Deadfire](https://eternity.obsidian.net/)
 
 ## 2018.07
 
