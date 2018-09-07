@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2018.09.06:0015
+updated: 2018.09.07:1630
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -481,6 +481,7 @@ updated: 2018.09.06:0015
 - [World of Warcraft: Mists of Pandaria](https://en.wikipedia.org/wiki/World_of_Warcraft:_Mists_of_Pandaria)
 - [World of Warcraft: Warlords of Draenor](https://en.wikipedia.org/wiki/World_of_Warcraft:_Warlords_of_Draenor)
 - [World of Warcraft: Legion](https://en.wikipedia.org/wiki/World_of_Warcraft:_Legion)
+- [7 Billion Humans](https://en.wikipedia.org/wiki/7_Billion_Humans)
 - [The 7th Guest](https://en.wikipedia.org/wiki/The_7th_Guest)
 - [The 11th Hour](https://en.wikipedia.org/wiki/The_11th_Hour_(video_game))
 
