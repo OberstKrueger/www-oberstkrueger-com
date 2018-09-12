@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2018.09.11:1805
+updated: 2018.09.12:0130
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -473,6 +473,7 @@ updated: 2018.09.11:1805
 - [What Remains of Edith Finch](https://en.wikipedia.org/wiki/What_Remains_of_Edith_Finch)
 - [Wing Commander IV: The Price of Freedom](https://en.wikipedia.org/wiki/Wing_Commander_IV:_The_Price_of_Freedom)
 - [The Witcher](https://en.wikipedia.org/wiki/The_Witcher_(video_game))
+- [The Witcher 3: Wild Hunt](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt)
 - [The Witness](https://en.wikipedia.org/wiki/The_Witness_(2016_video_game))
 - [World of Goo](https://en.wikipedia.org/wiki/World_of_Goo)
 - [World of Warcraft](https://en.wikipedia.org/wiki/World_of_Warcraft)
