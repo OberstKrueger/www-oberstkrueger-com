@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2018.08.16:1750
+updated: 2018.09.27:1600
 ---
 
 ## Trials
@@ -185,6 +185,56 @@ In Phase 2, the DPS will kill adds in this order:
 5. Before Tsunami goes off, activate the Elemental Shield.
 
 ## Raids
+
+### Alphascape 1.0
+
+1. Chaotic Dispersion: Tank-buster.
+2. Tsunami: Stay in the middle third of the arena.
+3. Dynamic Fluid: Stack in the middle.
+4. Knock Down: Move to edge of arenas.
+5. Fiendish Orbs: Both tanks intercept orbs to take damage.
+6. Knock Back: Stand along edge of platform to avoid being knocked into damaged area. Two pairs of two players marked with stack up shared damage, must separate into two even groups.
+7. Blaze: Stay in middle circle of platform.
+8. Cyclone: Tornado in center will occasionally push back towards edge of arena. Stay near tornado.
+
+### Alphascape 2.0
+
+1. Circle spin -> circle spin: Point-blank AE.
+2. Circle spin -> loop: Donut AE, move on top of him.
+3. Two loops: Move to corner of arena.
+4. Earth Shakers: Move away from other players.
+5. Akh Morn: Stack up damage, multiple hits.
+6. Thunderstorm: Move away from other players.
+7. Blizzard Markers: Move away from center of arena.
+8. Cauterize: AE damage across arena.
+9. Immortal Keys: Kill these quickly.
+10. Frost Breath: Frontal cone.
+11. Tail End: Tank buster.
+12. Exaflares: Move across platform.
+13. Akh Rahl: Move away from damage.
+
+### Alphascape 3.0
+
+1. Mustard Bomb: Tank-buster.
+2. Ballistic Impact: Leaves behind flame puddles.
+3. Larboard: Cone attack on left side of boss.
+4. Starboard: Cone attack on right side of boss.
+5. Peripheral Synthesis: Use Duty Action on adds.
+6. Program Loop: Stay in donut shape. Kill add.
+7. Delta Attack: Spam Duty Action key.
+8. Blaster: Off-tank intercepts and moves away from group.
+
+### Alphascape 4.0
+
+1. Solar Ray: Tank-buster
+2. Program Alpha: Stack up shared damage.
+3. Subject Simulation F: Move close to Omega F to survive pushback.
+4. Optimized Blade Dance: Tank-buster, use multiple cooldowns.
+5. Subject Simulation M: Move away to avoid point-blank AE.
+6. Omegoo: Move both towards edge and apart from each other.
+7. Shield + Shower: Kill Omega-M and then Omega-F.
+8. Firewall: Debuff that prevents damage to one of the Omega forms.
+9. Keep Omega-F and Omega-M separated.
 
 ### Deltascape V1.0 (Normal)
 
