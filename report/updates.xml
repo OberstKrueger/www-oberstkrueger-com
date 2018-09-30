@@ -7,7 +7,104 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2018-08-31T19:05:00Z</updated>
+<updated>2018-09-30T16:50:00Z</updated>
+
+<entry>
+<title>Updates For September, 2018</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201809</id>
+<published>2018-09-30T16:50:00Z</published>
+<updated>2018-09-30T16:50:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2018.09</h2>
+<h3>Favorite Articles</h3>
+<p>As I have previously written about, the smartphone form-factor is one that I grow less in love with by the day. Has been been typical now for almost a decade, Apple announced new iPhones this month, and as interesting as they might be, the new Apple Watch Series 4 is what really interested me. Apple has been doing great with wearables, and I have particular love for my Apple Watch. The new Series 4 is going to be a quick purchase for me.</p>
+<ul>
+<li><a href="https://www.anandtech.com/show/13364/apple-announces-the-apple-watch-4-fully-custom-sip">Apple announces the Apple Watch 4: fully custom SiP</a></li>
+<li><a href="https://daringfireball.net/2018/09/apple_watch_series_4">Apple Watch Series 4</a></li>
+<li><a href="https://www.macstories.net/news/apple-watch-series-4-the-macstories-overview/">Apple Watch Series 4: the MacStories overview</a></li>
+<li><a href="https://www.macstories.net/stories/watchos-5-the-macstories-review/">watchOS 5: the MacStories review</a></li>
+</ul>
+<p>Overcast has been my go-to podcast player since its release. Marco Arment has always provided great updates and new features to it, while keeping it true to its minimal ideals. Overcast 5 continues the trend of supporting new features in iOS on day one, with the newest update adding Siri integration and Apple Watch support. The Apple Watch support is of special interest to me, as I consider ways to continue downgrading my iPhone's role in my life.</p>
+<ul>
+<li><a href="https://9to5mac.com/2018/09/17/overcast-apple-watch-redesign-siri-shortcuts/">Overcast 5 brings Apple Watch playback, new Now Playing design, Siri Shortcuts, more</a></li>
+<li><a href="https://www.macstories.net/reviews/overcast-5-redesigned-now-playing-screen-search-siri-media-shortcuts-and-more/">Overcast 5: redesigned Now Playing screen, search, Siri media mhortcuts, and more</a></li>
+<li><a href="https://marco.org/2018/09/17/overcast5">Overcast 5: Watch, Siri, search, and redesign!</a></li>
+</ul>
+<p>Elon Musk's announcement of the first private citizen to fly around the moon is extraordinary. The world is officially entering the age of private space flight. Despite it currently being limited to the wealthy, like most things in history, more and more individuals will be able to participate. This is one of the first steps to future colonization outside of our planet.</p>
+<ul>
+<li><a href="https://dearmoon.earth/">Dear Moon</a></li>
+<li><a href="https://www.bbc.com/news/science-environment-45550755">Elon Musk unveils first tourist for SpaceX 'Moon loop'</a></li>
+</ul>
+<p>Automating my life has been a theme of mine this year, and OmniFocus has been at the center of it. It's capabilities has been like no other task management system that I have used, and after getting over the large mental investment in understanding how it works, it is now one of my most used applications. OmniFocus 3 is now available on all platforms, and most importantly the Mac, and so far, it is a strong improvement over the previous version.</p>
+<ul>
+<li><a href="https://www.macstories.net/reviews/omnifocus-3-for-mac-multiple-tags-enhanced-forecast-powerful-perspectives/">OmniFocus 3 for Mac: multiple tags, enhanced forecast, powerful perspectives</a></li>
+<li><a href="https://www.omnigroup.com/blog/omnifocus-3-for-mac">OmniFocus 3 for Mac released</a></li>
+</ul>
+<p>The below are some various other articles that I enjoyed.</p>
+<ul>
+<li><a href="https://www.recode.net/2018/9/10/17797720/amazon-is-stuffing-its-search-results-pages-with-ads">Amazon is stuffing its search results pages with ads</a></li>
+<li><a href="https://drewdevault.com/2018/09/04/Conservative-web-development.html">Conservative web development</a></li>
+<li><a href="https://spectrum.ieee.org/view-from-the-valley/computing/hardware/david-patterson-says-its-time-for-new-computer-architectures-and-software-languages">David Patterson says it’s time for new computer architectures and software languages</a></li>
+<li><a href="https://massivelyop.com/2018/08/21/everquesting-the-history-of-the-everquest-franchise/">EverQuesting: the history of the Everquest franchise</a></li>
+<li><a href="https://gizmodo.com/facebook-is-giving-advertisers-access-to-your-shadow-co-1828476051">Facebook is giving advertisers access to your shadow contact information</a></li>
+<li><a href="https://krebsonsecurity.com/2018/09/facebook-security-bug-affects-90m-users/">Facebook security bug affects 90m users</a></li>
+<li><a href="http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/">Falling in love with Rust</a></li>
+<li><a href="https://www.eurogamer.net/articles/digitalfoundry-2018-9-19-geforce-rtx-2080-2080-ti-review">GeForce RTX 2080 and RTX 2080 Ti review: our first glimpse of next-gen graphics?</a></li>
+<li><a href="http://calnewport.com/blog/2018/09/18/the-human-api-manifesto/">The human API manifest</a></li>
+<li><a href="https://www.ghacks.net/2018/09/12/microsoft-intercepting-firefox-chrome-installation-on-windows-10/">Microsoft intercepting Firefox and Chrome installation on Windows 10</a></li>
+<li><a href="https://kyren.github.io/2018/09/14/rustconf-talk.html">My RustConf 2018 closing keynote</a></li>
+<li><a href="https://news.northeastern.edu/2018/09/10/new-research-shows-your-internet-provider-is-in-control/">New research shows that, post net neutrality, internet providers are slowing down your streaming</a></li>
+<li><a href="https://www.eurogamer.net/articles/digitalfoundry-2018-dlss-turing-tech-analysis">Nvidia DLSS analysis: how AI tech can make PC games run 40 per cent faster</a></li>
+<li><a href="https://www.anandtech.com/show/13346/the-nvidia-geforce-rtx-2080-ti-and-2080-founders-edition-review">The NVIDIA GeForce RTX 2080 Ti &amp; RTX 2080 Founders Edition review: foundations for a ray traced Future</a></li>
+<li><a href="https://www.anandtech.com/show/13282/nvidia-turing-architecture-deep-dive/">The NVIDIA Turing GPU architecture deep dive: prelude to GeForce RTX</a></li>
+<li><a href="http://inessential.com/2018/09/17/oh_god_not_this_again">Oh God not this again</a></li>
+<li><a href="https://www.eurogamer.net/articles/2018-09-22-playing-todays-games-in-a-thousand-years">Playing today's games in a thousand years</a></li>
+<li><a href="https://www.nytimes.com/2018/09/03/well/live/preventing-muscle-loss-among-the-elderly.html">Preventing muscle loss as we age</a></li>
+<li><a href="https://feedbin.com/blog/2018/09/11/private-by-default/">Private by default</a></li>
+<li><a href="https://www.nature.com/articles/d41586-018-06178-7">Radical open-access plan could spell end to journal subscriptions</a></li>
+<li><a href="https://ethanmarcotte.com/wrote/revamp/">RevAMP.</a></li>
+<li><a href="https://twobithistory.org/2018/09/16/the-rise-and-demise-of-rss.html">The rise and demise of RSS</a></li>
+<li><a href="https://theintercept.com/2018/09/05/facebook-senate-hearing-sheryl-sandberg/">Sheryl Sandberg misled Congress about Facebook's conscience</a></li>
+<li><a href="http://inessential.com/2018/08/30/social_media_mobs">Social media mobs</a></li>
+<li><a href="http://tonsky.me/blog/disenchantment/">Software disenchantment</a></li>
+<li><a href="https://www.sublimetext.com/blog/articles/sublime-merge">Sublime Merge - git, done Sublime</a></li>
+<li><a href="http://inessential.com/2018/09/17/tech_diversity">Tech diversity</a></li>
+<li><a href="https://daringfireball.net/2018/09/iphone_xs_xr_series_4_apple_watch_event">Thoughts and observations on Apple's iPhone XS/XR and Series 4 Apple Watch introductory event</a></li>
+<li><a href="https://krebsonsecurity.com/2018/09/u-s-mobile-giants-want-to-be-your-online-identity/">U.S. mobile giants want to be your online identity</a></li>
+<li><a href="http://willcrichton.net/notes/systems-programming/">What is systems programming, really?</a></li>
+<li><a href="https://blog.plover.com/prog/haskell/what-goes-wrong.html">Why I never finish my Haskell programs (part 1 of ∞)</a></li>
+<li><a href="https://blog.cryptographyengineering.com/2018/09/23/why-im-leaving-chrome/">Why I'm leaving Chrome</a></li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Gibson, William - Virtual Light</li>
+<li>Gibson, William - Idoru</li>
+<li>Stephenson, Neal - Cryptonomicon</li>
+<li>Wolfram, Stephen - A New Kind of Science</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive">Counter-Strike: Global Offensive</a></li>
+<li><a href="https://www.eveonline.com">EVE Online</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Exapunks">Exapunks</a></li>
+<li><a href="https://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
+<li><a href="https://eternity.obsidian.net/">Pillars of Eternity II: Deadfire</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Quake_Champions">Quake Champions</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt">The Witcher 3: Wild Hunt</a></li>
+<li><a href="https://en.wikipedia.org/wiki/7_Billion_Humans">7 Billion Humans</a></li>
+</ul>
+<h3>Movies Watched</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Rush_Hour_(1998_film)">Rush Hour</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For August, 2018</title>
