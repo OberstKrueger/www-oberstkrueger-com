@@ -3,8 +3,114 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2018.08.31:1905
+updated: 2018.09.30:1650
 ---
+
+## 2018.09
+
+### Favorite Articles
+
+As I have previously written about, the smartphone form-factor is one that I grow less in love with by the day. Has been been typical now for almost a decade, Apple announced new iPhones this month, and as interesting as they might be, the new Apple Watch Series 4 is what really interested me. Apple has been doing great with wearables, and I have particular love for my Apple Watch. The new Series 4 is going to be a quick purchase for me.
+
+- [Apple announces the Apple Watch 4: fully custom SiP](https://www.anandtech.com/show/13364/apple-announces-the-apple-watch-4-fully-custom-sip)
+- [Apple Watch Series 4](https://daringfireball.net/2018/09/apple_watch_series_4)
+- [Apple Watch Series 4: the MacStories overview](https://www.macstories.net/news/apple-watch-series-4-the-macstories-overview/)
+- [watchOS 5: the MacStories review](https://www.macstories.net/stories/watchos-5-the-macstories-review/)
+
+Overcast has been my go-to podcast player since its release. Marco Arment has always provided great updates and new features to it, while keeping it true to its minimal ideals. Overcast 5 continues the trend of supporting new features in iOS on day one, with the newest update adding Siri integration and Apple Watch support. The Apple Watch support is of special interest to me, as I consider ways to continue downgrading my iPhone's role in my life.
+
+- [Overcast 5 brings Apple Watch playback, new Now Playing design, Siri Shortcuts, more](https://9to5mac.com/2018/09/17/overcast-apple-watch-redesign-siri-shortcuts/)
+- [Overcast 5: redesigned Now Playing screen, search, Siri media mhortcuts, and more](https://www.macstories.net/reviews/overcast-5-redesigned-now-playing-screen-search-siri-media-shortcuts-and-more/)
+- [Overcast 5: Watch, Siri, search, and redesign!](https://marco.org/2018/09/17/overcast5)
+
+Elon Musk's announcement of the first private citizen to fly around the moon is extraordinary. The world is officially entering the age of private space flight. Despite it currently being limited to the wealthy, like most things in history, more and more individuals will be able to participate. This is one of the first steps to future colonization outside of our planet.
+
+- [Dear Moon](https://dearmoon.earth/)
+- [Elon Musk unveils first tourist for SpaceX 'Moon loop'](https://www.bbc.com/news/science-environment-45550755)
+
+Automating my life has been a theme of mine this year, and OmniFocus has been at the center of it. It's capabilities has been like no other task management system that I have used, and after getting over the large mental investment in understanding how it works, it is now one of my most used applications. OmniFocus 3 is now available on all platforms, and most importantly the Mac, and so far, it is a strong improvement over the previous version.
+
+-   [OmniFocus 3 for Mac: multiple tags, enhanced forecast, powerful perspectives](https://www.macstories.net/reviews/omnifocus-3-for-mac-multiple-tags-enhanced-forecast-powerful-perspectives/)
+-   [OmniFocus 3 for Mac released](https://www.omnigroup.com/blog/omnifocus-3-for-mac)
+
+The below are some various other articles that I enjoyed.
+
+- [Amazon is stuffing its search results pages with ads](https://www.recode.net/2018/9/10/17797720/amazon-is-stuffing-its-search-results-pages-with-ads)
+- [Conservative web development](https://drewdevault.com/2018/09/04/Conservative-web-development.html)
+- [David Patterson says it’s time for new computer architectures and software languages](https://spectrum.ieee.org/view-from-the-valley/computing/hardware/david-patterson-says-its-time-for-new-computer-architectures-and-software-languages)
+- [EverQuesting: the history of the Everquest franchise](https://massivelyop.com/2018/08/21/everquesting-the-history-of-the-everquest-franchise/)
+- [Facebook is giving advertisers access to your shadow contact information](https://gizmodo.com/facebook-is-giving-advertisers-access-to-your-shadow-co-1828476051)
+- [Facebook security bug affects 90m users](https://krebsonsecurity.com/2018/09/facebook-security-bug-affects-90m-users/)
+- [Falling in love with Rust](http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/)
+- [GeForce RTX 2080 and RTX 2080 Ti review: our first glimpse of next-gen graphics?](https://www.eurogamer.net/articles/digitalfoundry-2018-9-19-geforce-rtx-2080-2080-ti-review)
+- [The human API manifest](http://calnewport.com/blog/2018/09/18/the-human-api-manifesto/)
+- [Microsoft intercepting Firefox and Chrome installation on Windows 10](https://www.ghacks.net/2018/09/12/microsoft-intercepting-firefox-chrome-installation-on-windows-10/)
+- [My RustConf 2018 closing keynote](https://kyren.github.io/2018/09/14/rustconf-talk.html)
+- [New research shows that, post net neutrality, internet providers are slowing down your streaming](https://news.northeastern.edu/2018/09/10/new-research-shows-your-internet-provider-is-in-control/)
+- [Nvidia DLSS analysis: how AI tech can make PC games run 40 per cent faster](https://www.eurogamer.net/articles/digitalfoundry-2018-dlss-turing-tech-analysis)
+- [The NVIDIA GeForce RTX 2080 Ti & RTX 2080 Founders Edition review: foundations for a ray traced Future](https://www.anandtech.com/show/13346/the-nvidia-geforce-rtx-2080-ti-and-2080-founders-edition-review)
+- [The NVIDIA Turing GPU architecture deep dive: prelude to GeForce RTX](https://www.anandtech.com/show/13282/nvidia-turing-architecture-deep-dive/)
+- [Oh God not this again](http://inessential.com/2018/09/17/oh_god_not_this_again)
+- [Playing today's games in a thousand years](https://www.eurogamer.net/articles/2018-09-22-playing-todays-games-in-a-thousand-years)
+- [Preventing muscle loss as we age](https://www.nytimes.com/2018/09/03/well/live/preventing-muscle-loss-among-the-elderly.html)
+- [Private by default](https://feedbin.com/blog/2018/09/11/private-by-default/)
+- [Radical open-access plan could spell end to journal subscriptions](https://www.nature.com/articles/d41586-018-06178-7)
+- [RevAMP.](https://ethanmarcotte.com/wrote/revamp/)
+- [The rise and demise of RSS](https://twobithistory.org/2018/09/16/the-rise-and-demise-of-rss.html)
+- [Sheryl Sandberg misled Congress about Facebook's conscience](https://theintercept.com/2018/09/05/facebook-senate-hearing-sheryl-sandberg/)
+- [Social media mobs](http://inessential.com/2018/08/30/social_media_mobs)
+- [Software disenchantment](http://tonsky.me/blog/disenchantment/)
+- [Sublime Merge - git, done Sublime](https://www.sublimetext.com/blog/articles/sublime-merge)
+- [Tech diversity](http://inessential.com/2018/09/17/tech_diversity)
+- [Thoughts and observations on Apple's iPhone XS/XR and Series 4 Apple Watch introductory event](https://daringfireball.net/2018/09/iphone_xs_xr_series_4_apple_watch_event)
+- [U.S. mobile giants want to be your online identity](https://krebsonsecurity.com/2018/09/u-s-mobile-giants-want-to-be-your-online-identity/)
+- [What is systems programming, really?](http://willcrichton.net/notes/systems-programming/)
+- [Why I never finish my Haskell programs (part 1 of ∞)](https://blog.plover.com/prog/haskell/what-goes-wrong.html)
+- [Why I'm leaving Chrome](https://blog.cryptographyengineering.com/2018/09/23/why-im-leaving-chrome/)
+
+### Books Read
+
+- Gibson, William - Virtual Light
+- Gibson, William - Idoru
+- Stephenson, Neal - Cryptonomicon
+- Wolfram, Stephen - A New Kind of Science
+
+### Games Played
+
+- [Counter-Strike: Global Offensive](https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive)
+- [EVE Online](https://www.eveonline.com)
+- [Exapunks](https://en.wikipedia.org/wiki/Exapunks)
+- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
+- [Pillars of Eternity II: Deadfire](https://eternity.obsidian.net/)
+- [Quake Champions](https://en.wikipedia.org/wiki/Quake_Champions)
+- [The Witcher 3: Wild Hunt](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt)
+- [7 Billion Humans](https://en.wikipedia.org/wiki/7_Billion_Humans)
+
+### Movies Watched
+
+- [Rush Hour](https://en.wikipedia.org/wiki/Rush_Hour_(1998_film))
+
+### Books Read
+
+- Gibson, William - Virtual Light
+- Gibson, William - Idoru
+- Stephenson, Neal - Cryptonomicon
+- Wolfram, Stephen - A New Kind of Science
+
+### Games Played
+
+- [Counter-Strike: Global Offensive](https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive)
+- [EVE Online](https://www.eveonline.com)
+- [Exapunks](https://en.wikipedia.org/wiki/Exapunks)
+- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
+- [Pillars of Eternity II: Deadfire](https://eternity.obsidian.net/)
+- [Quake Champions](https://en.wikipedia.org/wiki/Quake_Champions)
+- [The Witcher 3: Wild Hunt](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt)
+- [7 Billion Humans](https://en.wikipedia.org/wiki/7_Billion_Humans)
+
+### Movies Watched
+
+- [Rush Hour](https://en.wikipedia.org/wiki/Rush_Hour_(1998_film))
 
 ## 2018.08
 
