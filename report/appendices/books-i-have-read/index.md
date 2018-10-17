@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2018.09.22:1650
+updated: 2018.10.16:1715
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -26,6 +26,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Demaree, David - Git For Humans
 - Foer, Joshua - Moonwalking with Einstein: The Art and Science of Remembering Everything
 - Garriott, Richard - Explore/Create: My Life in Pursuit of New Frontiers, Hidden Worlds, and the Creative Spark
+- Gibson, William - All Tomorrow's Parties
 - Gibson, William - Count Zero
 - Gibson, William - Idoru
 - Gibson, William - Mona Lisa Overdrive
