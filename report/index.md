@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2018.08.28:1740
+updated: 2018.10.17:0030
 ---
 
 ## Introduction
@@ -31,6 +31,11 @@ updated: 2018.08.28:1740
 - [Selecting Movies](/life/selecting-movies)
 - [Traveling Minimally](/life/traveling-minimally)
 - [Years In Review](/life/years-in-review)
+
+## Automation
+
+- [Why Automation?](/automation/why-automation)
+- [Automating Podcasts](/automation/automating-podcasts)
 
 ## Programming
 
