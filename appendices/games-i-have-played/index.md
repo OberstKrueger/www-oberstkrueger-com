@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2018.09.28:1715
+updated: 2018.10.21:1610
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -294,6 +294,7 @@ updated: 2018.09.28:1715
 - [Final Fantasy XIV: A Realm Reborn](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_A_Realm_Reborn)
 - [Final Fantasy XIV: Heavensward](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Heavensward)
 - [Final Fantasy XIV: Stormblood](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood)
+- [Final Fantasy XV](https://en.wikipedia.org/wiki/Final_Fantasy_XV)
 - [Firefall](https://en.wikipedia.org/wiki/Firefall_(video_game))
 - [Fortnite Battle Royale](https://en.wikipedia.org/wiki/Fortnite_Battle_Royale)
 - [FTL: Faster Than Light](https://en.wikipedia.org/wiki/FTL:_Faster_Than_Light)
