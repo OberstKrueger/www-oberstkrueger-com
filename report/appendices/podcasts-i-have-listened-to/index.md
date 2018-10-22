@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.04:1920
 title: Podcasts I Have Listened To
 type: page
-updated: 2018.05.18:1745
+updated: 2018.10.22:1630
 ---
 
 **Accidental Tech Podcast**: [Site](http://atp.fm)<br>
@@ -21,6 +21,10 @@ CGP Grey and Myke Hurley are both independent content creators. Each episode, th
 **Criminal**: [Site](http://thisiscriminal.com)<br>
 **Host**: [Phoebe Judge](https://twitter.com/PhoebeVJudge)<br>
 Criminal is a podcast about crime. Not so much the "if it bleeds, it leads," kind of crime. Something a little more complex. Stories of people who've done wrong, been wronged, and/or gotten caught somewhere in the middle.
+
+**FiveThirtyEight Politics**: [Site](https://fivethirtyeight.com/tag/politics-podcast/)<br>
+**Hosts**: [Galen Druke](http://www.galendruke.com/), [Nate Silver](https://en.wikipedia.org/wiki/Nate_Silver)<br>
+Nate Silver and the FiveThirtyEight team cover the latest in politics, tracking the issues and “game-changers” every week.
 
 **Flash Forward**: [Site](http://www.flashforwardpod.com)<br>
 **Host**: [Rose Eveleth](http://roseveleth.com)<br>
@@ -89,6 +93,10 @@ There are a lot of fads, blogs and strong opinions, but then there’s SCIENCE. 
 **Simplify**: [Site](https://www.blinkist.com/simplify)<br>
 **Hosts**: Ben Schuman-Stoler, Caitlin Schiller<br>
 Simplify is a podcast for anyone who’s taken a critical look at their habits, their happiness, their relationships, or their health and thought, "There’s got to be a better way to do this."
+
+**Slow Burn**: [Site](https://slate.com/slow-burn)<br>
+**Host**: [Leon Neyfakh](https://en.wikipedia.org/wiki/Leon_Neyfakh)<br>
+Leon Neyfakh excavates the strange subplots and forgotten characters of recent political history—and finds surprising parallels to the present. Season 1 of Slow Burn captured what it felt like to live through Watergate; Season 2 does the same with the saga of Bill Clinton’s impeachment.
 
 **Stay Tuned With Preet**: [Site](http://www.wnyc.org/shows/preetbharara)<br>
 **Host**: [Preet Bharara](https://en.wikipedia.org/wiki/Preet_Bharara)<br>
