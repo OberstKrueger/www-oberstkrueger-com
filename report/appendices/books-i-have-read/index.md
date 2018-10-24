@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2018.10.16:1715
+updated: 2018.10.23:1735
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -86,5 +86,6 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Williams, Terry - The Cocaine Kids: The Inside Story Of A Teenage Drug Ring
 - Wohlsen, Marcus - Biopunk: DIY Scientists Hack the Software of Life
 - Wolfram, Stephen - A New Kind of Science
+- Yee, Nick - The Proteus Paradox: How Online Games and Virtual Worlds Change Us - And How They Don't
 - Yudkowsky, Eliezer - Inadequate Equilibria: Where and How Civilizations Get Stuck
 - Zomorodi, Manoush - Bored and Brilliant: How Spacing Out Can Unlock Your Most Productive and Creative Self
