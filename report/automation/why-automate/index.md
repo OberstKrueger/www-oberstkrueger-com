@@ -1,9 +1,9 @@
 ---
 category: automation
 created: 2018.10.17:0030
-title: Why Automate
+title: Why Automate?
 type: page
-updated: 2018.10.17:0030
+updated: 2018.10.31:1600
 ---
 
 Automation is a task that computers excel at. The whole process of a modern computer is automated: press the power button, and a gargantuan list of processes are automatically run just to turn on the machine. Once running, software [daemons](https://en.wikipedia.org/wiki/Daemon_(computing)) are making sure the system remains functional, providing background services for every application running on top of the operating system, and notifying you whenever something is set to do so.

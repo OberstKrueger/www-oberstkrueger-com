@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2018.10.17:0030
+updated: 2018.10.31:1600
 ---
 
 ## Introduction
@@ -34,7 +34,7 @@ updated: 2018.10.17:0030
 
 ## Automation
 
-- [Why Automation?](/automation/why-automation)
+- [Why Automate?](/automation/why-automate)
 - [Automating Podcasts](/automation/automating-podcasts)
 
 ## Programming
