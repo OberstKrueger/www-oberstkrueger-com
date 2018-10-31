@@ -3,8 +3,85 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2018.09.30:1650
+updated: 2018.10.31:1615
 ---
+
+## 2018.10
+
+### Why Automate
+
+One of the fundamental uses of computer devices is to automate my life. I try to run my life based on the principles set forth by David Allen in his GTD book, and a large part of his work relies on offloading tasks to something else that can properly handle it. For me, this is a mixture of computer scripts, applications, and workflows to make better use of my time. [Why Automate?](https://krueger.report/automation/why-automate/) goes into specifics of how and why I love doing this.
+
+### Automating Podcasts
+
+There are many ways to automate computer usage, but one of the less talked about ways is to make GUI tools function on there own. [Automating Podcasts](https://krueger.report/automation/automating-podcasts/) highlights how I use the iOS app Overcast to operate on its own other than needing to hit the play and stop buttons.
+
+### Favorite Articles
+
+California has been working on a new net neutrality bill this year, and it has now been signed into law. There will be a huge legal fight over this law as well as those passed in the state of Washington, but it is an important fight. The openness of the internet helped give us the technological boon of the last couple of decades. Without it, innovation will be stifled, and current services will be more dificult to use.
+
+- [California enacts net neutrality law - US government immediately sues to block it](https://arstechnica.com/tech-policy/2018/09/california-governor-signs-net-neutrality-rules-into-law/)
+- [Justice Department sues to stop California net neutrality law](https://www.nytimes.com/2018/09/30/technology/net-neutrality-california.html)
+- [SB-822 Communications: broadband Internet access service](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB822)
+
+Facebook is not the only company that is having problems with their social media service. This month, it was discovered that an open API allowed for access to Google+ profile data that was meant to be private. Google claims that their API logs only last for two weeks, meaning the extent of damage caused by this is unknown. Their response of completely shuttering Google+ for non-enterprise users seems extreme, although Google+ has not made a mark on the social media market.
+
+- [Alphabet to shut Google+ social site after user data exposed](https://finance.yahoo.com/news/google-exposed-user-data-feared-170304418.html)
+- [The death of Google](https://lauren.vortex.com/2018/10/08/the-death-of-google)
+- [Google exposed user data, feared repercussions of disclosing to public](https://www.wsj.com/articles/google-exposed-user-data-feared-repercussions-of-disclosing-to-public-1539017194)
+- [Project Strobe: protecting your data, improving our third-party APIs, and sunsetting consumer Google+](https://www.blog.google/technology/safety-security/project-strobe/)
+- [Why I'm worried about Google](https://slate.com/technology/2018/10/google-is-losing-users-trust.html)
+
+Paul Allen passed away this month. Without him, Microsoft would have never been founded and the modern computing landscape would look a lot different.
+
+- [Microsoft co-founder Paul Allen dies of cancer at age 65](https://www.cnbc.com/2018/10/15/microsoft-co-founder-paul-allen-dies-of-cancer-at-age-65.html)
+- [Paul Allen, co-founder of Microsoft, passes away](https://www.anandtech.com/show/13481/paul-allen-cofounder-of-microsoft-passes-away)
+- [What I loved about Paul Allen](https://www.gatesnotes.com/About-Bill-Gates/Remembering-Paul-Allen)
+
+Facebook remains consistent in its quest to gather as much data on its users as possible. Portal, their new in-home video calling device, will collect data with the purpose of serving ads to the user. No matter how you try to interact with Facebook, they do everything in their power to build a profile for advertising purposes.
+
+- [Facebook blocked users from posting some stories about its security breach](https://techcrunch.com/2018/09/28/facebook-blocks-guardian-story/)
+- [Facebook says millions of users had phone numbers, search history and location data stolen in recent hack](https://www.washingtonpost.com/technology/2018/10/12/facebook-says-fewer-users-were-affected-by-data-breach-more-information-was-taken/)
+- [It turns out that Facebook could in fact use data collected from its Portal in-home video device to target you with ads](https://www.recode.net/2018/10/16/17966102/facebook-portal-ad-targeting-data-collection)
+
+I've been interested in and following Linux since I was in high school, and during that entire time, Red Hat has been a major player in the operating system. It's hard to say right now whether this acquisition will help or hurt Red Hat's offerings in the long run, or how it will affect the rest of the Linux ecosystem, but this might be the solution to IBM's business concerns.
+
+- [IBM's old playbook](https://stratechery.com/2018/ibms-old-playbook/)
+- [Red Hat takes over IBM](https://www.cringely.com/2018/10/29/red-hat-takes-over-ibm/)
+- [This is fine: IBM acquires Red Hat](https://arstechnica.com/information-technology/2018/10/ibm-buys-red-hat-with-eye-on-cloud-dominance/)
+
+After 1475 days, Apple updated my beloved Mac Mini. The new updates are more than a simple spec bump, as the port configuration on the back is revamped and the internal component layout is new. Despite the lack of love that it gets, the Mac Mini is my favorite Mac in Apple's lineup, and I am incredibly happy to see such a huge leap in its power.
+
+- [Apple Launches New Mac Mini: Up to 6 Cores, 64 GB RAM, 2 TB SSD, & TB3](https://www.anandtech.com/show/13530/apple-launches-2018-mac-mini)
+- [Apple T2 security chip: security overview](https://www.apple.com/mac/docs/Apple_T2_Security_Chip_Overview.pdf)
+- [Mac mini: the MacStories overview](https://www.macstories.net/news/mac-mini-the-macstories-overview/)
+
+The below are some various other articles that I enjoyed.
+
+- [AI winter - update](https://blog.piekniewski.info/2018/10/29/ai-winter-update/)
+- [Announcing the xi-editor Github organization](https://raphlinus.github.io/xi/2018/10/01/xi-organization.html)
+- [Apple News's radical approach: humans over machines](https://www.nytimes.com/2018/10/25/technology/apple-news-humans-algorithms.html)
+- [The benefits and costs of writing a POSIX kernel in a high-level language](https://www.usenix.org/system/files/osdi18-cutler.pdf)
+- [Designer babies aren't futuristic. They're already here](https://www.technologyreview.com/s/612258/are-we-designing-inequality-into-our-genes/)
+- [Playing today's games in a thousand years](https://www.eurogamer.net/articles/2018-09-22-playing-todays-games-in-a-thousand-years)
+- [Rust and the three laws of informatics](https://medium.com/@schemouil/rust-and-the-three-laws-of-informatics-4324062b322b)
+- [Tech's high speed, and my low tide](http://morrick.me/archives/8270)
+- [Voice phishing scams are getting more clever](https://krebsonsecurity.com/2018/10/voice-phishing-scams-are-getting-more-clever/)
+- [With Proton and Steam Play, many Windows games now work on Linux](https://www.protondb.com)
+
+### Books Read
+
+- Gibson, William - All Tomorrow's Parties
+- Yee, Nick - The Proteus Paradox: How Online Games and Virtual Worlds Change Us - And How They Don't
+
+### Games Played
+
+- [EVE Online](https://www.eveonline.com)
+- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
+- [Final Fantasy XV](https://en.wikipedia.org/wiki/Final_Fantasy_XV)
+- [Pillars of Eternity II: Deadfire](https://eternity.obsidian.net/)
+- [Quake Champions](https://en.wikipedia.org/wiki/Quake_Champions)
+- [The Witcher 3: Wild Hunt](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt)
 
 ## 2018.09
 
