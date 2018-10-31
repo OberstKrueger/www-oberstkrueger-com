@@ -7,7 +7,93 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2018-09-30T16:50:00Z</updated>
+<updated>2018-10-31T16:15:00Z</updated>
+
+<entry>
+<title>Updates For October, 2018</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201810</id>
+<published>2018-10-31T16:15:00Z</published>
+<updated>2018-10-31T16:15:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2018.10</h2>
+<h3>Why Automate</h3>
+<p>One of the fundamental uses of computer devices is to automate my life. I try to run my life based on the principles set forth by David Allen in his GTD book, and a large part of his work relies on offloading tasks to something else that can properly handle it. For me, this is a mixture of computer scripts, applications, and workflows to make better use of my time. <a href="https://krueger.report/automation/why-automate/">Why Automate?</a> goes into specifics of how and why I love doing this.</p>
+<h3>Automating Podcasts</h3>
+<p>There are many ways to automate computer usage, but one of the less talked about ways is to make GUI tools function on there own. <a href="https://krueger.report/automation/automating-podcasts/">Automating Podcasts</a> highlights how I use the iOS app Overcast to operate on its own other than needing to hit the play and stop buttons.</p>
+<h3>Favorite Articles</h3>
+<p>California has been working on a new net neutrality bill this year, and it has now been signed into law. There will be a huge legal fight over this law as well as those passed in the state of Washington, but it is an important fight. The openness of the internet helped give us the technological boon of the last couple of decades. Without it, innovation will be stifled, and current services will be more dificult to use.</p>
+<ul>
+<li><a href="https://arstechnica.com/tech-policy/2018/09/california-governor-signs-net-neutrality-rules-into-law/">California enacts net neutrality law - US government immediately sues to block it</a></li>
+<li><a href="https://www.nytimes.com/2018/09/30/technology/net-neutrality-california.html">Justice Department sues to stop California net neutrality law</a></li>
+<li><a href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB822">SB-822 Communications: broadband Internet access service</a></li>
+</ul>
+<p>Facebook is not the only company that is having problems with their social media service. This month, it was discovered that an open API allowed for access to Google+ profile data that was meant to be private. Google claims that their API logs only last for two weeks, meaning the extent of damage caused by this is unknown. Their response of completely shuttering Google+ for non-enterprise users seems extreme, although Google+ has not made a mark on the social media market.</p>
+<ul>
+<li><a href="https://finance.yahoo.com/news/google-exposed-user-data-feared-170304418.html">Alphabet to shut Google+ social site after user data exposed</a></li>
+<li><a href="https://lauren.vortex.com/2018/10/08/the-death-of-google">The death of Google</a></li>
+<li><a href="https://www.wsj.com/articles/google-exposed-user-data-feared-repercussions-of-disclosing-to-public-1539017194">Google exposed user data, feared repercussions of disclosing to public</a></li>
+<li><a href="https://www.blog.google/technology/safety-security/project-strobe/">Project Strobe: protecting your data, improving our third-party APIs, and sunsetting consumer Google+</a></li>
+<li><a href="https://slate.com/technology/2018/10/google-is-losing-users-trust.html">Why I'm worried about Google</a></li>
+</ul>
+<p>Paul Allen passed away this month. Without him, Microsoft would have never been founded and the modern computing landscape would look a lot different.</p>
+<ul>
+<li><a href="https://www.cnbc.com/2018/10/15/microsoft-co-founder-paul-allen-dies-of-cancer-at-age-65.html">Microsoft co-founder Paul Allen dies of cancer at age 65</a></li>
+<li><a href="https://www.anandtech.com/show/13481/paul-allen-cofounder-of-microsoft-passes-away">Paul Allen, co-founder of Microsoft, passes away</a></li>
+<li><a href="https://www.gatesnotes.com/About-Bill-Gates/Remembering-Paul-Allen">What I loved about Paul Allen</a></li>
+</ul>
+<p>Facebook remains consistent in its quest to gather as much data on its users as possible. Portal, their new in-home video calling device, will collect data with the purpose of serving ads to the user. No matter how you try to interact with Facebook, they do everything in their power to build a profile for advertising purposes.</p>
+<ul>
+<li><a href="https://techcrunch.com/2018/09/28/facebook-blocks-guardian-story/">Facebook blocked users from posting some stories about its security breach</a></li>
+<li><a href="https://www.washingtonpost.com/technology/2018/10/12/facebook-says-fewer-users-were-affected-by-data-breach-more-information-was-taken/">Facebook says millions of users had phone numbers, search history and location data stolen in recent hack</a></li>
+<li><a href="https://www.recode.net/2018/10/16/17966102/facebook-portal-ad-targeting-data-collection">It turns out that Facebook could in fact use data collected from its Portal in-home video device to target you with ads</a></li>
+</ul>
+<p>I've been interested in and following Linux since I was in high school, and during that entire time, Red Hat has been a major player in the operating system. It's hard to say right now whether this acquisition will help or hurt Red Hat's offerings in the long run, or how it will affect the rest of the Linux ecosystem, but this might be the solution to IBM's business concerns.</p>
+<ul>
+<li><a href="https://stratechery.com/2018/ibms-old-playbook/">IBM's old playbook</a></li>
+<li><a href="https://www.cringely.com/2018/10/29/red-hat-takes-over-ibm/">Red Hat takes over IBM</a></li>
+<li><a href="https://arstechnica.com/information-technology/2018/10/ibm-buys-red-hat-with-eye-on-cloud-dominance/">This is fine: IBM acquires Red Hat</a></li>
+</ul>
+<p>After 1475 days, Apple updated my beloved Mac Mini. The new updates are more than a simple spec bump, as the port configuration on the back is revamped and the internal component layout is new. Despite the lack of love that it gets, the Mac Mini is my favorite Mac in Apple's lineup, and I am incredibly happy to see such a huge leap in its power.</p>
+<ul>
+<li><a href="https://www.anandtech.com/show/13530/apple-launches-2018-mac-mini">Apple Launches New Mac Mini: Up to 6 Cores, 64 GB RAM, 2 TB SSD, &amp; TB3</a></li>
+<li><a href="https://www.apple.com/mac/docs/Apple_T2_Security_Chip_Overview.pdf">Apple T2 security chip: security overview</a></li>
+<li><a href="https://www.macstories.net/news/mac-mini-the-macstories-overview/">Mac mini: the MacStories overview</a></li>
+</ul>
+<p>The below are some various other articles that I enjoyed.</p>
+<ul>
+<li><a href="https://blog.piekniewski.info/2018/10/29/ai-winter-update/">AI winter - update</a></li>
+<li><a href="https://raphlinus.github.io/xi/2018/10/01/xi-organization.html">Announcing the xi-editor Github organization</a></li>
+<li><a href="https://www.nytimes.com/2018/10/25/technology/apple-news-humans-algorithms.html">Apple News's radical approach: humans over machines</a></li>
+<li><a href="https://www.usenix.org/system/files/osdi18-cutler.pdf">The benefits and costs of writing a POSIX kernel in a high-level language</a></li>
+<li><a href="https://www.technologyreview.com/s/612258/are-we-designing-inequality-into-our-genes/">Designer babies aren't futuristic. They're already here</a></li>
+<li><a href="https://www.eurogamer.net/articles/2018-09-22-playing-todays-games-in-a-thousand-years">Playing today's games in a thousand years</a></li>
+<li><a href="https://medium.com/@schemouil/rust-and-the-three-laws-of-informatics-4324062b322b">Rust and the three laws of informatics</a></li>
+<li><a href="http://morrick.me/archives/8270">Tech's high speed, and my low tide</a></li>
+<li><a href="https://krebsonsecurity.com/2018/10/voice-phishing-scams-are-getting-more-clever/">Voice phishing scams are getting more clever</a></li>
+<li><a href="https://www.protondb.com">With Proton and Steam Play, many Windows games now work on Linux</a></li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Gibson, William - All Tomorrow's Parties</li>
+<li>Yee, Nick - The Proteus Paradox: How Online Games and Virtual Worlds Change Us - And How They Don't</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://www.eveonline.com">EVE Online</a></li>
+<li><a href="https://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XV">Final Fantasy XV</a></li>
+<li><a href="https://eternity.obsidian.net/">Pillars of Eternity II: Deadfire</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Quake_Champions">Quake Champions</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt">The Witcher 3: Wild Hunt</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For September, 2018</title>
