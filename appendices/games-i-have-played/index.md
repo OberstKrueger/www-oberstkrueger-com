@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2018.10.21:1610
+updated: 2018.10.31:1610
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -476,6 +476,8 @@ updated: 2018.10.21:1610
 - [Wing Commander IV: The Price of Freedom](https://en.wikipedia.org/wiki/Wing_Commander_IV:_The_Price_of_Freedom)
 - [The Witcher](https://en.wikipedia.org/wiki/The_Witcher_(video_game))
 - [The Witcher 3: Wild Hunt](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt)
+- [The Witcher 3: Wild Hunt - Hearts of Stone](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt_–_Hearts_of_Stone)
+- [The Witcher 3: Wild Hunt - Blood and Wine](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt_–_Blood_and_Wine)
 - [The Witness](https://en.wikipedia.org/wiki/The_Witness_(2016_video_game))
 - [World of Goo](https://en.wikipedia.org/wiki/World_of_Goo)
 - [World of Warcraft](https://en.wikipedia.org/wiki/World_of_Warcraft)
