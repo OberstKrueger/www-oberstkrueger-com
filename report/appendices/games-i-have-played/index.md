@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2018.10.31:1610
+updated: 2018.11.01:0535
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -219,6 +219,7 @@ updated: 2018.10.31:1610
 - [Civilization V](https://en.wikipedia.org/wiki/Civilization_V)
 - [Civilization V: Gods & Kings](https://en.wikipedia.org/wiki/Civilization_V:_Gods_%26_Kings)
 - [Civilization V: Brave New World](https://en.wikipedia.org/wiki/Civilization_V:_Brave_New_World)
+- [Cogmind](https://en.wikipedia.org/wiki/Cogmind)
 - [Command & Conquer: Red Alert 3](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert_3)
 - [Command & Conquer 3: Tiberium Wars](https://en.wikipedia.org/wiki/Command_%26_Conquer_3:_Tiberium_Wars)
 - [Counter-Strike](https://en.wikipedia.org/wiki/Counter-Strike_(video_game))
