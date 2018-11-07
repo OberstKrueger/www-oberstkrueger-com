@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: About The Author
 type: page
-updated: 2018.11.05:1645
+updated: 2018.11.06:1620
 ---
 
 ## Current Computing Devices
@@ -45,15 +45,6 @@ updated: 2018.11.05:1645
 - Peripherals: [LG 25UM58-P](http://www.lg.com/us/monitors/lg-25UM58-P-ultrawide-monitor), [Magic Keyboard](https://en.wikipedia.org/wiki/Magic_Keyboard), [Magic Trackpad](https://en.wikipedia.org/wiki/Magic_Trackpad)
 
 **GeekBench Score**: [3509 / 6640](https://browser.geekbench.com/v4/cpu/2184898)
-
-### MacBook Air
-
-- CPU: [Intel Core 2 Duo SL9400](https://ark.intel.com/products/36689/Intel-Core2-Duo-Processor-SL9400-6M-Cache-1_86-GHz-1066-MHz-FSB)
-- GPU: [Nvidia GeForce 320M](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units#GeForce_300M_.283xxM.29_series)
-- RAM: 2 GB  1066 Mhz DDR
-- SSD: 128 GB
-
-**GeekBench Score**: [1345  / 2315](https://browser.geekbench.com/v4/cpu/2233406)
 
 ## Current Workspaces
 
