@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2018.11.01:0535
+updated: 2018.11.28.1620
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -195,6 +195,7 @@ updated: 2018.11.01:0535
 - [Age of Empires III](https://en.wikipedia.org/wiki/Age_of_Empires_III)
 - [American McGee's Alice](https://en.wikipedia.org/wiki/American_McGee%27s_Alice)
 - [Anarchy Online](https://en.wikipedia.org/wiki/Anarchy_Online)
+- [Artifact](https://en.wikipedia.org/wiki/Artifact_(video_game))
 - [Asheron's Call](https://en.wikipedia.org/wiki/Asheron%27s_Call)
 - [Asheron's Call 2: Fallen Kings](https://en.wikipedia.org/wiki/Asheron%27s_Call_2:_Fallen_Kings)
 - [Back to the Future: The Game](https://en.wikipedia.org/wiki/Back_to_the_Future:_The_Game)
@@ -335,6 +336,7 @@ updated: 2018.11.01:0535
 - [Icewind Dale II](https://en.wikipedia.org/wiki/Icewind_Dale_II)
 - [Inside](https://en.wikipedia.org/wiki/Inside_(video_game))
 - [Into The Breach](https://en.wikipedia.org/wiki/Into_the_Breach)
+- [It Lurks Below](https://en.wikipedia.org/wiki/It_Lurks_Below)
 - [King's Quest V: Absence Makes the Heart Go Yonder!](https://en.wikipedia.org/wiki/King%27s_Quest_V)
 - [King's Quest VI: Heir Today, Gone Tomorrow](https://en.wikipedia.org/wiki/King%27s_Quest_VI)
 - [King's Quest VII: The Princeless Bride](https://en.wikipedia.org/wiki/King%27s_Quest_VII)
