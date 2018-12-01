@@ -3,8 +3,72 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2018.10.31:1615
+updated: 2018.11.30:2245
 ---
+
+## 2018.11
+
+### Favorite Articles
+
+The games of Blizzard Entertainment were foundational in shaping the games I enjoy today. Diablo 2, Warcraft 3, and World of Warcraft in particular are games that I hold in high esteem. Blizzard did not announce a Diablo 2 remaster like I was hoping for, but did announce a remaster for Warcraft 3 and the release of World of Warcraft Classic. Both are games I am interested in going back to and playing again, and both are to be released next year.
+
+- [Blizzard is remastering Warcraft 3 at last](https://www.eurogamer.net/articles/2018-11-02-blizzard-is-remastering-warcraft-3-at-last)
+- [World of Warcraft: Classic brings back the original great journey, and it isn't for everyone](https://www.polygon.com/2018/11/9/18076494/world-of-warcraft-classic-interview-impressions)
+- [WoW Classic will be released in summer 2019](https://www.eurogamer.net/articles/2018-11-02-wow-classic-will-be-released-in-summer-2019)
+
+The 2018 Mac Mini more and more looks like a Mac Mini Pro. The CPU in it makes it one of the faster Macs in history, comparable with the latest MacBook Pros and iMac Pros. Important to me, the RAM is again upgradeable on it without too much hassle. I look forward to ordering a new Mac Mini sometime soon and putting it through its paces.
+
+- [Mac mini late 2018 teardown](https://www.ifixit.com/Teardown/Mac+mini+Late+2018+Teardown/115210)
+- [Renewed hope in Mac hardware](https://weblog.rogueamoeba.com/2018/11/13/renewed-hope-in-mac-hardware/)
+- [The 2018 Mac Mini](https://marco.org/2018/11/06/mac-mini-2018-review)
+
+For the past few years, Apple's in-house CPUs have been getting closer to Intel in overall performance. This year's A12X surpasses many of Intel's mobile offerings, and is competitive with their desktop performance. It seems to only be a matter of time before Apple transplants these chips over to Macs.
+
+- [Apple walks Ars through the iPad Pro’s A12X system on a chip](https://arstechnica.com/gadgets/2018/11/apple-walks-ars-through-the-ipad-pros-a12x-system-on-a-chip/)
+- [Apple's iPad Pro A12X nearly matches top-end x86 CPUs in GeekBench](https://www.extremetech.com/mobile/279988-apples-ipad-pro-a12x-nearly-matches-top-end-x86-cpus-in-geekbench)
+
+Genetic engineering has long been a topic of science fiction. Up until now, it has been an area beyond the reach of humanity. The recent announcement of a Chinese team editing the DNA of babies before birth to try and reduce their risk of HIV has thrown this question to the forefront of a lot of scientists minds. It is a perilous path to go down, but also one that seems inevitable.
+
+- [Chinese scientist He Jiankui defends 'world's first gene-edited babies'](https://www.bbc.com/news/world-asia-china-46368731)
+- [The Chinese scientist who claims he made CRISPR babies is under investigation](https://www.technologyreview.com/s/612466/the-chinese-scientist-who-claims-he-made-crispr-babies-has-been-suspended-without-pay/)
+- [CRISPR co-inventor responds to claim of first genetically edited babies](https://news.berkeley.edu/2018/11/26/doudna-responds-to-claim-of-first-crispr-edited-babies/)
+- [With announcement of gene-edited babies, ethical questions abound](https://undark.org/2018/11/30/with-announcement-of-gene-edited-babies-ethical-questions-abound/)
+
+The below are some various other articles that I enjoyed.
+
+- [Battlefield 5's RTX ray tracing tested: is this the next level in gaming graphics?](https://www.eurogamer.net/articles/digitalfoundry-2018-battlefield-5-rtx-ray-tracing-analysis)
+- [Chinese scientists are creating CRISPR babies](https://www.technologyreview.com/s/612458/exclusive-chinese-scientists-are-creating-crispr-babies/)
+- [Delay, deny and deflect: how Facebook's leaders fought through crisis](https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-racism.html)
+- [First gene-edited babies claimed in China](https://mainichi.jp/english/articles/20181126/p2g/00m/0fe/047000c)
+- [German federal office BSI publishes Telemetry analysis](https://www.ghacks.net/2018/11/23/german-federal-office-bsi-publishes-telemetry-analysis/)
+- [Half of all phishing sites now have the padlock](https://krebsonsecurity.com/2018/11/half-of-all-phishing-sites-now-have-the-padlock/)
+- [How to land on Mars](https://www.nytimes.com/interactive/2018/11/25/science/insight-how-to-land-on-mars.html)
+- [International System of Units overhauled in historic vote](http://www.npl.co.uk/news/international-system-of-units-overhauled-in-historic-vote)
+- [New form of Google banking scam](http://blog.abhijittomar.com/2018/10/19/google-business-claim-scam/blog.abhijittomar.com/2018/10/19/google-business-claim-scam/)
+- [Please resist Google's attempts to make you more robotlike](https://medium.com/@okh/please-resist-googles-attempts-to-make-you-more-robotlike-2f5babd786aa)
+- [sr.ht, the hacker's forge, now open for public alpha](https://drewdevault.com/2018/11/15/sr.ht-general-availability.html)
+- [Stop teaching C++](http://ibob.github.io/blog/2018/11/22/stop-teaching-cpp/)
+- [The story of Signal](https://increment.com/security/story-of-signal/)
+- [The source history of cat](https://twobithistory.org/2018/11/12/cat.html)
+- [Tech C.E.O.s are in love with their principal doomsayer](https://www.nytimes.com/2018/11/09/business/yuval-noah-harari-silicon-valley.html)
+- [The technology giants didn’t deserve public trust in the first place](https://librarianshipwreck.wordpress.com/2018/11/19/the-technology-giants-didnt-deserve-public-trust-in-the-first-place/)
+- [Valve pulls plug on Steam Link hardware](https://www.eurogamer.net/articles/2018-11-20-valve-pulls-plug-on-steam-link-hardware)
+- [Video games as slot machines](https://lvl-42.com/2018/11/06/video-games-as-slot-machines/)
+- [Why Intel processors draw more power than expeced: TDP and Turbo explained](https://www.anandtech.com/show/13544/why-intel-processors-draw-more-power-than-expected-tdp-turbo)
+- [Working as intended: the gamification of the workification of games](https://massivelyop.com/2018/11/01/working-as-intended-the-gamification-of-the-workification-of-games/)
+
+### Books Read
+
+- Newport, Cal - So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love
+
+### Games Played
+
+- [Artifact](https://en.wikipedia.org/wiki/Artifact_(video_game))
+- [EVE Online](https://www.eveonline.com)
+- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
+- [Final Fantasy XV](https://en.wikipedia.org/wiki/Final_Fantasy_XV)
+- [It Lurks Below](https://en.wikipedia.org/wiki/It_Lurks_Below)
+- [Quake Champions](https://en.wikipedia.org/wiki/Quake_Champions)
 
 ## 2018.10
 

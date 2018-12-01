@@ -7,7 +7,84 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2018-10-31T16:15:00Z</updated>
+<updated>2018-11-30T22:45:00Z</updated>
+
+<entry>
+<title>Updates For November, 2018</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201811</id>
+<published>2018-11-30T22:45:00Z</published>
+<updated>2018-11-30T22:45:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2018.10</h2>
+<h3>Favorite Articles</h3>
+<p>The games of Blizzard Entertainment were foundational in shaping the games I enjoy today. Diablo 2, Warcraft 3, and World of Warcraft in particular are games that I hold in high esteem. Blizzard did not announce a Diablo 2 remaster like I was hoping for, but did announce a remaster for Warcraft 3 and the release of World of Warcraft Classic. Both are games I am interested in going back to and playing again, and both are to be released next year.</p>
+<ul>
+<li><a href="https://www.eurogamer.net/articles/2018-11-02-blizzard-is-remastering-warcraft-3-at-last">Blizzard is remastering Warcraft 3 at last</a></li>
+<li><a href="https://www.polygon.com/2018/11/9/18076494/world-of-warcraft-classic-interview-impressions">World of Warcraft: Classic brings back the original great journey, and it isn't for everyone</a></li>
+<li><a href="https://www.eurogamer.net/articles/2018-11-02-wow-classic-will-be-released-in-summer-2019">WoW Classic will be released in summer 2019</a></li>
+</ul>
+<p>The 2018 Mac Mini more and more looks like a Mac Mini Pro. The CPU in it makes it one of the faster Macs in history, comparable with the latest MacBook Pros and iMac Pros. Important to me, the RAM is again upgradeable on it without too much hassle. I look forward to ordering a new Mac Mini sometime soon and putting it through its paces.</p>
+<ul>
+<li><a href="https://www.ifixit.com/Teardown/Mac+mini+Late+2018+Teardown/115210">Mac mini late 2018 teardown</a></li>
+<li><a href="https://weblog.rogueamoeba.com/2018/11/13/renewed-hope-in-mac-hardware/">Renewed hope in Mac hardware</a></li>
+<li><a href="https://marco.org/2018/11/06/mac-mini-2018-review">The 2018 Mac Mini</a></li>
+</ul>
+<p>For the past few years, Apple's in-house CPUs have been getting closer to Intel in overall performance. This year's A12X surpasses many of Intel's mobile offerings, and is competitive with their desktop performance. It seems to only be a matter of time before Apple transplants these chips over to Macs.</p>
+<ul>
+<li><a href="https://arstechnica.com/gadgets/2018/11/apple-walks-ars-through-the-ipad-pros-a12x-system-on-a-chip/">Apple walks Ars through the iPad Pro’s A12X system on a chip</a></li>
+<li><a href="https://www.extremetech.com/mobile/279988-apples-ipad-pro-a12x-nearly-matches-top-end-x86-cpus-in-geekbench">Apple's iPad Pro A12X nearly matches top-end x86 CPUs in GeekBench</a></li>
+</ul>
+<p>Genetic engineering has long been a topic of science fiction. Up until now, it has been an area beyond the reach of humanity. The recent announcement of a Chinese team editing the DNA of babies before birth to try and reduce their risk of HIV has thrown this question to the forefront of a lot of scientists minds. It is a perilous path to go down, but also one that seems inevitable.</p>
+<ul>
+<li><a href="https://www.bbc.com/news/world-asia-china-46368731">Chinese scientist He Jiankui defends 'world's first gene-edited babies'</a></li>
+<li><a href="https://www.technologyreview.com/s/612466/the-chinese-scientist-who-claims-he-made-crispr-babies-has-been-suspended-without-pay/">The Chinese scientist who claims he made CRISPR babies is under investigation</a></li>
+<li><a href="https://news.berkeley.edu/2018/11/26/doudna-responds-to-claim-of-first-crispr-edited-babies/">CRISPR co-inventor responds to claim of first genetically edited babies</a></li>
+<li><a href="https://undark.org/2018/11/30/with-announcement-of-gene-edited-babies-ethical-questions-abound/">With announcement of gene-edited babies, ethical questions abound</a></li>
+</ul>
+<p>The below are some various other articles that I enjoyed.</p>
+<ul>
+<li><a href="https://www.eurogamer.net/articles/digitalfoundry-2018-battlefield-5-rtx-ray-tracing-analysis">Battlefield 5's RTX ray tracing tested: is this the next level in gaming graphics?</a></li>
+<li><a href="https://www.technologyreview.com/s/612458/exclusive-chinese-scientists-are-creating-crispr-babies/">Chinese scientists are creating CRISPR babies</a></li>
+<li><a href="https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-racism.html">Delay, deny and deflect: how Facebook's leaders fought through crisis</a></li>
+<li><a href="https://mainichi.jp/english/articles/20181126/p2g/00m/0fe/047000c">First gene-edited babies claimed in China</a></li>
+<li><a href="https://www.ghacks.net/2018/11/23/german-federal-office-bsi-publishes-telemetry-analysis/">German federal office BSI publishes Telemetry analysis</a></li>
+<li><a href="https://krebsonsecurity.com/2018/11/half-of-all-phishing-sites-now-have-the-padlock/">Half of all phishing sites now have the padlock</a></li>
+<li><a href="https://www.nytimes.com/interactive/2018/11/25/science/insight-how-to-land-on-mars.html">How to land on Mars</a></li>
+<li><a href="http://www.npl.co.uk/news/international-system-of-units-overhauled-in-historic-vote">International System of Units overhauled in historic vote</a></li>
+<li><a href="http://blog.abhijittomar.com/2018/10/19/google-business-claim-scam/blog.abhijittomar.com/2018/10/19/google-business-claim-scam/">New form of Google banking scam</a></li>
+<li><a href="https://medium.com/@okh/please-resist-googles-attempts-to-make-you-more-robotlike-2f5babd786aa">Please resist Google's attempts to make you more robotlike</a></li>
+<li><a href="https://drewdevault.com/2018/11/15/sr.ht-general-availability.html">sr.ht, the hacker's forge, now open for public alpha</a></li>
+<li><a href="http://ibob.github.io/blog/2018/11/22/stop-teaching-cpp/">Stop teaching C++</a></li>
+<li><a href="https://increment.com/security/story-of-signal/">The story of Signal</a></li>
+<li><a href="https://twobithistory.org/2018/11/12/cat.html">The source history of cat</a></li>
+<li><a href="https://www.nytimes.com/2018/11/09/business/yuval-noah-harari-silicon-valley.html">Tech C.E.O.s are in love with their principal doomsayer</a></li>
+<li><a href="https://librarianshipwreck.wordpress.com/2018/11/19/the-technology-giants-didnt-deserve-public-trust-in-the-first-place/">The technology giants didn’t deserve public trust in the first place</a></li>
+<li><a href="https://www.eurogamer.net/articles/2018-11-20-valve-pulls-plug-on-steam-link-hardware">Valve pulls plug on Steam Link hardware</a></li>
+<li><a href="https://lvl-42.com/2018/11/06/video-games-as-slot-machines/">Video games as slot machines</a></li>
+<li><a href="https://www.anandtech.com/show/13544/why-intel-processors-draw-more-power-than-expected-tdp-turbo">Why Intel processors draw more power than expeced: TDP and Turbo explained</a></li>
+<li><a href="https://massivelyop.com/2018/11/01/working-as-intended-the-gamification-of-the-workification-of-games/">Working as intended: the gamification of the workification of games</a></li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Newport, Cal - So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Artifact_(video_game)">Artifact</a></li>
+<li><a href="https://www.eveonline.com">EVE Online</a></li>
+<li><a href="https://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XV">Final Fantasy XV</a></li>
+<li><a href="https://en.wikipedia.org/wiki/It_Lurks_Below">It Lurks Below</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Quake_Champions">Quake Champions</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For October, 2018</title>
