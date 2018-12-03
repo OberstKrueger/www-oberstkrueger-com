@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2018.11.28.1620
+updated: 2018.12.02:1730
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -63,6 +63,7 @@ updated: 2018.11.28.1620
 - [Hitman Go](https://en.wikipedia.org/wiki/Hitman_Go)
 - [Kingdom Rush](https://en.wikipedia.org/wiki/Kingdom_Rush)
 - [Kingdom Rush: Origins](https://en.wikipedia.org/wiki/Kingdom_Rush)
+- [Kingdom Rush: Vengeance](https://en.wikipedia.org/wiki/Kingdom_Rush)
 - [Lara Croft Go](https://en.wikipedia.org/wiki/Lara_Croft_Go)
 - [Letterpress](http://www.letterpressapp.com)
 - [Monument Valley](https://en.wikipedia.org/wiki/Monument_Valley_(video_game))
