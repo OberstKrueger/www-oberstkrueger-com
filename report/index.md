@@ -3,7 +3,7 @@ category: root
 created: 2016.11.05:1300
 title: The Krueger Report
 type: index
-updated: 2018.10.31:1600
+updated: 2018.12.02:1800
 ---
 
 ## Introduction
@@ -15,6 +15,7 @@ updated: 2018.10.31:1600
 
 ## Gaming
 
+- [Mini Game Reviews](/gaming/mini-game-reviews)
 - [Asheron's Call](/gaming/asherons-call)
 - [Disabling Gaming Platform's Social Features](/gaming/disabling-gaming-platforms-social-features)
 - [The Games of Tomorrow Corporation](/gaming/the-games-of-tomorrow-corporation)
