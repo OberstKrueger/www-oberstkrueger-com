@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2018.09.27:1600
+updated: 2018.12.03:1750
 ---
 
 ## Trials
@@ -19,6 +19,14 @@ updated: 2018.09.27:1600
 7. Phase 3: Do not touch edge of arena.
 8. Phase 3: Permafrost: Do not move.
 9. Phase 3: Icicle Impacts: Move to last AE patch to spawn, and then move out before it explodes.
+
+### Battle on the Big Bridge
+
+1. Focus damage on Enkidu.
+2. Pradamante: Move away from other players.
+3. Grovel: Point-blank AE.
+4. Bomb: Run away from this..
+5. Giga Jump: Move away from other players.
 
 ### The Bowl of Embers (Normal)
 
