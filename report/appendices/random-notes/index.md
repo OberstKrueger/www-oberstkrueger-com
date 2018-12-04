@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1300
 title: Random Notes
 type: page
-updated: 2017.10.14:2015
+updated: 2018.12.03:1740
 ---
 
 The following are random ideas, quotes, or thoughts that I have come across.
@@ -23,6 +23,12 @@ The following are random ideas, quotes, or thoughts that I have come across.
 > From a development perspective it means I can just go ahead and start writing useful little snippets of code and start composing them together into bigger and bigger features as I go. So, I'm switching from a top-down style to more of a bottom-up one.
 > 
 > - [everyone on Hacker News](https://news.ycombinator.com/item?id=14827848)
+
+### Technology
+
+> Arguments about medium always compare the best of the old to the worst of the new. See previously, books vs. TV, and before that, oral story tradition vs books.
+>
+> - CGP Grey
 
 ### The United States
 
