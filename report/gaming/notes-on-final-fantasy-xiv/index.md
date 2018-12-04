@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2018.12.03:1750
+updated: 2018.12.03:1755
 ---
 
 ## Trials
@@ -88,7 +88,19 @@ updated: 2018.12.03:1750
 4. Phase 2: If marked, move towards the walls spread out. Will follow up with line attacks towards the center of arena.
 5. Phase 3: Same as Phase 1, with additional following mechanics.
 6. Phase 3 Aka Morn: Yellow arrow stack attack with multiple hits. Stay stacked until all have gone off.
-7. Phase 3 Fireballs: Explode across X and Y axis. 
+7. Phase 3 Fireballs: Explode across X and Y axis.
+
+### Hell's Kier (Normal)
+
+1. Cremate: Tank buster.
+2. Eternal Flame: Kill adds in center of the arena.
+3. Endless Summer: Frontal cone AE.
+4. Phoenix Down: Kill middle plume and stand near it. Any adds that spawn, kill.
+5. Phase 2: Each player stands in their own circle. Face direction of arrow in circle.
+6. Ruthless Refrain: Knockback. Stand near center.
+7. Phantom Flurry: Multi-hit tank buster, followed by frontal half-arena AE.
+8. Phoenix Says: Watch phoenix as it circles arena. Do not stand in colored section that corresponds to what the phoenix is flying in front of.
+9. Incandescent Interlude: One player stands in each circle.
 
 ### The Howling Eye (Normal)
 
