@@ -3,7 +3,7 @@ category: games
 created: 2018.12.02:1750
 title: Mini Game Reviews
 type: page
-updated: 2018.12.02:1800
+updated: 2018.12.03:1740
 ---
 
 ## Quake Champions
@@ -33,5 +33,5 @@ Unknown Worlds Entertainment created an amazing experience in this game. By the 
 
 <figure>
     <img src='/images/mini-game-reviews_subnautica.jpg'>
-    <figcaption>The base tucked away along the underwater cliff</figcaption>
+    <figcaption>My home base tucked away along an underwater cliff</figcaption>
 </figure>
