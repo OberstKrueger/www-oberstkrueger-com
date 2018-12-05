@@ -3,7 +3,7 @@ category: games
 created: 2018.12.02:1750
 title: Mini Game Reviews
 type: page
-updated: 2018.12.03:1740
+updated: 2018.12.04:1745
 ---
 
 ## Quake Champions
@@ -30,3 +30,18 @@ What is most striking about the game to me is the art direction of it. Subnautic
 Subnautica does a great job of giving hints of the way forward without ever forcing you to do so. The world is open to exploration at the player's leisure. The one catch to this is that resources in the game do no respawn. A part of the ocean can be over-fished, or mineral resources tapped completely. This pushes the player to try and live more sustainably, or to go to further depths to explore. There are a lot of options available, all equally right in how you want to approach accomplishing your goal.
 
 Unknown Worlds Entertainment created an amazing experience in this game. By the end, I was happy to have explored the game so thoroughly, but sad that it was ending. I know it will be hard game to go back and play again, as much of the mystery will be gone. But the memories I gained through my first playthrough are still vivid in my mind, even months after playing. No other game has had exploration that felt as rewarding as this one, nor created a world that will stick in my mind for a long time to come.
+
+## What Remains of Edith Finch
+
+What Remains of Edith Finch is the best narrative walking simulator that I have played.
+
+The game is structured as a series of short stories. Each one is about the life and fate of a member of the Finch family. Some of the stories are told in a straight-forward manner, but some are told in a more unique manner. For example, Barbara Finches story is told like an old 1950s horror comic, with the camera moving between comic panes. This is fitting for her character, as she was renowned for screaming in a horror movie, and her death involved an unsolved home invasion, making it ripe for mimicking the style of a *Tales from the Crypt*-styled comic.
+
+What separates this game from others is its visual acumen. The game is the most visually appealing walking simulator that I have played, with a wide range of graphical styles present. From the realistic visuals of the house, to the comic styles of Barbara's story, to the imaginary dream world of Lewis' story, there is much to enjoy in this department. Additionally, Jeff Russo does an amazing job with creating a soundtrack that fits the overall theme of the stories being told.
+
+Like most games in this genre, it is short. The whole game can be experienced in about 2 hours total, and it is best played through in one sitting.
+
+<figure>
+    <img src='/images/mini-game-reviews_what-remains-of-edith-finch.jpg'>
+    <figcaption>An overlay of narration</figcaption>
+</figure>
