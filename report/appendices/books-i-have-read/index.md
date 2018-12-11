@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2018.11.19:1815
+updated: 2018.12.11:0350
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -49,6 +49,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Kurzweil, Ray - The Age of the Intelligent Machines
 - Kurzweil, Ray - The Age of the Spiritual Machines
 - Kurzweil, Ray - The Singularity Is Near
+- Kushner, David - Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture
 - Leroux, Gaston - The Phantom of the Opera
 - Lewis, C.S. - The Chronicles of Narnia
 - Martin, Steve - Born Standing Up: A Comic's Life
