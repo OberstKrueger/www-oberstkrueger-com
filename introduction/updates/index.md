@@ -3,7 +3,7 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2018.11.30:2245
+updated: 2018.12.11:0322
 ---
 
 ## 2018.11
@@ -208,28 +208,6 @@ The below are some various other articles that I enjoyed.
 - [What is systems programming, really?](http://willcrichton.net/notes/systems-programming/)
 - [Why I never finish my Haskell programs (part 1 of ∞)](https://blog.plover.com/prog/haskell/what-goes-wrong.html)
 - [Why I'm leaving Chrome](https://blog.cryptographyengineering.com/2018/09/23/why-im-leaving-chrome/)
-
-### Books Read
-
-- Gibson, William - Virtual Light
-- Gibson, William - Idoru
-- Stephenson, Neal - Cryptonomicon
-- Wolfram, Stephen - A New Kind of Science
-
-### Games Played
-
-- [Counter-Strike: Global Offensive](https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive)
-- [EVE Online](https://www.eveonline.com)
-- [Exapunks](https://en.wikipedia.org/wiki/Exapunks)
-- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
-- [Pillars of Eternity II: Deadfire](https://eternity.obsidian.net/)
-- [Quake Champions](https://en.wikipedia.org/wiki/Quake_Champions)
-- [The Witcher 3: Wild Hunt](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt)
-- [7 Billion Humans](https://en.wikipedia.org/wiki/7_Billion_Humans)
-
-### Movies Watched
-
-- [Rush Hour](https://en.wikipedia.org/wiki/Rush_Hour_(1998_film))
 
 ### Books Read
 
