@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2018.12.11:0350
+updated: 2018.12.17:1715
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -42,6 +42,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Harari, Yuval Noah - Sapiens: A Brief History of Humankind
 - Holiday, Ryan - Ego Is the Enemy
 - Howrey, Meg - The Wanderers
+- Huang, Andrew - The Hardware Hacker: Adventures in Making and Breaking Hardware
 - Keith, Jeremy - Resilient Web Design
 - King, Stephen - On Writing
 - Koenig, David - Realityland: True-Life Adventures at Walt Disney World
