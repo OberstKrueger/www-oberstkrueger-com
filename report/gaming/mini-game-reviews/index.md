@@ -3,8 +3,23 @@ category: games
 created: 2018.12.02:1750
 title: Mini Game Reviews
 type: page
-updated: 2018.12.04:1750
+updated: 2018.12.18:1700
 ---
+
+## Counter-Strike: Global Offensive
+
+The first beta of the original Counter-Strike was released back in 1999. I did not play this first version, instead hopping in a few betas later. The original Counter-Strike is a great game, and was a core game that I played throughout most of high school years and into college.
+
+What impresses me the most about Counter-Strike: Global Offensive is that it is the 3rd major iteration of the game, and it sticks to the formula that made the beta versions of the original Half-Life mod so successful. The game has experienced technological upgrades, but the core gameplay loop is the same was it was 20 years ago. Unlike other game series, the technology around the game modernizes while the gameplay itself is still the same.
+
+This is emphasized by looking at the game's most popular map: de_dust2. The original de_dust2 was released in 2001, and quickly became a mainstay on servers. It is a well-balanced map that has not needed any major gameplay tweaks since the original version. In Counter-Strike and Counter-Strike: Source, there were servers dedicated to playing the map 24/7. Counter-Strike: Global Offensive honors this by having a map group dedicated to solely playing de_dust2, giving the same functionality.
+
+Counter-Strike is a game that I still enjoy, although I am nowhere near as good as I was back in high school. But it is still fun to play, and something I see myself going back to every so often just to experience it again. Valve's stewardship of the Counter-Strike series is impressive, and I hope that they continue to not make any fundamental changes to the series as a whole. Counter-Strike could easily remain one of the main games that everyone will have played decades into the future, if Valve continues to treat it as it currently does.
+
+<figure>
+    <img src='/images/mini-game-reviews_counter-strike-global-offensive.jpg'>
+    <figcaption>Moving the assault forward</figcaption>
+</figure>
 
 ## Quake Champions
 
