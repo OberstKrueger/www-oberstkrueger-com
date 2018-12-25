@@ -3,7 +3,7 @@ category: games
 created: 2018.12.02:1750
 title: Mini Game Reviews
 type: page
-updated: 2018.12.18:1700
+updated: 2018.12.24:1700
 ---
 
 ## Counter-Strike: Global Offensive
@@ -49,6 +49,23 @@ Unknown Worlds Entertainment created an amazing experience in this game. By the 
 <figure>
     <img src='/images/mini-game-reviews_subnautica.jpg'>
     <figcaption>My home base tucked away along an underwater cliff</figcaption>
+</figure>
+
+# Unreal
+
+There are three first-person shooters from the 1990s that I consider essential: Doom, Half-Life, and Unreal. All three influenced the genre in ways, while each being their own unique game.
+
+Of the three, Unreal is my favorite to go back and revisit. Whereas the other two are more action-packed, Unreal is slower, with a stronger sense of isolation. Within the game, you are a prisoner stranded on a foreign planet. The sense of being out of place is strong, as local inhabitants react to your presence in both friendly and cautious ways. Some of the world's languages can be translated by your computer, but other parts of the world the player has to piece together to understand.
+
+Unreal is one of the first games where lighting felt like an important facet of the world. The world has a realistic variance in lighting levels, including some sections where the only way to see is by using a hand-held torch. Unreal is not the first game to have multiple colors of lighting, but it uses it more effective than any before it. By modern standards, Unreal does have a soft quality to it, but the art direction still provides a strong sense of wonder to the whole world. Levels are large and open, with a lot of minor details present that help you feel like you are in a world, not just a game.
+
+The music of Unreal stands in stark contrast to many other shooters. Alexander Brandon and Michiel van den Bos created a more ambient soundtrack that melds into the world. It changes tempo to match the mood of the gameplay, but never distracts from what is going on. The soundtrack is great to listen to outside of the game, as there are a lot of interesting textures used to create the music.
+
+Doom and Half-Life get a lot of the glory for 1990s first-person shooters, but Unreal is the one that I have put the most time into. Every year or two, I go back and play through it again, and enjoy it just as much as I always have. Few other games match the mood set by Unreal, which is why I do not think I will ever grow tired of it.
+
+<figure>
+    <img src='/images/mini-game-reviews_unreal.jpg'>
+    <figcaption>A village on Na Pali</figcaption>
 </figure>
 
 ## What Remains of Edith Finch
