@@ -3,7 +3,7 @@ category: life
 created: 2017.01.01:1500
 title: Years In Review
 type: page
-updated: 2018.12.31:2230
+updated: 2019.01.01:0750
 ---
 
 ## 2018
@@ -20,7 +20,7 @@ One of the central themes for gaming this year has been games with strong soundt
 For a game that had such a troubled history, Final Fantasy XV turned out to be one of my favorite Final Fantasy games in the whole series. It is a flawed game, but it hits more high points than low. Yoko Shimomura's soundtrack is the biggest element that kept me reeled in. Her music stands up with the best of Uematsu's, and without it, I don't think I would have enjoyed the game quite as much as I did.
 
 <figure>
-    <img src='/images/years-in-review_subnuatica.jpg'>
+    <img src='/images/years-in-review_subnautica.jpg'>
     <figcaption>Subnautica</figcaption> 
 </figure>
 
