@@ -3,8 +3,103 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2018.12.11:0322
+updated: 2018.12.31:2230
 ---
+
+## 2018.12
+
+### Year In Review
+
+[Years In Review](https://krueger.report/life/years-in-review/) now includes some of my favorites from 2018.
+
+### Mini Game Reviews
+
+I have always enjoyed writing about the games that I play, highlighting my favorite aspects of the work. One problem I have when doing this is that I constantly find new rabbit holes to go down. The game review slowly turns into a whole article about every aspect of the game, what the developers intentions were, what worked and didn't work, etc. To counter this, I created [Mini Game Reviews](https://krueger.report/gaming/mini-game/reviews) with the intent of writing a short review for every game I play. My target is to have a 3-5 paragraph goal for each review, so I can talk about what I liked and didn't like, and my overall impression of the game. Some games I plan to write more about, but these in-depth articles can be reserved for specific games, not every one that I play.
+
+### Favorite Articles
+
+Epic Games launched a new digital game store and launcher for the PC. On one hand, the store looks like a good deal for developers, as they receive 88% of the sale price for selling their games there. But on the other hand, Epic seems to have already landed a bunch of exclusives that are being pulled from Steam before launch. It is unknown right now if these games will remain solely on the Epic Games Store, or if it is a timed exclusive and will later be released on Steam. I am not a fan of every game publisher having their own launcher that needs to be downloaded, so I will be holding off on this for now until the market shakes out.
+
+- [Announcing the Epic Games Store](https://www.unrealengine.com/en-US/blog/announcing-the-epic-games-store)
+- [Epic's store launches with exclusives from Supergiant & Coffee Stain](https://www.rockpapershotgun.com/2018/12/07/epic-games-store-launches-with-exclusives/)
+- [Fortnite maker Epic takes on Steam with its own PC games store](https://www.eurogamer.net/articles/2018-12-04-fortnite-maker-epic-takes-on-steam-with-its-own-pc-games-store)
+- [Some Epic Store games are pushing back or scrapping Steam releases](https://www.pcgamer.com/some-epic-store-games-are-pushing-back-or-scrapping-steam-releases/)
+
+The original Doom is a masterwork in gaming. It helped push technology and game design forward in ways few games can do. When I read that John Romero himself is going to release a new episode to the game, with 9 new levels, I was overjoyed. His work on the Doom series played a huge role in the success of the game, so more content from him in commemoration of the game's 25th anniversary is something I am looking forward to greatly.
+
+- [John Romero announces Doom spiritual successor Sigil](https://www.eurogamer.net/articles/2018-12-10-john-romero-announces-doom-spiritual-successor-sigil)
+- [John Romero has announced a free unofficial spiritual successor to The Ultimate DOOM's 4th episode](https://www.gamingonlinux.com/articles/john-romero-has-announced-a-free-unofficial-spiritual-successor-to-the-ultimate-dooms-4th-episode.13134)
+
+Rust 2018 launched this month. Rust has been one of my most used languages this year, with a lot of puzzle-work and CLI tools written in it. It has been a great alternative to C and C++ for me, and has made me more critical of other languages, including certain aspects of Swift. I look forward to using it more going forward.
+
+- [Announcing Rust 1.31 and Rust 2018](https://blog.rust-lang.org/2018/12/06/Rust-1.31-and-rust-2018.html)
+- [Rust Analyzer in 2018 and 2019](https://ferrous-systems.com/blog/2018-12-15-rust-analyzer-2019.html)
+- [Rust 2018 is here... but what is it?](https://hacks.mozilla.org/2018/12/rust-2018-is-here/)
+- [Rust 2019 and beyond: limits to (some) growth](https://graydon2.dreamwidth.org/263429.html)
+
+The web is at its best when there are multiple renderers available, as it keeps no single entity from controlling what is and is not acceptable for a browser to render. Blink/Chromium already is the big kid on the block when it comes to web browsing, and Microsoft's announcement that their own web renderer is having its development ended will increase this in the future. There are now only 3 viable web rendering engines available, and given the complexity of the web, it is not likely that the number will later increase again.
+
+- [Goodbye, EdgeHTML](https://blog.mozilla.org/blog/2018/12/06/goodbye-edge/)
+- [Microsoft announces move to Chromium for the Edge browser](https://www.anandtech.com/show/13689/microsoft-announces-move-to-chromium-for-the-edge-browser)
+- [Microsoft Edge: Making the web better through more open source collaboration](https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/)
+- [Microsoft is building a Chromium-powered web browser that will replace Edge on Windows 10](https://www.windowscentral.com/microsoft-building-chromium-powered-web-browser-windows-10)
+
+Every month, more information comes out about how Facebook has abused its users data. Also every month, I remain glad that I have nothing to do with their services anymore.
+
+- [Big tech has your kid’s data — and you probably gave it to them](https://www.vox.com/the-goods/2018/12/5/18128066/children-data-surveillance-amazon-facebook-google-apple)
+- [Facebook accused of striking 'secret deals over user data'](https://www.bbc.com/news/technology-46456695)
+- [Facebook pondered, for a time, selling access to user data](https://arstechnica.com/tech-policy/2018/11/facebook-pondered-for-a-time-selling-access-to-user-data/)
+- [Your apps know where you were last night, and they're not keeping it secret](https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html)
+
+Google does many things well. One thing it does not do well is keeping a focused strategy on its instant messaging applications. Every year or two, Google launches a new instant messager that replaces the old one. This month, Google announced the deprecation of Google Allo, a service they just launched two years ago. Google needs to learn from other services that long-term development is how services like this take off, not simply launching it with flashy features and then killing it immediately when it does not take over the world at once.
+
+- [After months-long ‘pause,’ shortlived Google Allo messaging app will soon be sunset for good](https://9to5google.com/2018/12/05/google-allo-shutting-down/)
+- [The latest on Messages, Allo, Duo and Hangouts](https://www.blog.google/products/messages/latest-messages-allo-duo-and-hangouts/)
+
+AnandTech's year in review is a great summary of what happened in technology this year.
+
+- [AnandTech year in review 2018: CPUs](https://www.anandtech.com/show/13746/anandtech-year-in-review-2018-cpus)
+- [AnandTech year in review 2018: flagship mobile](https://www.anandtech.com/show/13745/anandtech-year-in-review-2018-flagship-mobile)
+- [AnandTech year in review 2018: GPUs](https://www.anandtech.com/show/13735/anandtech-2018-in-review-gpus)
+
+Google's secrecy around their work to reintroduce Google Search to China has had a lot of negative fallout. The company will be hard-pressed to continue the project without more internal backlash, although Google seems intent to move the project forward in some form.
+
+- [Google China: has search firm put Project Dragonfly on hold?](https://www.bbc.com/news/technology-46604085)
+- [Google shut out privacy and security teams from secret China project](https://theintercept.com/2018/11/29/google-china-censored-search/)
+- [Google's secret China project "effectively ended" after internal confrontation](https://theintercept.com/2018/12/17/google-china-censored-search-engine-2/)
+- [A looming strike over Project Dragonfly is putting new pressure on Google](https://www.theverge.com/2018/11/30/18118711/google-strike-project-dragonfly-fundraising)
+
+The below are some various other articles that I enjoyed.
+
+- [Analyzing Core i9-9900K performance with Spectre and Meltdown hardware mitigations](https://www.anandtech.com/show/13659/analyzing-core-i9-9900k-performance-with-spectre-and-meltdown-hardware-mitigations)
+- [Bethesda leaked Fallout 76 customer names, addresses, contact details](https://www.eurogamer.net/articles/2018-12-06-bethesda-has-leaked-fallout-76-customer-names-addresses-contact-details)
+- [Clojure’s stability: lessons learned](https://words.steveklabnik.com/why-is-clojure-so-stable)
+- [Comparing pythagorean triples in C++, D, and Rust](https://atilanevesoncode.wordpress.com/2018/12/31/comparing-pythagorean-triples-in-c-d-and-rust/)
+- [Electron and the decline of native apps](https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps)
+- [Gatwick drones: two arrested over flight disruption](https://www.bbc.com/news/uk-england-46657505)
+- [Google Glass wasn't a failure. It raised crucial privacy concerns](https://www.wired.com/story/google-glass-reasonable-expectation-of-privacy/)
+- [HDMI 2.1 nears release: Club3D announces ultra-high speed 48G cables](https://www.anandtech.com/show/13649/club3d-announces-ultra-high-speed-hdmi-21-48g-cable)
+- [How Myst taught a generation of gamers to explore new Worlds](https://www.atlasobscura.com/articles/exploring-myst-25-years-later)
+- [Inside Shenzhen's race to outdo Silicon Valley](https://www.technologyreview.com/s/612571/inside-shenzhens-race-to-outdo-silicon-valley/)
+- [John Giannandrea named to Apple’s executive team](https://www.apple.com/newsroom/2018/12/john-giannandrea-named-to-apples-executive-team/)
+- [Metal Gear at 20: how I became Solid Snake](https://www.escapistmagazine.com/v2/2018/10/18/metal-gear-at-20-how-i-became-solid-snake/)
+- [Reflections on DOOM's development](https://rome.ro/news/2018/12/10/reflections-on-dooms-development)
+- [Reorganizing software licenses](https://leancrew.com/all-this/2018/12/reorganizing-software-licenses/)
+- [The Yoda of Silicon Valley](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html)
+- [15 worrying things about the CRISPR babies scandal](https://www.theatlantic.com/science/archive/2018/12/15-worrying-things-about-crispr-babies-scandal/577234/)
+
+### Books Read
+
+- Huang, Andrew - The Hardware Hacker: Adventures in Making and Breaking Hardware
+- Weir, Andy - The Martian
+
+### Games Played
+
+- [Artifact](https://en.wikipedia.org/wiki/Artifact_(video_game))
+- [EVE Online](https://www.eveonline.com)
+- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
+- [Final Fantasy XV](https://en.wikipedia.org/wiki/Final_Fantasy_XV)
+- [It Lurks Below](https://en.wikipedia.org/wiki/It_Lurks_Below)
 
 ## 2018.11
 
