@@ -3,8 +3,70 @@ category: life
 created: 2017.01.01:1500
 title: Years In Review
 type: page
-updated: 2017.12.26:1055
+updated: 2018.12.31:2230
 ---
+
+## 2018
+
+### Favorite Games
+
+One of the central themes for gaming this year has been games with strong soundtracks. All four of my favorite games have soundtracks that I regularly listen to. They are also games that are very deep, and ones I plan to revisit very soon to invest more time in.
+
+<figure>
+    <img src='/images/years-in-review_final-fantasy-xv.jpg'>
+    <figcaption>Final Fantasy XV</figcaption> 
+</figure>
+
+For a game that had such a troubled history, Final Fantasy XV turned out to be one of my favorite Final Fantasy games in the whole series. It is a flawed game, but it hits more high points than low. Yoko Shimomura's soundtrack is the biggest element that kept me reeled in. Her music stands up with the best of Uematsu's, and without it, I don't think I would have enjoyed the game quite as much as I did.
+
+<figure>
+    <img src='/images/years-in-review_subnuatica.jpg'>
+    <figcaption>Subnautica</figcaption> 
+</figure>
+
+The survival genre is one I have passed on previously. Most survival games look more tedious than fun, and not focused on the action. The only reason I gave Subnautica a chance is that it is made by Unknown Worlds, the creators of one of my favorite multiplayer games, Natural Selection. As great of a game as Natural Selection was, Subnautica was even better. Everything design-wise in the game is perfect, from the story, survival mechanics, base building, and sound and visual design.
+
+The experience moved me so much that while I want to play it again, I am afraid that the second time around will not feel as magical due to the lack of discovery. But I am looking forward to the stand-alone expansion being released next year, and hope it can meet the greatness of this first game.
+
+<figure>
+    <img src='/images/years-in-review_exapunks.jpg'>
+    <figcaption>Exapunks</figcaption> 
+</figure>
+
+Zachtronics games have a certain quality that no other "programming game" has matched. Most of their games are based around an artificial programming language or platform that ends up looking like programming on the surface but is really a puzzle game. All of their games are fun, but Exapunks takes things to the next level. The soundtrack and graphics are better than anything Zachtronics has put out before. The game has a distinctive 1980's cyberpunk vibe to it, which fits with the William Gibson and Neal Stephenson novels I have been reading this year. Like Shenzhen I/O before it, I expect to come back to this game again in a few years.
+
+<figure>
+    <img src='/images/years-in-review_pillars-of-eternity-ii-deadfire.jpg'>
+    <figcaption>Pillars of Eternity II: Deadfire</figcaption> 
+</figure>
+
+Games from Obsidian Entertainment rarely disappoint, and Pillars of Eternity II is no except to this. The first game was a great return to form for the CRPG genre, and the sequel takes it to all new heights. Everything in the game was done well, from the story to the combat to the music. With Obsidian's buy-out by Microsoft, its unclear whether another Pillars of Eternity game will come out. As it stands, the series stands amongst the best of the CRPG genre.
+
+### Favorite Albums
+
+- Exapunks, by Matthew S Burns
+- Final Fantasy XIV: Stormblood, by Masayoshi Soken
+- Final Fantasy XV: Volume 2, by Yoko Shimomura
+- Gris, by Berlinist
+- The Legend of Zelda: Breath of the Wild, by Manaka Kataoka, Yasuaki Iwata, and Hajime Wakai
+- Mid90s, by Trent Reznor and Atticus Ross
+- Octopath Traveler, by Yasunori Nishiki
+- 7 Billion Humans, by Kyle Gabler
+
+<figure>
+    <img src='/images/years-in-review_music-2018.jpg'>
+    <figcaption>Favorite Music of 2018</figcaption>
+</figure>
+
+### A Multitude of Interfaces
+
+Up to the release of macOS Mojave, I spent a lot of time experimenting with keeping as much of my work inside of a terminal as possible. I rewrote scripts and workflows to be friendly to a terminal session, and became comfortable enough with neovim to use it as a primary text editor. Having grown up using MS-DOS and being comfortable with a Unix command-line for a couple of decades, doing this was not a painful experiment. But while there are some advantages of working within the terminal, there are a number of disadvantages to it as well.
+
+Upon some deep reflection, I concluded that the reason I kept being drawn to the terminal was not due to any inherent advantage of the terminal itself, but due to my unhappiness with the current macOS GUI setup. macOS has been my operating system of choice since college, but the current trends of desktop UI design were not catching on with me. The macOS desktop design was not stagnating, but it was also not evolving in a way that meshed with what I was looking for.
+
+When I realized what made me unhappy about the GUI and what I enjoyed with the terminal, I set out to try and combine the two in a meaningful way. In practice, this meant taking the keyboard-centric interactions of the terminal and applying them to GUI applications. This required some careful selection of applications, although a lot of what I already used was friendly to this.
+
+At the end of this experimentation, I am much happier with how I use my Mac. I kept drawing a distinction between the terminal and GUI environment, but taking the advantages of both sides and figuring out how they can be applied to each other has been fun and worthwhile. It also makes me more comfortable with the direction Apple currently is on with the operating system as a whole, as my workflow might require a little more effort, but it still works well and should continue to do so into the future.
 
 ## 2017
 
@@ -13,8 +75,8 @@ updated: 2017.12.26:1055
 When I looked at the upcoming titles of 2017 back in January, I thought this year was going to be a boring year for games. Last year saw some instant classics for myself, and 2017 seemed like it would underperform in comparison. Thankfully, there were some great games this year that I look forward to playing through again in the future.
 
 <figure>
-	<img src='/images/years-in-review_prey-2017.jpg'>
-	<figcaption>Prey</figcaption> 
+    <img src='/images/years-in-review_prey-2017.jpg'>
+    <figcaption>Prey</figcaption> 
 </figure>
 
 Earlier this year, I played [System Shock 2](https://en.wikipedia.org/wiki/System_Shock_2) from beginning to end for the first time. It is an older game, but considered a classic of the FPS/RPG hybrid genre. The initial reviews for [Prey](https://en.wikipedia.org/wiki/Prey_(2017_video_game)) kept saying it was the spiritual successor to System Shock 2, and as close as we'll get to a System Shock 3 anytime in the near future.
@@ -22,22 +84,22 @@ Earlier this year, I played [System Shock 2](https://en.wikipedia.org/wiki/Syste
 These reviews were not exaggerations either. Prey is every bit the same as System Shock 2, including in quality. The gameplay is the perfect blend of FPS and RPG, and it has the same overall game structure as System Shock 2. The open-ended nature of the game is why I love the Deus Ex games so much. Prey is a game that I have already slotted in to play again in the future, and much like with any Deus Ex game, I plan to approach it in a new manner on the second playthrough.
 
 <figure>
-	<img src='/images/years-in-review_final-fantasy-xiv-stormblood.jpg'>
-	<figcaption>Final Fantasy XIV: Stormblood</figcaption>
+    <img src='/images/years-in-review_final-fantasy-xiv-stormblood.jpg'>
+    <figcaption>Final Fantasy XIV: Stormblood</figcaption>
 </figure>
 
 This year saw the release of Stormblood, the second expansion for [Final Fantasy XIV](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_A_Realm_Reborn). Final Fantasy XIV is one of my top MMORPGs of all time, and Stormblood keeps going with the same formula that has made the original game amazing. The story has been wonderful to follow along with, the dungeons and raids fun, and the new mechanics add some more depth to the already spectacular combat.
 
 <figure>
-	<img src='/images/years-in-review_what-remains-of-edith-finch.jpg'>
-	<figcaption>What Remains of Edith Finch</figcaption>
+    <img src='/images/years-in-review_what-remains-of-edith-finch.jpg'>
+    <figcaption>What Remains of Edith Finch</figcaption>
 </figure>
 
 My year would not be complete without a new [walking simulator](https://en.wikipedia.org/wiki/Adventure_game#Exploration_games) to play through. [What Remains of Edith Finch](https://en.wikipedia.org/wiki/What_Remains_of_Edith_Finch) is my walking simulator of choice for 2017, and what an amazing game it is. It surpasses every other in the genre, including the perennial [Dear Esther](https://en.wikipedia.org/wiki/Dear_Esther).
 
 <figure>
-	<img src='/images/years-in-review_life-is-strange-before-the-storm.jpg'>
-	<figcaption>Life Is Strange: Before the Storm</figcaption>
+    <img src='/images/years-in-review_life-is-strange-before-the-storm.jpg'>
+    <figcaption>Life Is Strange: Before the Storm</figcaption>
 </figure>
 
 [Life Is Strange: Before the Storm](https://en.wikipedia.org/wiki/Life_Is_Strange:_Before_the_Storm) is how prequels should be done. [Life Is Strange](https://en.wikipedia.org/wiki/Life_Is_Strange) is a good but flawed game, and Before the Storm improves on it in most categories. The dialogue between the characters runs the emotional gamut, and the art style of the game makes it quite visually pleasing. There are so many memorable scenes in the game, from Episode 1's Dungeons and Dragons session, to the high school play in Episode 2. The first game is one I have no plans to revisit again, but Before The Storm is one I know I'll play again in the future.
@@ -54,8 +116,8 @@ My year would not be complete without a new [walking simulator](https://en.wikip
 - What Remains of Edith Finch, by Jeff Russo
 
 <figure>
-	<img src='/images/years-in-review_music-2017.jpg'>
-	<figcaption>Favorite Music of 2017</figcaption>
+    <img src='/images/years-in-review_music-2017.jpg'>
+    <figcaption>Favorite Music of 2017</figcaption>
 </figure>
 
 ### Using Swift to run my life
@@ -95,8 +157,8 @@ For many reasons, 2016 has been a rollercoaster of a year. While keeping any pol
 2016 was a phenomenal year for games. Here are a few of my favorites.
 
 <figure>
-	<img src='/images/years-in-review_deus-ex-mankind-divided.jpg'>
-	<figcaption>Deus Ex: Mankind Divided</figcaption>
+    <img src='/images/years-in-review_deus-ex-mankind-divided.jpg'>
+    <figcaption>Deus Ex: Mankind Divided</figcaption>
 </figure>
 
 The original [Deus Ex](https://en.wikipedia.org/wiki/Deus_Ex_(video_game)) was an amazing game for its time. It opened my eyes to the idea that there could be more to a first-person shooter. [Deus Ex: Human Revolution](https://en.wikipedia.org/wiki/Deus_Ex:_Human_Revolution), is as good of a sequel as one could ask for, and is now one of my favorite all-time games, having played through multiple times.
@@ -106,8 +168,8 @@ This year's direct sequel to the series, [Deus Ex: Mankind Divided](https://en.w
 Outside of those two minor quips, Mankind Divided is a game that I am happy is more of the same. It does not veer far from what Human Revolution did, with a similar game structure and ability system. The new characters are well-written, and the missions and side-quests are a lot of fun. This is another game which I plan to play through again in the near future.
 
 <figure>
-	<img src='/images/years-in-review_doom.jpg'>
-	<figcaption>DOOM</figcaption>
+    <img src='/images/years-in-review_doom.jpg'>
+    <figcaption>DOOM</figcaption>
 </figure>
 
 The last game from [id Software](https://en.wikipedia.org/wiki/Id_Software) that I enjoyed was [Quake III: Arena](https://en.wikipedia.org/wiki/Quake_III_Arena), released 17 years ago. [DOOM 3](https://en.wikipedia.org/wiki/Doom_3) and [Rage](https://en.wikipedia.org/wiki/Rage_(video_game)) were decent games in their own right, but while they continued to show [John Carmack's](https://en.wikipedia.org/wiki/John_Carmack) excellence in graphic engine design, they lacked the magic that id's previous games held.
@@ -119,15 +181,15 @@ And then I played it.
 Ranking DOOM as my game of the year is an easy decision. While not as revolutionary as the original, this DOOM is every bit as good of a game. Every aspect of this game is near perfect: beautiful graphics that runs smooth, an amazing soundtrack by [Mick Gordon](https://en.wikipedia.org/wiki/Mick_Gordon), memorable level design, and fun gameplay that kept me coming back for me. It is a game that I look forward to playing again in the future.
 
 <figure>
-	<img src='/images/years-in-review_overwatch.jpg'>
-	<figcaption>Overwatch</figcaption>
+    <img src='/images/years-in-review_overwatch.jpg'>
+    <figcaption>Overwatch</figcaption>
 </figure>
 
 There is little that I can say about [Overwatch](https://en.wikipedia.org/wiki/Overwatch) that has not been said elsewhere. Suffice it to say, this game took the FPS world by storm this year. From interesting and well thought out characters to the tight gameplay, it is easy to see why most love this game. It is the one game I have [logged in the most hours on](https://playoverwatch.com/en-us/career/pc/us/Krueger-1750), and still continue to love playing 7 months later.
 
 <figure>
-	<img src='/images/years-in-review_the-witness.jpg'>
-	<figcaption>The Witness</figcaption>
+    <img src='/images/years-in-review_the-witness.jpg'>
+    <figcaption>The Witness</figcaption>
 </figure>
 
 [Jonathan Blow's](https://en.wikipedia.org/wiki/Jonathan_Blow) previous game, [Braid](https://en.wikipedia.org/wiki/Braid_(video_game)), did little for me. It was an interesting concept, but platformers in that style are hard for me to get into. Consequently, I did not take a close look at [The Witness](https://en.wikipedia.org/wiki/The_Witness_(2016_video_game)) until it was near release. And I was enthralled by what I saw.
@@ -139,8 +201,8 @@ It is a hard game to describe without spoiling the experience. Needless to say, 
 ### Favorite Music
 
 <figure>
-	<img src='/images/years-in-review_music-2016.jpg'>
-	<figcaption>Favorite Music of 2016</figcaption>
+    <img src='/images/years-in-review_music-2016.jpg'>
+    <figcaption>Favorite Music of 2016</figcaption>
 </figure>
 
 ### Cipher, by Ben Prunty
