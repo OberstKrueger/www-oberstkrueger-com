@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2018.12.02:1730
+updated: 2019.01.03:0400
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -288,6 +288,7 @@ updated: 2018.12.02:1730
 - [EverQuest II: Destiny of Velious](https://en.wikipedia.org/wiki/EverQuest_II_expansions#Destiny_of_Velious)
 - [Evoland](https://en.wikipedia.org/wiki/Evoland)
 - [Exapunks](https://en.wikipedia.org/wiki/Exapunks)
+- [Factorio](https://en.wikipedia.org/wiki/Factorio)
 - [Fallout](https://en.wikipedia.org/wiki/Fallout_(video_game))
 - [Far Cry](https://en.wikipedia.org/wiki/Far_Cry_(video_game))
 - [Final Doom](https://en.wikipedia.org/wiki/Final_Doom)
