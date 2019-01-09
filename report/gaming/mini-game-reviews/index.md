@@ -3,7 +3,7 @@ category: games
 created: 2018.12.02:1750
 title: Mini Game Reviews
 type: page
-updated: 2018.12.24:1700
+updated: 2019.01.08:1745
 ---
 
 ## Counter-Strike: Global Offensive
@@ -19,6 +19,23 @@ Counter-Strike is a game that I still enjoy, although I am nowhere near as good 
 <figure>
     <img src='/images/mini-game-reviews_counter-strike-global-offensive.jpg'>
     <figcaption>Moving the assault forward</figcaption>
+</figure>
+
+# Heroes of the Storm
+
+The MOBA genre is one that I have always liked more in theory than in practice. The original Defense of the Ancients was a regular entry on my list of custom Warcraft 3 maps, and Heroes of Newerth was a favorite at some old-school LAN parties I went to, but the genre has a number of gameplay mechanics that I find more tedious than fun. Last-hitting is the worst of these, but also the concept of carry characters that require protection early in the game to turn around and act as uber strong destroyers late in the game.
+
+Where Heroes of the Storm's strength lies is in doing away with the MOBA mechanics that I dislike. There is no last-hitting mechanic, and all characters on a team level equally. Characters are not perfectly balanced against each other at all levels of play, but none need to be protected while they bloom into something that can hold their own. With mechanics that promote faster gameplay, Heroes of the Storm has a heavy emphasis on group fights. While I am not an expert on Dota 2, the matches I have watched had nowhere near the amounts of up-close fighting as when I play Heroes of the Storm.
+
+In typical Blizzard fashion, Heroes of the Storm is a visual and aural treat. The graphics are in the typical art-style of Blizzard games, but with a higher level of detail than any of their other games. It looks beautiful in action, and native support for 21:9 and higher framerates allows it to feel more modern than some of their other games. The music includes orchestral rock versions of songs from all of their games. They're great remixes, and all fit together cohesively.
+
+One of the negative aspects of development that Blizzard has with World of Warcraft also applies to Heroes of the Storm: endless and needles changes to balance. World of Warcraft famously revamps most classes every expansion, and Heroes of the Storm does the same with its characters. Every patch makes fundamental changes to how one or two characters play, changing their abilities and altering their skills. This included a larger change to the game by the introduction of lootboxes, the addictive gambling mechanic that Blizzard has been in love with since Overwatch's launch.
+
+Out of all of the MOBA games available, Heroes of the Storm resonated with me the most. I enjoyed my time playing it, but with Blizzard wrapping down support for the game, as well as major overhauls to some of my favorite characters, I have little desire to ever play the game again. With the MOBA genre starting to lose favor to the battle royale genre, I do not see myself investing heavily in any other MOBA games after having played Heroes of the Storm.
+
+<figure>
+    <img src='/images/mini-game-reviews_heroes-of-the-storm.jpg'>
+    <figcaption>Assaulting an enemy tower</figcaption>
 </figure>
 
 ## Quake Champions
