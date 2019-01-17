@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2019.01.07:1730
+updated: 2019.01.17:0510
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -86,6 +86,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Tyson, Neil deGrasse - Space Chronicles: Facing the Ultimate Frontier
 - van Santen, Rutger, Vermeer, Bram, & Khoi, Djan - 2030: Technology that will change the world
 - Vance, J.D. - Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
+- Walker, Matthew - Why We Sleep: The New Science of Sleep and Dreams
 - Weber, Imogen Lloyd - The Intelligent Conversationalist
 - Weir, Andy - The Martian
 - Williams, Terry - The Cocaine Kids: The Inside Story Of A Teenage Drug Ring
