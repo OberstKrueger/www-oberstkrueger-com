@@ -7,7 +7,65 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2018-12-31T22:30:00Z</updated>
+<updated>2019-01-31T23:55:00Z</updated>
+
+<entry>
+<title>Updates For January, 2019</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201901</id>
+<published>2019-01-31T23:55:00Z</published>
+<updated>2019-01-31T23:55:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2019.01</h2>
+<h3>Favorite Articles</h3>
+<ul>
+<li><a href="http://shapeof.com/archives/2019/1/acorn_6.3_postmortem.html">Acorn 6.3 postmortem</a></li>
+<li><a href="https://daringfireball.net/2019/01/apples_terrible_no_good_very_bad_earnings_warning">Apple's terrible no good very bad earnings warning</a></li>
+<li><a href="http://www.planetary.org/blogs/jason-davis/change4-success.html">China successfully lands Chang'e-4 on far side of Moon</a></li>
+<li><a href="https://www.ghacks.net/2019/01/22/chrome-extension-manifest-v3-could-end-ublock-origin-for-chrome/">Chrome Extension Manifest V3 could end uBlock Origin for Chrome</a></li>
+<li><a href="https://www.nature.com/articles/d41586-019-00246-2">CRISPR-baby scientist fired by university</a></li>
+<li><a href="https://undark.org/2019/01/29/chinese-secretive-science/">Decoding China's secretive culture of science</a></li>
+<li><a href="https://weblog.rogueamoeba.com/2019/01/02/the-design-of-loopback-2/">The design of Loopback 2</a></li>
+<li><a href="https://leancrew.com/all-this/2019/01/dont-fear-the-regex/">Don't fear the regex</a></li>
+<li><a href="http://www.aes.org/tmpFiles/elib/20190122/18523.pdf">The effects of MP3 compression on perceived emotional characteristics in musical instruments</a></li>
+<li><a href="https://massivelyop.com/2019/01/05/an-eve-online-corporation-has-been-hit-with-a-gdpr-request-from-an-ex-member/">An EVE Online corporation has been hit with a GDPR request from an ex-member</a></li>
+<li><a href="https://techcrunch.com/2019/01/29/facebook-project-atlas/">Facebook pays teens to install VPN that spies on them</a></li>
+<li><a href="https://css-tricks.com/the-great-divide/">The great divide</a></li>
+<li><a href="https://www.smashingmagazine.com/2019/01/save-planet-improving-website-performance/">How improving website performance can help save the planet</a></li>
+<li><a href="https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work">How millenials became the burnout generation</a></li>
+<li><a href="https://motherboard.vice.com/en_us/article/nepxbz/i-gave-a-bounty-hunter-300-dollars-located-phone-microbilt-zumigo-tmobile">I gave a bounty hunter $300. Then he located our phone</a></li>
+<li><a href="https://www.eff.org/deeplinks/2019/01/wsj-op-ed-mark-zuckerberg-speaks-down-users-and-misses-point">In WSJ op-ed, Mark Zuckerberg speaks down to users and misses the point</a></li>
+<li><a href="https://medium.com/@mattholt/its-2019-and-i-still-make-websites-with-my-bare-hands-73d4eec6b7">It's 2091 and I still make websites with my bare hands</a></li>
+<li><a href="https://sinews.siam.org/Details-Page/january-prize-spotlight-jeff-bezanson-steven-l-brunton-jack-dongarra-stefan-karpinski-and-viral-b-shah">January prize spotlight: Jeff Bezanson, Steven L. Brunton, Jack Dongarra, Stefan Karpinski, and Viral B. Shah</a></li>
+<li><a href="https://www.nytimes.com/2019/01/22/nyregion/drones-newark-airport-ground-stop.html">Newark airport traffic is briefly halted after drone is spotted</a></li>
+<li><a href="https://www.anandtech.com/show/13762/nvidia-geforce-rtx-2060-founders-edition-6gb-review">The NVIDIA GeForce RTX 2060 6GB Founders Edition review: not quite mainstream</a></li>
+<li><a href="https://www.macworld.com/article/3327502/macs/mac-indy-apps-thrived-for-more-than-25-years.html">The old guard of Mac indy apps has thrived for more than 25 years</a></li>
+<li><a href="https://research.swtch.com/deps">Our software dependency problem</a></li>
+<li><a href="https://www.youtube.com/watch?v=O_mev3aHksg">Prime and punishment: dirty dealing in the $175 billion Amazon Marketplace</a></li>
+<li><a href="https://www.macstories.net/stories/this-is-not-a-product-the-apple-developer-transition-kit/">“This is not a product”: the Apple Developer Transition Kit</a></li>
+<li><a href="https://www.cbc.ca/news/technology/dna-ancestry-kits-twins-marketplace-1.4980976">Twins get some 'mystifying' results when they put 5 DNA ancestry kits to the test</a></li>
+<li><a href="https://www.inlander.com/spokane/nearly-45-years-after-its-creation-a-fantasy-game-played-with-paper-pencil-and-dice-is-having-its-biggest-year-yet-in-the-inland-northwest-a/Content?oid=15615918">The unlikely resurgence of Dungeons &amp; Dragons makes its way to the Inland Northwest</a></li>
+<li><a href="https://kotaku.com/the-year-long-undercover-plot-to-blow-up-eve-onlines-m-1831574442">The year-long, undercover plot to blow up EVE Online's most notorious space station</a></li>
+<li><a href="http://time.com/collection/davos-2019/5502591/tim-cook-data-privacy/">You deserve privacy online. Here's how you could actually get it</a></li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Gibson, William - Pattern Recognition</li>
+<li>Walker, Matthew - Why We Sleep: The New Science of Sleep and Dreams</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://www.eveonline.com">EVE Online</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Factorio">Factorio</a></li>
+<li><a href="https://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For December, 2018</title>

@@ -3,8 +3,53 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2018.12.31:2230
+updated: 2019.01.31:2355
 ---
+
+## 2019.01
+
+### Favorite Articles
+
+- [Acorn 6.3 postmortem](http://shapeof.com/archives/2019/1/acorn_6.3_postmortem.html)
+- [Apple's terrible no good very bad earnings warning](https://daringfireball.net/2019/01/apples_terrible_no_good_very_bad_earnings_warning)
+- [China successfully lands Chang'e-4 on far side of Moon](http://www.planetary.org/blogs/jason-davis/change4-success.html)
+- [Chrome Extension Manifest V3 could end uBlock Origin for Chrome](https://www.ghacks.net/2019/01/22/chrome-extension-manifest-v3-could-end-ublock-origin-for-chrome/)
+- [CRISPR-baby scientist fired by university](https://www.nature.com/articles/d41586-019-00246-2)
+- [Decoding China's secretive culture of science](https://undark.org/2019/01/29/chinese-secretive-science/)
+- [The design of Loopback 2](https://weblog.rogueamoeba.com/2019/01/02/the-design-of-loopback-2/)
+- [Don't fear the regex](https://leancrew.com/all-this/2019/01/dont-fear-the-regex/)
+- [The effects of MP3 compression on perceived emotional characteristics in musical instruments](http://www.aes.org/tmpFiles/elib/20190122/18523.pdf)
+- [An EVE Online corporation has been hit with a GDPR request from an ex-member](https://massivelyop.com/2019/01/05/an-eve-online-corporation-has-been-hit-with-a-gdpr-request-from-an-ex-member/)
+- [Facebook pays teens to install VPN that spies on them](https://techcrunch.com/2019/01/29/facebook-project-atlas/)
+- [The great divide](https://css-tricks.com/the-great-divide/)
+- [How improving website performance can help save the planet](https://www.smashingmagazine.com/2019/01/save-planet-improving-website-performance/)
+- [How millenials became the burnout generation](https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work)
+- [I gave a bounty hunter $300. Then he located our phone](https://motherboard.vice.com/en_us/article/nepxbz/i-gave-a-bounty-hunter-300-dollars-located-phone-microbilt-zumigo-tmobile)
+- [In WSJ op-ed, Mark Zuckerberg speaks down to users and misses the point](https://www.eff.org/deeplinks/2019/01/wsj-op-ed-mark-zuckerberg-speaks-down-users-and-misses-point)
+- [It's 2091 and I still make websites with my bare hands](https://medium.com/@mattholt/its-2019-and-i-still-make-websites-with-my-bare-hands-73d4eec6b7)
+- [January prize spotlight: Jeff Bezanson, Steven L. Brunton, Jack Dongarra, Stefan Karpinski, and Viral B. Shah](https://sinews.siam.org/Details-Page/january-prize-spotlight-jeff-bezanson-steven-l-brunton-jack-dongarra-stefan-karpinski-and-viral-b-shah)
+- [Newark airport traffic is briefly halted after drone is spotted](https://www.nytimes.com/2019/01/22/nyregion/drones-newark-airport-ground-stop.html)
+- [The NVIDIA GeForce RTX 2060 6GB Founders Edition review: not quite mainstream](https://www.anandtech.com/show/13762/nvidia-geforce-rtx-2060-founders-edition-6gb-review)
+- [The old guard of Mac indy apps has thrived for more than 25 years](https://www.macworld.com/article/3327502/macs/mac-indy-apps-thrived-for-more-than-25-years.html)
+- [Our software dependency problem](https://research.swtch.com/deps)
+- [Prime and punishment: dirty dealing in the $175 billion Amazon Marketplace](https://www.youtube.com/watch?v=O_mev3aHksg)
+- [“This is not a product”: the Apple Developer Transition Kit](https://www.macstories.net/stories/this-is-not-a-product-the-apple-developer-transition-kit/)
+- [Twins get some 'mystifying' results when they put 5 DNA ancestry kits to the test](https://www.cbc.ca/news/technology/dna-ancestry-kits-twins-marketplace-1.4980976)
+- [The unlikely resurgence of Dungeons & Dragons makes its way to the Inland Northwest](https://www.inlander.com/spokane/nearly-45-years-after-its-creation-a-fantasy-game-played-with-paper-pencil-and-dice-is-having-its-biggest-year-yet-in-the-inland-northwest-a/Content?oid=15615918)
+- [The year-long, undercover plot to blow up EVE Online's most notorious space station](https://kotaku.com/the-year-long-undercover-plot-to-blow-up-eve-onlines-m-1831574442)
+- [You deserve privacy online. Here's how you could actually get it](http://time.com/collection/davos-2019/5502591/tim-cook-data-privacy/)
+
+### Books Read
+
+- Gibson, William - Pattern Recognition
+- Walker, Matthew - Why We Sleep: The New Science of Sleep and Dreams
+
+### Games Played
+
+- [EVE Online](https://www.eveonline.com)
+- [Factorio](https://en.wikipedia.org/wiki/Factorio)
+- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
+
 
 ## 2018.12
 
@@ -346,7 +391,7 @@ AMD's newest offerings this year and last have done a lot to bring much needed c
 - [The AMD Threadripper 2 teaser: pre-orders start today, up to 32 cores](https://www.anandtech.com/show/13123/amd-threadripper-2-teaser-pre-orders-start-today-up-to-32-cores)
 - [The AMD Threadripper 2990WX 32-core and 2950X 16-core review](https://www.anandtech.com/show/13124/the-amd-threadripper-2990wx-and-2950x-review)
 
-As someone who still freelances with web technology, it's hard for me to say that every aspect of it is bad. But what gets glossed over in trying to use HTML, CSS, and JavaScript for everything is that there are large performance costs to users. JavaScript has a place in the stack, but these problems can not be hand-waved away. 
+As someone who still freelances with web technology, it's hard for me to say that every aspect of it is bad. But what gets glossed over in trying to use HTML, CSS, and JavaScript for everything is that there are large performance costs to users. JavaScript has a place in the stack, but these problems can not be hand-waved away.
 
 - [24-core CPU and I can't type an e-mail (part one)](https://randomascii.wordpress.com/2018/08/16/24-core-cpu-and-i-cant-type-an-email-part-one/)
 - [24-core CPU and I can’t type an email (part two)](https://randomascii.wordpress.com/2018/08/22/24-core-cpu-and-i-cant-type-an-email-part-two/)
@@ -566,7 +611,7 @@ With the recreation of my iTunes library earlier this year, my collection of [Wo
 
 ### CLI Tools
 
-One of the big reasons that I continue to keep macOS as my primary operating system is the first-class terminal access that it provides. Much of my work is done in GUI applications, but a command-line is always present on my screen. [CLI Tools](https://krueger.report/technology/cli-tools) is a list of all of my currently used tools, with a quick reference for the most commonly used commands. 
+One of the big reasons that I continue to keep macOS as my primary operating system is the first-class terminal access that it provides. Much of my work is done in GUI applications, but a command-line is always present on my screen. [CLI Tools](https://krueger.report/technology/cli-tools) is a list of all of my currently used tools, with a quick reference for the most commonly used commands.
 
 ### Updates
 
