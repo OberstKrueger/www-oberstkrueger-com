@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2019.01.17:0510
+updated: 2019.02.02:1105
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -48,6 +48,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - King, Stephen - On Writing
 - Koenig, David - Realityland: True-Life Adventures at Walt Disney World
 - Koski, Olivia & Grcevich, Jana - Vacation Guide to the Solar System: Science for the Savvy Space Traveler!
+- Kuhn, Thomas S. -  The Structure of Scientific Revolutions
 - Kurzweil, Ray - The Age of the Intelligent Machines
 - Kurzweil, Ray - The Age of the Spiritual Machines
 - Kurzweil, Ray - The Singularity Is Near
@@ -61,7 +62,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Nayebi, Fatih - Swift Functional Programming
 - Newport, Cal - Deep Work: Rules for Focused Success in a Distracted World
 - Newport, Cal - So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love
-- Orlov, Dmitry - Shrinking the Technosphere: Getting a Grip on Technologies that Limit our Autonomy, Self-Sufficiency and Freedom 
+- Orlov, Dmitry - Shrinking the Technosphere: Getting a Grip on Technologies that Limit our Autonomy, Self-Sufficiency and Freedom
 - Partanen, Anu - The Nordic Theory of Everything: In Search of a Better Life
 - Quinn, Zoë - Crash Override: How Gamergate (Nearly) Destroyed My Life, and How We Can Win the Fight Against Online Hate
 - Rubin, Charles - Eclipse of Man: Human Extinction and the Meaning of Progress
