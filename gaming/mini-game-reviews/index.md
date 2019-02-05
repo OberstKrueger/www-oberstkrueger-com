@@ -3,7 +3,7 @@ category: games
 created: 2018.12.02:1750
 title: Mini Game Reviews
 type: page
-updated: 2019.01.08:1745
+updated: 2019.02.05:1545
 ---
 
 ## Counter-Strike: Global Offensive
@@ -19,6 +19,19 @@ Counter-Strike is a game that I still enjoy, although I am nowhere near as good 
 <figure>
     <img src='/images/mini-game-reviews_counter-strike-global-offensive.jpg'>
     <figcaption>Moving the assault forward</figcaption>
+</figure>
+
+# Diablo 3
+
+Diablo 2 is the quintessential action RPG. Many other games are modeled after what Diablo 2 did well. Of Blizzard's catalog of games, Diablo 2 is the one that I think holds up the best and has few weak points to it. So naturally, Blizzard approached creating a sequel to the game by changing the gameplay, music, and visual style that Diablo 2 had perfected.
+
+There is a lot I dislike about Diablo 3, but there are two main points that create the core of my problems with the game. The first point is that random drops have been replaced by random everything. Not only are items pulled from a list of unique and static items, but now even the unique items have randomized stats. In Diablo 1 and 2, if you wanted a particular piece of equipment to drop, your journey was over for that item. In Diablo 3, it is possible to get a specific item to drop with random stats that are horrible, or to get the proper stats but always know that another drop with another random roll might make the stats a little better. The second point is that Diablo 3 scaled everything up: damage, item values, health pools, etc. Damage is now shown in numbers that pop up on the screen, showing how well you are hitting. As you progress through the game, the numbers continue to grow larger, reaching ridiculous levels like thousands of points of health and millions of points of damage. Both of these points combine to make the game feel like a digital slot machine, where you move your character around, click your mouse, and see how big the numbers are that show up on the screen.
+
+Despite improvements and new content that Blizzard has added to the game since launch, they have been unable to turn it around into a game that I can enjoy. It is one of the few games in my life that has put me to sleep before due to how boring it was. This is such a stark contrast to the excitement that Diablo 2 was. Given Blizzard's business moves in recent years, Diablo 3 is the last chance I'll be giving the studio on a game in the Diablo franchise.
+
+<figure>
+    <img src='/images/mini-game-reviews_diablo-3.jpg'>
+    <figcaption>Battling a spawn of Hell</figcaption>
 </figure>
 
 # Heroes of the Storm
