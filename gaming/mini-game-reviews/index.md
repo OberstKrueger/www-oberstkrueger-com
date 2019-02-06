@@ -3,7 +3,7 @@ category: games
 created: 2018.12.02:1750
 title: Mini Game Reviews
 type: page
-updated: 2019.02.05:1545
+updated: 2019.02.05:2035
 ---
 
 ## Counter-Strike: Global Offensive
@@ -21,7 +21,7 @@ Counter-Strike is a game that I still enjoy, although I am nowhere near as good 
     <figcaption>Moving the assault forward</figcaption>
 </figure>
 
-# Diablo 3
+## Diablo 3
 
 Diablo 2 is the quintessential action RPG. Many other games are modeled after what Diablo 2 did well. Of Blizzard's catalog of games, Diablo 2 is the one that I think holds up the best and has few weak points to it. So naturally, Blizzard approached creating a sequel to the game by changing the gameplay, music, and visual style that Diablo 2 had perfected.
 
@@ -34,7 +34,7 @@ Despite improvements and new content that Blizzard has added to the game since l
     <figcaption>Battling a spawn of Hell</figcaption>
 </figure>
 
-# Heroes of the Storm
+## Heroes of the Storm
 
 The MOBA genre is one that I have always liked more in theory than in practice. The original Defense of the Ancients was a regular entry on my list of custom Warcraft 3 maps, and Heroes of Newerth was a favorite at some old-school LAN parties I went to, but the genre has a number of gameplay mechanics that I find more tedious than fun. Last-hitting is the worst of these, but also the concept of carry characters that require protection early in the game to turn around and act as uber strong destroyers late in the game.
 
@@ -81,7 +81,7 @@ Unknown Worlds Entertainment created an amazing experience in this game. By the 
     <figcaption>My home base tucked away along an underwater cliff</figcaption>
 </figure>
 
-# Unreal
+## Unreal
 
 There are three first-person shooters from the 1990s that I consider essential: Doom, Half-Life, and Unreal. All three influenced the genre in ways, while each being their own unique game.
 
