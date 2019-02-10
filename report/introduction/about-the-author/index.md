@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: About The Author
 type: page
-updated: 2018.11.06:1620
+updated: 2019.02.10:1005
 ---
 
 ## Current Computing Devices
@@ -38,13 +38,13 @@ updated: 2018.11.06:1620
 
 ### Mac Mini
 
-- CPU: [Intel Core i5-4278U](https://ark.intel.com/products/83508/Intel-Core-i5-4278U-Processor-3M-Cache-up-to-3_10-GHz)
-- GPU: [Intel Iris Graphics 5100](https://en.wikipedia.org/wiki/Intel_HD_and_Iris_Graphics#Haswell)
-- RAM: 8 GB 1600 MHz DDR3
-- SSD: [1TB Samsung 860 EVO SSD](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-evo-2-5--sata-iii-1tb-mz-76e1t0b-am/)
-- Peripherals: [LG 25UM58-P](http://www.lg.com/us/monitors/lg-25UM58-P-ultrawide-monitor), [Magic Keyboard](https://en.wikipedia.org/wiki/Magic_Keyboard), [Magic Trackpad](https://en.wikipedia.org/wiki/Magic_Trackpad)
+- CPU: [Intel Core i7-8700B](https://ark.intel.com/products/134905/Intel-Core-i7-8700B-Processor-12M-Cache-up-to-4-60-GHz-)
+- GPU: [Intel UHD Graphics 630](https://en.wikipedia.org/wiki/Intel_Graphics_Technology#Kaby_Lake_Refresh_/_Coffee_Lake)
+- RAM: 16 GB 2667 MHz DDR4
+- SSD: [512GB Apple SSD]
+- Peripherals: [LG 25UM58-P](http://www.lg.com/us/monitors/lg-25UM58-P-ultrawide-monitor), [Ducky MIYA Pro Mac](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4285), [Magic Trackpad](https://en.wikipedia.org/wiki/Magic_Trackpad)
 
-**GeekBench Score**: [3509 / 6640](https://browser.geekbench.com/v4/cpu/2184898)
+**GeekBench Score**: [5841 / 26538](https://browser.geekbench.com/v4/cpu/12002957)
 
 ## Current Workspaces
 
