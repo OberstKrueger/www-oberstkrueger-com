@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: About The Author
 type: page
-updated: 2019.02.10:1210
+updated: 2019.02.10:1220
 ---
 
 ## Current Computing Devices
@@ -16,7 +16,8 @@ updated: 2019.02.10:1210
 - SSD: [Samsung 850 EVO 120GB](http://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-850-evo-2-5-sata-iii-120gb-mz-75e120b-am/) & [500GB Samsung 850 EVO SSD](http://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-850-evo-2-5-sata-iii-500gb-mz-75e500b-am/)
 - Peripherals: [LG 25UM58-P](http://www.lg.com/us/monitors/lg-25UM58-P-ultrawide-monitor), [Steam Controller](http://store.steampowered.com/app/353370/)
 
-**GeekBench Score**: [4937 / 16927](https://browser.geekbench.com/v4/cpu/12004240)
+**Geekbench CPU**: [4937 / 16927](https://browser.geekbench.com/v4/cpu/12004240)<br>
+**Geekbench GPU**: [140031](https://browser.geekbench.com/v4/compute/3645486)
 
 ### iPad
 
@@ -25,7 +26,8 @@ updated: 2019.02.10:1210
 - RAM: 2048 MB
 - SSD: 32 GB
 
-**Geekbench Score**: [2560 / 4465](https://browser.geekbench.com/v4/cpu/12003927)
+**Geekbench CPU**: [2560 / 4465](https://browser.geekbench.com/v4/cpu/12003927)<br>
+**Geekbench GPU**: [10681](https://browser.geekbench.com/v4/compute/3645112)
 
 ### iPhone 6 Plus
 
@@ -34,7 +36,8 @@ updated: 2019.02.10:1210
 - RAM: 1024 MB
 - SSD: 64 GB
 
-**GeekBench Score**: [1593 / 2737](https://browser.geekbench.com/v4/cpu/12003949)
+**Geekbench CPU**: [1593 / 2737](https://browser.geekbench.com/v4/cpu/12003949)<br>
+**Geekbench GPU**: [4604](https://browser.geekbench.com/v4/compute/3645142)
 
 ### Mac Mini
 
@@ -44,7 +47,8 @@ updated: 2019.02.10:1210
 - SSD: [512GB Apple SSD]
 - Peripherals: [LG 25UM58-P](http://www.lg.com/us/monitors/lg-25UM58-P-ultrawide-monitor), [Ducky MIYA Pro Mac](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4285), [Magic Trackpad](https://en.wikipedia.org/wiki/Magic_Trackpad)
 
-**GeekBench Score**: [5974 / 26510](https://browser.geekbench.com/v4/cpu/12004493)
+**Geekbench CPU**: [5974 / 26510](https://browser.geekbench.com/v4/cpu/12004493)<br>
+**Geekbench GPU**: [24774](https://browser.geekbench.com/v4/compute/3645324)
 
 ## Current Workspaces
 
