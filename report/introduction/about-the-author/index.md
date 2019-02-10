@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: About The Author
 type: page
-updated: 2019.02.10:1005
+updated: 2019.02.10:1210
 ---
 
 ## Current Computing Devices
@@ -16,7 +16,7 @@ updated: 2019.02.10:1005
 - SSD: [Samsung 850 EVO 120GB](http://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-850-evo-2-5-sata-iii-120gb-mz-75e120b-am/) & [500GB Samsung 850 EVO SSD](http://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-850-evo-2-5-sata-iii-500gb-mz-75e500b-am/)
 - Peripherals: [LG 25UM58-P](http://www.lg.com/us/monitors/lg-25UM58-P-ultrawide-monitor), [Steam Controller](http://store.steampowered.com/app/353370/)
 
-**GeekBench Score**: [4714 / 14907](https://browser.geekbench.com/v4/cpu/2184942)
+**GeekBench Score**: [4937 / 16927](https://browser.geekbench.com/v4/cpu/12004240)
 
 ### iPad
 
@@ -25,7 +25,7 @@ updated: 2019.02.10:1005
 - RAM: 2048 MB
 - SSD: 32 GB
 
-**Geekbench Score**: [2534 / 4368](https://browser.geekbench.com/v4/cpu/4450937)
+**Geekbench Score**: [2560 / 4465](https://browser.geekbench.com/v4/cpu/12003927)
 
 ### iPhone 6 Plus
 
@@ -34,7 +34,7 @@ updated: 2019.02.10:1005
 - RAM: 1024 MB
 - SSD: 64 GB
 
-**GeekBench Score**: [1556 / 2648](https://browser.geekbench.com/v4/cpu/2184980)
+**GeekBench Score**: [1593 / 2737](https://browser.geekbench.com/v4/cpu/12003949)
 
 ### Mac Mini
 
@@ -44,7 +44,7 @@ updated: 2019.02.10:1005
 - SSD: [512GB Apple SSD]
 - Peripherals: [LG 25UM58-P](http://www.lg.com/us/monitors/lg-25UM58-P-ultrawide-monitor), [Ducky MIYA Pro Mac](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4285), [Magic Trackpad](https://en.wikipedia.org/wiki/Magic_Trackpad)
 
-**GeekBench Score**: [5841 / 26538](https://browser.geekbench.com/v4/cpu/12002957)
+**GeekBench Score**: [5974 / 26510](https://browser.geekbench.com/v4/cpu/12004493)
 
 ## Current Workspaces
 
