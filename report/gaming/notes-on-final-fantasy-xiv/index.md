@@ -277,7 +277,7 @@ In Phase 2, the DPS will kill adds in this order:
 
 ### Deltascape V2.0 (Normal)
 1. Earthquake: Use Duty Action to levitate above damage.
-2. Evil Sphere: Tank-buster. 
+2. Evil Sphere: Tank-buster.
 3. Aetherial Rift: Use Duty Action to rise out of the sinking death.
 4. Gravitational Explosion: Yellow arrow stack.
 5. Maniacal Probe: After Epicenter is cast, move away from any raised tentacle with a blue eye above it.
