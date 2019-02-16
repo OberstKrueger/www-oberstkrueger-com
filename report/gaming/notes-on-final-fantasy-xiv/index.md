@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2018.12.03:1755
+updated: 2019.02.16:0810
 ---
 
 ## Trials
@@ -203,6 +203,16 @@ In Phase 2, the DPS will kill adds in this order:
 3. Kill Gyre Spume quickly.
 4. Off-tank picks up any additional adds.
 5. Before Tsunami goes off, activate the Elemental Shield.
+
+### The Wreath of Snakes (Normal)
+
+1. Infirm Soul: Tankbuster.
+2. Onmyo Circle: PBAE.
+3. Dragon Ring: Stand inside melee range.
+4. Summon Shiki: Tank adds. Explode on death, so don't kill all at once.
+5. Phase 2: Orochi: Knockback into the water.
+6. Phase 2: Big Boi Shiki: Avoid arm AEs.
+7. Phase 2: Force of Nature: Stand near middle circle but not inside.
 
 ## Raids
 
