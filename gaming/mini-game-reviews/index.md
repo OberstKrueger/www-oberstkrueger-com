@@ -18,7 +18,6 @@ Counter-Strike is a game that I still enjoy, although I am nowhere near as good 
 
 <figure>
     <img src='/images/mini-game-reviews_counter-strike-global-offensive.jpg'>
-    <figcaption>Moving the assault forward</figcaption>
 </figure>
 
 ## Diablo 3
@@ -31,7 +30,6 @@ Despite improvements and new content that Blizzard has added to the game since l
 
 <figure>
     <img src='/images/mini-game-reviews_diablo-3.jpg'>
-    <figcaption>Battling a spawn of Hell</figcaption>
 </figure>
 
 ## Gris
@@ -60,7 +58,6 @@ Out of all of the MOBA games available, Heroes of the Storm resonated with me th
 
 <figure>
     <img src='/images/mini-game-reviews_heroes-of-the-storm.jpg'>
-    <figcaption>Assaulting an enemy tower</figcaption>
 </figure>
 
 ## Quake Champions
@@ -75,7 +72,6 @@ Unseating Quake 3: Arena as the king of arena shooters is a difficult task, and 
 
 <figure>
     <img src='/images/mini-game-reviews_quake-champions.jpg'>
-    <figcaption>My player profile in Quake Champions</figcaption>
 </figure>
 
 ## Subnautica
@@ -90,7 +86,6 @@ Unknown Worlds Entertainment created an amazing experience in this game. By the 
 
 <figure>
     <img src='/images/mini-game-reviews_subnautica.jpg'>
-    <figcaption>My home base tucked away along an underwater cliff</figcaption>
 </figure>
 
 ## Unreal
@@ -107,7 +102,6 @@ Doom and Half-Life get a lot of the glory for 1990s first-person shooters, but U
 
 <figure>
     <img src='/images/mini-game-reviews_unreal.jpg'>
-    <figcaption>A village on Na Pali</figcaption>
 </figure>
 
 ## What Remains of Edith Finch
@@ -122,5 +116,4 @@ Like most games in this genre, it is short. The whole game can be experienced in
 
 <figure>
     <img src='/images/mini-game-reviews_what-remains-of-edith-finch.jpg'>
-    <figcaption>An overlay of narration</figcaption>
 </figure>
