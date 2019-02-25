@@ -3,7 +3,7 @@ category: games
 created: 2018.12.02:1750
 title: Mini Game Reviews
 type: page
-updated: 2019.02.05:2035
+updated: 2019.02.25:0045
 ---
 
 ## Counter-Strike: Global Offensive
@@ -32,6 +32,18 @@ Despite improvements and new content that Blizzard has added to the game since l
 <figure>
     <img src='/images/mini-game-reviews_diablo-3.jpg'>
     <figcaption>Battling a spawn of Hell</figcaption>
+</figure>
+
+## Gris
+
+When I was playing through Gris, I was reminded of my first playthrough of Journey. The sense of wonder that the world had combined with the emotional experience of the game to create an unforgettable experience. The game's theme is presented in an abstract manner, but my take on it is dealing with the loss of a loved one. As the main character progresses through the game, she explores the depths of her own depression. Hints of this are seen in the game's achievements, which are named after various stages of grief.
+
+The most memorable part of Gris is its visuals. Ever since the old platformers of the 1990s, there has been a hope of having games that look like a piece of hand-drawn art brought to life. Gris accomplishes this goal beautifully. All of the art is hand-drawn, with the characters having a pencil-drawn look, and the world being created through splashes of watercolor. Environmental effects look like paint spreading across the screen, creating a very otherworldly effect.
+
+The gameplay of Gris is satisfying, albeit not the highlight of the game. The platform mechanics are lacking compared to other platformers. But since this game is more about the emotional and visual journey, the lack of strong platforming is not something I hold against the game.
+
+<figure>
+    <img src='/images/mini-game-reviews_gris.jpg'>
 </figure>
 
 ## Heroes of the Storm
