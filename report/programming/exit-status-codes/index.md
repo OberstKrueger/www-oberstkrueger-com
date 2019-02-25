@@ -3,7 +3,7 @@ category: programming
 created: 2018.07.21:0030
 title: Exit Status Codes
 type: page
-updated: 2018.07.21:0030
+updated: 2019.02.25:0035
 ---
 
 On all [Unix](https://en.wikipedia.org/wiki/Unix) operating systems, every time a process exits, it returns an [exit status](https://en.wikipedia.org/wiki/Exit_status) that tells the operating system whether the process ran successfully or encountered some sort of failure mode. Implementing these exit statuses is important so that the tool can interact with the rest of the system in an expected way.
@@ -12,7 +12,7 @@ The [POSIX](https://en.wikipedia.org/wiki/POSIX) standards declares that the exi
 
 ## Zero and Non-Zero
 
-Both standards state that an exit status of zero means the executable exited in a successful state, and any other non-zero exit status means that an error occurred. [The C programming language](https://en.wikipedia.org/wiki/C_(programming_language)) has two constants called EXIT_SUCCESS and EXIT_FAILURE that [respectively map to the values of 0 and 1](https://www.gnu.org/software/libc/manual/html_node/Exit-Status.html). Most languages build similar values into their own standard libraries, creating the de facto standard of 0 equaling success and 1 equaling an error.
+Both standards state that an exit status of zero means the executable exited in a successful state, and any other non-zero exit status means that an error occurred. [The C programming language](https://en.wikipedia.org/wiki/C_(programming_language)) has two constants called EXIT\_SUCCESS and EXIT\_FAILURE that [respectively map to the values of 0 and 1](https://www.gnu.org/software/libc/manual/html_node/Exit-Status.html). Most languages build similar values into their own standard libraries, creating the de facto standard of 0 equaling success and 1 equaling an error.
 
 ## Beyond Just Zero and One
 
