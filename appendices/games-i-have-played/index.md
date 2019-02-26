@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2019.02.17:0910
+updated: 2019.02.25:1735
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -47,6 +47,7 @@ updated: 2019.02.17:0910
 - [A Dark Room](https://en.wikipedia.org/wiki/A_Dark_Room)
 - [Alto's Adventure](https://en.wikipedia.org/wiki/Alto%27s_Adventure)
 - [Alto's Odyssey](https://en.wikipedia.org/wiki/Alto%27s_Adventure)
+- [Another Eden: The Cat Beyond Time and Space](https://en.wikipedia.org/wiki/Another_Eden)
 - [Army of Darkness: Defense](https://en.wikipedia.org/wiki/Army_of_Darkness:_Defense)
 - [Cut The Rope](https://en.wikipedia.org/wiki/Cut_the_Rope)
 - [Deus Ex Go](https://en.wikipedia.org/wiki/Deus_Ex_Go)
