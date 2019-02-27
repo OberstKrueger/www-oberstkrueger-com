@@ -110,6 +110,7 @@ h2 {
     a:visited,
     a:hover,
     a:active {
+        color: $colorFG;
         text-decoration: none;
     }
 }
@@ -126,6 +127,7 @@ h6 {
     a:visited,
     a:hover,
     a:active {
+        color: $colorFG;
         text-decoration: none;
     }
 }
