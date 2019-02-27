@@ -304,7 +304,7 @@ video {
 .index {
     h2 {
         border-bottom: 0.0625rem solid $colorInactive;
-        border-bottom: 0.0625rem solid $colorInactive;
+        border-top: 0.0625rem solid $colorInactive;
         margin: ($lineHeight + rem) auto;
         max-width: 21.5rem; // Calculated based on longest item of index
         &:first-of-type {
