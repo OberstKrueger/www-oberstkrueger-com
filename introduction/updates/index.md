@@ -3,8 +3,46 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2019.01.31:2355
+updated: 2019.03.01:1345
 ---
+
+## 2019.02
+
+### Favorite Articles
+
+- [Activision Blizzard confirms it will lay off "approximately eight percent" of staff](https://www.eurogamer.net/articles/2019-02-12-activision-blizzard-confirms-it-will-lay-off-approximately-eight-percent-of-staff)
+- [The big 1.0](https://medium.com/@RiotChat/the-big-1-0-68fa7c6050be)
+- [The bleak reality of the Instagram experience](https://thewalrus.ca/the-bleak-reality-of-the-instagram-experience/)
+- [China’s CRISPR twins might have had their brains inadvertently enhanced](https://www.technologyreview.com/s/612997/the-crispr-twins-had-their-brains-altered/)
+- [The cloud is just someone else's computer](https://blog.codinghorror.com/the-cloud-is-just-someone-elses-computer/)
+- [Dotfile madness](https://0x46.net/thoughts/2019/02/01/dotfile-madness/)
+- [Homebrew 2.0.0](https://brew.sh/2019/02/02/homebrew-2.0.0/)
+- [Intel to discontinue Itanium 9700 'Kittson' processor, the last of the Itaniums](https://www.anandtech.com/show/13924/intel-to-discontinue-itanium-9700-kittson-processor-the-last-itaniums)
+- [Mars One, which overred 1-way trips to Mars, declared bankrupt](https://www.cbc.ca/news/technology/mars-one-bankrupt-1.5014522)
+- [NASA’s Mars rover Opportunity concludes a 15-year mission](https://www.nytimes.com/2019/02/13/science/mars-opportunity-rover-dead.html)
+- [New pill can deliver insulin](http://news.mit.edu/2019/pill-deliver-insulin-orally-0207)
+- [The real reason America is scared of Huawei: internet-connected everything](https://www.technologyreview.com/s/612874/the-real-reason-america-is-scared-of-huawei-internet-connected-everything/)
+- [The rise of the tech-savy parent](https://thewalrus.ca/the-rise-of-the-tech-savvy-parent/)
+- [Seeking the productive life: some details of my personal infrastructure](https://blog.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/)
+- [SemVer's new maintainers](https://haacked.com/archive/2019/02/11/semver-collective/)
+- [This is your brain off Facebook](https://www.nytimes.com/2019/01/30/health/facebook-psychology-health.html)
+- [The trauma floor: the secret lives of Facebook moderators in America](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona)
+- [Wayland misconceptions debunked](https://drewdevault.com/2019/02/10/Wayland-misconceptions-debunked.html)
+- [Why Amazon buying Eero feels so disappointing](https://www.theverge.com/2019/2/12/18221441/amazon-buying-eero-disappointing)
+- [Why I deleted all of my social media and 60,000 followers](https://petapixel.com/2019/02/19/why-i-deleted-all-of-my-social-media-and-60000-followers/)
+
+### Books Read
+
+- Kuhn, Thomas S. -  The Structure of Scientific Revolutions
+- Weir, Andy - Artemis
+
+### Games Played
+
+- [Amother Eden: The Cat Beyond Time and Space](https://en.wikipedia.org/wiki/Another_Eden)
+- [EVE Online](https://www.eveonline.com)
+- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
+- [Gris](https://en.wikipedia.org/wiki/Gris_(video_game))
+- [Resident Evil 2 (2019)](https://en.wikipedia.org/wiki/Resident_Evil_2_(2019_video_game))
 
 ## 2019.01
 
