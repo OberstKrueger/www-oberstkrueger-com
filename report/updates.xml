@@ -7,7 +7,59 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2019-01-31T23:55:00Z</updated>
+<updated>2019-03-01T13:45:00Z</updated>
+
+<entry>
+<title>Updates For February, 2019</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201902</id>
+<published>2019-03-01T13:45:00Z</published>
+<updated>2019-03-01T13:45:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2019.02</h2>
+<h3>Favorite Articles</h3>
+<ul>
+<li><a href="https://www.eurogamer.net/articles/2019-02-12-activision-blizzard-confirms-it-will-lay-off-approximately-eight-percent-of-staff">Activision Blizzard confirms it will lay off "approximately eight percent" of staff</a></li>
+<li><a href="https://medium.com/@RiotChat/the-big-1-0-68fa7c6050be">The big 1.0</a></li>
+<li><a href="https://thewalrus.ca/the-bleak-reality-of-the-instagram-experience/">The bleak reality of the Instagram experience</a></li>
+<li><a href="https://www.technologyreview.com/s/612997/the-crispr-twins-had-their-brains-altered/">China’s CRISPR twins might have had their brains inadvertently enhanced</a></li>
+<li><a href="https://blog.codinghorror.com/the-cloud-is-just-someone-elses-computer/">The cloud is just someone else's computer</a></li>
+<li><a href="https://0x46.net/thoughts/2019/02/01/dotfile-madness/">Dotfile madness</a></li>
+<li><a href="https://brew.sh/2019/02/02/homebrew-2.0.0/">Homebrew 2.0.0</a></li>
+<li><a href="https://www.anandtech.com/show/13924/intel-to-discontinue-itanium-9700-kittson-processor-the-last-itaniums">Intel to discontinue Itanium 9700 'Kittson' processor, the last of the Itaniums</a></li>
+<li><a href="https://www.cbc.ca/news/technology/mars-one-bankrupt-1.5014522">Mars One, which overred 1-way trips to Mars, declared bankrupt</a></li>
+<li><a href="https://www.nytimes.com/2019/02/13/science/mars-opportunity-rover-dead.html">NASA’s Mars rover Opportunity concludes a 15-year mission</a></li>
+<li><a href="http://news.mit.edu/2019/pill-deliver-insulin-orally-0207">New pill can deliver insulin</a></li>
+<li><a href="https://www.technologyreview.com/s/612874/the-real-reason-america-is-scared-of-huawei-internet-connected-everything/">The real reason America is scared of Huawei: internet-connected everything</a></li>
+<li><a href="https://thewalrus.ca/the-rise-of-the-tech-savvy-parent/">The rise of the tech-savy parent</a></li>
+<li><a href="https://blog.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/">Seeking the productive life: some details of my personal infrastructure</a></li>
+<li><a href="https://haacked.com/archive/2019/02/11/semver-collective/">SemVer's new maintainers</a></li>
+<li><a href="https://www.nytimes.com/2019/01/30/health/facebook-psychology-health.html">This is your brain off Facebook</a></li>
+<li><a href="https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona">The trauma floor: the secret lives of Facebook moderators in America</a></li>
+<li><a href="https://drewdevault.com/2019/02/10/Wayland-misconceptions-debunked.html">Wayland misconceptions debunked</a></li>
+<li><a href="https://www.theverge.com/2019/2/12/18221441/amazon-buying-eero-disappointing">Why Amazon buying Eero feels so disappointing</a></li>
+<li><a href="https://petapixel.com/2019/02/19/why-i-deleted-all-of-my-social-media-and-60000-followers/">Why I deleted all of my social media and 60,000 followers</a></li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Kuhn, Thomas S. - The Structure of Scientific Revolutions</li>
+<li>Weir, Andy - Artemis</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Another_Eden">Amother Eden: The Cat Beyond Time and Space</a></li>
+<li><a href="https://www.eveonline.com">EVE Online</a></li>
+<li><a href="https://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Gris_(video_game)">Gris</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Resident_Evil_2_(2019_video_game)">Resident Evil 2 (2019)</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For January, 2019</title>
