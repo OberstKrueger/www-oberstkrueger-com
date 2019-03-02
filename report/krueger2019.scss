@@ -145,6 +145,10 @@ ol {
     list-style: decimal outside;
     margin: 0 auto ($lineHeight + rem);
     padding: 0;
+    ol,
+    ul {
+        margin-bottom: 0;
+    }
 }
 
 p {
@@ -182,6 +186,10 @@ ul {
     list-style: circle outside;
     margin: 0 auto ($lineHeight + rem);
     padding: 0;
+    ol,
+    ul {
+        margin-bottom: 0;
+    }
 }
 
 h1,
