@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1300
 title: Random Notes
 type: page
-updated: 2019.01.29:2325
+updated: 2019.03.12:2235
 ---
 
 The following are random ideas, quotes, or thoughts that I have come across.
@@ -23,6 +23,14 @@ The following are random ideas, quotes, or thoughts that I have come across.
 > From a development perspective it means I can just go ahead and start writing useful little snippets of code and start composing them together into bigger and bigger features as I go. So, I'm switching from a top-down style to more of a bottom-up one.
 >
 > - [everyone on Hacker News](https://news.ycombinator.com/item?id=14827848)
+
+> “Programmers waste enormous amounts of time thinking about, or worrying about, the speed of noncritical parts of their programs, and these attempts at efficiency actually have a strong negative impact when debugging and maintenance are considered. We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.”
+>
+> -Donald Knuth
+
+> Under the immense time pressures of industrial software development, developers are heeding one part of Knuth’s advice: they are avoiding premature optimisation. Indeed, developers appear to be avoiding optimisation altogether and neglecting the “critical 3%".
+>
+> -[Darwinian data structure selection](https://arxiv.org/pdf/1706.03232.pdf)
 
 ## Technology
 
