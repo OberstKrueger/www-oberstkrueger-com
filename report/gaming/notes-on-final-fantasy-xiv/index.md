@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2019.02.16:0810
+updated: 2019.03.24:0905
 ---
 
 ## Trials
@@ -213,6 +213,45 @@ In Phase 2, the DPS will kill adds in this order:
 5. Phase 2: Orochi: Knockback into the water.
 6. Phase 2: Big Boi Shiki: Avoid arm AEs.
 7. Phase 2: Force of Nature: Stand near middle circle but not inside.
+
+## Alliance Raids
+
+### The Orbonne Monastery
+
+1. Mustadio
+    1. Arm Shot: Tankbuster.
+    2. Left/Right Handgonne: Move to opposite side of boss.
+    3. Maintenance: Spawns adds that create line AEs.
+    4. Analysis: Face the gap in the market towards the boss.
+    5. Leg Shot: Spawns mines on platform. Stay away.
+    6. Maintenance 2.0: Respawns adds that AE for their quarter of the arena.
+    7. Maintenance 3.0: Combines mechanics of Maintenance 1.0 and 2.0.
+2. Agrias
+    1. Thunder Slash: Frontal cone tankbuster.
+    2. Shieldbearer: Stand in circle, face boss, and then use duty action button.
+    3. Cleansing Strike: Targets one group of raid. That group must kill adds.
+    4. Swordbearer: Inside Cleaning Strike, same as Shieldbearer but must be used against adds with shield barriers.
+    5. Holy Blade Transition: Kill adds. Use Shieldbear during Mortal Blow.
+    6. Divine Ruination: Use Shieldbearer to block.
+3. The Thunder God
+    1. TG Holy Sword: If horizontal, don't stand on platforms being pointed at. If vertical, move close to boss. If horizontal but not pointing at platforms, move to edge of arena.
+    2. Shadowblade: Marked player moves away from group. Each alliances effect can not touch another.
+    3. Crush Helm: Tankbuster.
+    4. Duskblade: 3 players must stand in each circle.
+    5. Crush Weapon: Targeted player moves away from other players and then runs from AE.
+    6. Coliseum: Kill adds.
+    7. Crush Armor: Pass tether between non-tanks.
+    8. Crush Accessory: Kill ice adds.
+4. Ultima, the High Seraph
+    1. Auralight: Line AEs that create walls.
+    2. Grand Cross: Explodes in cross patterns.
+    3. Uses multiple attacks from previous Ivalice raid bosses.
+    4. Phase 2: All 3 previous boss attacks spawn at once.
+    5. Phase 2: Ultimate Illusion: Stand inside bubble.
+    6. Phase 3: East/West March: Moves all adds and AEs in the named direction.
+    7. Phase 3: Redemption: Tankbuster.
+    8. Phase 3: Demi-Virgo: Stand underneath circle spawns.
+    9. Phase 4: Maze: Navigate back towards the boss.
 
 ## Raids
 
