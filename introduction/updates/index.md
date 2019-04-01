@@ -3,8 +3,47 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2019.03.01:1345
+updated: 2019.04.01:1235
 ---
+
+## 2019.03
+
+### Favorite Articles
+
+- [As Mark Zuckerberg tightens grip on Facebook, 2 top deputies leave](https://www.nytimes.com/2019/03/14/technology/facebook-chris-cox.html)
+- [Community makes Rust an easy choice for npm](https://www.rust-lang.org/static/pdfs/Rust-npm-Whitepaper.pdf)
+- [De-sneering my life](https://www.scottaaronson.com/blog/?p=4129)
+- [Dumbass Home 2.0](https://vas3k.com/blog/dumbass_home/)
+- [The end of open: BBC blocks its podcasts on Google](https://podnews.net/article/bbc-blocks-google)
+- [Engineering for the long haul, the NASA way](https://hackaday.com/2019/03/11/engineering-for-the-long-haul-the-nasa-way/)
+- [EverQuest turns 20](https://www.everquest.com/news/eq-20th-anniversary-producers-letter-march-16-2019)
+- [Facebook stored hundreds of millions of user passwords in plain text for years](https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text-for-years/)
+- [Facebook won't let you opt out of its phone number 'look up' setting](https://techcrunch.com/2019/03/03/facebook-phone-number-look-up/)
+- [GOG and Blizzard bring Diablo 1 back from the dead](https://www.eurogamer.net/articles/2019-03-07-gog-and-blizzard-bring-diablo-1-back-from-the-dead)
+- [Graying out](https://www.tbray.org/ongoing/When/201x/2019/03/11/Lights-Going-Out)
+- [HBO boss quits as owner AT&T seeks more shows and more profit](https://arstechnica.com/information-technology/2019/03/hbo-boss-quits-as-owner-att-seeks-more-shows-and-more-profit/)
+- [I’m 14, and I quit social media after discovering what was posted about me](https://www.fastcompany.com/90315706/kids-parents-social-media-sharing)
+- [Microsoft proves the critics right: We’re heading toward a Chrome-only Web](https://arstechnica.com/gadgets/2019/03/microsofts-new-skype-for-web-client-an-early-taste-of-the-browser-monoculture/)
+- [The programming language conundrum](http://evrl.com/programming/2019/03/28/the-language-conundrum.html)
+- [Reddit has become a battleground of alleged Chinese trolls](https://www.buzzfeednews.com/article/craigsilverman/reddit-coordinated-chinese-propaganda-trolls)
+- [What finally killed AirPower](https://ifixit.org/blog/14883/what-finally-killed-airpower/)
+- [What the hell is going on?](https://www.perell.com/blog/what-the-hell-is-going-on)
+- [Why climate change pundits aren't convincing anyone](https://undark.org/2019/03/14/climate-change-essays-are-unconvincing-2/)
+- [The world pulls the Andon Cord on the 737 Max](https://theaircurrent.com/aviation-safety/the-world-pulls-the-andon-cord-on-the-737-max/)
+- [Your Steam library is getting a much-needed makeover](https://www.eurogamer.net/articles/2019-03-22-steam-library-is-getting-a-much-needed-makeover)
+- [30 years on, what’s next #ForTheWeb?](https://webfoundation.org/2019/03/web-birthday-30/)
+
+### Books Read
+
+- Penny, Laurie - Meat Market: Female Flesh Under Capitalism
+
+### Games Played
+
+- [Amother Eden: The Cat Beyond Time and Space](https://en.wikipedia.org/wiki/Another_Eden)
+- [EVE Online](https://www.eveonline.com)
+- [EverQuest 2](https://www.everquest2.com/home)
+- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
+- [Resident Evil 2 (2019)](https://en.wikipedia.org/wiki/Resident_Evil_2_(2019_video_game))
 
 ## 2019.02
 
