@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: About The Author
 type: page
-updated: 2019.02.26:2320
+updated: 2019.04.01:1255
 ---
 
 ## Current Computing Devices
@@ -66,3 +66,7 @@ Geekbench GPU: [24774](https://browser.geekbench.com/v4/compute/3645324)
 	<img src='/images/about-the-author_iphone.jpg'>
 	<figcaption>iPhone</figcaption>
 </figure>
+
+## Contact
+
+I can be contacted on Matrix: @oberstkrueger:matrix.org
