@@ -7,7 +7,60 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2019-03-01T13:45:00Z</updated>
+<updated>2019-04-01T12:35:00Z</updated>
+
+<entry>
+<title>Updates For March, 2019</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201903</id>
+<published>2019-04-01T12:35:00Z</published>
+<updated>2019-04-01T12:35:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2019.03</h2>
+<h3>Favorite Articles</h3>
+<ul>
+<li><a href="https://www.nytimes.com/2019/03/14/technology/facebook-chris-cox.html">As Mark Zuckerberg tightens grip on Facebook, 2 top deputies leave</a></li>
+<li><a href="https://www.rust-lang.org/static/pdfs/Rust-npm-Whitepaper.pdf">Community makes Rust an easy choice for npm</a></li>
+<li><a href="https://www.scottaaronson.com/blog/?p=4129">De-sneering my life</a></li>
+<li><a href="https://vas3k.com/blog/dumbass_home/">Dumbass Home 2.0</a></li>
+<li><a href="https://podnews.net/article/bbc-blocks-google">The end of open: BBC blocks its podcasts on Google</a></li>
+<li><a href="https://hackaday.com/2019/03/11/engineering-for-the-long-haul-the-nasa-way/">Engineering for the long haul, the NASA way</a></li>
+<li><a href="https://www.everquest.com/news/eq-20th-anniversary-producers-letter-march-16-2019">EverQuest turns 20</a></li>
+<li><a href="https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text-for-years/">Facebook stored hundreds of millions of user passwords in plain text for years</a></li>
+<li><a href="https://techcrunch.com/2019/03/03/facebook-phone-number-look-up/">Facebook won't let you opt out of its phone number 'look up' setting</a></li>
+<li><a href="https://www.eurogamer.net/articles/2019-03-07-gog-and-blizzard-bring-diablo-1-back-from-the-dead">GOG and Blizzard bring Diablo 1 back from the dead</a></li>
+<li><a href="https://www.tbray.org/ongoing/When/201x/2019/03/11/Lights-Going-Out">Graying out</a></li>
+<li><a href="https://arstechnica.com/information-technology/2019/03/hbo-boss-quits-as-owner-att-seeks-more-shows-and-more-profit/">HBO boss quits as owner AT&amp;T seeks more shows and more profit</a></li>
+<li><a href="https://www.fastcompany.com/90315706/kids-parents-social-media-sharing">I’m 14, and I quit social media after discovering what was posted about me</a></li>
+<li><a href="https://arstechnica.com/gadgets/2019/03/microsofts-new-skype-for-web-client-an-early-taste-of-the-browser-monoculture/">Microsoft proves the critics right: We’re heading toward a Chrome-only Web</a></li>
+<li><a href="http://evrl.com/programming/2019/03/28/the-language-conundrum.html">The programming language conundrum</a></li>
+<li><a href="https://www.buzzfeednews.com/article/craigsilverman/reddit-coordinated-chinese-propaganda-trolls">Reddit has become a battleground of alleged Chinese trolls</a></li>
+<li><a href="https://ifixit.org/blog/14883/what-finally-killed-airpower/">What finally killed AirPower</a></li>
+<li><a href="https://www.perell.com/blog/what-the-hell-is-going-on">What the hell is going on?</a></li>
+<li><a href="https://undark.org/2019/03/14/climate-change-essays-are-unconvincing-2/">Why climate change pundits aren't convincing anyone</a></li>
+<li><a href="https://theaircurrent.com/aviation-safety/the-world-pulls-the-andon-cord-on-the-737-max/">The world pulls the Andon Cord on the 737 Max</a></li>
+<li><a href="https://www.eurogamer.net/articles/2019-03-22-steam-library-is-getting-a-much-needed-makeover">Your Steam library is getting a much-needed makeover</a></li>
+<li><a href="https://webfoundation.org/2019/03/web-birthday-30/">30 years on, what’s next #ForTheWeb?</a></li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Penny, Laurie - Meat Market: Female Flesh Under Capitalism</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Another_Eden">Amother Eden: The Cat Beyond Time and Space</a></li>
+<li><a href="https://www.eveonline.com">EVE Online</a></li>
+<li><a href="https://www.everquest2.com/home">EverQuest 2</a></li>
+<li><a href="https://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Resident_Evil_2_(2019_video_game)">Resident Evil 2 (2019)</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For February, 2019</title>
