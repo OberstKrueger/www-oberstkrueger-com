@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1300
 title: Random Notes
 type: page
-updated: 2019.03.12:2235
+updated: 2019.04.02:1955
 ---
 
 The following are random ideas, quotes, or thoughts that I have come across.
@@ -31,6 +31,10 @@ The following are random ideas, quotes, or thoughts that I have come across.
 > Under the immense time pressures of industrial software development, developers are heeding one part of Knuth’s advice: they are avoiding premature optimisation. Indeed, developers appear to be avoiding optimisation altogether and neglecting the “critical 3%".
 >
 > -[Darwinian data structure selection](https://arxiv.org/pdf/1706.03232.pdf)
+
+> C is a fantastic low-level systems language which is well-suited for non-concurrent applications. Rust has the potential to become a fantastic low-level systems language which is well-suited for concurrent applications. Unfortunately the different domain means Rust is going to be more complicated.
+>
+> -[/u/Practical_Cartoonist, post on /r/C_Programming](https://old.reddit.com/r/C_Programming/comments/b8cokd/rust_is_not_a_good_c_replacement/ejx4i4v/)
 
 ## Technology
 
