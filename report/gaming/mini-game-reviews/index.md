@@ -3,7 +3,7 @@ category: games
 created: 2018.12.02:1750
 title: Mini Game Reviews
 type: page
-updated: 2019.02.25:0045
+updated: 2019.04.07:1010
 ---
 
 ## Counter-Strike: Global Offensive
@@ -72,6 +72,20 @@ Unseating Quake 3: Arena as the king of arena shooters is a difficult task, and 
 
 <figure>
     <img src='/images/mini-game-reviews_quake-champions.jpg'>
+</figure>
+
+## Resident Evil 2 (2019 Remake)
+
+Up until this game, the Resident Evil series is one that I have not given a serious try. I briefly played the original Resident Evil 2 back in high school, but I did not get very far with. The remake was not on my radar until I tried the demo due to the rave reviews it was receiving. I was hooked instantly. Since I do not have much experience with the original game, I can only judge it based on what I am experiencing as a new player.
+
+One of my favorite aspects of the game is that the overall area to explore is small. Once all of the doors are unlocked, it takes about a minute to run from one spot to any other spot there, but the journey to unlock it all is fun. It's a maze of puzzles and locked doors to get through, while also avoiding the endless stream of enemies. It is also rich with small details that are a joy to find. Many other games being created these days include large expansive worlds that are not filled with details. It is expected that a person will just run as fast as possible to their destination and not worry about the journey there. Resident Evil 2 takes the opposite approach, with most of the maps have something to discover in every nook and cranny.
+
+Resident Evil 2 does a great job of making the environment feel dangerous. Areas without lights are truly dark, with your flashlight being the only way you can see. Binaural sound plays a huge role in hinting at where danger is about to pop out at you. This is especially true when Mr. X is stalking you through the police station. Listening to the direction his footsteps are coming from helps to avoid him.
+
+The best part about this remake is that a lot of care was given to every detail of the game. Everything about it felt great, and I had a blast playing through both playthroughs of the game. While I do not feel the need to try and get every unlock, I enjoyed my time immensely and recommend anyone into horror and/or survival to give it a go.
+
+<figure>
+    <img src='/images/mini-game-reviews_resident-evil-2-2019.jpg'>
 </figure>
 
 ## Subnautica
