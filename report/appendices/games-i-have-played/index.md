@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2019.02.25:1735
+updated: 2019.04.25:1235
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -427,6 +427,7 @@ updated: 2019.02.25:1735
 - [The Sims 3](https://en.wikipedia.org/wiki/The_Sims_3)
 - [The Sims Online](https://en.wikipedia.org/wiki/The_Sims_Online)
 - [Sins of a Solar Empire: Rebellion](https://en.wikipedia.org/wiki/Sins_of_a_Solar_Empire#Rebellion)
+- [Slay the Spire](https://en.wikipedia.org/wiki/Slay_the_Spire)
 - [Soldier of Fortune](https://en.wikipedia.org/wiki/Soldier_of_Fortune_(video_game))
 - [Soldier of Fortune II: Double Helix](https://en.wikipedia.org/wiki/Soldier_of_Fortune_II:_Double_Helix)
 - [The Stanley Parable](https://en.wikipedia.org/wiki/The_Stanley_Parable)
