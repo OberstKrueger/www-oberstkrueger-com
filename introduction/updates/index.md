@@ -3,8 +3,41 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2019.04.01:1235
+updated: 2019.05.01:1000
 ---
+
+## 2019.04
+
+### Favorite Articles
+
+- [All podcasts are shows; not all shows are podcasts](https://daringfireball.net/2019/04/not_all_shows_are_podcasts)
+- [Ancestry-testing company: it’s our ‘moral responsibility’ to give the FBI access to tour DNA](https://gizmodo.com/ancestry-testing-company-it-s-our-moral-responsibilit-1833774781)
+- [Many anti-vaxxers don’t trust big pharma. There’s a reason for that](https://undark.org/article/anti-vaxxers-vaccines-trust-big-pharma/)
+- [Compiler performance and LLVM](http://pling.jondgoodwin.com/post/compiler-performance/)
+- [Dieter Rams designed products to last a lifetime — and he's horrified by how we throw things away](https://www.abc.net.au/news/2019-04-06/dieter-rams-the-braun-design-who-made-products-to-last-lifetime/10970850)
+- [Google cancels AI ethics board in response to outcry](https://www.vox.com/future-perfect/2019/4/4/18295933/google-cancels-ai-ethics-board)
+- [How A.S.M.R. became a sensation](https://www.nytimes.com/2019/04/04/magazine/how-asmr-videos-became-a-sensation-youtube.html)
+- [How BioWare's Anthem went wrong](https://kotaku.com/
+how-biowares-anthem-went-wrong-1833731964)
+- [It's 2019. Academic papers should be free](https://undark.org/2019/04/18/open-access-publishing/)
+- [Old, online, and fed on lies: how an aging population will reshape the Internet](https://www.buzzfeednews.com/article/craigsilverman/old-and-online-fake-news-aging-population)
+- [One player spent 10 years exploring every corner of EVE Online](https://www.polygon.com/2019/4/2/18286977/eve-online-explorer-10-year-journey-katia-sae)
+- [The university is a ticking time bomb](https://www.chronicle.com/article/The-University-Is-a-Ticking/246119?key=K9RMtIzWwk9f4WCspEIEE4f2Z-lnxGSx0oKzM1DwdJm3k4GsX_vNyb4T0h6JMHU-Z0ltWHRmS1BsTVBQZVhYYW9FLVFvZkNmS1JoOUI0MVNaeHk4bGhiemxHcw)
+- [U.S. measles outbreak becomes the largest in two decades](https://undark.org/2019/04/26/us-largest-measles-outbreak/)
+- [15 months of fresh hell inside Facebook](https://www.wired.com/story/facebook-mark-zuckerberg-15-months-of-fresh-hell/)
+- [25 years later: interview with Linus Torvalds](https://www.linuxjournal.com/content/25-years-later-interview-linus-torvalds)
+
+### Books Read
+
+- Hicks, Marie - Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing
+- Newport, Cal - Digital Minimalism: Choosing a Focused Life in a Noisy World
+- Penny, Laurie - Penny Red: Notes from the New Age of Dissent
+
+### Games Played
+
+- [EVE Online](https://www.eveonline.com)
+- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
+- [Slay the Spire](https://en.wikipedia.org/wiki/Slay_the_Spire)
 
 ## 2019.03
 
