@@ -7,7 +7,53 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2019-04-01T12:35:00Z</updated>
+<updated>2019-05-01T10:00:00Z</updated>
+
+<entry>
+<title>Updates For April, 2019</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201904</id>
+<published>2019-05-01T10:00:00Z</published>
+<updated>2019-05-01T10:00:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2019.04</h2>
+<h3>Favorite Articles</h3>
+<ul>
+<li><a href="https://daringfireball.net/2019/04/not_all_shows_are_podcasts">All podcasts are shows; not all shows are podcasts</a></li>
+<li><a href="https://gizmodo.com/ancestry-testing-company-it-s-our-moral-responsibilit-1833774781">Ancestry-testing company: it’s our ‘moral responsibility’ to give the FBI access to tour DNA</a></li>
+<li><a href="https://undark.org/article/anti-vaxxers-vaccines-trust-big-pharma/">Many anti-vaxxers don’t trust big pharma. There’s a reason for that</a></li>
+<li><a href="http://pling.jondgoodwin.com/post/compiler-performance/">Compiler performance and LLVM</a></li>
+<li><a href="https://www.abc.net.au/news/2019-04-06/dieter-rams-the-braun-design-who-made-products-to-last-lifetime/10970850">Dieter Rams designed products to last a lifetime — and he's horrified by how we throw things away</a></li>
+<li><a href="https://www.vox.com/future-perfect/2019/4/4/18295933/google-cancels-ai-ethics-board">Google cancels AI ethics board in response to outcry</a></li>
+<li><a href="https://www.nytimes.com/2019/04/04/magazine/how-asmr-videos-became-a-sensation-youtube.html">How A.S.M.R. became a sensation</a></li>
+<li>[How BioWare's Anthem went wrong](https://kotaku.com/ how-biowares-anthem-went-wrong-1833731964)</li>
+<li><a href="https://undark.org/2019/04/18/open-access-publishing/">It's 2019. Academic papers should be free</a></li>
+<li><a href="https://www.buzzfeednews.com/article/craigsilverman/old-and-online-fake-news-aging-population">Old, online, and fed on lies: how an aging population will reshape the Internet</a></li>
+<li><a href="https://www.polygon.com/2019/4/2/18286977/eve-online-explorer-10-year-journey-katia-sae">One player spent 10 years exploring every corner of EVE Online</a></li>
+<li><a href="https://www.chronicle.com/article/The-University-Is-a-Ticking/246119?key=K9RMtIzWwk9f4WCspEIEE4f2Z-lnxGSx0oKzM1DwdJm3k4GsX_vNyb4T0h6JMHU-Z0ltWHRmS1BsTVBQZVhYYW9FLVFvZkNmS1JoOUI0MVNaeHk4bGhiemxHcw">The university is a ticking time bomb</a></li>
+<li><a href="https://undark.org/2019/04/26/us-largest-measles-outbreak/">U.S. measles outbreak becomes the largest in two decades</a></li>
+<li><a href="https://www.wired.com/story/facebook-mark-zuckerberg-15-months-of-fresh-hell/">15 months of fresh hell inside Facebook</a></li>
+<li><a href="https://www.linuxjournal.com/content/25-years-later-interview-linus-torvalds">25 years later: interview with Linus Torvalds</a></li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Hicks, Marie - Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing</li>
+<li>Newport, Cal - Digital Minimalism: Choosing a Focused Life in a Noisy World</li>
+<li>Penny, Laurie - Penny Red: Notes from the New Age of Dissent</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://www.eveonline.com">EVE Online</a></li>
+<li><a href="https://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Slay_the_Spire">Slay the Spire</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For March, 2019</title>
