@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2019.04.25:1235
+updated: 2019.05.10.1735
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -197,6 +197,7 @@ updated: 2019.04.25:1235
 - [Age of Empires III](https://en.wikipedia.org/wiki/Age_of_Empires_III)
 - [American McGee's Alice](https://en.wikipedia.org/wiki/American_McGee%27s_Alice)
 - [Anarchy Online](https://en.wikipedia.org/wiki/Anarchy_Online)
+- [Apex Legends](https://en.wikipedia.org/wiki/Apex_Legends)
 - [Artifact](https://en.wikipedia.org/wiki/Artifact_(video_game))
 - [Asheron's Call](https://en.wikipedia.org/wiki/Asheron%27s_Call)
 - [Asheron's Call 2: Fallen Kings](https://en.wikipedia.org/wiki/Asheron%27s_Call_2:_Fallen_Kings)
