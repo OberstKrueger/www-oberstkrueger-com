@@ -3,7 +3,7 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2019.05.01:1000
+updated: 2019.05.11.0610
 ---
 
 ## 2019.04
@@ -17,8 +17,7 @@ updated: 2019.05.01:1000
 - [Dieter Rams designed products to last a lifetime — and he's horrified by how we throw things away](https://www.abc.net.au/news/2019-04-06/dieter-rams-the-braun-design-who-made-products-to-last-lifetime/10970850)
 - [Google cancels AI ethics board in response to outcry](https://www.vox.com/future-perfect/2019/4/4/18295933/google-cancels-ai-ethics-board)
 - [How A.S.M.R. became a sensation](https://www.nytimes.com/2019/04/04/magazine/how-asmr-videos-became-a-sensation-youtube.html)
-- [How BioWare's Anthem went wrong](https://kotaku.com/
-how-biowares-anthem-went-wrong-1833731964)
+- [How BioWare's Anthem went wrong](https://kotaku.com/how-biowares-anthem-went-wrong-1833731964)
 - [It's 2019. Academic papers should be free](https://undark.org/2019/04/18/open-access-publishing/)
 - [Old, online, and fed on lies: how an aging population will reshape the Internet](https://www.buzzfeednews.com/article/craigsilverman/old-and-online-fake-news-aging-population)
 - [One player spent 10 years exploring every corner of EVE Online](https://www.polygon.com/2019/4/2/18286977/eve-online-explorer-10-year-journey-katia-sae)
