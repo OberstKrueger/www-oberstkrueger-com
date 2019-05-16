@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2019.04.29:1335
+updated: 2019.05.16:1445
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -66,6 +66,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Newport, Cal - So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love
 - Orlov, Dmitry - Shrinking the Technosphere: Getting a Grip on Technologies that Limit our Autonomy, Self-Sufficiency and Freedom
 - Partanen, Anu - The Nordic Theory of Everything: In Search of a Better Life
+- Penny, Laurie - Discordia: Six Nights in Crisis Athens
 - Penny, Laurie - Meat Market: Female Flesh Under Capitalism
 - Penny, Laurie - Penny Red: Notes from the New Age of Dissent
 - Quinn, Zoë - Crash Override: How Gamergate (Nearly) Destroyed My Life, and How We Can Win the Fight Against Online Hate
