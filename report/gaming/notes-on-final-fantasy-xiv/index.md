@@ -3,7 +3,7 @@ category: gaming
 created: 2017.07.24:1700
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2019.03.24:0905
+updated: 2019.05.29:1145
 ---
 
 ## Trials
@@ -181,6 +181,14 @@ updated: 2019.03.24:0905
 - 12. Phase 3: Dragonfist: Move away from middle tile.
 - 13. Phase 3: Diamond Dust: Do not move.
 - 14. Phase 3: Aerieal Blast: Cyclone in center will push players back. Keep running towards it.
+
+### The Striking Tree (Hard)
+
+1. Thunderspark: Point-blank AE.
+2. Thunderstorm: Spread out so not overlapping
+3. Offtank: Pick up 3 orbs left behind by Thunderstorm.
+4. Kill adds.
+5. Rolling Thunder: Tethers two players. One must grab 3 orbs to break tether.
 
 ### Thornmarch (Hard)
 
