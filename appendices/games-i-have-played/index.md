@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2019.05.10.1735
+updated: 2019.05.29:1120
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -203,6 +203,7 @@ updated: 2019.05.10.1735
 - [Asheron's Call 2: Fallen Kings](https://en.wikipedia.org/wiki/Asheron%27s_Call_2:_Fallen_Kings)
 - [Back to the Future: The Game](https://en.wikipedia.org/wiki/Back_to_the_Future:_The_Game)
 - [Baldur's Gate](https://en.wikipedia.org/wiki/Baldur%27s_Gate)
+- [Baldur's Gate: Enhanced Edition](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Enhanced_Edition)
 - [Baldur's Gate: Tales of the Sword Coast](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Tales_of_the_Sword_Coast)
 - [Baldur's Gate II: Shadows of Amn](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn)
 - [Baldur's Gate II: Throne of Bhaal](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal)
