@@ -7,7 +7,70 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2019-05-01T10:00:00Z</updated>
+<updated>2019-06-01T16:10:00Z</updated>
+
+<entry>
+<title>Updates For May, 2019</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201905</id>
+<published>2019-06-01T16:10:00Z</published>
+<updated>2019-06-01T16:10:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2019.05</h2>
+<h3>Bands I Have Listened To</h3>
+<p>A new appendix has been created to keep track of all of the artists and bands that I have listened to. Like some of my other lists, this is incomplete as of this month, but I plan to work through and have it updated as time allows.</p>
+<h3>Favorite Articles</h3>
+<ul>
+<li><a href="https://josephg.com/blog/api-for-changes/">An API for data that changes over time</a></li>
+<li><a href="https://pilky.me/appreciating-appkit-part-1/">Appreciating AppKit, Part 1</a></li>
+<li><a href="https://pilky.me/appreciating-appkit-part-2/">Appreciating AppKit, Part 2</a></li>
+<li><a href="https://sixcolors.com/post/2019/05/are-we-headed-for-a-mac-automation-schism/">Are we headed for a Mac automation schism?</a></li>
+<li><a href="https://www.privacyinternational.org/case-study/2997/betrayed-app-she-had-never-heard-how-truecaller-endangering-journalists">Betrayed by an app she had never heard of</a></li>
+<li><a href="https://stratechery.com/2019/china-leverage-and-values/">China, leverage, and values</a></li>
+<li><a href="http://blog.chriszacharias.com/a-conspiracy-to-kill-ie6">A conspiracy to kill IE6</a></li>
+<li><a href="https://www.highcaffeinecontent.com/blog/20190522-(Dont-Fear)-The-Reaper">(Don't fear) the reaper</a></li>
+<li><a href="https://blog.codinghorror.com/an-exercise-program-for-the-fat-web/">An exercise program for the fat web</a></li>
+<li><a href="https://theoutline.com/post/7377/facebook-is-trying-to-make-the-word-private-meaningless">Facebook is trying to make the word “private” meaningless</a></li>
+<li><a href="https://www.polygon.com/2019/5/23/18635920/fortnite-jumpman-john-wick-marvel-brand-advertisement">Fortnite is basically a giant, endless advertisement now</a></li>
+<li><a href="https://www.reuters.com/article/us-huawei-tech-alphabet-exclusive/exclusive-google-suspends-some-business-with-huawei-after-trump-blacklist-source-idUSKCN1SP0NB">Google suspends some business with Huawei after Trump blacklist</a></li>
+<li><a href="https://arstechnica.com/science/2019/05/jeff-bezos-unveils-his-sweeping-vision-for-humanitys-future-in-space/">Jeff Bezos unveils his sweeping vision for humanity's future in space</a></li>
+<li><a href="https://www.bbc.com/news/technology-48363772">Huawei: ARM memo tells staff to stop working with China’s tech giant</a></li>
+<li><a href="https://kotaku.com/id-have-these-extremely-graphic-dreams-what-its-like-t-1834611691">'I'd have these extremely graphic dreams': what it's like to work on ultra-violent games like Mortal Kombat 11</a></li>
+<li><a href="https://veekaybee.github.io/2019/05/10/java8/">IT runs on Java 8</a></li>
+<li><a href="https://allenpike.com/2019/itunes-error">iTunes: an error occurred</a></li>
+<li><a href="https://arstechnica.com/gadgets/2019/05/nest-the-company-died-at-google-io-2019/">Nest, the company, died at Google I/O 2019</a></li>
+<li><a href="https://arstechnica.com/gadgets/2019/05/new-speculative-execution-bug-leaks-data-from-intel-chips-internal-buffers/">New speculative execution bug leaks data from Intel chips’ internal buffers</a></li>
+<li><a href="https://arstechnica.com/gaming/2019/05/one-week-with-the-valve-index-a-vr-game-changer-with-a-few-question-marks/">One week with the Valve Index: A VR game-changer with a few question marks</a></li>
+<li><a href="https://matrix.org/blog/2019/05/08/post-mortem-and-remediations-for-apr-11-security-incident/">Post-mortem and remediations for Apr 11 security incident</a></li>
+<li><a href="https://shkspr.mobi/blog/2019/05/a-report-from-the-amp-advisory-committee-meeting/">A report from the AMP Advisory Committee Meeting</a></li>
+<li><a href="https://maxhallinan.com/posts/2019/05/30/start-with-just-a-few-things/">Start with just a few things</a></li>
+<li><a href="https://blog.glowforge.com/strong-opinions-loosely-held-might-be-the-worst-idea-in-tech/">Strong opinions loosely held might be the worst idea in tech</a></li>
+<li><a href="https://www.highcaffeinecontent.com/blog/20190518-Translating-an-ARM-iOS-App-to-Intel-macOS-Using-Bitcode">Translating an ARM iOS app to Intel macOS using Bitcode</a></li>
+<li><a href="https://arstechnica.com/gadgets/2019/05/ubuntu-19-04-review-the-disco-dingo-aims-its-nose-at-the-cloud-and-developers/">Ubuntu 19.04: the Disco Dingo arrives and will really make your IT dept. happy</a></li>
+<li><a href="https://blog.iconfactory.com/2019/05/what-to-expect-from-marzipan/">What to expect from Marzipan</a></li>
+<li><a href="https://blog.rust-lang.org/2019/05/15/4-Years-Of-Rust.html&lt;Paste&gt;">4 years of Rust</a></li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Gibson, William - Spook Country</li>
+<li>Penny, Laurie - Cybersexism: Sex, Gender and Power on the Internet</li>
+<li>Penny, Laurie - Discordia: Six Nights in Crisis Athens</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Apex_Legends">Apex Legends</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Enhanced_Edition">Baldur's Gate: Enhanced Edition</a></li>
+<li><a href="https://www.eveonline.com">EVE Online</a></li>
+<li><a href="https://na.finalfantasyxiv.com/stormblood/">Final Fantasy XIV: Stormblood</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Slay_the_Spire">Slay the Spire</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For April, 2019</title>

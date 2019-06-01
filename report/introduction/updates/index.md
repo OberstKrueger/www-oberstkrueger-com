@@ -3,8 +3,59 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2019.05.11.0610
+updated: 2019.06.01.1610
 ---
+
+## 2019.05
+
+### Bands I Have Listened To
+
+A new appendix has been created to keep track of all of the artists and bands that I have listened to. Like some of my other lists, this is incomplete as of this month, but I plan to work through and have it updated as time allows.
+
+### Favorite Articles
+
+- [An API for data that changes over time](https://josephg.com/blog/api-for-changes/)
+- [Appreciating AppKit, Part 1](https://pilky.me/appreciating-appkit-part-1/)
+- [Appreciating AppKit, Part 2](https://pilky.me/appreciating-appkit-part-2/)
+- [Are we headed for a Mac automation schism?](https://sixcolors.com/post/2019/05/are-we-headed-for-a-mac-automation-schism/)
+- [Betrayed by an app she had never heard of](https://www.privacyinternational.org/case-study/2997/betrayed-app-she-had-never-heard-how-truecaller-endangering-journalists)
+- [China, leverage, and values](https://stratechery.com/2019/china-leverage-and-values/)
+- [A conspiracy to kill IE6](http://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
+- [(Don't fear) the reaper](https://www.highcaffeinecontent.com/blog/20190522-(Dont-Fear)-The-Reaper)
+- [An exercise program for the fat web](https://blog.codinghorror.com/an-exercise-program-for-the-fat-web/)
+- [Facebook is trying to make the word “private” meaningless](https://theoutline.com/post/7377/facebook-is-trying-to-make-the-word-private-meaningless)
+- [Fortnite is basically a giant, endless advertisement now](https://www.polygon.com/2019/5/23/18635920/fortnite-jumpman-john-wick-marvel-brand-advertisement)
+- [Google suspends some business with Huawei after Trump blacklist](https://www.reuters.com/article/us-huawei-tech-alphabet-exclusive/exclusive-google-suspends-some-business-with-huawei-after-trump-blacklist-source-idUSKCN1SP0NB)
+- [Jeff Bezos unveils his sweeping vision for humanity's future in space](https://arstechnica.com/science/2019/05/jeff-bezos-unveils-his-sweeping-vision-for-humanitys-future-in-space/)
+- [Huawei: ARM memo tells staff to stop working with China’s tech giant](https://www.bbc.com/news/technology-48363772)
+- ['I'd have these extremely graphic dreams': what it's like to work on ultra-violent games like Mortal Kombat 11](https://kotaku.com/id-have-these-extremely-graphic-dreams-what-its-like-t-1834611691)
+- [IT runs on Java 8](https://veekaybee.github.io/2019/05/10/java8/)
+- [iTunes: an error occurred](https://allenpike.com/2019/itunes-error)
+- [Nest, the company, died at Google I/O 2019](https://arstechnica.com/gadgets/2019/05/nest-the-company-died-at-google-io-2019/)
+- [New speculative execution bug leaks data from Intel chips’ internal buffers](https://arstechnica.com/gadgets/2019/05/new-speculative-execution-bug-leaks-data-from-intel-chips-internal-buffers/)
+- [One week with the Valve Index: A VR game-changer with a few question marks](https://arstechnica.com/gaming/2019/05/one-week-with-the-valve-index-a-vr-game-changer-with-a-few-question-marks/)
+- [Post-mortem and remediations for Apr 11 security incident](https://matrix.org/blog/2019/05/08/post-mortem-and-remediations-for-apr-11-security-incident/)
+- [A report from the AMP Advisory Committee Meeting](https://shkspr.mobi/blog/2019/05/a-report-from-the-amp-advisory-committee-meeting/)
+- [Start with just a few things](https://maxhallinan.com/posts/2019/05/30/start-with-just-a-few-things/)
+- [Strong opinions loosely held might be the worst idea in tech](https://blog.glowforge.com/strong-opinions-loosely-held-might-be-the-worst-idea-in-tech/)
+- [Translating an ARM iOS app to Intel macOS using Bitcode](https://www.highcaffeinecontent.com/blog/20190518-Translating-an-ARM-iOS-App-to-Intel-macOS-Using-Bitcode)
+- [Ubuntu 19.04: the Disco Dingo arrives and will really make your IT dept. happy](https://arstechnica.com/gadgets/2019/05/ubuntu-19-04-review-the-disco-dingo-aims-its-nose-at-the-cloud-and-developers/)
+- [What to expect from Marzipan](https://blog.iconfactory.com/2019/05/what-to-expect-from-marzipan/)
+- [4 years of Rust](https://blog.rust-lang.org/2019/05/15/4-Years-Of-Rust.html<Paste>)
+
+### Books Read
+
+- Gibson, William - Spook Country
+- Penny, Laurie - Cybersexism: Sex, Gender and Power on the Internet
+- Penny, Laurie - Discordia: Six Nights in Crisis Athens
+
+### Games Played
+
+- [Apex Legends](https://en.wikipedia.org/wiki/Apex_Legends)
+- [Baldur's Gate: Enhanced Edition](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Enhanced_Edition)
+- [EVE Online](https://www.eveonline.com)
+- [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
+- [Slay the Spire](https://en.wikipedia.org/wiki/Slay_the_Spire)
 
 ## 2019.04
 
