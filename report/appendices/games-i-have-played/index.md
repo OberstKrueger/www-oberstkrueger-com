@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2019.05.29:1120
+updated: 2019.06.07:1310
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -421,6 +421,7 @@ updated: 2019.05.29:1120
 - [Serious Sam: The Second Encounter](https://en.wikipedia.org/wiki/Serious_Sam_(video_game)#Serious_Sam:_The_Second_Encounter)
 - [Shadowrun Returns](https://en.wikipedia.org/wiki/Shadowrun_Returns)
 - [Shenzhen I/O](https://en.wikipedia.org/wiki/Shenzhen_I/O)
+- [Sigil](https://www.romerogames.ie/si6il)
 - [SimCity](https://en.wikipedia.org/wiki/SimCity_(1989_video_game))
 - [SimCity 2000](https://en.wikipedia.org/wiki/SimCity_2000)
 - [SimCity 3000](https://en.wikipedia.org/wiki/SimCity_3000)
