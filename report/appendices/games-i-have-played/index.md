@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2019.06.07:1310
+updated: 2019.06.14:1045
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -456,6 +456,7 @@ updated: 2019.06.07:1310
 - [Superbrothers: Swords and Sworcery EP](https://en.wikipedia.org/wiki/Superbrothers:_Sword_%26_Sworcery_EP)
 - [System Shock](https://en.wikipedia.org/wiki/System_Shock)
 - [System Shock 2](https://en.wikipedia.org/wiki/System_Shock_2)
+- [The Talos Principle](https://en.wikipedia.org/wiki/The_Talos_Principle)
 - [Team Fortress Classic](https://en.wikipedia.org/wiki/Team_Fortress_Classic)
 - [Team Fortress 2](https://en.wikipedia.org/wiki/Team_Fortress_2)
 - [Terraria](https://en.wikipedia.org/wiki/Terraria)
