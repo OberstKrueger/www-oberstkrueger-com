@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2019.06.14:1045
+updated: 2019.06.28:2340
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -300,6 +300,7 @@ updated: 2019.06.14:1045
 - [Final Fantasy XI](https://en.wikipedia.org/wiki/Final_Fantasy_XI)
 - [Final Fantasy XIV: A Realm Reborn](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_A_Realm_Reborn)
 - [Final Fantasy XIV: Heavensward](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Heavensward)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
 - [Final Fantasy XIV: Stormblood](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood)
 - [Final Fantasy XV](https://en.wikipedia.org/wiki/Final_Fantasy_XV)
 - [Firefall](https://en.wikipedia.org/wiki/Firefall_(video_game))
