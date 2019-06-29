@@ -400,6 +400,7 @@ updated: 2019.06.28:2340
 - [Prey (2006)](https://en.wikipedia.org/wiki/Prey_(2006_video_game))
 - [Prey (2017)](https://en.wikipedia.org/wiki/Prey_(2017_video_game))
 - [Prey: Mooncrash](https://en.wikipedia.org/wiki/Prey_(2017_video_game))
+- [Project: Gorgon](https://www.projectgorgon.com)
 - [Pyre](https://en.wikipedia.org/wiki/Pyre_(video_game))
 - [Resident Evil 2 (2019)](https://en.wikipedia.org/wiki/Resident_Evil_2_(2019_video_game))
 - [Rise of the Tomb Raider](https://en.wikipedia.org/wiki/Rise_of_the_Tomb_Raider)
