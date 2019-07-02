@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2019.06.22:0230
+updated: 2019.07.01:1730
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -83,6 +83,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Stephenson, Neal - Seveneves
 - Stephenson, Neal - Snow Crash
 - Sweigart, Al - Automate the Boring Stuff with Python: Practical Programming for Total Beginners
+- Sylvester, Tynan - Designing Games: A Guide to Engineering Experiences
 - Taylor, Dave & Perry, Brandon - Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, and UNIX Systems
 - Thompson, Hunter S. - Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream
 - Tolkien, J.R.R. - The Hobbit
