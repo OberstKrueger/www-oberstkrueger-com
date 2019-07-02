@@ -3,8 +3,45 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2019.06.01.1610
+updated: 2019.07.01.1730
 ---
+
+## 2019.06
+
+### Favorite Articles
+
+- [Apple's audacity](https://stratechery.com/2019/apples-audacity/)
+- [Bodies in seats](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa)
+- [Desktop Neo - rethinking the desktop interface for productivity](https://desktopneo.com)
+- [EverQuest’s long, strange 20-year trip still has no end in sight](https://arstechnica.com/gaming/2019/06/everquests-long-strange-20-year-trip-still-has-no-end-in-sight/)
+- [Facebook launches cryptocurrency with Visa, MasterCard, Uber, and others](https://arstechnica.com/tech-policy/2019/06/facebook-launches-cryptocurrency-with-visa-mastercard-uber-and-others/)
+- [The internet is an SEO landfill](https://docs.sendwithses.com/random-stuff/the-internet-is-an-seo-landfill)
+- [Jony Ive to form independent design company with Apple as client](https://www.apple.com/newsroom/2019/06/jony-ive-to-form-independent-design-company-with-apple-as-client/)
+- [The Mac no longer needs compatibility to thrive](https://www.macworld.com/article/3403344/the-mac-no-longer-needs-compatibility-to-thrive.html)
+- [The NeXT Era Ends, the Swift Era Begins](https://inessential.com/2019/06/07/the_next_era_ends_the_swift_era_begins)
+- [Researchers use Rowhammer bit flips to steal 2048-bit crypto key](https://arstechnica.com/information-technology/2019/06/researchers-use-rowhammer-bitflips-to-steal-2048-bit-crypto-key/)
+- [Rethinking files](https://www.devever.net/~hl/objectworld)
+- [The smooth resize test](https://raphlinus.github.io/rust/gui/2019/06/21/smooth-resize-test.html)
+- [SwiftUI and Catalyst: Apple executes its invisible transition strategy](https://www.macworld.com/article/3402057/swiftui-and-catalyst-apple-executes-its-invisible-transition-strategy.html)
+- [V is for vaporware](https://christine.website/blog/v-vaporware-2019-06-23)
+- [Why I (as of June 22 2019) think Haskell is the best general purpose language (as of June 22 2019)](http://www.philipzucker.com/why-i-as-of-june-22-2019-think-haskell-is-the-best-general-purpose-language-as-of-june-22-2019/)
+- [Writers are more prolific when they cluster](https://www.citylab.com/life/2019/06/british-irish-writers-london-clustering-dickens-woolf/590884/)
+
+### Books Read
+
+- Kondo, Marie - The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+- Sylvester, Tynan - Designing Games: A Guide to Engineering Experiences
+
+### Games Played
+
+- [Apex Legends](https://en.wikipedia.org/wiki/Apex_Legends)
+- [Baldur's Gate: Enhanced Edition](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Enhanced_Edition)
+- [EVE Online](https://www.eveonline.com)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [Project: Gorgon](https://www.projectgorgon.com)
+- [Shenzhen I/O](https://en.wikipedia.org/wiki/Shenzhen_I/O)
+- [Sigil](https://www.romerogames.ie/si6il)
+- [The Talos Principle](https://en.wikipedia.org/wiki/The_Talos_Principle)
 
 ## 2019.05
 

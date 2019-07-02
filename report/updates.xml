@@ -7,7 +7,59 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2019-06-01T16:10:00Z</updated>
+<updated>2019-07-01T17:30:00Z</updated>
+
+<entry>
+<title>Updates For June, 2019</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201906</id>
+<published>2019-07-01T17:30:00Z</published>
+<updated>2019-07-01T17:30:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2019.06</h2>
+<h3>Favorite Articles</h3>
+<ul>
+<li><a href="https://stratechery.com/2019/apples-audacity/">Apple's audacity</a></li>
+<li><a href="https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa">Bodies in seats</a></li>
+<li><a href="https://desktopneo.com">Desktop Neo - rethinking the desktop interface for productivity</a></li>
+<li><a href="https://arstechnica.com/gaming/2019/06/everquests-long-strange-20-year-trip-still-has-no-end-in-sight/">EverQuest’s long, strange 20-year trip still has no end in sight</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2019/06/facebook-launches-cryptocurrency-with-visa-mastercard-uber-and-others/">Facebook launches cryptocurrency with Visa, MasterCard, Uber, and others</a></li>
+<li><a href="https://docs.sendwithses.com/random-stuff/the-internet-is-an-seo-landfill">The internet is an SEO landfill</a></li>
+<li><a href="https://www.apple.com/newsroom/2019/06/jony-ive-to-form-independent-design-company-with-apple-as-client/">Jony Ive to form independent design company with Apple as client</a></li>
+<li><a href="https://www.macworld.com/article/3403344/the-mac-no-longer-needs-compatibility-to-thrive.html">The Mac no longer needs compatibility to thrive</a></li>
+<li><a href="https://inessential.com/2019/06/07/the_next_era_ends_the_swift_era_begins">The NeXT Era Ends, the Swift Era Begins</a></li>
+<li><a href="https://arstechnica.com/information-technology/2019/06/researchers-use-rowhammer-bitflips-to-steal-2048-bit-crypto-key/">Researchers use Rowhammer bit flips to steal 2048-bit crypto key</a></li>
+<li><a href="https://www.devever.net/~hl/objectworld">Rethinking files</a></li>
+<li><a href="https://raphlinus.github.io/rust/gui/2019/06/21/smooth-resize-test.html">The smooth resize test</a></li>
+<li><a href="https://www.macworld.com/article/3402057/swiftui-and-catalyst-apple-executes-its-invisible-transition-strategy.html">SwiftUI and Catalyst: Apple executes its invisible transition strategy</a></li>
+<li><a href="https://christine.website/blog/v-vaporware-2019-06-23">V is for vaporware</a></li>
+<li><a href="http://www.philipzucker.com/why-i-as-of-june-22-2019-think-haskell-is-the-best-general-purpose-language-as-of-june-22-2019/">Why I (as of June 22 2019) think Haskell is the best general purpose language (as of June 22 2019)</a></li>
+<li><a href="https://www.citylab.com/life/2019/06/british-irish-writers-london-clustering-dickens-woolf/590884/">Writers are more prolific when they cluster</a></li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Kondo, Marie - The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing</li>
+<li>Sylvester, Tynan - Designing Games: A Guide to Engineering Experiences</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Apex_Legends">Apex Legends</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Enhanced_Edition">Baldur's Gate: Enhanced Edition</a></li>
+<li><a href="https://www.eveonline.com">EVE Online</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+<li><a href="https://www.projectgorgon.com">Project: Gorgon</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Shenzhen_I/O">Shenzhen I/O</a></li>
+<li><a href="https://www.romerogames.ie/si6il">Sigil</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Talos_Principle">The Talos Principle</a></li>
+</ul>
+
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For May, 2019</title>
