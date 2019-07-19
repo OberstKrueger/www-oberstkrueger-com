@@ -3,7 +3,7 @@ category: technology
 created: 2018.04.25:0325
 title: CLI Tools
 type: page
-updated: 2018.05.12:0755
+updated: 2018.07.19:1535
 ---
 
 For most people, a [command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) is a product of a bygone era of computing. Computer users up through the 1990s had to be comfortable with a command-line in either [DOS](https://en.wikipedia.org/wiki/DOS) or [Unix](https://en.wikipedia.org/wiki/Unix) forms, but since then, [graphical interfaces](https://en.wikipedia.org/wiki/Graphical_user_interface) have been how most people interact with a computer. This is emphasized in many modern devices like smartphones and tablets where a command-line interface would be difficult to use due to the onscreen keyboard.
@@ -21,18 +21,6 @@ I remain a huge fan of command-lines. Most of my desktops on macOS have a termin
     - bat file
 - Specify language for syntax highlighting
     - bat file -l language
-
-## cloc
-
-**Site**: [https://github.com/AlDanial/cloc](https://github.com/AlDanial/cloc)<br>
-**Summary**: Statistics utility to count lines of code
-
-- Count all the lines of code in a directory:
-	- cloc /path/to/directory
-- Count all the lines of code in a directory, displaying a progress bar during the counting process:
-	- cloc --progress=1 /path/to/directory
-- Compare 2 directory structures and count the differences between them:
-	- cloc --diff /directory/one /directory/two
 
 ## dtrx
 
@@ -207,6 +195,18 @@ I remain a huge fan of command-lines. Most of my desktops on macOS have a termin
 	- Ctrl + B, D
 - Kill session:
 	- tmux kill-session -t name
+
+## tokei
+
+**Site**: [https://github.com/XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)<br>
+**Summary**: A program that allows you to count your code, quickly
+
+- Get a report on the code in a directory and all subdirectories:
+	- tokei /path/to/directory
+- Get a report for a directory excluding a specific file:
+	- tokei /path/to/directory -e file
+- Print out statistics for individual files in a directory:
+	- tokei /path/to/directory --files
 
 ## tree
 
