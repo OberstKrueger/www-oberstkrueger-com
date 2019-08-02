@@ -7,7 +7,43 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2019-07-01T17:30:00Z</updated>
+<updated>2019-08-01T17:00:00Z</updated>
+
+<entry>
+<title>Updates For July, 2019</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201907</id>
+<published>2019-08-01T17:00:00Z</published>
+<updated>2019-08-01T17:00:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2019.07</h2>
+<h3>Favorite Articles</h3>
+<ul>
+<li><a href="https://drewdevault.com/2019/07/01/Absence-of-features-in-IRC.html">Absence of certain features in IRC considered a feature</a></li>
+<li><a href="https://www.ben-evans.com/benedictevans/2019/7/26/amazon-as-experiment">Amazon as experiment</a></li>
+<li><a href="https://arstechnica.com/gadgets/2019/07/amazon-warns-customers-those-supplements-might-be-fake/">Amazon warns customers: Those supplements might be fake</a></li>
+<li><a href="https://www.eurogamer.net/articles/2019-07-19-final-fantasy-xvs-ai-is-secretly-a-grand-philosophy-experiment">Final Fantasy 15's AI is secretly a grand philosophy experiment</a></li>
+<li><a href="https://www.bbc.com/news/technology-49015516">Google's Project Dragonfly 'terminated' in China</a></li>
+<li><a href="https://www.eurogamer.net/articles/2019-07-03-how-artifact-became-valves-biggest-failure">How Artifact became Valve's biggest failure</a></li>
+<li><a href="https://www.theatlantic.com/science/archive/2019/06/titan-saturn-nasa-dragonfly/592882/">NASA's ambitious mission to Titan</a></li>
+<li><a href="https://magnusson.io/blog/6.html">Not made for this world</a></li>
+<li><a href="https://ds9a.nl/articles/posts/on-the-pan-genome/">On the pan-genome</a></li>
+<li><a href="https://medium.com/@fischerdesign/when-games-idolize-busywork-8454bfe769ff">When games idolize busywork</a></li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Bloodstained:_Ritual_of_the_Night">Bloodstained: Ritual of the Night</a></li>
+<li><a href="https://www.eveonline.com">EVE Online</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+<li><a href="https://www.projectgorgon.com">Project: Gorgon</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For June, 2019</title>

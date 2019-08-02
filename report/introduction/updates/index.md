@@ -3,8 +3,30 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2019.07.01.1730
+updated: 2019.08.01.1700
 ---
+
+## 2019.07
+
+### Favorite Articles
+
+- [Absence of certain features in IRC considered a feature](https://drewdevault.com/2019/07/01/Absence-of-features-in-IRC.html)
+- [Amazon as experiment](https://www.ben-evans.com/benedictevans/2019/7/26/amazon-as-experiment)
+- [Amazon warns customers: Those supplements might be fake](https://arstechnica.com/gadgets/2019/07/amazon-warns-customers-those-supplements-might-be-fake/)
+- [Final Fantasy 15's AI is secretly a grand philosophy experiment](https://www.eurogamer.net/articles/2019-07-19-final-fantasy-xvs-ai-is-secretly-a-grand-philosophy-experiment)
+- [Google's Project Dragonfly 'terminated' in China](https://www.bbc.com/news/technology-49015516)
+- [How Artifact became Valve's biggest failure](https://www.eurogamer.net/articles/2019-07-03-how-artifact-became-valves-biggest-failure)
+- [NASA's ambitious mission to Titan](https://www.theatlantic.com/science/archive/2019/06/titan-saturn-nasa-dragonfly/592882/)
+- [Not made for this world](https://magnusson.io/blog/6.html)
+- [On the pan-genome](https://ds9a.nl/articles/posts/on-the-pan-genome/)
+- [When games idolize busywork](https://medium.com/@fischerdesign/when-games-idolize-busywork-8454bfe769ff)
+
+### Games Played
+
+- [Bloodstained: Ritual of the Night](https://en.wikipedia.org/wiki/Bloodstained:_Ritual_of_the_Night)
+- [EVE Online](https://www.eveonline.com)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [Project: Gorgon](https://www.projectgorgon.com)
 
 ## 2019.06
 
