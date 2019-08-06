@@ -56,6 +56,7 @@ Note: As of now, this is an incomplete list. I am still working through a list o
 - MaYaN
 - Metallica
 - Miktek
+- Nightwish
 - Nine Inch Nails
 - Northern Kings
 - Omega Lithium
