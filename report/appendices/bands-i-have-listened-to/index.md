@@ -43,6 +43,7 @@ Note: As of now, this is an incomplete list. I am still working through a list o
 - HolyHell
 - How To Destroy Angels
 - Hydria
+- Icon of Coil
 - Indica
 - Jeff Buckley
 - Juno Reactor
