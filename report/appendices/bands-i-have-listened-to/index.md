@@ -3,7 +3,7 @@ category: appendices
 created: 2019.05.16:1535
 title: Bands I Have Listened To
 type: page
-updated: 2019.08.21:0950
+updated: 2019.08.21:1030
 ---
 
 This page is split into two sections. The first section lists which bands I have listened to the complete discography for. The second section are bands that I have sampled, usually by listening to a [greatest hits album](https://en.wikipedia.org/wiki/Greatest_hits_album) or an essentials playlist on Apple Music.
@@ -74,6 +74,7 @@ Note: As of now, this is an incomplete list. I am still working through a list o
 - t.A.T.u.
 - Tacere
 - Tenacious D
+- The Birthday Massacre
 - The Fatman and Team Fat
 - The Grim Faeries
 - Theatres des Vampires
