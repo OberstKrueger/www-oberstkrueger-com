@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2019.07.19:1440
+updated: 2019.08.27:1300
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -379,6 +379,7 @@ updated: 2019.07.19:1440
 - [Natural Selection](https://en.wikipedia.org/wiki/Natural_Selection_(video_game))
 - [Natural Selection 2](https://en.wikipedia.org/wiki/Natural_Selection_2)
 - [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights)
+- [NieR:Automata](https://en.wikipedia.org/wiki/Nier:_Automata)
 - [No Man's Sky](https://en.wikipedia.org/wiki/No_Man%27s_Sky)
 - [Opus Magnum](https://en.wikipedia.org/wiki/Opus_Magnum_(video_game))
 - [Osmos](https://en.wikipedia.org/wiki/Osmos)
