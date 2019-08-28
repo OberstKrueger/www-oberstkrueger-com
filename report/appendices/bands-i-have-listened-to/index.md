@@ -87,6 +87,7 @@ Note: As of now, this is an incomplete list. I am still working through a list o
 - We Are The Fallen
 - Within Temptation
 - Xandria
+- Zombie Girl
 
 ## Explored
 
