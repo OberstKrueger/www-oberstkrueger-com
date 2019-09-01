@@ -3,8 +3,39 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2019.08.01.1700
+updated: 2019.09.01:1050
 ---
+
+## 2019.08
+
+### Favorite Articles
+
+- [Amazon has ceded control of its site. The result: thousands of banned, unsafe or mislabeled products](https://www.wsj.com/articles/amazon-has-ceded-control-of-its-site-the-result-thousands-of-banned-unsafe-or-mislabeled-products-11566564990)
+- [As air pollution gets worse, a dystopian accessory is born](https://www.vox.com/the-goods/2019/3/19/18262556/face-mask-air-filter-pollution-vogmask-airpop)
+- [“Blast processing” in 2019: How an SNES emulator solved overclocking](https://arstechnica.com/gaming/2019/08/blast-processing-in-2019-how-an-snes-emulator-solved-overclocking/)
+- [Dating apps that track users from home to work and everywhere in-between](https://www.pentestpartners.com/security-blog/dating-apps-that-track-users-from-home-to-work-and-everywhere-in-between/)
+- [Elon Musk’s Neuralink: Both an evolution and a plan for radical change](https://arstechnica.com/science/2019/08/elon-musks-neuralink-both-an-evolution-and-a-plan-for-radical-change/)
+- [GamerGate comes to the classroom](https://www.theverge.com/2019/8/21/20812153/youtube-gamergate-education-classroom-teachers-misinformation-reddit-twitter-online-harassment)
+- [Julia: come for the syntax, stay for the speed](https://www.nature.com/articles/d41586-019-02310-3)
+- [Netflix under pressure: can a Hollywood disruptor avoid getting disrupted?](https://www.hollywoodreporter.com/features/netflix-at-a-crossroads-hollywoods-dominant-disrupter-adjusts-growing-pains-1229618)
+- [On two decades of Sid Meier's Alpha Centauri](https://www.eurogamer.net/articles/2019-08-18-on-two-decades-of-sid-meiers-alpha-centauri)
+- [The only way to win is not to play the game](https://blogs.scientificamerican.com/roots-of-unity/the-only-way-to-win-is-not-to-play-the-game/)
+- [Skype, Slack, other Electron-based apps can be easily backdoored](https://arstechnica.com/information-technology/2019/08/skype-slack-other-electron-based-apps-can-be-easily-backdoored/)
+- [Terminating service for 8Chan](https://blog.cloudflare.com/terminating-service-for-8chan/)
+- [Thoughts on Rust bloat](https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html)
+- [Unix at 50: how the OS that powered smartphones started from failure](https://arstechnica.com/gadgets/2019/08/unix-at-50-it-starts-with-a-mainframe-a-gator-and-three-dedicated-researchers/)
+- [“We’re embarrassed”: US is close to losing measles-elimination status](https://arstechnica.com/science/2019/08/were-embarrassed-us-health-experts-chagrined-by-measles-resurgence/)
+- [Wind power prices now lower than the cost of natural gas](https://arstechnica.com/science/2019/08/wind-power-prices-now-lower-than-the-cost-of-natural-gas/)
+
+### Books Read
+
+- Gibson, William - Zero History
+
+### Games Played
+
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [NieR:Automata](https://en.wikipedia.org/wiki/Nier:_Automata)
+- [World of Warcraft](https://en.wikipedia.org/wiki/World_of_Warcraft)
 
 ## 2019.07
 
