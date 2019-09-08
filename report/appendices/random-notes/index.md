@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1300
 title: Random Notes
 type: page
-updated: 2019.04.02:1955
+updated: 2019.09.08:1140
 ---
 
 The following are random ideas, quotes, or thoughts that I have come across.
@@ -13,6 +13,12 @@ The following are random ideas, quotes, or thoughts that I have come across.
 > The obvious choice isn't *always* the best choice, but sometimes, by golly, it *is*.
 >
 > - Eliezer S. Yodkowsky
+
+## Knowledge
+
+> We have inherited great riches from our distance ancestors, but the reality is that huge swatches of ancient culture were lost in the long journey to the twenty-first century. Only a fraction has survived: seven of the eighty or so plays by Aeschylus, seven of the one hundred and twenty by Sophocles, eighteen out of ninety-two by Euripides. Many other writers have disappeared altogether, reduced to ghostly mentions in other works. In the late fifth century, a man named Stobaeus compiled a huge anthology of 1,430 poetry and prose quotations. Just 315 of them are from works that still exist - the rest are lost.
+>
+> - Violet Moller, *The Map of Knowledge*
 
 ## Programming
 
