@@ -102,6 +102,7 @@ Note: As of now, this is an incomplete list. I am still working through a list o
 - The Cranberries
 - Diary of Dreams
 - Dr. Dre
+- Foo Fighters
 - Green Day
 - Judas Priest
 - Mastadon
