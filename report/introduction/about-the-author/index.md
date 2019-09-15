@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: About The Author
 type: page
-updated: 2019.09.15:1225
+updated: 2019.09.15:1300
 ---
 
 ## Current Computing Devices
@@ -38,6 +38,7 @@ RAM: 1024 MB<br>
 SSD: 64 GB
 
 Geekbench CPU: [272 / 513](https://browser.geekbench.com/v5/cpu/155739)<br>
+Geekbench Compute (Metal): [486](https://browser.geekbench.com/v5/compute/70059)
 
 ### Mac Mini
 
