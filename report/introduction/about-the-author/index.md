@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: About The Author
 type: page
-updated: 2019.09.15:1215
+updated: 2019.09.15:1220
 ---
 
 ## Current Computing Devices
@@ -16,8 +16,9 @@ RAM: [ADATA AX4U2133W4G13-DRZ 16GB DDR4-2133](http://www.adata.com/en/xpg-dram/o
 SSD: [Samsung 850 EVO 120GB](http://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-850-evo-2-5-sata-iii-120gb-mz-75e120b-am/) & [500GB Samsung 850 EVO SSD](http://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-850-evo-2-5-sata-iii-500gb-mz-75e500b-am/)<br>
 Peripherals: [LG 25UM58-P](http://www.lg.com/us/monitors/lg-25UM58-P-ultrawide-monitor), [Steam Controller](http://store.steampowered.com/app/353370/)
 
-Geekbench CPU: [4937 / 16927](https://browser.geekbench.com/v4/cpu/12004240)<br>
-Geekbench GPU: [140031](https://browser.geekbench.com/v4/compute/3645486)
+Geekbench CPU: [1076 / 4280](http://browser.geekbench.com/v5/cpu/156652)<br>
+Geekbench Compute (OpenCL): [55583](http://browser.geekbench.com/v5/compute/69955)
+Geekbench Compute (Vulkan): [42714](http://browser.geekbench.com/v5/compute/69963)
 
 ### iPad
 
@@ -26,8 +27,8 @@ GPU: [PowerVR GT7600](https://en.wikipedia.org/wiki/PowerVR#Series7XT_.28Rogue.2
 RAM: 2048 MB<br>
 SSD: 32 GB
 
-Geekbench CPU: [2560 / 4465](https://browser.geekbench.com/v4/cpu/12003927)<br>
-Geekbench GPU: [10681](https://browser.geekbench.com/v4/compute/3645112)
+Geekbench CPU: [558 / 1045](https://browser.geekbench.com/v5/cpu/156292)<br>
+Geekbench Compute (Metal): [2319](https://browser.geekbench.com/v5/compute/69888)
 
 ### iPhone 6 Plus
 
@@ -36,8 +37,7 @@ GPU: [PowerVR Series 6 GX6450](https://en.wikipedia.org/wiki/PowerVR#Series6XT_.
 RAM: 1024 MB<br>
 SSD: 64 GB
 
-Geekbench CPU: [1593 / 2737](https://browser.geekbench.com/v4/cpu/12003949)<br>
-Geekbench GPU: [4604](https://browser.geekbench.com/v4/compute/3645142)
+Geekbench CPU: [272 / 513](https://browser.geekbench.com/v5/cpu/155739)<br>
 
 ### Mac Mini
 
@@ -47,8 +47,9 @@ RAM: 16 GB 2667 MHz DDR4<br>
 SSD: [512GB Apple SSD]<br>
 Peripherals: [LG 25UM58-P](http://www.lg.com/us/monitors/lg-25UM58-P-ultrawide-monitor), [Ducky MIYA Pro Mac](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4285), [Magic Trackpad](https://en.wikipedia.org/wiki/Magic_Trackpad)
 
-Geekbench CPU: [5974 / 26510](https://browser.geekbench.com/v4/cpu/12004493)<br>
-Geekbench GPU: [24774](https://browser.geekbench.com/v4/compute/3645324)
+Geekbench CPU: [1261 / 6196](https://browser.geekbench.com/v5/cpu/156322)<br>
+Geekbench Compute (Metal): [5006](https://browser.geekbench.com/v5/compute/69921)
+Geekbench Compute (OpenCL): [5162](https://browser.geekbench.com/v5/compute/69899)
 
 ## Current Workspaces
 
