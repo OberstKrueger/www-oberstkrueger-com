@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: About The Author
 type: page
-updated: 2019.09.15:1120
+updated: 2019.09.15:1215
 ---
 
 ## Current Computing Devices
@@ -11,7 +11,7 @@ updated: 2019.09.15:1120
 ### Gaming PC
 
 CPU: [Intel Core i7-6700](http://ark.intel.com/products/88196/Intel-Core-i7-6700-Processor-8M-Cache-up-to-4_00-GHz)<br>
-GPU: [Nvidia GeForce GTX 1060](https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1060/)<br>
+GPU: [AMD Radeon RX 5700](https://www.amd.com/en/products/graphics/amd-radeon-rx-5700)<br>
 RAM: [ADATA AX4U2133W4G13-DRZ 16GB DDR4-2133](http://www.adata.com/en/xpg-dram/orderinfo/305)<br>
 SSD: [Samsung 850 EVO 120GB](http://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-850-evo-2-5-sata-iii-120gb-mz-75e120b-am/) & [500GB Samsung 850 EVO SSD](http://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-850-evo-2-5-sata-iii-500gb-mz-75e500b-am/)<br>
 Peripherals: [LG 25UM58-P](http://www.lg.com/us/monitors/lg-25UM58-P-ultrawide-monitor), [Steam Controller](http://store.steampowered.com/app/353370/)
