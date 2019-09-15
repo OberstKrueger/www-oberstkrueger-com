@@ -17,7 +17,7 @@ SSD: [Samsung 850 EVO 120GB](http://www.samsung.com/us/computing/memory-storage/
 Peripherals: [LG 25UM58-P](http://www.lg.com/us/monitors/lg-25UM58-P-ultrawide-monitor), [Steam Controller](http://store.steampowered.com/app/353370/)
 
 Geekbench CPU: [1076 / 4280](http://browser.geekbench.com/v5/cpu/156652)<br>
-Geekbench Compute (OpenCL): [55583](http://browser.geekbench.com/v5/compute/69955)
+Geekbench Compute (OpenCL): [55583](http://browser.geekbench.com/v5/compute/69955)<br>
 Geekbench Compute (Vulkan): [42714](http://browser.geekbench.com/v5/compute/69963)
 
 ### iPad
@@ -48,7 +48,7 @@ SSD: [512GB Apple SSD]<br>
 Peripherals: [LG 25UM58-P](http://www.lg.com/us/monitors/lg-25UM58-P-ultrawide-monitor), [Ducky MIYA Pro Mac](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4285), [Magic Trackpad](https://en.wikipedia.org/wiki/Magic_Trackpad)
 
 Geekbench CPU: [1261 / 6196](https://browser.geekbench.com/v5/cpu/156322)<br>
-Geekbench Compute (Metal): [5006](https://browser.geekbench.com/v5/compute/69921)
+Geekbench Compute (Metal): [5006](https://browser.geekbench.com/v5/compute/69921)<br>
 Geekbench Compute (OpenCL): [5162](https://browser.geekbench.com/v5/compute/69899)
 
 ## Current Workspaces
