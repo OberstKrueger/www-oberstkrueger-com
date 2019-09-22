@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: About The Author
 type: page
-updated: 2019.09.15:1300
+updated: 2019.09.22:0640
 ---
 
 ## Current Computing Devices
@@ -30,15 +30,15 @@ SSD: 32 GB
 Geekbench CPU: [558 / 1045](https://browser.geekbench.com/v5/cpu/156292)<br>
 Geekbench Compute (Metal): [2319](https://browser.geekbench.com/v5/compute/69888)
 
-### iPhone 6 Plus
+### iPhone 11
 
-CPU: [Apple A8 @ 1.4 GHz](https://en.wikipedia.org/wiki/Apple_A8)<br>
-GPU: [PowerVR Series 6 GX6450](https://en.wikipedia.org/wiki/PowerVR#Series6XT_.28Rogue.29)<br>
-RAM: 1024 MB<br>
-SSD: 64 GB
+CPU: [Apple A13 @ 2.66 GHz](https://en.wikipedia.org/wiki/Apple_A13)<br>
+GPU: [Apple A13](https://en.wikipedia.org/wiki/Apple_A13)<br>
+RAM: 4096 MB<br>
+SSD: 128 GB
 
-Geekbench CPU: [272 / 513](https://browser.geekbench.com/v5/cpu/155739)<br>
-Geekbench Compute (Metal): [486](https://browser.geekbench.com/v5/compute/70059)
+Geekbench CPU: [1300 / 3240](https://browser.geekbench.com/v5/cpu/215105)<br>
+Geekbench Compute (Metal): [6294](https://browser.geekbench.com/v5/compute/92912)
 
 ### Mac Mini
 
