@@ -7,7 +7,53 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2019-09-01T10:50:00Z</updated>
+<updated>2019-10-01T20:10:00Z</updated>
+
+<entry>
+<title>Updates For September, 2019</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201909</id>
+<published>2019-10-01T20:10:00Z</published>
+<updated>2019-10-01T20:10:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2019.09</h2>
+<h3>Favorite Articles</h3>
+<ul>
+<li><a href="https://apenwarr.ca/log/20190819">Absolute scale corrupts absolutely</a></li>
+<li><a href="https://arstechnica.com/information-technology/2019/09/debian-10-playing-catch-up-with-the-rest-of-the-linux-world-thats-a-good-thing/">Debian 10: playing catch-up with the rest of the Linux world (that’s a good thing)</a></li>
+<li><a href="https://www.wired.com/story/apple-a13-bionic-chip-iphone/">An exclusive look inside Apple’s A13 Bionic chip</a></li>
+<li><a href="https://www.wired.com/story/videogames-industry-metoo-moment-male-fragility/">Gaming's #MeToo moment and the tyranny of male fragility</a></li>
+<li><a href="https://www.pixelstech.net/article/1457585550-How-does-Base64-work">How does base64 work</a></li>
+<li><a href="https://www.macstories.net/stories/ios-and-ipados-13-the-macstories-review/">iOS and iPadOS 13: the MacStories review</a></li>
+<li><a href="https://hsivonen.fi/string-length/">It’s not wrong that "🤦🏼‍♂️".length == 7</a></li>
+<li><a href="https://blog.codinghorror.com/the-rise-of-the-electric-scooter/">The rise of the electric scooter</a></li>
+<li><a href="https://inessential.com/2019/09/02/on_my_funny_ideas_about_what_beta_means">On my funny ideas about what beta means</a></li>
+<li><a href="https://medium.com/@thomas.bushnell/a-reflection-on-the-departure-of-rms-18e6a835fd84">A reflection on the departure of RMS</a></li>
+<li><a href="https://theta.eu.org/2019/09/10/chat-systems.html">Thoughts on improving chat systems</a></li>
+<li><a href="https://www.macstories.net/reviews/tvos-13-the-macstories-review/">tvOS 13: the MacStories review</a></li>
+<li><a href="https://www.collabora.com/news-and-blog/blog/2019/08/28/virglrenderer-state-of-virtualized-virtual-worlds/">Virglrenderer and the state of virtualized virtual worlds</a></li>
+<li><a href="https://www.newyorker.com/culture/cultural-comment/what-if-we-stopped-pretending">What if we stopped pretending?</a></li>
+<li><a href="https://www.wired.com/story/internet-healthier-without-like-counts/">Would the Internet be healthier without 'like' counts?</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2019/09/youtube-fined-170-million-for-violations-of-childrens-privacy/">YouTube fined $170 million for violations of children’s privacy</a></li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Kakuzō, Okakura - The Book of Tea</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XII">Final Fantasy XII: The Zodiac Age</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nier:_Automata">NieR:Automata</a></li>
+<li><a href="https://en.wikipedia.org/wiki/World_of_Warcraft">World of Warcraft</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For August, 2019</title>
