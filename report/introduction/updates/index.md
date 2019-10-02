@@ -3,8 +3,40 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2019.09.01:1050
+updated: 2019.10.01:2010
 ---
+
+## 2019.09
+
+### Favorite Articles
+
+- [Absolute scale corrupts absolutely](https://apenwarr.ca/log/20190819)
+- [Debian 10: playing catch-up with the rest of the Linux world (that’s a good thing)](https://arstechnica.com/information-technology/2019/09/debian-10-playing-catch-up-with-the-rest-of-the-linux-world-thats-a-good-thing/)
+- [An exclusive look inside Apple’s A13 Bionic chip](https://www.wired.com/story/apple-a13-bionic-chip-iphone/)
+- [Gaming's #MeToo moment and the tyranny of male fragility](https://www.wired.com/story/videogames-industry-metoo-moment-male-fragility/)
+- [How does base64 work](https://www.pixelstech.net/article/1457585550-How-does-Base64-work)
+- [iOS and iPadOS 13: the MacStories review](https://www.macstories.net/stories/ios-and-ipados-13-the-macstories-review/)
+- [It’s not wrong that "🤦🏼‍♂️".length == 7](https://hsivonen.fi/string-length/)
+- [The rise of the electric scooter](https://blog.codinghorror.com/the-rise-of-the-electric-scooter/)
+- [On my funny ideas about what beta means](https://inessential.com/2019/09/02/on_my_funny_ideas_about_what_beta_means)
+- [A reflection on the departure of RMS](https://medium.com/@thomas.bushnell/a-reflection-on-the-departure-of-rms-18e6a835fd84)
+- [Thoughts on improving chat systems](https://theta.eu.org/2019/09/10/chat-systems.html)
+- [tvOS 13: the MacStories review](https://www.macstories.net/reviews/tvos-13-the-macstories-review/)
+- [Virglrenderer and the state of virtualized virtual worlds](https://www.collabora.com/news-and-blog/blog/2019/08/28/virglrenderer-state-of-virtualized-virtual-worlds/)
+- [What if we stopped pretending?](https://www.newyorker.com/culture/cultural-comment/what-if-we-stopped-pretending)
+- [Would the Internet be healthier without 'like' counts?](https://www.wired.com/story/internet-healthier-without-like-counts/)
+- [YouTube fined $170 million for violations of children’s privacy](https://arstechnica.com/tech-policy/2019/09/youtube-fined-170-million-for-violations-of-childrens-privacy/)
+
+### Books Read
+
+- Kakuzō, Okakura - The Book of Tea
+
+### Games Played
+
+- [Final Fantasy XII: The Zodiac Age](https://en.wikipedia.org/wiki/Final_Fantasy_XII)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [NieR:Automata](https://en.wikipedia.org/wiki/Nier:_Automata)
+- [World of Warcraft](https://en.wikipedia.org/wiki/World_of_Warcraft)
 
 ## 2019.08
 
