@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2019.09.22:0700
+updated: 2019.10.10:1130
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -74,6 +74,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Penny, Laurie - Discordia: Six Nights in Crisis Athens
 - Penny, Laurie - Meat Market: Female Flesh Under Capitalism
 - Penny, Laurie - Penny Red: Notes from the New Age of Dissent
+- Penny, Laurie - Unspeakable Things: Sex, Lies and Revolution
 - Quinn, Zoë - Crash Override: How Gamergate (Nearly) Destroyed My Life, and How We Can Win the Fight Against Online Hate
 - Rubin, Charles - Eclipse of Man: Human Extinction and the Meaning of Progress
 - Shaara, Michael - The Killer Angels
