@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2019.10.10:1130
+updated: 2019.10.16:1340
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -107,5 +107,6 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Wohlsen, Marcus - Biopunk: DIY Scientists Hack the Software of Life
 - Wolfram, Stephen - A New Kind of Science
 - Yee, Nick - The Proteus Paradox: How Online Games and Virtual Worlds Change Us - And How They Don't
+- Young, Scott - Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career
 - Yudkowsky, Eliezer - Inadequate Equilibria: Where and How Civilizations Get Stuck
 - Zomorodi, Manoush - Bored and Brilliant: How Spacing Out Can Unlock Your Most Productive and Creative Self
