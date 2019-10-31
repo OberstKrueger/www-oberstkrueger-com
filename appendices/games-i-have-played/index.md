@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2019.09.28:2245
+updated: 2019.10.31:1105
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -384,6 +384,7 @@ updated: 2019.09.28:2245
 - [No Man's Sky](https://en.wikipedia.org/wiki/No_Man%27s_Sky)
 - [Opus Magnum](https://en.wikipedia.org/wiki/Opus_Magnum_(video_game))
 - [Osmos](https://en.wikipedia.org/wiki/Osmos)
+- [The Outer Worlds](https://en.wikipedia.org/wiki/The_Outer_Worlds)
 - [Outlaws](https://en.wikipedia.org/wiki/Outlaws_(1997_video_game))
 - [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game))
 - [Oxygen Not Included](https://en.wikipedia.org/wiki/Oxygen_Not_Included)
