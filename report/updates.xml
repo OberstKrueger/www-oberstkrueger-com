@@ -7,7 +7,54 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2019-10-01T20:10:00Z</updated>
+<updated>2019-11-01T12:15:00Z</updated>
+
+<entry>
+<title>Updates For October, 2019</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201910</id>
+<published>2019-11-01T12:15:00Z</published>
+<updated>2019-11-01T12:15:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2019.10</h2>
+<h3>Favorite Articles</h3>
+<ul>
+<li><a href="https://arstechnica.com/tech-policy/2019/10/net-neutrality-still-dead-but-judges-rule-that-fcc-cant-preempt-state-laws/">Ajit Pai wins (and loses) in court as net neutrality repeal is mostly upheld</a></li>
+<li><a href="https://www.justinobeirne.com/new-apple-maps-northeast">Apple's new map, expansion #5</a></li>
+<li><a href="https://www.vox.com/the-highlight/2019/10/1/20887003/tech-technology-evolution-natural-inevitable-ethics">The biggest lie tech people tell themselves — and the rest of us</a></li>
+<li><a href="https://www.eurogamer.net/articles/2019-10-08-blizzard-punishes-hearthstone-pro-for-voicing-hong-kong-support">Blizzard under fire after punishing pro-Hong Kong Hearthstone player</a></li>
+<li><a href="https://www.economist.com/britain/2019/10/17/britains-housing-paradox-overcrowding-and-underoccupancy-are-both-rising">Britain’s housing paradox: overcrowding and underoccupancy are both rising</a></li>
+<li><a href="https://www.economist.com/britain/2019/09/26/britains-old-boy-networks-go-online">Britain’s old-boy networks go online</a></li>
+<li><a href="https://www.citylab.com/environment/2019/10/c40-peak-carbon-co2-emissions-highest-cities-climate-summit/599644/">Carbon emissions are already falling in 30 cities</a></li>
+<li><a href="https://mattstoller.substack.com/p/the-coming-boeing-bailout">The coming Boeing bailout?</a></li>
+<li><a href="https://arstechnica.com/information-technology/2019/10/a-detailed-look-at-ubuntus-new-experimental-zfs-installer/">A detailed look at Ubuntu’s new experimental ZFS installer</a></li>
+<li><a href="https://berthub.eu/articles/posts/gps-gnss-how-do-they-work/">GPS, Galileo &amp; more: how do they work &amp; what happened during the big outage?</a></li>
+<li><a href="https://www.macstories.net/news/macos-catalina-the-macstories-review/">macOS Catalina: the MacStories review</a></li>
+<li><a href="https://techcrunch.com/2019/10/21/nordvpn-confirms-it-was-hacked/">NordVPN confirms it was hacked</a></li>
+<li><a href="http://twitchard.github.io/posts/2019-10-13-software-development-and-the-false-promise-of-science.html">Software development and the false promise of science</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2019/10/visa-mastercard-stripe-and-ebay-all-quit-facebooks-libra-in-one-day/">Visa, Mastercard, Stripe, and eBay all quit Facebook’s Libra in one day</a></li>
+<li><a href="https://www.mcdbooks.com/electric_eel/when-a-player-gets-the-game">When a player gets the game</a></li>
+<li><a href="https://kevq.uk/why-you-shouldnt-use-facebook">Why you shouldn't use Facebook</a></li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Garfinkel, Simson - The Unix-Haters Handbook</li>
+<li>Penny, Laurie - Unspeakable Things: Sex, Lies and Revolution</li>
+<li>Young, Scott - Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XII">Final Fantasy XII: The Zodiac Age</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Outer_Worlds">The Outer Worlds</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For September, 2019</title>
