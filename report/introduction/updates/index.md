@@ -3,8 +3,41 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2019.10.01:2010
+updated: 2019.11.01:1215
 ---
+
+## 2019.10
+
+### Favorite Articles
+
+- [Ajit Pai wins (and loses) in court as net neutrality repeal is mostly upheld](https://arstechnica.com/tech-policy/2019/10/net-neutrality-still-dead-but-judges-rule-that-fcc-cant-preempt-state-laws/)
+- [Apple's new map, expansion #5](https://www.justinobeirne.com/new-apple-maps-northeast)
+- [The biggest lie tech people tell themselves — and the rest of us](https://www.vox.com/the-highlight/2019/10/1/20887003/tech-technology-evolution-natural-inevitable-ethics)
+- [Blizzard under fire after punishing pro-Hong Kong Hearthstone player](https://www.eurogamer.net/articles/2019-10-08-blizzard-punishes-hearthstone-pro-for-voicing-hong-kong-support)
+- [Britain’s housing paradox: overcrowding and underoccupancy are both rising](https://www.economist.com/britain/2019/10/17/britains-housing-paradox-overcrowding-and-underoccupancy-are-both-rising)
+- [Britain’s old-boy networks go online](https://www.economist.com/britain/2019/09/26/britains-old-boy-networks-go-online)
+- [Carbon emissions are already falling in 30 cities](https://www.citylab.com/environment/2019/10/c40-peak-carbon-co2-emissions-highest-cities-climate-summit/599644/)
+- [The coming Boeing bailout?](https://mattstoller.substack.com/p/the-coming-boeing-bailout)
+- [A detailed look at Ubuntu’s new experimental ZFS installer](https://arstechnica.com/information-technology/2019/10/a-detailed-look-at-ubuntus-new-experimental-zfs-installer/)
+- [GPS, Galileo & more: how do they work & what happened during the big outage?](https://berthub.eu/articles/posts/gps-gnss-how-do-they-work/)
+- [macOS Catalina: the MacStories review](https://www.macstories.net/news/macos-catalina-the-macstories-review/)
+- [NordVPN confirms it was hacked](https://techcrunch.com/2019/10/21/nordvpn-confirms-it-was-hacked/)
+- [Software development and the false promise of science](http://twitchard.github.io/posts/2019-10-13-software-development-and-the-false-promise-of-science.html)
+- [Visa, Mastercard, Stripe, and eBay all quit Facebook’s Libra in one day](https://arstechnica.com/tech-policy/2019/10/visa-mastercard-stripe-and-ebay-all-quit-facebooks-libra-in-one-day/)
+- [When a player gets the game](https://www.mcdbooks.com/electric_eel/when-a-player-gets-the-game)
+- [Why you shouldn't use Facebook](https://kevq.uk/why-you-shouldnt-use-facebook)
+
+### Books Read
+
+- Garfinkel, Simson - The Unix-Haters Handbook
+- Penny, Laurie - Unspeakable Things: Sex, Lies and Revolution
+- Young, Scott - Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career
+
+### Games Played
+
+- [Final Fantasy XII: The Zodiac Age](https://en.wikipedia.org/wiki/Final_Fantasy_XII)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [The Outer Worlds](https://en.wikipedia.org/wiki/The_Outer_Worlds)
 
 ## 2019.09
 
