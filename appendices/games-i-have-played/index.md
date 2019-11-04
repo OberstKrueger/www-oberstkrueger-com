@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2019.10.31:1105
+updated: 2019.11.04:0150
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -509,6 +509,7 @@ updated: 2019.10.31:1105
 - [7 Billion Humans](https://en.wikipedia.org/wiki/7_Billion_Humans)
 - [The 7th Guest](https://en.wikipedia.org/wiki/The_7th_Guest)
 - [The 11th Hour](https://en.wikipedia.org/wiki/The_11th_Hour_(video_game))
+- [The 13th Doll](https://en.wikipedia.org/wiki/The_7th_Guest#The_13th_Doll)
 
 ## [Sega Genesis](https://en.wikipedia.org/wiki/Sega_Genesis)
 
