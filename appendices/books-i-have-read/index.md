@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2019.10.30:2150
+updated: 2019.11.14:0010
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -13,6 +13,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Andrew, Rachel - The New CSS Layout
 - Arbesman, Samuel - Overcomplicated: Technology at the Limits of Comprehension
 - Arbesman, Samuel - The Half-Life of Facts: Why Everything We Know Has an Expiration Date
+- Barth, Zach - Zach-Like: A Game Design History
 - Blakeslee, Sandra & Blakeslee, Matthew - The Body Has a Mind of Its Own: How Body Maps in Your Brain Help You Do (Almost) Everything Better
 - Bradbury, Ray - Fahrenheit 451
 - Bradbury, Ray - The Martian Chronicles
