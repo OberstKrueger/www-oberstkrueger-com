@@ -7,7 +7,62 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2019-11-01T12:15:00Z</updated>
+<updated>2019-12-01T12:15:00Z</updated>
+
+<entry>
+<title>Updates For November, 2019</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201911</id>
+<published>2019-12-01T12:15:00Z</published>
+<updated>2019-12-01T12:15:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2019.11</h2>
+<h3>Favorite Articles</h3>
+<ul>
+<li><a href="https://parallel-rust-cpp.github.io">Comparing parallel Rust and C++</a></li>
+<li><a href="https://massivesci.com/articles/daylight-saving-savings-time-dst-november-standard-time/">Daylight saving time is bad for your health</a></li>
+<li><a href="https://lwn.net/SubscriberLink/804254/71240d6b83844653/">Debian reconsiders init-system diversity</a></li>
+<li><a href="https://arstechnica.com/gadgets/2019/11/europe-is-fresh-out-of-ipv4-addresses/">Despite clear warnings, Europe is out of IP addresses—again</a></li>
+<li><a href="https://tiny-giant-books.com/Entry3.html?EntryId=recD9L6uEBy8CWS8R">Don't be a full-stack developer. Be a full-stack human</a></li>
+<li><a href="https://www.theringer.com/movies/2019/11/19/20972049/trent-reznor-atticus-ross-themes-scores-waves-watchmen-social-network">The hand that themes</a></li>
+<li><a href="https://gankra.github.io/blah/swift-abi/">How Swift achieved dynamic linking where Rust couldn't</a></li>
+<li><a href="https://www.theguardian.com/lifeandstyle/2019/nov/06/i-was-an-astrologer-how-it-works-psychics">I was an astrologer – here's how it really works, and why I had to stop</a></li>
+<li><a href="https://9to5mac.com/2019/11/28/jony-ive-removed-from-apple-executive-leadership-page-as-he-officially-departs-the-company/">Jony Ive removed from Apple executive leadership page as he officially departs the company</a></li>
+<li><a href="https://www.sciencealert.com/the-epa-is-trying-to-restrict-the-science-it-uses-to-craft-regulations-and-scientists-are-angry">Leaked EPA plan reveals controversial effort to restrict science in public health</a></li>
+<li><a href="https://www.sciencealert.com/sorry-your-potted-plants-are-not-making-the-air-any-cleaner">Massive review confirms house plants aren't actually 'purifying' the air in your home</a></li>
+<li><a href="https://www.extremetech.com/computing/301812-new-spectre-related-cpu-flaw-tops-intels-latest-critical-security-fixes">New Spectre-related CPU flaw tops Intel’s latest critical security fixes</a></li>
+<li><a href="https://massivelyop.com/2019/11/20/reminiscing-on-the-life-and-work-of-legendary-mmo-designer-brad-aradune-mcquaid/">Reminiscing on the life and work of legendary MMO designer Brad ‘Aradune’ McQuaid</a></li>
+<li><a href="https://www.lawfareblog.com/rethinking-encryption">Rethinking encryption</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2019/11/search-warrant-overrides-1m-users-choice-not-to-share-dna-with-cops/">Search warrant overrides 1M users’ choice not to share DNA with cops</a></li>
+<li><a href="https://drewdevault.com/2019/11/26/Avoid-traumatic-changes.html">Software developers should avoid traumatic changes</a></li>
+<li><a href="https://sourcehut.org/blog/2019-11-15-sourcehut-1-year-alpha/">Sourcehut's year in alpha</a></li>
+<li><a href="https://berthub.eu/articles/posts/state-of-galileo-and-accident/">The State of Galileo as seen by an outsider</a></li>
+<li><a href="https://swift.org/blog/numerics/">Swift numerics</a></li>
+<li><a href="http://codefol.io/posts/no-such-thing-as-knowing-coding-all-the-way-to-the-bottom/">There's no such thing as knowing your computer 'all the way to the bottom'</a></li>
+<li><a href="https://massivelyop.com/2019/11/19/veteran-mmorpg-developer-brad-mcquaid-has-passed-away/">Veteran MMORPG developer Brad McQuaid has passed away</a></li>
+<li><a href="https://arstechnica.com/science/2019/11/virgin-galactics-real-goal-may-be-point-to-point-travel-around-earth/">Virgin Galactic’s real goal may be point-to-point travel around Earth</a></li>
+<li><a href="https://www.economist.com/science-and-technology/2019/11/23/virtual-reality-continues-to-make-people-sick">Virtual reality continues to make people sick</a></li>
+<li><a href="https://www.bbc.com/worklife/article/20191125-what-japans-love-of-nostalgia-says-about-its-economy">What Japan’s love of nostalgia says about its economy</a></li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Barth, Zach - Zach-Like: A Game Design History</li>
+<li>Gibson, William - The Peripheral</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XII">Final Fantasy XII: The Zodiac Age</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Outer_Worlds">The Outer Worlds</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_7th_Guest#The_13th_Doll">The 13th Doll</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For October, 2019</title>
