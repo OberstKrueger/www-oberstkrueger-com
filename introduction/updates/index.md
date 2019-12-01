@@ -3,8 +3,49 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2019.11.01:1215
+updated: 2019.12.01:1215
 ---
+
+## 2019.11
+
+### Favorite Articles
+
+- [Comparing parallel Rust and C++](https://parallel-rust-cpp.github.io)
+- [Daylight saving time is bad for your health](https://massivesci.com/articles/daylight-saving-savings-time-dst-november-standard-time/)
+- [Debian reconsiders init-system diversity](https://lwn.net/SubscriberLink/804254/71240d6b83844653/)
+- [Despite clear warnings, Europe is out of IP addresses—again](https://arstechnica.com/gadgets/2019/11/europe-is-fresh-out-of-ipv4-addresses/)
+- [Don't be a full-stack developer. Be a full-stack human](https://tiny-giant-books.com/Entry3.html?EntryId=recD9L6uEBy8CWS8R)
+- [The hand that themes](https://www.theringer.com/movies/2019/11/19/20972049/trent-reznor-atticus-ross-themes-scores-waves-watchmen-social-network)
+- [How Swift achieved dynamic linking where Rust couldn't](https://gankra.github.io/blah/swift-abi/)
+- [I was an astrologer – here's how it really works, and why I had to stop](https://www.theguardian.com/lifeandstyle/2019/nov/06/i-was-an-astrologer-how-it-works-psychics)
+- [Jony Ive removed from Apple executive leadership page as he officially departs the company](https://9to5mac.com/2019/11/28/jony-ive-removed-from-apple-executive-leadership-page-as-he-officially-departs-the-company/)
+- [Leaked EPA plan reveals controversial effort to restrict science in public health](https://www.sciencealert.com/the-epa-is-trying-to-restrict-the-science-it-uses-to-craft-regulations-and-scientists-are-angry)
+- [Massive review confirms house plants aren't actually 'purifying' the air in your home](https://www.sciencealert.com/sorry-your-potted-plants-are-not-making-the-air-any-cleaner)
+- [New Spectre-related CPU flaw tops Intel’s latest critical security fixes](https://www.extremetech.com/computing/301812-new-spectre-related-cpu-flaw-tops-intels-latest-critical-security-fixes)
+- [Reminiscing on the life and work of legendary MMO designer Brad ‘Aradune’ McQuaid](https://massivelyop.com/2019/11/20/reminiscing-on-the-life-and-work-of-legendary-mmo-designer-brad-aradune-mcquaid/)
+- [Rethinking encryption](https://www.lawfareblog.com/rethinking-encryption)
+- [Search warrant overrides 1M users’ choice not to share DNA with cops](https://arstechnica.com/tech-policy/2019/11/search-warrant-overrides-1m-users-choice-not-to-share-dna-with-cops/)
+- [Software developers should avoid traumatic changes](https://drewdevault.com/2019/11/26/Avoid-traumatic-changes.html)
+- [Sourcehut's year in alpha](https://sourcehut.org/blog/2019-11-15-sourcehut-1-year-alpha/)
+- [The State of Galileo as seen by an outsider](https://berthub.eu/articles/posts/state-of-galileo-and-accident/)
+- [Swift numerics](https://swift.org/blog/numerics/)
+- [There's no such thing as knowing your computer 'all the way to the bottom'](http://codefol.io/posts/no-such-thing-as-knowing-coding-all-the-way-to-the-bottom/)
+- [Veteran MMORPG developer Brad McQuaid has passed away](https://massivelyop.com/2019/11/19/veteran-mmorpg-developer-brad-mcquaid-has-passed-away/)
+- [Virgin Galactic’s real goal may be point-to-point travel around Earth](https://arstechnica.com/science/2019/11/virgin-galactics-real-goal-may-be-point-to-point-travel-around-earth/)
+- [Virtual reality continues to make people sick](https://www.economist.com/science-and-technology/2019/11/23/virtual-reality-continues-to-make-people-sick)
+- [What Japan’s love of nostalgia says about its economy](https://www.bbc.com/worklife/article/20191125-what-japans-love-of-nostalgia-says-about-its-economy)
+
+### Books Read
+
+- Barth, Zach - Zach-Like: A Game Design History
+- Gibson, William - The Peripheral
+
+### Games Played
+
+- [Final Fantasy XII: The Zodiac Age](https://en.wikipedia.org/wiki/Final_Fantasy_XII)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [The Outer Worlds](https://en.wikipedia.org/wiki/The_Outer_Worlds)
+- [The 13th Doll](https://en.wikipedia.org/wiki/The_7th_Guest#The_13th_Doll)
 
 ## 2019.10
 
