@@ -3,7 +3,6 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-<<<<<<< HEAD
 updated: 2019.12.01:1215
 ---
 
@@ -48,11 +47,6 @@ updated: 2019.12.01:1215
 - [The Outer Worlds](https://en.wikipedia.org/wiki/The_Outer_Worlds)
 - [The 13th Doll](https://en.wikipedia.org/wiki/The_7th_Guest#The_13th_Doll)
 
-=======
-updated: 2019.11.01:1215
----
-
->>>>>>> origin/master
 ## 2019.10
 
 ### Favorite Articles
