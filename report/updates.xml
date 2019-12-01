@@ -7,6 +7,7 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
+<<<<<<< HEAD
 <updated>2019-12-01T12:15:00Z</updated>
 
 <entry>
@@ -63,6 +64,9 @@
 ]]>
 </content>
 </entry>
+=======
+<updated>2019-11-01T12:15:00Z</updated>
+>>>>>>> origin/master
 
 <entry>
 <title>Updates For October, 2019</title>
