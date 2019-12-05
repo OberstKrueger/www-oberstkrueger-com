@@ -3,7 +3,7 @@ category: appendices
 created: 2017.08.07:2045
 title: Movies I Have Watched
 type: page
-updated: 2019.12.02:1100
+updated: 2019.12.04:2350
 ---
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
@@ -42,6 +42,7 @@ updated: 2019.12.02:1100
 - [The Blues Brothers](https://en.wikipedia.org/wiki/The_Blues_Brothers_(film))
 - [Blues Brothers 2000](https://en.wikipedia.org/wiki/Blues_Brothers_2000)
 - [Braveheart](https://en.wikipedia.org/wiki/Braveheart)
+- [The Cabin in the Woods](https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods)
 - [Casino](https://en.wikipedia.org/wiki/Casino_(film))
 - [Casino Royale](https://en.wikipedia.org/wiki/Casino_Royale_(2006_film))
 - [Casper](https://en.wikipedia.org/wiki/Casper_(film))
