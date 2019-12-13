@@ -318,7 +318,7 @@ A new appendix has been created to keep track of all of the artists and bands th
 
 ### Games Played
 
-- [Amother Eden: The Cat Beyond Time and Space](https://en.wikipedia.org/wiki/Another_Eden)
+- [Another Eden: The Cat Beyond Time and Space](https://en.wikipedia.org/wiki/Another_Eden)
 - [EVE Online](https://www.eveonline.com)
 - [EverQuest 2](https://www.everquest2.com/home)
 - [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
@@ -356,7 +356,7 @@ A new appendix has been created to keep track of all of the artists and bands th
 
 ### Games Played
 
-- [Amother Eden: The Cat Beyond Time and Space](https://en.wikipedia.org/wiki/Another_Eden)
+- [Another Eden: The Cat Beyond Time and Space](https://en.wikipedia.org/wiki/Another_Eden)
 - [EVE Online](https://www.eveonline.com)
 - [Final Fantasy XIV: Stormblood](https://na.finalfantasyxiv.com/stormblood/)
 - [Gris](https://en.wikipedia.org/wiki/Gris_(video_game))
