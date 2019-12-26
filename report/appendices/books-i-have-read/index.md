@@ -107,7 +107,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Weber, Imogen Lloyd - The Intelligent Conversationalist
 - Weir, Andy - Artemis
 - Weir, Andy - The Martian
-- Williams, Terry - The Cocaine Kids: The Inside Story Of A Teenage Drug Ring
+- Williams, Terry - The Cocaine Kids: The Inside Story of a Teenage Drug Ring
 - Wohlsen, Marcus - Biopunk: DIY Scientists Hack the Software of Life
 - Wolfram, Stephen - A New Kind of Science
 - Yee, Nick - The Proteus Paradox: How Online Games and Virtual Worlds Change Us - And How They Don't
