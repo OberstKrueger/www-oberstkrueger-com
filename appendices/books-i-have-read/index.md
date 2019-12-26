@@ -3,11 +3,16 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2019.12.25:2350
+updated: 2019.12.26:0955
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
 
+- Adams, Douglas - The Hitchhiker's Guide to the Galaxy
+- Adams, Douglas - Life, the Universe and Everything
+- Adams, Douglas - Mostly Harmless
+- Adams, Douglas - The Restaurant at the End of the Universe
+- Adams, Douglas - So Long, and Thanks for All the Fish
 - Amariei, Cornel - Arduino Development Cookbook
 - Ambrose, Stephen E. - Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest
 - Andrew, Rachel - The New CSS Layout
