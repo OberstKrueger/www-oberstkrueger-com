@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2019.11.04:0150
+updated: 2019.12.29:1845
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -294,6 +294,10 @@ updated: 2019.11.04:0150
 - [Exapunks](https://en.wikipedia.org/wiki/Exapunks)
 - [Factorio](https://en.wikipedia.org/wiki/Factorio)
 - [Fallout](https://en.wikipedia.org/wiki/Fallout_(video_game))
+- [Fallout 2](https://en.wikipedia.org/wiki/Fallout_2)
+- [Fallout 3](https://en.wikipedia.org/wiki/Fallout_3)
+- [Fallout 4](https://en.wikipedia.org/wiki/Fallout_4)
+- [Fallout: New Vegas](https://en.wikipedia.org/wiki/Fallout:_New_Vegas)
 - [Far Cry](https://en.wikipedia.org/wiki/Far_Cry_(video_game))
 - [Final Doom](https://en.wikipedia.org/wiki/Final_Doom)
 - [Final Fantasy X HD Remaster](https://en.wikipedia.org/wiki/Final_Fantasy_X/X-2_HD_Remaster)
