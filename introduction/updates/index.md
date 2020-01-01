@@ -3,8 +3,31 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2019.12.01:1215
+updated: 2020.01.01:1500
 ---
+
+## 2019.12
+
+### Favorite Articles
+
+- [Amazon’s Rekognition shows its true colors](https://www.bitsoffreedom.nl/2019/12/12/amazons-rekognition-shows-its-true-colors/)
+- [The dark psychology of social networks](https://www.theatlantic.com/magazine/archive/2019/12/social-media-democracy/600763/)
+- [Instagram is broke. It also broke us](https://www.vox.com/the-goods/2019/12/2/20983760/instagram-removing-likes-authenticity)
+- [New details about the infamous 'CRISPR babies' experiment have just been revealed](https://www.sciencealert.com/china-s-failed-experiment-proves-we-re-not-ready-for-human-gene-editing)
+- [The oil patch up against the wall](https://www.tbray.org/ongoing/When/201x/2019/12/15/Oil-Patch-Against-the-Wall)
+- [Twitter wants to decentralize, but decentralized social network creators don’t trust it](https://www.theverge.com/2019/12/12/21012553/twitter-bluesky-decentralized-social-network-developers-reaction-mastodon-activitypub)
+- [Verizon reportedly blocks archivists from Yahoo Groups days before deletion](https://arstechnica.com/tech-policy/2019/12/verizon-reportedly-blocks-archivists-from-yahoo-groups-days-before-deletion/)
+- [The world's first human composting facility will open in 2021](https://www.sciencealert.com/the-world-s-first-human-composting-facility-will-turn-you-into-soil-in-2021)
+
+### Books Read
+
+- Stephenson, Neal - Fall; or, Dodge in Hell
+
+### Games Played
+
+- [Fallout 4](https://en.wikipedia.org/wiki/Fallout_4)
+- [Final Fantasy XII: The Zodiac Age](https://en.wikipedia.org/wiki/Final_Fantasy_XII)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
 
 ## 2019.11
 
