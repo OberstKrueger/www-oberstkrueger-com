@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: About The Author
 type: page
-updated: 2020.01.01:1435
+updated: 2020.01.01:1445
 ---
 
 ## Current Computing Devices
@@ -69,7 +69,7 @@ Geekbench Compute (OpenCL): [5162](https://browser.geekbench.com/v5/compute/6989
 	<figcaption>iPhone</figcaption>
 </figure>
 
-<figure class='half'>
+<figure class='quarter'>
 	<img src='/images/about-the-author_watch.jpg'>
 	<figcaption>Apple Watch</figcaption>
 </figure>
