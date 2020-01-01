@@ -251,6 +251,10 @@ figure {
         margin-left: 0.5rem;
         width: 50%;
     }
+    &.quarter {
+        max-width: $textWidth / 2;
+        width: 25%;
+    }
     &.quarterLeft {
         float: left;
         margin-bottom: 0;
