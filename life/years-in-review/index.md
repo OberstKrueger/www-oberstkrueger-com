@@ -3,8 +3,68 @@ category: life
 created: 2017.01.01:1500
 title: Years In Review
 type: page
-updated: 2019.01.01:0750
+updated: 2019.12.31:2055
 ---
+
+## 2019
+
+### Favorite Games
+
+<figure>
+    <img src='/images/years-in-review_final-fantasy-xiv-shadowbringers.jpg'>
+    <figcaption>Final Fantasy XIV: Shadowbringers</figcaption>
+</figure>
+
+Describing Shadowbringers as a crowning achievement for Final Fantasy XIV is not an understatement. This expansion has been everything a fan of the game could ask for. Much of this is thanks to main scenario writer Natsuko Ishikawa, who has previously written some of the best quest lines in the game. In particular, the end of Shadowbringer's story is one of the most bittersweet endings in a Final Fantasy since Final Fantasy X.
+
+<figure>
+    <img src='/images/years-in-review_resident-evil-2-2019.jpg'>
+    <figcaption>Resident Evil 2</figcaption>
+</figure>
+
+When I played the original Resident Evil back in high school, I was not a fan of the game due to being heavily invested in MMORPGs at the time. The remake of this game looked interesting, but it was not until the 30-minute demo was released that I became hooked on it. Some of this could be thanks to my increased interest in survival games due to last year's Subnautica, but Resident Evil 2 has a great mix of survival and puzzle-solving that feels great to play. I'm glad I gave the series a second chance, and am now interested in future remakes that Capcom might release.
+
+<figure>
+    <img src='/images/years-in-review_nier-automata.jpg'>
+    <figcaption>NieR:Automata</figcaption>
+</figure>
+
+This game originally came out in 2017, but I did not get to experience it until the Game of the YoRHa Edition this year. While it is unfortunate it took me a couple of years to get it, I am glad to have played it. It is the perfect blend of action with a philosophical story, and a dash of wonderful design. The repeat playthrough idea is not as great in practice as it is in theory, but the initial playthrough of the game will remain memorable for a long time.
+
+<figure>
+    <img src='/images/years-in-review_apex-legends.jpg'>
+    <figcaption>Apex Legends</figcaption>
+</figure>
+
+The battle royale genre has been overtaking video games since the release of Fornite and PlayerUnknown's Battlegrounds in 2017. This genre of game is one I was intrigued by the idea of, but could not get into until Apex Legends. Apex Legends hits all of the right notes for the game, from a stronger and required focus on teamplay, to solid first-person controls, and a great art design. I enjoyed spending time playing the game, and although the constant rolling seasons of the genre do not appeal to me, I now understand why so many people enjoy it so much.
+
+### Favorite Albums
+
+- Age of Unreason, by Bad Religion
+- Bleak Sword, by Jim Guthrie
+- Death Stranding, by Ludvig Forssell
+- Eliza, by Matthew Seiji Burns
+- Inks, by Aes Dana
+- Rammstein, by Rammstein
+- Serpentines & Valleys, by Eskostatic
+- We Are Not Your Kind, by Slipknot
+
+<figure>
+    <img src='/images/years-in-review_music-2019.jpg'>
+    <figcaption>Favorite Music of 2019</figcaption>
+</figure>
+
+### An Uneventful Year; or Falling Down A Rabbit Hole
+
+I always try to keep my free time occupied with spare projects, but this year, I failed at making any significant progress to them. This website languished, with no major pages being written. I went down a rabbit hole of programming, which led to not creating anything despite goals I had set for myself. This rabbit hole also led to me focusing on programming to the detriment of any other projects. For 2020, I want to try and refocus my side projects to make some meaningful progress in them.
+
+One of the good things to come out of intellectual meandering this year was to again find my love of reading academic journals. I have been again exploring catching up on criminology articles, but I want to expand that out for the new year. I have decided on three specific areas I want to focus on: astronomy, computer science, and criminology. My goal will be to read at least one article per week in each of these areas, plus a fourth article in any area that strikes my fancy for that week. I plan to take extensive notes on the articles too, so that I can use them as sources for future writings.
+
+With regards to programming, I want to focus less on puzzles and experimentations and more on creating something more substantial. I have a few ideas for what I want those to be. But the key thing for them all is to stay focused on Swift. I have experimented with a lot of programming languages the last few years, and while other languages have a lot of interesting ideas, I was becoming one of those people that's in love with the idea of things and not the practicality. For my current computing needs, Swift is the best solution due to its interoperability with C and Apple's APIs that it provides for Swift. I also plan to rewrite some of my command-line tools in Swift, instead of letting them exist in a mish-mash of Bash, Julia, and Rust.
+
+One of the goals I want to accomplish next year is to build a basic computer game. I am still formulating what sort of game I would like to make, but it is something that has been on my agenda for quite some time, and trying to actually complete something basic is a good goal for the year. Waffling between different game engines is something that has slowed down progress in this area, so again sticking with Swift and Apple's gaming APIs (SpiteKit and GameplayKit do look nice) should allow me to create something without worrying about the tech stack behind it. Should I create something that's worthy of wider release, I can explore other options at that time.
+
+I am not one to go all in on New Year's Resolutions, but given how little I have to show for side projects this year, setting out goals for myself is a good first step to being more successful at completing something. Focusing on researching, writing, and very specific programming projects help me in that regard.
 
 ## 2018
 
