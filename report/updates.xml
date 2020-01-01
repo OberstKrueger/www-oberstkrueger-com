@@ -7,7 +7,44 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2019-12-01T12:15:00Z</updated>
+<updated>2020-01-01T15:00:00Z</updated>
+
+<entry>
+<title>Updates For December, 2019</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/201912</id>
+<published>2020-01-01T15:00:00Z</published>
+<updated>2020-01-01T15:00:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2019.12</h2>
+<h3>Favorite Articles</h3>
+<ul>
+<li><a href="https://www.bitsoffreedom.nl/2019/12/12/amazons-rekognition-shows-its-true-colors/">Amazon’s Rekognition shows its true colors</a></li>
+<li><a href="https://www.theatlantic.com/magazine/archive/2019/12/social-media-democracy/600763/">The dark psychology of social networks</a></li>
+<li><a href="https://www.vox.com/the-goods/2019/12/2/20983760/instagram-removing-likes-authenticity">Instagram is broke. It also broke us</a></li>
+<li><a href="https://www.sciencealert.com/china-s-failed-experiment-proves-we-re-not-ready-for-human-gene-editing">New details about the infamous 'CRISPR babies' experiment have just been revealed</a></li>
+<li><a href="https://www.tbray.org/ongoing/When/201x/2019/12/15/Oil-Patch-Against-the-Wall">The oil patch up against the wall</a></li>
+<li><a href="https://www.theverge.com/2019/12/12/21012553/twitter-bluesky-decentralized-social-network-developers-reaction-mastodon-activitypub">Twitter wants to decentralize, but decentralized social network creators don’t trust it</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2019/12/verizon-reportedly-blocks-archivists-from-yahoo-groups-days-before-deletion/">Verizon reportedly blocks archivists from Yahoo Groups days before deletion</a></li>
+<li><a href="https://www.sciencealert.com/the-world-s-first-human-composting-facility-will-turn-you-into-soil-in-2021">The world's first human composting facility will open in 2021</a></li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Stephenson, Neal - Fall; or, Dodge in Hell</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Fallout_4">Fallout 4</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XII">Final Fantasy XII: The Zodiac Age</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For November, 2019</title>
