@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: About The Author
 type: page
-updated: 2020.01.11:1150
+updated: 2020.01.11:1155
 ---
 
 ## Current Computing Devices
@@ -46,7 +46,7 @@ CPU: [Intel Core i7-8700B](https://ark.intel.com/products/134905/Intel-Core-i7-8
 GPU: [Intel UHD Graphics 630](https://en.wikipedia.org/wiki/Intel_Graphics_Technology#Kaby_Lake_Refresh_/_Coffee_Lake)<br>
 RAM: 16 GB 2667 MHz DDR4<br>
 SSD: 512GB Apple SSD<br>
-Peripherals: [LG 27UL600-W](https://www.lg.com/us/monitors/lg-27UL600-W-4k-uhd-led-monitor), [Ducky MIYA Pro Mac](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4285), [Magic Trackpad](https://en.wikipedia.org/wiki/Magic_Trackpad)
+Peripherals: [LG 27UL600-W](https://www.lg.com/us/monitors/lg-27UL600-W-4k-uhd-led-monitor), [Ducky MIYA Pro Mac](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4285), [Magic Trackpad 2](https://en.wikipedia.org/wiki/Magic_Trackpad_2)
 
 Geekbench 5.1 CPU: [1,230 / 5,618](https://browser.geekbench.com/v5/cpu/989607)<br>
 Geekbench 5.1 Compute (Metal): [2,337](https://browser.geekbench.com/v5/compute/422016)<br>
