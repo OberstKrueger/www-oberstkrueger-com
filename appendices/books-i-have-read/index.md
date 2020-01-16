@@ -3,16 +3,16 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2020.01.16:1540
+updated: 2020.01.16:1545
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
 
-- Adams, Douglas - The Hitchhiker's Guide to the Galaxy
 - Adams, Douglas - Life, the Universe and Everything
 - Adams, Douglas - Mostly Harmless
-- Adams, Douglas - The Restaurant at the End of the Universe
 - Adams, Douglas - So Long, and Thanks for All the Fish
+- Adams, Douglas - The Hitchhiker's Guide to the Galaxy
+- Adams, Douglas - The Restaurant at the End of the Universe
 - Amariei, Cornel - Arduino Development Cookbook
 - Ambrose, Stephen E. - Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest
 - Andrew, Rachel - The New CSS Layout
@@ -22,28 +22,28 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Blakeslee, Sandra & Blakeslee, Matthew - The Body Has a Mind of Its Own: How Body Maps in Your Brain Help You Do (Almost) Everything Better
 - Bradbury, Ray - Fahrenheit 451
 - Bradbury, Ray - The Martian Chronicles
-- Catford, J.C. - A Practical Introduction to Phonetics
 - Carroll, Lewis - Alice's Adventures in Wonderland
 - Carroll, Lewis - Through the Looking Glass
-- Clancy, Tom - The Bear and the Dragon
+- Catford, J.C. - A Practical Introduction to Phonetics
 - Clancy, Tom - Rainbow Six
+- Clancy, Tom - The Bear and the Dragon
 - Clancy, Tom - The Hunt for Red October
 - Crichton, Michael - Jurassic Park
 - Demaree, David - Git For Humans
 - Foer, Joshua - Moonwalking with Einstein: The Art and Science of Remembering Everything
 - Garfinkel, Simson - The Unix-Haters Handbook
 - Garriott, Richard - Explore/Create: My Life in Pursuit of New Frontiers, Hidden Worlds, and the Creative Spark
+- Gibson, William & Sterling, Bruce - The Difference Engine
 - Gibson, William - All Tomorrow's Parties
 - Gibson, William - Count Zero
 - Gibson, William - Idoru
 - Gibson, William - Mona Lisa Overdrive
 - Gibson, William - Neuromancer
 - Gibson, William - Pattern Recognition
-- Gibson, William - The Peripheral
 - Gibson, William - Spook Country
+- Gibson, William - The Peripheral
 - Gibson, William - Virtual Light
 - Gibson, William - Zero History
-- Gibson, William & Sterling, Bruce - The Difference Engine
 - Greene, Brian - The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory
 - Greene, Brian - The Fabric of the Cosmos: Space, Time, and the Texture of Reality
 - Greene, Brian - The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos
@@ -90,11 +90,11 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Smith, Sean - The Internet of Risky Things: Trusting the Devices That Surround Us
 - Stephens, Rod - Essential Algorithms: A Practical Approach to Computer Algorithms
 - Stephenson, Neal - Cryptonomicon
-- Stephenson, Neal - The Diamond Age; Or, A Young Lady's Illustrated Primer
 - Stephenson, Neal - Fall; or, Dodge in Hell
 - Stephenson, Neal - Reamde
 - Stephenson, Neal - Seveneves
 - Stephenson, Neal - Snow Crash
+- Stephenson, Neal - The Diamond Age; Or, A Young Lady's Illustrated Primer
 - Sweigart, Al - Automate the Boring Stuff with Python: Practical Programming for Total Beginners
 - Sylvester, Tynan - Designing Games: A Guide to Engineering Experiences
 - Taylor, Dave & Perry, Brandon - Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, and UNIX Systems
@@ -105,8 +105,8 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Twain, Mark - Adventures of Huckleberry Finn
 - Twain, Mark - The Adventures of Tom Sawyer
 - Tyson, Neil deGrasse - Death by Blackhole: And Other Cosmic Quandaries
-- Tyson, Neil deGrasse - The Pluto Files: The Rise and Fall of America's Favorite Planet
 - Tyson, Neil deGrasse - Space Chronicles: Facing the Ultimate Frontier
+- Tyson, Neil deGrasse - The Pluto Files: The Rise and Fall of America's Favorite Planet
 - van Santen, Rutger, Vermeer, Bram, & Khoi, Djan - 2030: Technology that will change the world
 - Vance, J.D. - Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
 - Walker, Matthew - Why We Sleep: The New Science of Sleep and Dreams
