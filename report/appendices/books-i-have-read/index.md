@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2019.12.26:0955
+updated: 2020.01.16:1540
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -61,6 +61,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Koenig, David - Realityland: True-Life Adventures at Walt Disney World
 - Kondo, Marie - The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
 - Koski, Olivia & Grcevich, Jana - Vacation Guide to the Solar System: Science for the Savvy Space Traveler!
+- Koster, Raph - A Theory of Fun for Game Design
 - Kuhn, Thomas S. -  The Structure of Scientific Revolutions
 - Kurzweil, Ray - The Age of the Intelligent Machines
 - Kurzweil, Ray - The Age of the Spiritual Machines
