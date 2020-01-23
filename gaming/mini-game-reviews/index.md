@@ -3,7 +3,7 @@ category: games
 created: 2018.12.02:1750
 title: Mini Game Reviews
 type: page
-updated: 2019.04.07:1010
+updated: 2020.01.22:2050
 ---
 
 ## Counter-Strike: Global Offensive
@@ -86,6 +86,20 @@ The best part about this remake is that a lot of care was given to every detail 
 
 <figure>
     <img src='/images/mini-game-reviews_resident-evil-2-2019.jpg'>
+</figure>
+
+## StarCraft & StarCraft: Brood War
+
+StarCraft is a difficult game to talk about while completely ignoring its legacy. This is the game that showed that e-sports can be successful, that competitions and tournaments can have hundreds of thousands of people watching. But my relationship with the game exists outside of this area, as it is a game that I only played singleplayer or with my closest friends.
+
+The story of the game is an average story, but it is made memorable by its execution. The way the story intertwines with the missions, and told through the voices of the amazing cast, puts the singleplayer up there with the all-time greats. All of the characters are unique and memorable, with a lot of nuance to the differing sides.
+
+Multiplayer is fun, but due to the lack of customizable controls and my being left-handed, I could never be competitive. This led to most of my multiplayer time being spent playing against the AI, in what was called "comp stomps". The most commonly played map was Big Game Hunters, which is the most memorable RTS map I have ever played.
+
+Going back to this game after so many years has been difficult. The lack of customizable controls makes it difficult for me to get back into, especially after what was allowed in Red Alert 3 and StarCraft 2. But even 20 years later, I can see what I loved about it back then. Blizzard's 2017 remaster of the game did a great job of updating the visuals while leaving everything else the same, preserving what made the game so unique for its time.
+
+<figure>
+    <img src='/images/mini-game-reviews_starcraft.jpg'>
 </figure>
 
 ## Subnautica
