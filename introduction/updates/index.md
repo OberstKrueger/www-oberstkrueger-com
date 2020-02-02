@@ -3,8 +3,33 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2020.01.01:1500
+updated: 2020.02.01:2225
 ---
+
+## 2020.01
+
+In the past years, I have included lists in these updates of the favorite articles I have read that month. As a test for this year, I am aiming to rely less on typical news sites and focus more on academic articles. My favorites will be included still, but there will be less and cross a wider range of time, as journal articles are less time sensitive.
+
+### Favorite Articles
+
+- Barnum, T.C., & Solomon, S.J. (2019). Fight or flight: Integral emotions and violent intentions. *Criminology*, 57(4), 659-686.
+- Hviid, A, Hansen, J.V., Frisch, M., Melbye, M. (2019). Measles, mumps, rubella vaccination and autism: a nationwide cohort study. *Annals of Internal Medicine*, 170(8), 513-520.
+- Jenness, V., Sexton, L, Sumner, J. (2019). Sexual victimization against transgender women in prison: Consent and coercion in context. *Criminology*, 57(4). 603-631.
+- Mercier, H. (2017). How gullible are we? A review of the evidence from psychology and social science. *Review of General Psychology*, 21(2). 103-122.
+- Moghaddam, H.M., Acar, G., Burgess, B., Mathur, A., Huang, D.Y., Feamster, N.,... Narayanan, A. (2019). *Watching you watch: The tracking ecosystem of over-the-top TV streaming devices*. Paper presented at ACM CCS 2019: London, UK.
+- Peer, E., Vosgerau, J., & Acquisti, A. (2013). Reputation as a sufficient condition for data quality on Amazon Mechanical Turk. *Behavior Research Methods*, 46(6), 1023-1031.
+- Sierra-Arévalo, M. (2019). The commemoration of death, organizational memory, and police culture. *Criminology*, 57(4). 632-658.
+- Thomas, K.J., Vogel, M. (2019). Testing a rational choice model of “desistance:” Decomposing changing expectations and changing utilities. (*Criminology*), 57(4). 687-714.
+
+### Books Read
+
+- Koster, Raph - A Theory of Fun for Game Design
+
+### Games Played
+
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [Kentucky Route Zero](https://en.wikipedia.org/wiki/Kentucky_Route_Zero)
+- [Subnautica: Below Zero](https://en.wikipedia.org/wiki/Subnautica)
 
 ## 2019.12
 
