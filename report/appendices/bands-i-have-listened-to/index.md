@@ -3,7 +3,7 @@ category: appendices
 created: 2019.05.16:1535
 title: Bands I Have Listened To
 type: page
-updated: 2020.02.04:1040
+updated: 2020.02.11:1413
 ---
 
 This page is split into two sections. The first section lists which bands I have listened to the complete discography for. The second section are bands that I have sampled, usually by listening to a [greatest hits album](https://en.wikipedia.org/wiki/Greatest_hits_album) or an essentials playlist on Apple Music.
@@ -128,6 +128,7 @@ Note: As of now, this is an incomplete list. I am still working through a list o
 - Manowar
 - Mastodon
 - Megadeth
+- Mogwai
 - Mos Def
 - Mudvayne
 - Nirvana
