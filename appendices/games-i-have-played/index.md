@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2020.01.28:1925
+updated: 2020.02.17:2210
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -194,6 +194,7 @@ updated: 2020.01.28:1925
 - [Age of Conan: Hyborian Adventures](https://en.wikipedia.org/wiki/Age_of_Conan)
 - [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires_(video_game))
 - [Age of Empires II: Age of Kings](https://en.wikipedia.org/wiki/Age_of_Empires_II)
+- [Age of Empires II: Definitive Edition](https://en.wikipedia.org/wiki/Age_of_Empires_II:_Definitive_Edition)
 - [Age of Empires III](https://en.wikipedia.org/wiki/Age_of_Empires_III)
 - [American McGee's Alice](https://en.wikipedia.org/wiki/American_McGee%27s_Alice)
 - [Anarchy Online](https://en.wikipedia.org/wiki/Anarchy_Online)
