@@ -7,7 +7,45 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2020-02-01T22:25:00Z</updated>
+<updated>2020-03-01T19:50:00Z</updated>
+
+<entry>
+<title>Updates For February, 2020</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/202002</id>
+<published>2020-03-01T19:50:00Z</published>
+<updated>2020-03-01T19:50:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2020.02</h2>
+<h3>Favorite Articles</h3>
+<ul>
+<li>Clinton, J.D., Engelhardt, A.M., Trussler, M.J. (2019). Knockout blows or the status quo? Momentum in the 2016 primaries. <em>The Journal of Politics</em>, (81)3, 997-1013.</li>
+<li>Gallozzi, S., Scardia, M., Maris, M.. (2020). Concerns about ground based astronomical observations: A step to safeguard the astronomical sky. ArXiv:2001.10952 [Astro-Ph]. http://arxiv.org/abs/2001.10952</li>
+<li>Hart, C.L., Marvin, C.B., Silver, R., Smith, E.E. (2012). Is cognitive functioning impaired in methamphetamine users? A critical review. <em>Neuropsychopharmacology</em>, 37. 586-608.</li>
+<li>Jang, E., Johnson, M., Burnell, E., Heimerl, K. (2017). Unplanned obsolescence: Hardware and software after the collapse. Paper presented at Proceedings of the 2017 Workshop on Computing Within Limits: Santa Barbara, California, USA.</li>
+<li>Knuth, D.E. (1984). Literate programming. <em>The Computer Journal</em>, 27(2). 97-111.</li>
+<li>Ren, J., Dubois, D.J., Choffnes, D., Mandalari, A.M., Kolcun, R., Haddadi, H. (2019). Information exposure from consumer IoT devices: A multidimensional, network-informed measurement approach. <em>IMC '19: Proceedings of the Internet Measurement Conference</em>, October 2019. 267-279.</li>
+<li>Liu, D., Baumeister, R.F., Yang, C., Hu, B. (2019). Digital communication media use and psychological well-being: A meta-analysis. <em>Journal of Computer-Medicated Communication</em>, 24(5). 259-274.</li>
+<li>Zeraatkar, D., Johnston, B.C., Bartoszko J., Cheung, K., Bala, M.M., Valli, C.,... Dib, R.E. (2019). Effect of lower versus higher red meat intake on cardiometabolic and cancer outcomes: A systematic review of randomized trials. <em>Annals of Internal Medicine</em>, 171(10). 721-731.</li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Stephenson, Neal - Anathem</li>
+<li>Stroustrup, Bjarne - A Tour of C++: 2nd Edition</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Age_of_Empires_II:_Definitive_Edition">Age of Empires II: Definitive Edition</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kentucky_Route_Zero">Kentucky Route Zero</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For January, 2020</title>
