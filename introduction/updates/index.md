@@ -3,8 +3,32 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2020.02.01:2225
+updated: 2020.03.01:1950
 ---
+
+## 2020.02
+
+### Favorite Articles
+
+- Clinton, J.D., Engelhardt, A.M., Trussler, M.J. (2019). Knockout blows or the status quo? Momentum in the 2016 primaries. *The Journal of Politics*, (81)3, 997-1013.
+- Gallozzi, S., Scardia, M., Maris, M.. (2020). Concerns about ground based astronomical observations: A step to safeguard the astronomical sky. ArXiv:2001.10952 [Astro-Ph]. http://arxiv.org/abs/2001.10952
+- Hart, C.L., Marvin, C.B., Silver, R., Smith, E.E. (2012). Is cognitive functioning impaired in methamphetamine users? A critical review. *Neuropsychopharmacology*, 37. 586-608.
+- Jang, E., Johnson, M., Burnell, E., Heimerl, K. (2017). Unplanned obsolescence: Hardware and software after the collapse. Paper presented at Proceedings of the 2017 Workshop on Computing Within Limits: Santa Barbara, California, USA.
+- Knuth, D.E. (1984). Literate programming. *The Computer Journal*, 27(2). 97-111.
+- Ren, J., Dubois, D.J., Choffnes, D., Mandalari, A.M., Kolcun, R., Haddadi, H. (2019). Information exposure from consumer IoT devices: A multidimensional, network-informed measurement approach. *IMC '19: Proceedings of the Internet Measurement Conference*, October 2019. 267-279.
+- Liu, D., Baumeister, R.F., Yang, C., Hu, B. (2019). Digital communication media use and psychological well-being: A meta-analysis. *Journal of Computer-Medicated Communication*, 24(5). 259-274.
+- Zeraatkar, D., Johnston, B.C., Bartoszko J., Cheung, K., Bala, M.M., Valli, C.,... Dib, R.E. (2019). Effect of lower versus higher red meat intake on cardiometabolic and cancer outcomes: A systematic review of randomized trials. *Annals of Internal Medicine*, 171(10). 721-731.
+
+### Books Read
+
+- Stephenson, Neal - Anathem
+- Stroustrup, Bjarne - A Tour of C++: 2nd Edition
+
+### Games Played
+
+- [Age of Empires II: Definitive Edition](https://en.wikipedia.org/wiki/Age_of_Empires_II:_Definitive_Edition)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [Kentucky Route Zero](https://en.wikipedia.org/wiki/Kentucky_Route_Zero)
 
 ## 2020.01
 
