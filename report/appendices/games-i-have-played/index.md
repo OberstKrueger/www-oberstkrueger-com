@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2020.02.17:2210
+updated: 2020.03.20:1045
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -213,6 +213,7 @@ updated: 2020.02.17:2210
 - [The Binding of Isaac](https://en.wikipedia.org/wiki/The_Binding_of_Isaac_(video_game))
 - [BioShock](https://en.wikipedia.org/wiki/BioShock)
 - [BioShock Infinite](https://en.wikipedia.org/wiki/BioShock_Infinite)
+- [Black Mesa](https://en.wikipedia.org/wiki/Black_Mesa_(video_game))
 - [Bloodstained: Ritual of the Night](https://en.wikipedia.org/wiki/Bloodstained:_Ritual_of_the_Night)
 - [Borderlands](https://en.wikipedia.org/wiki/Borderlands_(video_game))
 - [Borderlands 2](https://en.wikipedia.org/wiki/Borderlands_2)
