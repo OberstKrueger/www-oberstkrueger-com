@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1330
 title: Books I Have Read
 type: page
-updated: 2020.02.24:2220
+updated: 2020.03.23:0505
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -73,6 +73,10 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Marx, Karl & Engels, Friedrich - Manifesto of the Communist Party
 - McGuire, Hugh & O'Leary, Brian - Book: A Futurist's Manifesto
 - Merchant, Brian - The One Device: The Secret History of the iPhone
+- Munroe, Randall - How To: Absurd Scientific Advice for Common Real-World Problems
+- Munroe, Randall - Thing Explainer: Complicated Stuff in Simple Words
+- Munroe, Randall - What if?: Serious Scientific Answers to Absurd Hypothetical Questions
+- Munroe, Randall - xkcd: volume 0
 - Nayebi, Fatih - Swift Functional Programming
 - Newport, Cal - Deep Work: Rules for Focused Success in a Distracted World
 - Newport, Cal - Digital Minimalism: Choosing a Focused Life in a Noisy World
