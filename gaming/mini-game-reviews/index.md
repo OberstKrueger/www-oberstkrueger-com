@@ -3,7 +3,7 @@ category: games
 created: 2018.12.02:1750
 title: Mini Game Reviews
 type: page
-updated: 2020.01.22:2050
+updated: 2020.03.24:1605
 ---
 
 ## Counter-Strike: Global Offensive
@@ -18,6 +18,16 @@ Counter-Strike is a game that I still enjoy, although I am nowhere near as good 
 
 <figure>
     <img src='/images/mini-game-reviews_counter-strike-global-offensive.jpg'>
+</figure>
+
+## Dear Esther
+
+Dear Esther is one of the first "walking simulators", and still one of the best. Everything about it is beautifully done, with a wonderful art design, somber haunting music, and a perfect narrator throughout. The underground caves that appear midway through the game are an especially memorable section of the game, with a wonderful dance between the music and the visuals creating an experience unlike most games.
+
+For those who do not like ambiguous artsy stories, Dear Esther might be found lacking. The narrator is both unreliable and appears to be jumping between multiple viewpoints, making it difficult to realize the nature of the story in one playthrough. I have played the game multiple times now, and have learned new details each time that were not presented in my previous playthroughs. The game is short, taking about an hour to complete.
+
+<figure>
+	<img src='/images/mini-game-reviews_dear-esther.jpg'>_
 </figure>
 
 ## Diablo 3
