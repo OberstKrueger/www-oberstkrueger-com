@@ -3,7 +3,7 @@ category: appendices
 created: 2017.08.07:2045
 title: Movies I Have Watched
 type: page
-updated: 2019.12.04:2350
+updated: 2020.03.24:0450
 ---
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
@@ -17,6 +17,7 @@ updated: 2019.12.04:2350
 - [Alice in Wonderland (2010)](https://en.wikipedia.org/wiki/Alice_in_Wonderland_(2010_film))
 - [Alien](https://en.wikipedia.org/wiki/Alien_(film))
 - [Aliens](https://en.wikipedia.org/wiki/Aliens_(film))
+- [Alita: Battle Angel](https://en.wikipedia.org/wiki/Alita:_Battle_Angel)
 - [Amélie](https://en.wikipedia.org/wiki/Amélie)
 - [American Beauty](https://en.wikipedia.org/wiki/American_Beauty_(1999_film))
 - [American History X](https://en.wikipedia.org/wiki/American_History_X)
