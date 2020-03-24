@@ -3,7 +3,7 @@ category: games
 created: 2018.12.02:1750
 title: Mini Game Reviews
 type: page
-updated: 2020.03.24:1605
+updated: 2020.03.24:1645
 ---
 
 ## Counter-Strike: Global Offensive
@@ -27,7 +27,7 @@ Dear Esther is one of the first "walking simulators", and still one of the best.
 For those who do not like ambiguous artsy stories, Dear Esther might be found lacking. The narrator is both unreliable and appears to be jumping between multiple viewpoints, making it difficult to realize the nature of the story in one playthrough. I have played the game multiple times now, and have learned new details each time that were not presented in my previous playthroughs. The game is short, taking about an hour to complete.
 
 <figure>
-	<img src='/images/mini-game-reviews_dear-esther.jpg'>_
+	<img src='/images/mini-game-reviews_dear-esther.jpg'>
 </figure>
 
 ## Diablo 3
