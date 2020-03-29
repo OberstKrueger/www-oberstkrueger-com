@@ -3,8 +3,24 @@ category: games
 created: 2018.12.02:1750
 title: Mini Game Reviews
 type: page
-updated: 2020.03.24:1645
+updated: 2020.03.29:0700
 ---
+
+## Black Mesa
+
+Black Mesa is a game that I waited 15 years for. When it was announced in 2005, I was excited to play it, due to Half-Life being one of my favorite first-person shooters. As time went on, it seemed like the game would never be released. When Crowbar Collective released a version of the game up to but not including the last act of the game (when you explore the planet Xen), I decided to wait until the final version. I wanted to experience the game whole, and not wait years more to finish it.
+
+Half-Life is an important game to me. Not only was the singleplayer experience phenomenal, the multiplayer experience shaped my gaming habits for many years due to mods such as Counter-Strike, Day of Defeat, Sven Co-op, and Team Fortress Classic. I had high expectations for anything that aimed to recreate the original Half-Life's story, as it is so ingrained in my memories. And Black Mesa surpassed even my high expectations.
+
+What makes Black Mesa a brilliant remake is that it is faithful to what worked well in the game, but was not afraid to alter what did not work. There were many small changes to the Black Mesa facility portion of the game that helped improve the flow of the gameplay and injected lore that was introduced later in Half-Life 2. As an example, the characters of Dr. Kleiner and Eli Vance were central to the plot of Half-Life 2, but they were based on the generic scientist models in the original. Black Mesa made them specific characters that you run across, and altered the rest of the scientists to not look like them.
+
+The largest change Black Mesa made to the original was with the planet of Xen. In the original Half-Life, this is a one hour excursion that felt out of place with the rest of the game. The design was simple, the platforming annoying, and the final boss not very fun. Black Mesa changed all of this, and for the better. Xen's scope is now increased, leading to a four hour experience now. Platforming and puzzles are improved, the history of the Vortigaunts is now integrated into the story, and the final boss, while still not perfect, is more fun to fight.
+
+Overall, Black Mesa is a prime example of how to do a remake properly. It is so successful of a remake in my mind that whenever I feel like playing through the series again, I will play Black Mesa instead of the original Half-Life.
+
+<figure>
+    <img src='/images/mini-game-reviews_black-mesa.jpg'>
+</figure>
 
 ## Counter-Strike: Global Offensive
 
