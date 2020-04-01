@@ -3,8 +3,40 @@ category: introduction
 created: 2017.02.27:1700
 title: Updates
 type: page
-updated: 2020.03.01:1950
+updated: 2020.04.01:1345
 ---
+
+## 2020.03
+
+### Mini Game Reviews
+
+In an effort to get back into writing again, I wrote two [mini reviews] for Black Mesa and Dear Esther. Both are games that I enjoyed quite a bit.
+
+### Favorite Articles
+
+- Brailovskaia, J., Ströse, F., Schillack, H, Margraf, J. (2020). Less Facebook use – more well-being and a healthier lifestyle? An experimental intervention study. *Computers in Human Behavior*, 108.
+- Hellewell, J., Abbott, S., Gimma, A., Bosse, N.I., Jarvis, C.I., Russell, T.W.,... Edmunds, W.J. (2020). Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts. *Lancet Global Health*, 8(4). 488-496.
+- Huang, C., Wang, Y., Li, X., Ren, L., Zhao, J., Hu, Y., ... Cao, B. (2020). Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. *The Lancet*, 395. 497-506.
+- Protzko, J., Schooler, J.W. (2019). Kids these days: Why the youth of today seem lacking. *Science Advances*, 5(10).
+- Pung, R., Chiew, C.J., Young, B.E., Chin, S., Chen, M.I.C., Clapham, H.E., ... Lee, V.J.M. (2020). Investigation of three clusters of COVID-19 in Singapore: Implications for surveillance and response measures. *The Lancet*, 395. 1039-1046.
+- Raman, A., Joglekar, S., De Cristofaro, E., Sastry, N., Tyson, G. (2019). Challenges in the decentralised web: The Mastodon case. *IMC '19: Proceedings of the Internet Measurement Confirence*, October 2019. 217-229.
+- Science, M., Johnstone, J., Roth, D.E., Guyatt, G., Loeb, M. (2012). Zinc for the treatment of the common cold: A systematic review and meta-analysis of randomized controlled trials. *Canadian Medical Association Journal*, 184(10). E551-E561.
+- Simoiu, C., Bonneau, J. (2019). "I was told to buy a software or lose my computer. I ignored it": A study of ransomware. Proceedings of the Fifteenth Symposium on Usable Privacy and Security, August 12-13 2019. 155-174.
+
+### Books Read
+
+- Munroe, Randall - How To: Absurd Scientific Advice for Common Real-World Problems
+- Singer, P.W. - LikeWar: The Weaponization of Social Media
+
+### Games Played
+
+- [Black Mesa](https://en.wikipedia.org/wiki/Black_Mesa_(video_game))
+- [Doom Eternal](https://en.wikipedia.org/wiki/Doom_Eternal)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+
+### Movies Watched
+
+- [Alita: Battle Angel](https://en.wikipedia.org/wiki/Alita:_Battle_Angel)
 
 ## 2020.02
 
