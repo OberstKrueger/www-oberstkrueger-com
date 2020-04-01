@@ -7,7 +7,51 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2020-03-01T19:50:00Z</updated>
+<updated>2020-04-01T13:45:00Z</updated>
+
+<entry>
+<title>Updates For March, 2020</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/202003</id>
+<published>2020-04-01T13:45:00Z</published>
+<updated>2020-04-01T13:45:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2020.03</h2>
+<h3>Mini Game Reviews</h3>
+<p>In an effort to get back into writing again, I wrote two [mini reviews] for Black Mesa and Dear Esther. Both are games that I enjoyed quite a bit.</p>
+<h3>Favorite Articles</h3>
+<ul>
+<li>Brailovskaia, J., Ströse, F., Schillack, H, Margraf, J. (2020). Less Facebook use – more well-being and a healthier lifestyle? An experimental intervention study. <em>Computers in Human Behavior</em>, 108.</li>
+<li>Hellewell, J., Abbott, S., Gimma, A., Bosse, N.I., Jarvis, C.I., Russell, T.W.,... Edmunds, W.J. (2020). Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts. <em>Lancet Global Health</em>, 8(4). 488-496.</li>
+<li>Huang, C., Wang, Y., Li, X., Ren, L., Zhao, J., Hu, Y., ... Cao, B. (2020). Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. <em>The Lancet</em>, 395. 497-506.</li>
+<li>Protzko, J., Schooler, J.W. (2019). Kids these days: Why the youth of today seem lacking. <em>Science Advances</em>, 5(10).</li>
+<li>Pung, R., Chiew, C.J., Young, B.E., Chin, S., Chen, M.I.C., Clapham, H.E., ... Lee, V.J.M. (2020). Investigation of three clusters of COVID-19 in Singapore: Implications for surveillance and response measures. <em>The Lancet</em>, 395. 1039-1046.</li>
+<li>Raman, A., Joglekar, S., De Cristofaro, E., Sastry, N., Tyson, G. (2019). Challenges in the decentralised web: The Mastodon case. <em>IMC '19: Proceedings of the Internet Measurement Confirence</em>, October 2019. 217-229.</li>
+<li>Science, M., Johnstone, J., Roth, D.E., Guyatt, G., Loeb, M. (2012). Zinc for the treatment of the common cold: A systematic review and meta-analysis of randomized controlled trials. <em>Canadian Medical Association Journal</em>, 184(10). E551-E561.</li>
+<li>Simoiu, C., Bonneau, J. (2019). "I was told to buy a software or lose my computer. I ignored it": A study of ransomware. Proceedings of the Fifteenth Symposium on Usable Privacy and Security, August 12-13 2019. 155-174.</li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Munroe, Randall - How To: Absurd Scientific Advice for Common Real-World Problems</li>
+<li>Singer, P.W. - LikeWar: The Weaponization of Social Media</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Black_Mesa_(video_game)">Black Mesa</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Doom_Eternal">Doom Eternal</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+</ul>
+<h3>Movies Watched</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Alita:_Battle_Angel">Alita: Battle Angel</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For February, 2020</title>
