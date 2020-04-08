@@ -3,20 +3,20 @@ category: appendices
 created: 2019.05.16:1535
 title: Bands I Have Listened To
 type: page
-updated: 2020.04.08:0905
+updated: 2020.04.08:1000
 ---
 
 This page is split into two sections. The first section lists which bands I have listened to the complete discography for. The second section are bands that I have sampled, usually by listening to a [greatest hits album](https://en.wikipedia.org/wiki/Greatest_hits_album) or an essentials playlist on Apple Music.
 
-Note: As of now, this is an incomplete list. I am still working through a list of artists I know I have listened to, making sure that I have listened to all that is available by them before moving on to the next.
-
 ## Complete Discography
 
+- 65daysofstatic
 - AFI
 - After Forever
 - Amaranthe
 - Amberian Dawn
 - And Then She Came
+- Angelzoom
 - Angtoria
 - Apocalyptica
 - Apoptygma Berzerk
@@ -24,6 +24,8 @@ Note: As of now, this is an incomplete list. I am still working through a list o
 - Arven
 - Atargatis
 - Autumn
+- Avantasia
+- Avenged Sevenfold
 - Ayria
 - Babymetal
 - Bloodparade
@@ -36,9 +38,15 @@ Note: As of now, this is an incomplete list. I am still working through a list o
 - Deltron 3030
 - Diabulus In Musica
 - Diary of Dreams
+- Die Antwoord
+- Disturbed
 - Dream Theater
+- E Nomine
+- Echoterra
+- Edenbridge
 - Elis
 - Eluveitie
+- Elysion
 - Emigrate
 - Emilie Autumn
 - Epica
@@ -51,53 +59,105 @@ Note: As of now, this is an incomplete list. I am still working through a list o
 - How To Destroy Angels
 - Hydria
 - Icon of Coil
+- Imperia
 - Indica
 - Jeff Buckley
 - Juno Reactor
 - Kamelot
 - Kerion
+- KMFDM
+- Krypteria
+- L'ame Immortelle
+- LAB
 - Lacuna Coil
+- Ladytron
 - Leaves' Eyes
 - Led Zeppelin
+- Legenda Aurea
 - Limp Bizkit
 - Lindemann
+- Lindsey Stirling
+- Linga Mortis Orchestra
 - Linkin Park
 - Liquid Sky
 - Lisa Gerrard
+- Liv Kristine
 - Liv Moon
 - Lord of the Lost
+- Lost Ocean
+- Luca Turilli
+- Luca Turilli's Dreamquest
+- Luca Turilli's Rhapsody
+- Luna Aeterna
+- Lunatica
 - Mandragora Scream
 - Manntra
 - MaYaN
+- MDFMK
 - Metallica
+- Midnattsol
 - Miktek
 - Mono Inc.
+- Mortal Love
 - Muse
+- Newsted
 - Nightwish
 - Nine Inch Nails
+- No Doubt
 - Northern Kings
+- Octavia Sperati
 - Omega Lithium
 - Orgy
 - Perpetuate
 - Perturbator
 - Portishead
+- Powerman 5000
+- Pythia
+- Qntal
+- Rage Against The Machine
 - Rammstein
+- Red Hot Chili Peppers
+- ReVamp
+- Rhapsody
+- Richard Cheese
 - Rob Zombie
+- Sarah Brightman
+- Scatman John
+- Scooter
+- Serj Tankian
+- Sirenia
 - Slipknot
+- Sonata Arctica
+- Sophie Ellis-Bextor
 - Static-X
+- Stream of Passion
+- Suicidal Romance
 - Sum 41
 - System of a Down
 - t.A.T.u.
 - Tacere
+- Tarja
+- Tarot
 - Tenacious D
 - The Birthday Massacre
 - The Fatman and Team Fat
 - The Grim Faeries
+- The LoveCrave
+- The Man-Eating Tree
+- The Offspring
+- The Polaroid Truth
+- The Prodigy
+- Theatre of Tragedy
 - Theatres des Vampires
 - Tool
 - Trail of Tears
+- Tristania
 - Turilli/Lione Rhapsody
 - UnSun
+- Unter Null
+- Valerie Gentile
+- Van Canto
+- Velcra
 - Victor Love
 - Violet Sun
 - Voices of Destiny
@@ -109,38 +169,148 @@ Note: As of now, this is an incomplete list. I am still working through a list o
 - Yasmine Hamdan
 - Zola Jesus
 - Zombie Girl
-- 65daysofstatic:
+- Üebermutter
 
 ## Explored
 
+- 311
 - AC/DC
+- Alice in Chains
+- Amanda Somerville
+- Anette Olzon
 - Arch Enemy
 - Bad Religion
 - Beastie Boys
 - Beck
+- Blaqk Audio
+- Blind Guardian
 - Blink 182
 - Brother Firetribe
-- The Cranberries
+- Bullet For My Valentine
+- Combichrist
+- Conflict
+- Damnation Angels
+- Dark Moor
+- Dark Princess
+- Dark Sarah
+- Dave Matthews Band
+- Dawn of Destiny
+- Deathstars
 - Diablo Swing Orchestra
 - Dr. Dre
+- Dragonforce
+- Eminem
+- Eths
+- Evanescence
+- Evenoire
+- Factory of Dreams
+- Fatboy Slim
+- Fear Factory
+- Flowing Tears
 - Foo Fighters
+- Foo Fighters
+- For Selena and Sin
+- Forever Slave
+- Freezepop
 - Funker Vogt
+- Godsmack
+- Goldfrapp
 - Green Day
+- Grimes
+- Gwyllion
+- H.I.M.
+- Halestorm
+- Hammerfall
+- Helalyn Flowers
+- Helloween
 - Hooverphonic
+- Imogen Heap
+- In This Moment
+- Incubus
+- Innocens
+- Iron Maiden
+- Jimmy Eat World
+- John Frusciante
+- Jorn
 - Judas Priest
+- Katra
+- Kill Hannah
+- Killswitch Engage
+- Kingfisher Sky
+- Kiske/Somerville
+- Korn
+- Kraftwerk
+- Lahannya
+- Live
+- London Grammar
+- Lordi
+- Machinae Supremacy
 - Manowar
+- Marilyn Manson
+- Massive Attack
+- MasterCastle
 - Mastodon
 - Megadeth
+- Megahurz
 - Mitski
 - Mogwai
+- Mono
+- Mortemia
 - Mos Def
 - Mudvayne
+- My Chemical Romance
+- Myrkur
+- Nemesea
 - Nirvana
+- Nostra Morte
+- Oomph!
 - Otep
+- Ozzy Osbourne
+- Pain
+- Pantera
+- Papa Roach
 - Paramore
+- Pearl Jam
+- Persephone
 - Project Pitchfork
 - R.E.M.
+- Radiohead
+- Ravenscry
+- Rawkfist
+- Regina Spektor
 - Ronnie James Dio
+- Sabaton
+- Serenity
+- Sevendust
+- Slayer
+- Snoop Dogg
+- Snovonne
 - Staind
+- Stone Sour
 - Stone Temple Pilots
-- 311
+- Tears of Magdalena
+- Tears of Martyr
+- Tegan and Sara
+- The Agonist
+- The Beatles
+- The Cranberries
+- The Dirty Youth
+- The Gathering
+- The Killers
+- The Murder of My Sweet
+- The Sins of Thy Beloved
+- The White Stripes
+- Therion
+- Thy Majestie
+- Tiarra
+- To-Mera
+- To/Die/For
+- Visions of Atlantis
+- VNV Nation
+- Weird Al Yankovic
+- Whyzdom
+- Wildpath
+- Winter in Eden
+- X Japan
+- Xiphea
+- Xystus
