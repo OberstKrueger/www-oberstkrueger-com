@@ -10,7 +10,7 @@ updated: 2020.04.01:1345
 
 ### Mini Game Reviews
 
-In an effort to get back into writing again, I wrote two [mini reviews] for Black Mesa and Dear Esther. Both are games that I enjoyed quite a bit.
+In an effort to get back into writing again, I wrote two [mini reviews](https://krueger.report/gaming/mini-game-reviews/) for Black Mesa and Dear Esther. Both are games that I enjoyed quite a bit.
 
 ### Favorite Articles
 
