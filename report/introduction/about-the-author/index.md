@@ -3,7 +3,7 @@ category: introduction
 created: 2016.02.10:0606
 title: About The Author
 type: page
-updated: 2020.01.11:1155
+updated: 2020.04.09:1520
 ---
 
 ## Current Computing Devices
@@ -43,14 +43,14 @@ Geekbench 5.1 Compute (Metal): [6,326](https://browser.geekbench.com/v5/compute/
 ### Mac Mini
 
 CPU: [Intel Core i7-8700B](https://ark.intel.com/products/134905/Intel-Core-i7-8700B-Processor-12M-Cache-up-to-4-60-GHz-)<br>
-GPU: [Intel UHD Graphics 630](https://en.wikipedia.org/wiki/Intel_Graphics_Technology#Kaby_Lake_Refresh_/_Coffee_Lake)<br>
+GPU: [AMD Radeon RX 570](https://www.amd.com/en/products/graphics/radeon-rx-570)<br>
 RAM: 16 GB 2667 MHz DDR4<br>
 SSD: 512GB Apple SSD<br>
 Peripherals: [LG 27UL600-W](https://www.lg.com/us/monitors/lg-27UL600-W-4k-uhd-led-monitor), [Ducky MIYA Pro Mac](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4285), [Magic Trackpad 2](https://en.wikipedia.org/wiki/Magic_Trackpad_2)
 
 Geekbench 5.1 CPU: [1,230 / 5,618](https://browser.geekbench.com/v5/cpu/989607)<br>
-Geekbench 5.1 Compute (Metal): [2,337](https://browser.geekbench.com/v5/compute/422016)<br>
-Geekbench 5.1 Compute (OpenCL): [5,128](https://browser.geekbench.com/v5/compute/421985)
+Geekbench 5.1 Compute (Metal): [35,421](https://browser.geekbench.com/v5/compute/735313)<br>
+Geekbench 5.1 Compute (OpenCL): [31,530](https://browser.geekbench.com/v5/compute/735318)
 
 ## Current Workspaces
 
