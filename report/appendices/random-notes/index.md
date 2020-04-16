@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.11:1300
 title: Random Notes
 type: page
-updated: 2019.09.08:1200
+updated: 2020.04.15:1800
 ---
 
 The following are random ideas, quotes, or thoughts that I have come across.
@@ -12,7 +12,7 @@ The following are random ideas, quotes, or thoughts that I have come across.
 
 > The obvious choice isn't *always* the best choice, but sometimes, by golly, it *is*.
 >
-> -Eliezer S. Yodkowsky
+> -Eliezer S. Yudkowsky
 
 ## Knowledge
 
