@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.04:1920
 title: Podcasts I Have Listened To
 type: page
-updated: 2018.10.22:1630
+updated: 2020.15:1805
 ---
 
 **Accidental Tech Podcast**: [Site](http://atp.fm)<br>
@@ -41,6 +41,10 @@ A weekly talk show ruminating on exactly what is wrong in the world of Apple and
 **IRL**: [Site](https://irlpodcast.org)<br>
 **Host**: [Veronica Belmont](http://www.veronicabelmont.com)<br>
 Host Veronica Belmont shares real stories of life online – and real talk about the future of the Web. Because online life is real life.
+
+**It Could Happen Here**: [Site](https://itcouldhappenherepod.com)<br>
+**Host**: [Rob Evans](https://en.wikipedia.org/wiki/Rob_Evans_(reporter))<br>
+Boy, politics really has gotten hideous, hasn’t it? And protests seem a lot more violent than they were a couple of years ago. Are things getting worse? Could the U.S.A be on the road to a second civil war? Robert Evans says "Yes!"" and by the time you’ve finished listening to It Could Happen Here, you will too.
 
 **Main Engine Cut Off**: [Site](https://mainenginecutoff.com/podcast)<br>
 **Hosts**: Anthony Colangelo<br>
