@@ -3,7 +3,7 @@ category: appendices
 created: 2017.06.04:1920
 title: Podcasts I Have Listened To
 type: page
-updated: 2020.15:1805
+updated: 2020.15:1810
 ---
 
 **Accidental Tech Podcast**: [Site](http://atp.fm)<br>
@@ -54,7 +54,7 @@ A short, weekly podcast about spaceflight, exploration, policy, and strategy in 
 **Hosts**: [Andy Ihnatko](http://ihnatko.com), [Russell Ivanovic](https://rustyshelf.org), [Florence Ion](http://www.florenceion.com)<br>
 Material is a weekly discussion about the Google and Android universe. Your intrepid hosts try to answer the question, “What holds up the digital world?” The answer, so far, is that it’s Google all the way down.
 
-**The Menu Bar**: [Site](http://www.themenu.bar)<br>
+**The Menu Bar**<br>
 **Hosts**: [Zac Cichy](https://twitter.com/zcichy), [Andrew J. Clark](http://www.andrewjclark.com.au)<br>
 A place to relax, talk tech, and drink.
 
