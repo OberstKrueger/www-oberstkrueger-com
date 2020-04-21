@@ -3,7 +3,7 @@ category: appendices
 created: 2016.11.23:0700
 title: Games I Have Played
 type: page
-updated: 2020.03.20:1045
+updated: 2020.04.21:0635
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -312,6 +312,7 @@ updated: 2020.03.20:1045
 - [Final Fantasy XIV: Stormblood](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood)
 - [Final Fantasy XV](https://en.wikipedia.org/wiki/Final_Fantasy_XV)
 - [Firefall](https://en.wikipedia.org/wiki/Firefall_(video_game))
+- [Florence](https://en.wikipedia.org/wiki/Florence_(video_game))
 - [Fortnite Battle Royale](https://en.wikipedia.org/wiki/Fortnite_Battle_Royale)
 - [FTL: Faster Than Light](https://en.wikipedia.org/wiki/FTL:_Faster_Than_Light)
 - [Game Dev Tycoon](https://en.wikipedia.org/wiki/Game_Dev_Tycoon)
