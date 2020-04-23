@@ -3,7 +3,7 @@ category: games
 created: 2018.12.02:1750
 title: Mini Game Reviews
 type: page
-updated: 2020.03.29:0700
+updated: 2020.04.23:1335
 ---
 
 ## Black Mesa
@@ -56,6 +56,20 @@ Despite improvements and new content that Blizzard has added to the game since l
 
 <figure>
     <img src='/images/mini-game-reviews_diablo-3.jpg'>
+</figure>
+
+## Doom (2016)
+
+Very few games surprise me to the extent that this reboot of Doom has. The last id Software game that I would consider great all the way through was Quake III Arena, and that was released in 1999. Doom 3 was a decent shooter, although such a departure from the original series that it felt like another series, and Rage had great technology and good action, but average everything else. Doom's development history did not help with expectations, as it had been in development since 2007 and had gone through a few reboots before release.
+
+Doom is a back to basics game for the series. The gameplay is straightforward running around and shooting at a very quick pace, just like the original Doom games. There are some new mechanics added on top, but they do not alter the flow of gameplay. The story is present, but self-aware in that while the story presents itself seriously, Doomguy does not care for whats going on and just rushes past it. This is a Doom game afterall, not a series expected to have a deep story. The music also returns to the former metal glory of the original, with a new industrial metal soundtrack by Mick Gordon. The interplay between gameplay and music is something more games should aspire to, with the music always perfectly matching what is going on in the game and pumping you up even more.
+
+Doom is the first id game built without John Carmack's software expertise. Despite the change in leadership in this area, Doom excels in ways most game engines don't. It is one of the first to use Vulkan heavily for rendering, and shows how Vulkan can be a performance improvement over DirectX11 and OpenGL.
+
+This game is one of the finest first-person shooters I've played in a long time. I have already played through it multiple times and expect to give it more playthroughs in the future.
+
+<figure>
+    <img src='/images/mini-game-reviews_doom-2016.jpg'>
 </figure>
 
 ## Gris
