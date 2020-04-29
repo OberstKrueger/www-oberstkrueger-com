@@ -3,7 +3,7 @@ category: games
 created: 2018.12.02:1750
 title: Mini Game Reviews
 type: page
-updated: 2020.04.23:1335
+updated: 2020.04.29:1245
 ---
 
 ## Black Mesa
@@ -70,6 +70,20 @@ This game is one of the finest first-person shooters I've played in a long time.
 
 <figure>
     <img src='/images/mini-game-reviews_doom-2016.jpg'>
+</figure>
+
+## Doom Eternal
+
+Doom Eternal is a game where I have two opinions of it. The first is grading it as a general first-person shooter, in which case it plays well. The combat is fast-paced and tight, the controls are responsive, and there is a lot to do from level to level that it makes for a fun ride. But my second opinion is that it is not a good Doom game, as it deviates from most things that made the previous games so timeless.
+
+When I think of Doom, I think of a game that gives you lots of weapons and expects you to blow your way through the level in whatever manner you please. The levels have a lot of exploration, as you need to find keys to open up the way to the end, which leads to a lot of slower periods of gameplay and backtracking through the worlds. The story is minimal, just enough to give you a reason to do all of this. And there is a rockin' metal soundtrack blasting the entire time.
+
+Doom Eternal skips all this. Encounters are now designed around using a bunch of extra abilities in addition to weapons. These abilities are on timers, which makes it feel more like Destiny than Doom. Level exploration is no longer required, as completing a mission is just a straight corridor through, one fight arena after the other. The only exploration is for finding easter eggs and bonuses, and even these typically do not require much exploration, just looking in the right place at the right time. The story also takes itself seriously now, unlike Doom 2016 which present the story but showed that Doomguy did not care about the shenanigans of humans. Long cutscenes are out of place in a Doom game, yet they are here regularly.
+
+At least Mick Gordon's soundtrack for this game is just as good as the previous entry's, even if the official soundtrack has a less than stellar audio mix.
+
+<figure>
+    <img src='/images/mini-game-reviews_doom-eternal.jpg'>
 </figure>
 
 ## Gris
