@@ -3,10 +3,14 @@ category: games
 created: 2018.12.02:1750
 title: Mini Game Reviews
 type: page
-updated: 2020.04.29:1300
+updated: 2020.04.29:1305
 ---
 
 ## Black Mesa
+
+<figure>
+    <img src='/images/mini-game-reviews_black-mesa.jpg' alt='Screenshot of Black Mesa'>
+</figure>
 
 Black Mesa is a game that I waited 15 years for. When it was announced in 2005, I was excited to play it, due to Half-Life being one of my favorite first-person shooters. As time went on, it seemed like the game would never be released. When Crowbar Collective released a version of the game up to but not including the last act of the game (when you explore the planet Xen), I decided to wait until the final version. I wanted to experience the game whole, and not wait years more to finish it.
 
@@ -18,11 +22,11 @@ The largest change Black Mesa made to the original was with the planet of Xen. I
 
 Overall, Black Mesa is a prime example of how to do a remake properly. It is so successful of a remake in my mind that whenever I feel like playing through the series again, I will play Black Mesa instead of the original Half-Life.
 
-<figure>
-    <img src='/images/mini-game-reviews_black-mesa.jpg' alt='Screenshot of Black Mesa'>
-</figure>
-
 ## Counter-Strike: Global Offensive
+
+<figure>
+    <img src='/images/mini-game-reviews_counter-strike-global-offensive.jpg' alt='Screenshot of Counter-Strike: Global Offensive'>
+</figure>
 
 The first beta of the original Counter-Strike was released back in 1999. I did not play this first version, instead hopping in a few betas later. The original Counter-Strike is a great game, and was a core game that I played throughout most of high school years and into college.
 
@@ -32,21 +36,21 @@ This is emphasized by looking at the game's most popular map: de_dust2. The orig
 
 Counter-Strike is a game that I still enjoy, although I am nowhere near as good as I was back in high school. But it is still fun to play, and something I see myself going back to every so often just to experience it again. Valve's stewardship of the Counter-Strike series is impressive, and I hope that they continue to not make any fundamental changes to the series as a whole. Counter-Strike could easily remain one of the main games that everyone will have played decades into the future, if Valve continues to treat it as it currently does.
 
-<figure>
-    <img src='/images/mini-game-reviews_counter-strike-global-offensive.jpg' alt='Screenshot of Counter-Strike: Global Offensive'>
-</figure>
-
 ## Dear Esther
+
+<figure>
+    <img src='/images/mini-game-reviews_dear-esther.jpg' alt='Screenshot of Dear Esther'>
+</figure>
 
 Dear Esther is one of the first "walking simulators", and still one of the best. Everything about it is beautifully done, with a wonderful art design, somber haunting music, and a perfect narrator throughout. The underground caves that appear midway through the game are an especially memorable section of the game, with a wonderful dance between the music and the visuals creating an experience unlike most games.
 
 For those who do not like ambiguous artsy stories, Dear Esther might be found lacking. The narrator is both unreliable and appears to be jumping between multiple viewpoints, making it difficult to realize the nature of the story in one playthrough. I have played the game multiple times now, and have learned new details each time that were not presented in my previous playthroughs. The game is short, taking about an hour to complete.
 
-<figure>
-	<img src='/images/mini-game-reviews_dear-esther.jpg' alt='Screenshot of Dear Esther'>
-</figure>
-
 ## Diablo 3
+
+<figure>
+    <img src='/images/mini-game-reviews_diablo-3.jpg' alt='Screenshot of Diablo 3'>
+</figure>
 
 Diablo 2 is the quintessential action RPG. Many other games are modeled after what Diablo 2 did well. Of Blizzard's catalog of games, Diablo 2 is the one that I think holds up the best and has few weak points to it. So naturally, Blizzard approached creating a sequel to the game by changing the gameplay, music, and visual style that Diablo 2 had perfected.
 
@@ -54,11 +58,11 @@ There is a lot I dislike about Diablo 3, but there are two main points that crea
 
 Despite improvements and new content that Blizzard has added to the game since launch, they have been unable to turn it around into a game that I can enjoy. It is one of the few games in my life that has put me to sleep before due to how boring it was. This is such a stark contrast to the excitement that Diablo 2 was. Given Blizzard's business moves in recent years, Diablo 3 is the last chance I'll be giving the studio on a game in the Diablo franchise.
 
-<figure>
-    <img src='/images/mini-game-reviews_diablo-3.jpg' alt='Screenshot of Diablo 3'>
-</figure>
-
 ## Doom (2016)
+
+<figure>
+    <img src='/images/mini-game-reviews_doom-2016.jpg' alt='Screenshot of Doom (2016)'>
+</figure>
 
 Very few games surprise me to the extent that this reboot of Doom has. The last id Software game that I would consider great all the way through was Quake III Arena, and that was released in 1999. Doom 3 was a decent shooter, although such a departure from the original series that it felt like another series, and Rage had great technology and good action, but average everything else. Doom's development history did not help with expectations, as it had been in development since 2007 and had gone through a few reboots before release.
 
@@ -68,11 +72,11 @@ Doom is the first id game built without John Carmack's software expertise. Despi
 
 This game is one of the finest first-person shooters I've played in a long time. I have already played through it multiple times and expect to give it more playthroughs in the future.
 
-<figure>
-    <img src='/images/mini-game-reviews_doom-2016.jpg' alt='Screenshot of Doom (2016)'>
-</figure>
-
 ## Doom Eternal
+
+<figure>
+    <img src='/images/mini-game-reviews_doom-eternal.jpg' alt='Screenshot of Doom Eternal'>
+</figure>
 
 Doom Eternal is a game where I have two opinions of it. The first is grading it as a general first-person shooter, in which case it plays well. The combat is fast-paced and tight, the controls are responsive, and there is a lot to do from level to level that it makes for a fun ride. But my second opinion is that it is not a good Doom game, as it deviates from most things that made the previous games so timeless.
 
@@ -82,11 +86,11 @@ Doom Eternal skips all this. Encounters are now designed around using a bunch of
 
 At least Mick Gordon's soundtrack for this game is just as good as the previous entry's, even if the official soundtrack has a less than stellar audio mix.
 
-<figure>
-    <img src='/images/mini-game-reviews_doom-eternal.jpg' alt='Screenshot of Doom Eternal'>
-</figure>
-
 ## Gris
+
+<figure>
+    <img src='/images/mini-game-reviews_gris.jpg' alt='Screenshot of Gris'>
+</figure>
 
 When I was playing through Gris, I was reminded of my first playthrough of Journey. The sense of wonder that the world had combined with the emotional experience of the game to create an unforgettable experience. The game's theme is presented in an abstract manner, but my take on it is dealing with the loss of a loved one. As the main character progresses through the game, she explores the depths of her own depression. Hints of this are seen in the game's achievements, which are named after various stages of grief.
 
@@ -94,11 +98,11 @@ The most memorable part of Gris is its visuals. Ever since the old platformers o
 
 The gameplay of Gris is satisfying, albeit not the highlight of the game. The platform mechanics are lacking compared to other platformers. But since this game is more about the emotional and visual journey, the lack of strong platforming is not something I hold against the game.
 
-<figure>
-    <img src='/images/mini-game-reviews_gris.jpg' alt='Screenshot of Gris'>
-</figure>
-
 ## Heroes of the Storm
+
+<figure>
+    <img src='/images/mini-game-reviews_heroes-of-the-storm.jpg' alt='Screenshot of Heroes of the Storm'>
+</figure>
 
 The MOBA genre is one that I have always liked more in theory than in practice. The original Defense of the Ancients was a regular entry on my list of custom Warcraft 3 maps, and Heroes of Newerth was a favorite at some old-school LAN parties I went to, but the genre has a number of gameplay mechanics that I find more tedious than fun. Last-hitting is the worst of these, but also the concept of carry characters that require protection early in the game to turn around and act as uber strong destroyers late in the game.
 
@@ -110,11 +114,11 @@ One of the negative aspects of development that Blizzard has with World of Warcr
 
 Out of all of the MOBA games available, Heroes of the Storm resonated with me the most. I enjoyed my time playing it, but with Blizzard wrapping down support for the game, as well as major overhauls to some of my favorite characters, I have little desire to ever play the game again. With the MOBA genre starting to lose favor to the battle royale genre, I do not see myself investing heavily in any other MOBA games after having played Heroes of the Storm.
 
-<figure>
-    <img src='/images/mini-game-reviews_heroes-of-the-storm.jpg' alt='Screenshot of Heroes of the Storm'>
-</figure>
-
 ## Quake Champions
+
+<figure>
+    <img src='/images/mini-game-reviews_quake-champions.jpg' alt='Screenshot of Quake Champions'>
+</figure>
 
 The Quake series has always been one of my favorite series of games. Quake 1 and 2 are masterful singleplayer experiences, and Quake 3: Arena is the first PC game that I upgraded my graphics card for. With this background, I was looking forward to playing Quake Champions, despite some reticence over the decision for heroes to have timed special abilities.
 
@@ -124,11 +128,11 @@ Quake Champions is not without flaws. The game's art direction is perfect for a 
 
 Unseating Quake 3: Arena as the king of arena shooters is a difficult task, and Quake Champions does not do that. Still, it is a solid entry into the Quake series and I am happy to have spent time playing it. As of this writing, the game is still in beta, and features are added regularly. The one feature that I miss from the game that will hopefully be added in the future is a Capture The Flag mode. This was my favorite mode to play in Quake 3, and I would love to play it again here.
 
-<figure>
-    <img src='/images/mini-game-reviews_quake-champions.jpg' alt='Screenshot of Quake Champions'>
-</figure>
-
 ## Resident Evil 2 (2019)
+
+<figure>
+    <img src='/images/mini-game-reviews_resident-evil-2-2019.jpg' alt='Screenshot of Resident Evil 2 (2019)'>
+</figure>
 
 Up until this game, the Resident Evil series is one that I have not given a serious try. I briefly played the original Resident Evil 2 back in high school, but I did not get very far with. The remake was not on my radar until I tried the demo due to the rave reviews it was receiving. I was hooked instantly. Since I do not have much experience with the original game, I can only judge it based on what I am experiencing as a new player.
 
@@ -138,11 +142,11 @@ Resident Evil 2 does a great job of making the environment feel dangerous. Areas
 
 The best part about this remake is that a lot of care was given to every detail of the game. Everything about it felt great, and I had a blast playing through both playthroughs of the game. While I do not feel the need to try and get every unlock, I enjoyed my time immensely and recommend anyone into horror and/or survival to give it a go.
 
-<figure>
-    <img src='/images/mini-game-reviews_resident-evil-2-2019.jpg' alt='Screenshot of Resident Evil 2 (2019)'>
-</figure>
-
 ## StarCraft & StarCraft: Brood War
+
+<figure>
+    <img src='/images/mini-game-reviews_starcraft.jpg' alt='Screenshot of StarCraft'>
+</figure>
 
 StarCraft is a difficult game to talk about while completely ignoring its legacy. This is the game that showed that e-sports can be successful, that competitions and tournaments can have hundreds of thousands of people watching. But my relationship with the game exists outside of this area, as it is a game that I only played singleplayer or with my closest friends.
 
@@ -152,11 +156,11 @@ Multiplayer is fun, but due to the lack of customizable controls and my being le
 
 Going back to this game after so many years has been difficult. The lack of customizable controls makes it difficult for me to get back into, especially after what was allowed in Red Alert 3 and StarCraft 2. But even 20 years later, I can see what I loved about it back then. Blizzard's 2017 remaster of the game did a great job of updating the visuals while leaving everything else the same, preserving what made the game so unique for its time.
 
-<figure>
-    <img src='/images/mini-game-reviews_starcraft.jpg' alt='Screenshot of StarCraft'>
-</figure>
-
 ## Subnautica
+
+<figure>
+    <img src='/images/mini-game-reviews_subnautica.jpg' alt='Screenshot of Subnautica'>
+</figure>
 
 This is a game that surpassed my expectations in every way possible. Before Subnautica, the closest thing to a survival game that I played was Metal Gear Solid 3, which was more stealth-action with some light survival elements. The idea of having to "waste time" gathering resources to eat and heal took away from the action, which was more to my liking. The main reason I decided to give Subnautica a chance at all was due to Unknown Worlds Entertainment creating it. They created Natural Selection, one of my all-time favorite online games, so knowing the quality they are capable of pushed me to purchase the game and give it a shot.
 
@@ -166,11 +170,11 @@ Subnautica does a great job of giving hints of the way forward without ever forc
 
 Unknown Worlds Entertainment created an amazing experience in this game. By the end, I was happy to have explored the game so thoroughly, but sad that it was ending. I know it will be hard game to go back and play again, as much of the mystery will be gone. But the memories I gained through my first playthrough are still vivid in my mind, even months after playing. No other game has had exploration that felt as rewarding as this one, nor created a world that will stick in my mind for a long time to come.
 
-<figure>
-    <img src='/images/mini-game-reviews_subnautica.jpg' alt='Screenshot of Subnautica'>
-</figure>
-
 ## Unreal
+
+<figure>
+    <img src='/images/mini-game-reviews_unreal.jpg' alt='Screenshot of Unreal'>
+</figure>
 
 There are three first-person shooters from the 1990s that I consider essential: Doom, Half-Life, and Unreal. All three influenced the genre in ways, while each being their own unique game.
 
@@ -182,11 +186,11 @@ The music of Unreal stands in stark contrast to many other shooters. Alexander B
 
 Doom and Half-Life get a lot of the glory for 1990s first-person shooters, but Unreal is the one that I have put the most time into. Every year or two, I go back and play through it again, and enjoy it just as much as I always have. Few other games match the mood set by Unreal, which is why I do not think I will ever grow tired of it.
 
-<figure>
-    <img src='/images/mini-game-reviews_unreal.jpg' alt='Screenshot of Unreal'>
-</figure>
-
 ## What Remains of Edith Finch
+
+<figure>
+    <img src='/images/mini-game-reviews_what-remains-of-edith-finch.jpg' alt='Screenshot of What Remains of Edith Finch'>
+</figure>
 
 What Remains of Edith Finch is the best narrative walking simulator that I have played.
 
@@ -195,7 +199,3 @@ The game is structured as a series of short stories. Each one is about the life 
 What separates this game from others is its visual acumen. The game is the most visually appealing walking simulator that I have played, with a wide range of graphical styles present. From the realistic visuals of the house, to the comic styles of Barbara's story, to the imaginary dream world of Lewis' story, there is much to enjoy in this department. Additionally, Jeff Russo does an amazing job with creating a soundtrack that fits the overall theme of the stories being told.
 
 Like most games in this genre, it is short. The whole game can be experienced in about 2 hours total, and it is best played through in one sitting.
-
-<figure>
-    <img src='/images/mini-game-reviews_what-remains-of-edith-finch.jpg' alt='Screenshot of What Remains of Edith Finch'>
-</figure>
