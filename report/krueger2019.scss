@@ -73,6 +73,7 @@ em {
 footer {
     margin: 0 auto;
     max-width: ($textWidth / 2);
+    text-align: center;
     width: 75%;
     a:link,
     a:visited,
@@ -80,9 +81,7 @@ footer {
     a:active {
         color: $colorFG;
         font-size: 0.75rem;
-        line-height: $lineHeight * 2;
         margin-bottom: 0;
-        text-align: center;
         text-decoration: none;
     }
 }
