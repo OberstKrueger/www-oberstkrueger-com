@@ -1,9 +1,9 @@
 ---
 category: life
-created: 2017.01.01:1500
+created: 2017-01-01T15:00Z
 title: Years In Review
 type: page
-updated: 2019.12.31:2055
+updated: 2019-12-31T20:55Z
 ---
 
 ## 2019
