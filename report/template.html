@@ -21,7 +21,9 @@
 		<header class="{{.Doc.category}}">
 			<h1><a href="/">{{.Doc.title}}</a></h1>
 		</header>
+		<article class='e-content'>
 {{.Doc.body}}
+		</article>
 		<footer>
 			<a href="{{.URI}}" class="u-url">published: <time class="dt-published" datetime="{{.Doc.created}}">{{.Doc.created}}</time><br />updated: <time class="dt-updated" datetime="{{.Doc.updated}}">{{.Doc.updated}}</time></a>
 		</footer>
