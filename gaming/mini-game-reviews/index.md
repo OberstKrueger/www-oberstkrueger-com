@@ -1,9 +1,9 @@
 ---
 category: games
-created: 2018.12.02:1750
+created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2020.04.29:1305
+updated: 2020-04-29T13:05Z
 ---
 
 ## Black Mesa
