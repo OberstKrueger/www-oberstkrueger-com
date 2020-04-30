@@ -1,9 +1,9 @@
 ---
 category: appendices
-created: 2017.06.11:1300
+created: 2017-06-11T13:00Z
 title: Random Notes
 type: page
-updated: 2020.04.15:1800
+updated: 2020-04-15T18:00Z
 ---
 
 The following are random ideas, quotes, or thoughts that I have come across.

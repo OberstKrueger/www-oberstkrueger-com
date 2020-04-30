@@ -1,9 +1,9 @@
 ---
 category: notes-on-books
-created: 2018.02.22:0320
+created: 2018-02-22T03:20Z
 title: The Half-Life of Facts
 type: page
-updated: 2018.02.22:0320
+updated: 2018-02-22T03:20Z
 ---
 
 **Title**: The Half-Life of Facts: Why Everything We Know Has an Expiration Date<br>

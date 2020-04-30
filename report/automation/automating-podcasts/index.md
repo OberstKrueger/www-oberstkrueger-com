@@ -1,9 +1,9 @@
 ---
 category: automation
-created: 2018.10.17:0030
+created: 2018-10-17T00:30Z
 title: Automating Podcasts
 type: page
-updated: 2018.10.17:0030
+updated: 2018-10-17T00:30Z
 ---
 
 I got into podcasts while attending college. Back then, I listened to a small number of podcasts through my first gen iPhone. Due to limited monthly data plans and slow [EDGE](https://en.wikipedia.org/wiki/Enhanced_Data_Rates_for_GSM_Evolution) download speeds, all of my podcasts were downloaded in iTunes and synced to the iPhone whenever it was plugged in.  This kept me with a steady supply of podcasts to listen to while at the gym or driving.

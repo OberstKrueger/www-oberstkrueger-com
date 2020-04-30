@@ -1,9 +1,9 @@
 ---
 category: health
-created: 2016.03.27:1230
+created: 2016-03-27T12:30Z
 title: Tracking Sleep
 type: page
-updated: 2018.07.21:0005
+updated: 2018-07-21T00:05Z
 ---
 
 While much of the focus on the [Apple Watch](https://www.apple.com/watch/) has centered around notifications and interactions between it and the phone, what interests me most about the device is using it for new tasks that the [iPhone](https://www.apple.com/iphone/) and my [Mac Mini](https://www.apple.com/mac-mini/) can not do. The big area that the Apple Watch can do that the other devices can not is health tracking.

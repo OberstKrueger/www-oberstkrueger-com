@@ -1,9 +1,9 @@
 ---
 category: introduction
-created: 2016.02.10:0606
+created: 2016-02-10T06:06Z
 title: About The Author
 type: page
-updated: 2020.04.09:1520
+updated: 2020-04-09T15:20Z
 ---
 
 ## Current Computing Devices

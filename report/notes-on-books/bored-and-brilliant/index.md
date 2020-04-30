@@ -1,9 +1,9 @@
 ---
 category: notes-on-books
-created: 2017.11.12:1650
+created: 2017-11-12T16:50Z
 title: Bored and Brilliant
 type: page
-updated: 2017.11.12:1650
+updated: 2017-11-12T16:50Z
 ---
 
 **Title**: Bored and Brilliant: How Spacing Out Can Unlock Your Most Productive and Creative Self<br>

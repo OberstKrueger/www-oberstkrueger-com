@@ -1,9 +1,9 @@
 ---
 category: health
-created: 2017.03.18:1945
+created: 2017-03-18T19:45Z
 title: Exercise Routine
 type: page
-updated: 2017.09.01:0545
+updated: 2017-09-01T05:45Z
 ---
 
 ## Current Schedule

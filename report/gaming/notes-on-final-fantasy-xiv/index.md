@@ -1,9 +1,9 @@
 ---
 category: gaming
-created: 2017.07.24:1700
+created: 2017-07-24T17:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2019.05.29:1145
+updated: 2019-05-29T11:45Z
 ---
 
 ## Trials

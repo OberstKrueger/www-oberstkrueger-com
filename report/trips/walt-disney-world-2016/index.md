@@ -1,9 +1,9 @@
 ---
 category: trips
-created: 2017.08.14:1100
+created: 2017-08-14T11:00Z
 title: Walt Disney World - 2016
 type: page
-updated: 2018.04.12:0040
+updated: 2018-04-12T00:40Z
 ---
 
 ### The Grand Floridian and Boardwalk Villas

@@ -1,9 +1,9 @@
 ---
 category: appendices
-created: 2019.05.16:1535
+created: 2019-05-16T15:35Z
 title: Bands I Have Listened To
 type: page
-updated: 2020.04.27:0625
+updated: 2020-04-27T06:25Z
 ---
 
 This page is split into two sections. The first section lists which bands I have listened to the complete discography for. The second section are bands that I have sampled, usually by listening to a [greatest hits album](https://en.wikipedia.org/wiki/Greatest_hits_album) or an essentials playlist on Apple Music.

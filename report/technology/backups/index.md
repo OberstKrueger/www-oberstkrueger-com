@@ -1,9 +1,9 @@
 ---
 category: technology
-created: 2016.11.17:0400
+created: 2016-11-17T04:00Z
 title: Backups
 type: page
-updated: 2017.09.01:0545
+updated: 2017-09-01T05:45Z
 ---
 
 It has been over 15 years since I last experienced a catastrophic data failure on any of my computers. When this happened, I lost most of the files that were important to me. I did not have any real [backup](https://en.wikipedia.org/wiki/Backup) plan in place, and managed to recover just a few that happened to be saved on other machines.

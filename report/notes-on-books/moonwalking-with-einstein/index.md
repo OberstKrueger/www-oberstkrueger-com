@@ -1,9 +1,9 @@
 ---
 category: notes-on-books
-created: 2018.01.02:1130
+created: 2018-01-02T11:30Z
 title: Moonwalking With Einstein
 type: page
-updated: 2018.01.02:1130
+updated: 2018-01-02T11:30Z
 ---
 
 **Title**: Moonwalking with Einstein: The Art and Science of Remembering Everything<br>

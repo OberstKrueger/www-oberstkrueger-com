@@ -1,9 +1,9 @@
 ---
 category: introduction
-created: 2017.06.20:1615
+created: 2017-06-20T16:15Z
 title: Hello, world!
 type: page
-updated: 2017.09.01:0545
+updated: 2017-09-01T05:45Z
 ---
 
 Hello! My name is Paul Krueger, and welcome to my little piece of the [intertubes](http://en.wiktionary.org/wiki/Intertubes).

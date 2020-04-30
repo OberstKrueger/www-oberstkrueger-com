@@ -1,9 +1,9 @@
 ---
 category: appendices
-created: 2017.06.04:1920
+created: 2017-06-04T19:20Z
 title: Podcasts I Have Listened To
 type: page
-updated: 2020.15:1810
+updated: 2020-04-15T18:10Z
 ---
 
 **Accidental Tech Podcast**: [Site](http://atp.fm)<br>

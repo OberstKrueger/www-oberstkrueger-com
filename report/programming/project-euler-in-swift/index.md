@@ -1,9 +1,9 @@
 ---
 category: programming
-created: 2017.04.06:0845
+created: 2017-04-06T08:45Z
 title: Project Euler In Swift
 type: page
-updated: 2018.05.02:0400
+updated: 2018-05-02T04:00Z
 ---
 
 My favorite way to learn a new programming language is using problems from [Project Euler](https://projecteuler.net). These problems are largely math problems, with a smattering of cryptography and other such topics. Many of the problems can be brute forced, but even on modern CPUs, these can take minutes or hours to solve. To truly solve the problem, one must come up with an efficient algorithm, and most are solvable in only a few seconds of time.

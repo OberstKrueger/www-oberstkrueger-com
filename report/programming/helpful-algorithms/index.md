@@ -1,9 +1,9 @@
 ---
 category: programming
-created: 2017.07.02:1915
+created: 2017-07-02T19:15Z
 title: Helpful Algorithms
 type: page
-updated: 2018.01.25:0315
+updated: 2018-01-25T03:15Z
 ---
 
 ## Greatest Common Divisor

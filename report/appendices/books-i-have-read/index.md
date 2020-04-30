@@ -1,9 +1,9 @@
 ---
 category: appendices
-created: 2017.06.11:1330
+created: 2017-06-11T13:30Z
 title: Books I Have Read
 type: page
-updated: 2020.04.25:0835
+updated: 2020-04-25T08:35Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.

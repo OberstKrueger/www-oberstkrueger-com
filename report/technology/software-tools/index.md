@@ -1,9 +1,9 @@
 ---
 category: technology
-created: 2017.02.27:1700
+created: 2017-02-27T17:00Z
 title: Software Tools
 type: page
-updated: 2018.07.20:2355
+updated: 2018-07-20T23:55Z
 ---
 
 Choosing the right software for the job can be a painstaking process. On all of the major platforms, there is a plethora of tools available for most tasks. Picking the first thing that comes along without evaluating all of the options might save some time up front, but it will lead to headaches further on down the line.

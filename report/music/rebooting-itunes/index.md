@@ -1,9 +1,9 @@
 ---
 category: music
-created: 2017.11.06:0805
+created: 2017-11-06T08:05Z
 title: Rebooting iTunes
 type: page
-updated: 2018.04.12:0030
+updated: 2018-04-12T00:30Z
 ---
 
 Sometime around 2003 or 2004, I received my first [iPod](https://en.wikipedia.org/wiki/IPod). This was the first piece of Apple hardware that I owned, although it was not my first experience with the Apple ecosystem. The iPod also introduced me to [iTunes](https://en.wikipedia.org/wiki/ITunes), which ever since has been my primary music application.

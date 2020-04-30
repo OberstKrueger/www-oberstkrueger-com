@@ -1,9 +1,9 @@
 ---
 category: gaming
-created: 2018.06.30:1805
+created: 2018-06-30T18:05Z
 title: The Games of Tomorrow Corporation
 type: page
-updated: 2018.06.30:1805
+updated: 2018-06-30T18:05Z
 ---
 
 ## World of Goo

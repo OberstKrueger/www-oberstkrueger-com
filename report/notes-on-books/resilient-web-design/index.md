@@ -1,9 +1,9 @@
 ---
 category: notes-on-books
-created: 2017.10.16:1100
+created: 2017-10-16T11:00Z
 title: Resilient Web Design
 type: page
-updated: 2017.10.16:1335
+updated: 2017-10-16T13:35Z
 ---
 
 **Title**: Resilient Web Design<br>

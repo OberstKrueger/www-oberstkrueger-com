@@ -1,9 +1,9 @@
 ---
 category: notes-on-books
-created: 2017.10.21:0615
+created: 2017-10-21T06:15Z
 title: Crash Override
 type: page
-updated: 2017.10.21:0615
+updated: 2017-10-21T06:15Z
 ---
 
 **Title**: Crash Override: How Gamergate (Nearly) Destroyed My Life, and How We Can Win the Fight Against Online Hate<br>

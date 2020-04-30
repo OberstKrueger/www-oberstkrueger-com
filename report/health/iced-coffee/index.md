@@ -1,9 +1,9 @@
 ---
 category: health
-created: 2017.05.14:0845
+created: 2017-05-14T08:45Z
 title: Iced Coffee
 type: page
-updated: 2017.09.01:0545
+updated: 2017-09-01T05:45Z
 ---
 
 With the warm summer months returning, it is time to write about my favorite summer drink: iced coffee.

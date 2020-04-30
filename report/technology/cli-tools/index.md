@@ -1,9 +1,9 @@
 ---
 category: technology
-created: 2018.04.25:0325
+created: 2018-04-25T03:25Z
 title: CLI Tools
 type: page
-updated: 2018.07.19:1535
+updated: 2018-07-19T15:35Z
 ---
 
 For most people, a [command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) is a product of a bygone era of computing. Computer users up through the 1990s had to be comfortable with a command-line in either [DOS](https://en.wikipedia.org/wiki/DOS) or [Unix](https://en.wikipedia.org/wiki/Unix) forms, but since then, [graphical interfaces](https://en.wikipedia.org/wiki/Graphical_user_interface) have been how most people interact with a computer. This is emphasized in many modern devices like smartphones and tablets where a command-line interface would be difficult to use due to the onscreen keyboard.

@@ -1,9 +1,9 @@
 ---
 category: programming
-created: 2017.08.26:1615
+created: 2017-08-26T16:15Z
 title: Scripting With Swift
 type: page
-updated: 2018.04.25:0205
+updated: 2018-04-25T02:05Z
 ---
 
 One of the strengths of any [Unix](https://en.wikipedia.org/wiki/Unix)-based operating system is the ability to automate it using custom scripts. A typical script is created using [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) or [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) and run through the terminal or automated using something like [systemd](https://en.wikipedia.org/wiki/Systemd) or [launchd](https://en.wikipedia.org/wiki/Launchd).

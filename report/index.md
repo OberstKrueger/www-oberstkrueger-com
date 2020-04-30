@@ -1,9 +1,9 @@
 ---
 category: root
-created: 2016.11.05:1300
+created: 2016-11-05T13:00Z
 title: The Krueger Report
 type: index
-updated: 2019.05.16:1535
+updated: 2019-05-16T15:35Z
 ---
 
 ## Introduction

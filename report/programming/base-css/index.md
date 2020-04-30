@@ -1,9 +1,9 @@
 ---
 category: programming
-created: 2017.08.06:1745
+created: 2017-08-06T17:45Z
 title: base-css
 type: page
-updated: 2018.04.12:0030
+updated: 2018-04-12T00:30Z
 ---
 
 I have never been keen to using larger full-featured web frameworks like [Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)). While Bootstrap provides a lot of advanced features, CSS Has something that I have always enjoyed crafting by hand. At the same time, most of my projects start with me taking some boilerplate from previous projects and then building on top of that. Up until now, I have not have a specific source of this boilerplate that I pulled from. To rectify this, I created base-css.

@@ -1,9 +1,9 @@
 ---
 category: life
-created: 2017.11.12:0800
+created: 2017-11-12T08:00Z
 title: Selecting Movies
 type: page
-updated: 2018.04.12:0025
+updated: 2018-04-12T00:25Z
 ---
 
 One of my goals in life is to not fall into a rut. I do not want to be that person who listens to the same music as when they were growing up, reads the same books over and over, or watches the same television shows and movies.

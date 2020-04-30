@@ -1,9 +1,9 @@
 ---
 category: technology
-created: 2018.08.28:1730
+created: 2018-08-28T17:30Z
 title: Simplifying the Smartphone
 type: page
-updated: 2018.08.28:1740
+updated: 2018-08-28T17:40Z
 ---
 
 In April of 2017, a startup called [Siempo aimed to create a smartphone designed around not being a distraction](https://medium.com/@getsiempo/siempo-experiences-a-sneak-peak-f01ca74056e6). The idea they presented was intriguing and introduced some features that were unheard of in any smartphone.

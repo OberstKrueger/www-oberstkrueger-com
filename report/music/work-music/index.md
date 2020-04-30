@@ -1,9 +1,9 @@
 ---
 category: life
-created: 2016.04.25:0045
+created: 2016-04-25T00:45Z
 title: Work Music
 type: page
-updated: 2018.05.09:0230
+updated: 2018-05-09T02:30Z
 ---
 
 Music is an integral part of how I work. Whenever I am working on a task, music is playing in the background.
