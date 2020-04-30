@@ -74,7 +74,11 @@ footer {
     margin: 0 auto;
     max-width: ($textWidth / 2);
     width: 75%;
-    p {
+    a:link,
+    a:visited,
+    a:hover,
+    a:active {
+        color: $colorFG;
         font-size: 0.75rem;
         line-height: $lineHeight * 2;
         margin-bottom: 0;
