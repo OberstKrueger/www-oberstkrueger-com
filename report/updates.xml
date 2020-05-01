@@ -7,7 +7,65 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2020-04-01T13:45:00Z</updated>
+<updated>2020-05-01T16:45Z</updated>
+
+<!--
+<entry>
+<title>Updates For !!!!</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/!!!!</id>
+<published>!!!!</published>
+<updated>!!!!</updated>
+<content type="html">
+<![CDATA[
+!!!!
+]]>
+</content>
+</entry>
+-->
+
+<entry>
+<title>Updates For April 2020</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/202004</id>
+<published>2020-05-01T16:45Z</published>
+<updated>2020-05-01T16:45Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2020.04</h2>
+<h3>Page Updates</h3>
+<p>When I rebooted my then iTunes library, I created a list of every band that I had in the library. My intent was to go back through this list slowly, listen to bands again, and as I did, add them to <a href="https://krueger.report/appendices/bands-i-have-listened-to/">Bands I Have Listened To</a>. This was an incredibly slow process. To rectify this, I went down the list and added all of the bands I have listened to in some form to their appropriate spot. There are some bands that I am sure I have missed, but it is a much more accurate list now.</p>
+<p>My <a href="https://krueger.report/appendices/books-i-have-read/">running list of books</a> that I have read was updated to be categorized instead of a straight list. The overarching classes are based on the Dewey Decimal System, although I split Philosophy and Psychology into their own categories. With the intent of trying to stay well-rounded, knowing which categories I read heavy in and which I don't will be helpful.</p>
+<h3>Favorite Articles</h3>
+<ul>
+<li>Ahuja, N.K. (2013). "It feels good to be measured": Clinical role-play, Walker Percy, and the tingles. <em>Perspectives in Biology and Medicine</em>, 56(3). 442-451.</li>
+<li>Fredborg, B., Clark, J., Smith, S.D. (2017). An examination of personality traits associated with Autonomous Sensory Meridian Response (ASMR). <em>Frontiers in Psychology</em>, 8:247.</li>
+<li>Ghinai, I., McPherson, T.D., Hunter, J.C., Kirking, H.L., Christiansen, D., Rubin, R.,... Layden, J.E. (2020). First known person-to-person transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in the USA. <em>The Lancent</em>, 395. 1137-1144.</li>
+<li>Holshue, M.L., Debolt, C., Lindquist, S., Lofy, K.H., Wiesman, J., Bruce, H .,... Pillai, S.K. First case of 2019 novel coronavirus in the United States. <em>The New England Journal of Medicine</em>, 382(10). 929-936.</li>
+<li>Kahng, A., Lee, M.K., Noothigattu, R., Procaccia, A.D., Psomas, A. (2019). Statistical foundations of virtual democracy. <em>International Conference on Machine Learning 2019</em>, June 2019. 3173-3182.</li>
+<li>Knobloch, F., Hanssen, S.V., Lam, A., Pollitt, H., Salas, P., Chewpreecha, U., ..., Mercure, J.F. (2020). Net emission reductions from electric cars and heat pumps in 59 world regions over time. <em>Nature Sustainability</em>. https://doi.org/10.1038/s41893-020-0488-7.</li>
+<li>Lochte, B.C., Guillory, S.A., Richard, C.A.H., Kelley, W.M. (2018). An fMRI investigation of the neural correlates underlying the autonomous sensory meridian response (ASMR). <em>BioImpacts</em>, 8(4). 295-304.</li>
+<li>Voelter, M., Warmer, J., Kolb, B. (2015). Projecting a modular future. <em>IEEE Software</em>, 32(5). 46-52.</li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Penny, Laurie - Everything Belongs to the Future</li>
+<li>Pynchon, Thomas - V.</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Florence_(video_game)">Florence</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For March, 2020</title>

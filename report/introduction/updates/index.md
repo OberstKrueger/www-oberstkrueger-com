@@ -3,8 +3,37 @@ category: introduction
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2020-04-01T13:45Z
+updated: 2020-05-01T16:45Z
 ---
+
+## 2020.04
+
+### Page Updates
+
+When I rebooted my then iTunes library, I created a list of every band that I had in the library. My intent was to go back through this list slowly, listen to bands again, and as I did, add them to [Bands I Have Listened To](https://krueger.report/appendices/bands-i-have-listened-to/). This was an incredibly slow process. To rectify this, I went down the list and added all of the bands I have listened to in some form to their appropriate spot. There are some bands that I am sure I have missed, but it is a much more accurate list now.
+
+My [running list of books](https://krueger.report/appendices/books-i-have-read/) that I have read was updated to be categorized instead of a straight list. The overarching classes are based on the Dewey Decimal System, although I split Philosophy and Psychology into their own categories. With the intent of trying to stay well-rounded, knowing which categories I read heavy in and which I don't will be helpful.
+
+### Favorite Articles
+
+- Ahuja, N.K. (2013). "It feels good to be measured": Clinical role-play, Walker Percy, and the tingles. *Perspectives in Biology and Medicine*, 56(3). 442-451.
+- Fredborg, B., Clark, J., Smith, S.D. (2017). An examination of personality traits associated with Autonomous Sensory Meridian Response (ASMR). *Frontiers in Psychology*, 8:247.
+- Ghinai, I., McPherson, T.D., Hunter, J.C., Kirking, H.L., Christiansen, D., Rubin, R.,... Layden, J.E. (2020). First known person-to-person transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in the USA. *The Lancent*, 395. 1137-1144.
+- Holshue, M.L., Debolt, C., Lindquist, S., Lofy, K.H., Wiesman, J., Bruce, H .,... Pillai, S.K. First case of 2019 novel coronavirus in the United States. *The New England Journal of Medicine*, 382(10). 929-936.
+- Kahng, A., Lee, M.K., Noothigattu, R., Procaccia, A.D., Psomas, A. (2019). Statistical foundations of virtual democracy. *International Conference on Machine Learning 2019*, June 2019. 3173-3182.
+- Knobloch, F., Hanssen, S.V., Lam, A., Pollitt, H., Salas, P., Chewpreecha, U., ..., Mercure, J.F. (2020). Net emission reductions from electric cars and heat pumps in 59 world regions over time. *Nature Sustainability*. https://doi.org/10.1038/s41893-020-0488-7.
+- Lochte, B.C., Guillory, S.A., Richard, C.A.H., Kelley, W.M. (2018). An fMRI investigation of the neural correlates underlying the autonomous sensory meridian response (ASMR). *BioImpacts*, 8(4). 295-304.
+- Voelter, M., Warmer, J., Kolb, B. (2015). Projecting a modular future. *IEEE Software*, 32(5). 46-52.
+
+### Books Read
+
+- Penny, Laurie - Everything Belongs to the Future
+- Pynchon, Thomas - V.
+
+### Games Played
+
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [Florence](https://en.wikipedia.org/wiki/Florence_(video_game))
 
 ## 2020.03
 
