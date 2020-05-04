@@ -3,7 +3,7 @@ category: appendices
 created: 2019-05-16T15:35Z
 title: Bands I Have Listened To
 type: page
-updated: 2020-05-03T20:30Z
+updated: 2020-05-04T13:30Z
 ---
 
 This page is split into two sections. The first section lists which bands I have listened to the complete discography for. The second section are bands that I have sampled, usually by listening to a [greatest hits album](https://en.wikipedia.org/wiki/Greatest_hits_album) or an essentials playlist on Apple Music.
@@ -131,6 +131,7 @@ This page is split into two sections. The first section lists which bands I have
 - Sonata Arctica
 - Sophie Ellis-Bextor
 - Static-X
+- Stoneburner
 - Stream of Passion
 - Suicidal Romance
 - Sum 41
