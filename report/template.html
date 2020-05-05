@@ -17,6 +17,16 @@
 	<link rel="alternate" type="application/rss+xml" title="The Krueger Report" href="/updates.xml" />
 </head>
 <body class="{{.Doc.type}}">
+	{{if .PathMatches "/"}}
+	<main>
+		<header>
+			<h1><a href="/">{{.Doc.title}}</a></h1>
+		</header>
+{{.Doc.body}}
+		<footer>
+			<a href="{{.URI}}" class="u-url">published: <time class="dt-published" datetime="{{.Doc.created}}">{{.Doc.created}}</time><br />updated: <time class="dt-updated" datetime="{{.Doc.updated}}">{{.Doc.updated}}</time></a>
+		</footer>
+	{{else}}
 	<main class="h-entry">
 		<header class="{{.Doc.category}}">
 			<h1 class='p-name'><a href="/">{{.Doc.title}}</a></h1>
@@ -27,6 +37,7 @@
 		<footer>
 			<a href="{{.URI}}" class="u-url">published: <time class="dt-published" datetime="{{.Doc.created}}">{{.Doc.created}}</time><br />updated: <time class="dt-updated" datetime="{{.Doc.updated}}">{{.Doc.updated}}</time></a>
 		</footer>
+	{{end}}
 	</main>
 </body>
 </html>
