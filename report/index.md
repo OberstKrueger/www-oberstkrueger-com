@@ -3,7 +3,7 @@ category: root
 created: 2016-11-05T13:00Z
 title: The Krueger Report
 type: index
-updated: 2019-05-16T15:35Z
+updated: 2020-05-05T18:30Z
 ---
 
 ## Introduction
@@ -69,14 +69,6 @@ updated: 2019-05-16T15:35Z
 
 - [Walt Disney World - 2016](/trips/walt-disney-world-2016)
 - [Solar Eclipse - 2017](/trips/solar-eclipse-2017)
-
-## Notes On Books
-
-- [Bored and Brilliant](/notes-on-books/bored-and-brilliant)
-- [Crash Override](/notes-on-books/crash-override)
-- [The Half-Life of Facts](/notes-on-books/the-half-life-of-facts)
-- [Moonwalking With Einstein](/notes-on-books/moonwalking-with-einstein)
-- [Resilient Web Design](/notes-on-books/resilient-web-design)
 
 ## Appendices
 
