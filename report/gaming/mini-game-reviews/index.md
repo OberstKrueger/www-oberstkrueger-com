@@ -3,7 +3,7 @@ category: games
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2020-04-29T13:05Z
+updated: 2020-05-07T10:10Z
 ---
 
 ## Black Mesa
@@ -85,6 +85,18 @@ When I think of Doom, I think of a game that gives you lots of weapons and expec
 Doom Eternal skips all this. Encounters are now designed around using a bunch of extra abilities in addition to weapons. These abilities are on timers, which makes it feel more like Destiny than Doom. Level exploration is no longer required, as completing a mission is just a straight corridor through, one fight arena after the other. The only exploration is for finding easter eggs and bonuses, and even these typically do not require much exploration, just looking in the right place at the right time. The story also takes itself seriously now, unlike Doom 2016 which present the story but showed that Doomguy did not care about the shenanigans of humans. Long cutscenes are out of place in a Doom game, yet they are here regularly.
 
 At least Mick Gordon's soundtrack for this game is just as good as the previous entry's, even if the official soundtrack has a less than stellar audio mix.
+
+## Florence
+
+<figure>
+    <img src='/images/mini-game-reviews_florence.jpg' alt='Screenshot of Florence'>
+</figure>
+
+Florence is a very different game from most of what else is written on this page. It is a game with little gameplay, instead being focused on the story. It can be completed in about half an hour, with little reason to replay it. Even the story is about a normal relationship that many people will have experienced in their own lives. No epic tale, no huge moral to the story.
+
+But even as a "bite-size game-like experience", it is worth checking out. What Florence does, it does well. The story is told in a minimal style through a hand-drawn storybook aesthetic. The soundtrack fits the light-hearted nature of the visuals. It is not the most memorable soundtrack, but it isn't bad either.
+
+Beyond that, there is not much to say about the game. A short review for a short game, but a positive one.
 
 ## Gris
 
