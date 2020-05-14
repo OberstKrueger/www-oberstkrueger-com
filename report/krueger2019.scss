@@ -17,6 +17,7 @@ $textJustify: 32rem;
 $textWidth: 40rem;
 
 $imgWidth: 64rem;
+$textLongest: 21.5rem;
 
 /*
     ELEMENTS
@@ -72,9 +73,8 @@ em {
 
 footer {
     margin: 0 auto;
-    max-width: ($textWidth / 2);
+    max-width: $textLongest;
     text-align: center;
-    width: 75%;
     a:link,
     a:visited,
     a:hover,
@@ -319,7 +319,7 @@ video {
         border-bottom: 0.0625rem solid $colorFG;
         border-top: 0.0625rem solid $colorFG;
         margin: ($lineHeight + rem) auto;
-        max-width: 21.5rem; // Calculated based on longest item of index
+        max-width: $textLongest; // Calculated based on longest item of index
         &:first-of-type {
             margin-top: ($lineHeight * 2rem);
         }
