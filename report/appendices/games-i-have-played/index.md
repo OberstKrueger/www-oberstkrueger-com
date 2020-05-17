@@ -3,7 +3,7 @@ category: appendices
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2020-04-21T06:35Z
+updated: 2020-05-17T03:40Z
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -483,6 +483,7 @@ updated: 2020-04-21T06:35Z
 - [Transistor](https://en.wikipedia.org/wiki/Transistor_(video_game))
 - [Tribes 2](https://en.wikipedia.org/wiki/Tribes_2)
 - [Tron 2.0](https://en.wikipedia.org/wiki/Tron_2.0)
+- [Tyranny](https://en.wikipedia.org/wiki/Tyranny_(video_game))
 - [Unreal](https://en.wikipedia.org/wiki/Unreal_(1998_video_game))
 - [Unreal: Return to Na Pali](https://en.wikipedia.org/wiki/Unreal_(1998_video_game)#Expansion_plot)
 - [Unreal II: The Awakening](https://en.wikipedia.org/wiki/Unreal_II:_The_Awakening)
