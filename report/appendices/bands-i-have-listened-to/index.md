@@ -3,7 +3,7 @@ category: appendices
 created: 2019-05-16T15:35Z
 title: Bands I Have Listened To
 type: page
-updated: 2020-05-12T09:45Z
+updated: 2020-05-18T02:35Z
 ---
 
 This page is split into two sections. The first section lists which bands I have listened to the complete discography for. The second section are bands that I have sampled, usually by listening to a [greatest hits album](https://en.wikipedia.org/wiki/Greatest_hits_album) or an essentials playlist on Apple Music.
@@ -71,6 +71,7 @@ This page is split into two sections. The first section lists which bands I have
 - L'ame Immortelle
 - LAB
 - Lacuna Coil
+- Lady Sovereign
 - Ladytron
 - Leaves' Eyes
 - Led Zeppelin
