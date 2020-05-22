@@ -3,7 +3,7 @@ category: appendices
 created: 2019-05-16T15:35Z
 title: Bands I Have Listened To
 type: page
-updated: 2020-05-18T02:35Z
+updated: 2020-05-22T18:45Z
 ---
 
 This page is split into two sections. The first section lists which bands I have listened to the complete discography for. The second section are bands that I have sampled, usually by listening to a [greatest hits album](https://en.wikipedia.org/wiki/Greatest_hits_album) or an essentials playlist on Apple Music.
@@ -101,6 +101,7 @@ This page is split into two sections. The first section lists which bands I have
 - Miktek
 - Mono Inc.
 - Mortal Love
+- Mos Def
 - Muse
 - Newsted
 - Nightwish
@@ -261,7 +262,6 @@ This page is split into two sections. The first section lists which bands I have
 - Mogwai
 - Mono
 - Mortemia
-- Mos Def
 - Mudvayne
 - My Chemical Romance
 - Myrkur
