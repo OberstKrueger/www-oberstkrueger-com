@@ -3,7 +3,7 @@ category: appendices
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2020-05-17T03:40Z
+updated: 2020-05-22T18:55Z
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -210,6 +210,7 @@ updated: 2020-05-17T03:40Z
 - [Baldur's Gate II: Throne of Bhaal](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal)
 - [BattleTech](https://en.wikipedia.org/wiki/BattleTech_(video_game))
 - [Bayonetta](https://en.wikipedia.org/wiki/Bayonetta)
+- [Beautiful Desolation](https://www.thebrotherhoodgames.com/studio/beautifuldesolation/)
 - [The Binding of Isaac](https://en.wikipedia.org/wiki/The_Binding_of_Isaac_(video_game))
 - [BioShock](https://en.wikipedia.org/wiki/BioShock)
 - [BioShock Infinite](https://en.wikipedia.org/wiki/BioShock_Infinite)
