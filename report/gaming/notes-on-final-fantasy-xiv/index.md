@@ -3,7 +3,7 @@ category: gaming
 created: 2017-07-24T17:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2019-05-29T11:45Z
+updated: 2020-05-27T15:20Z
 ---
 
 ## Trials
@@ -70,6 +70,14 @@ updated: 2019-05-29T11:45Z
 10. Phase 3: Lunacy: Stacking shared damage
 11. Phase 3: Dark Blade & Bright Blade: Platform-wide AE.
 12. Phase 3: Dance of the Dead: Raid-wide AE.
+
+### The Dancing Plague (Normal)
+
+1. Divination Rune: Tank buster, frontal cone.
+2. Mist Rune: At least one player must stand in each puddle.
+3. Flame Rune: Stand inside one of the puddles.
+4. Phase 2: Kill Mustardseed add first.
+5. Phase 2: MT and OT split other two adds.
 
 ### Emanation (Normal)
 
