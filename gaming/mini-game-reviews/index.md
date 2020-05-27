@@ -3,8 +3,20 @@ category: games
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2020-05-07T10:10Z
+updated: 2020-05-27T15:10Z
 ---
+
+## Beautiful Desolation
+
+<figure>
+    <img src='/images/mini-game-reviews_beautiful-desolation.jpg' alt='Screenshot of Beautiful Desolation'>
+</figure>
+
+Some of the earliest games that I played while growing up was the graphical adventure game series King's Quest. These games are top-down games where you control a single character as they adventure through the world, solving puzzles and advancing the story. King's Quest V and VI in particular were games that I played through multiple times, and greatly enjoyed back then for the challenge and wonderful stories they told. As time went on, these types of games became less popular, and my own habits moved on to other genres that had many of the same elements while still providing a completely different experience.
+
+This game is one I did not even know about until after it's release, and I gave it a go because it looked interesting. While it had been a long time since I last played this style of game, I remembered my fondness for them and wanted to give it another shot. Sadly, the game did not stick for me. I have played it for a few hours, enough to get a sense of what it is like. To its credit, it feels a lot like the old adventure games of the 1990s. The presentation is a bit low-budget, but not out of place for a game harking back to previous entries in the genre. The voice acting is well done, and it plays well on the PC. Unfortunately, I realized that these types of games do not hold my attention for as long. While I love the idea of adventure games that involve puzzle-solving, doing so in a first-person format is more immersive for me. Playing top-down I can still enjoy for RPGs and strategy games, but for adventure games it has lost its appeal.
+
+The one element of the game that I do enjoy is the music. In fact, Beautiful Desolation came to my attention because Mick Gordon composed the soundtrack. Upon first listen of it, I was in love, as it took a lot of the ambient elements of his Prey soundtrack but without the horror sounds. It's a peaceful album, and my favorite part of the game. I have listened to it multiple times, and would recommend it to anyone who enjoys ambient soundtracks.
 
 ## Black Mesa
 
