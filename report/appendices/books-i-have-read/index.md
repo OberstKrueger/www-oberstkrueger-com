@@ -3,7 +3,7 @@ category: appendices
 created: 2017-06-11T13:30Z
 title: Books I Have Read
 type: page
-updated: 2020-05-12T05:55Z
+updated: 2020-05-30T09:30Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -137,6 +137,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Newport, Cal - Digital Minimalism: Choosing a Focused Life in a Noisy World
 - Orlov, Dmitry - Shrinking the Technosphere: Getting a Grip on Technologies that Limit our Autonomy, Self-Sufficiency and Freedom
 - Partanen, Anu - The Nordic Theory of Everything: In Search of a Better Life
+- Penny, Laurie - Bitch Doctrine
 - Penny, Laurie - Cybersexism: Sex, Gender and Power on the Internet
 - Penny, Laurie - Discordia: Six Nights in Crisis Athens
 - Penny, Laurie - Meat Market: Female Flesh Under Capitalism
