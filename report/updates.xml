@@ -7,7 +7,7 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2020-05-01T16:45Z</updated>
+<updated>2020-06-01T10:40Z</updated>
 
 <!--
 <entry>
@@ -28,7 +28,33 @@
 -->
 
 <entry>
-<title>Updates For April 2020</title>
+<title>Updates For May, 2020</title>
+<author>
+<name>Paul Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/202005</id>
+<published>2020-06-01T10:40Z</published>
+<updated>2020-06-01T10:40Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2020.05</h2>
+<h3>Books Read</h3>
+<ul>
+<li>Kaku, Michio - The Future of Humanity: Terraforming Mars, Interstellar Travel, Immortality, and Our Destiny Beyond Earth</li>
+<li>Penny, Laurie - Bitch Doctrine</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://www.thebrotherhoodgames.com/studio/beautifuldesolation/">Beautiful Desolation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tyranny_(video_game)">Tyranny</a></li>
+</ul>
+]]>
+</content>
+</entry>
+
+<entry>
 <title>Updates For April, 2020</title>
 <author>
 <name>Paul Krueger</name>
