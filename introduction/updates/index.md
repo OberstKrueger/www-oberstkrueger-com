@@ -3,8 +3,21 @@ category: introduction
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2020-05-01T16:45Z
+updated: 2020-06-01T10:40Z
 ---
+
+## 2020.05
+
+### Books Read
+
+- Kaku, Michio - The Future of Humanity: Terraforming Mars, Interstellar Travel, Immortality, and Our Destiny Beyond Earth
+- Penny, Laurie - Bitch Doctrine
+
+### Games Played
+
+- [Beautiful Desolation](https://www.thebrotherhoodgames.com/studio/beautifuldesolation/)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [Tyranny](https://en.wikipedia.org/wiki/Tyranny_(video_game))
 
 ## 2020.04
 
