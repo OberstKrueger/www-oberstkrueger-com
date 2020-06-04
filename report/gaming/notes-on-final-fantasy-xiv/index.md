@@ -3,10 +3,119 @@ category: gaming
 created: 2017-07-24T17:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2020-06-04T20:35Z
+updated: 2020-06-04T20:50Z
 ---
 
-## Trials
+## Trials - A Realm Reborn
+
+### The Bowl of Embers (Normal)
+
+1. When Infernal Nail spawns, switch damage to it.
+2. Radiant Plume: phase 3 AEs, first spawn in the center, and then around the outside.
+
+### The Navel (Normal)
+
+1. Leap: Stay as far away from the center while still not being inside the red circle.
+2. Landslide: Avoid or get knocked off the platform.
+3. Granite Gaol: Targets one play and traps them inside a rock. Destroy the rock to prevent player from being knocked off.
+4. Titan's Heart: Destroy the heart.
+5. Weight of the Land: Targets 2 random players. Move out of AE before it goes off.
+
+### The Howling Eye (Normal)
+
+1. Keep Garuda facing away from the center rocks.
+2. Slipstream: Frontal cone, move to the side.
+3. Mistral Song / Aerial Blast: LOS attack, keep a rock between yourself and Garuda.
+4. Razor Plumes: Kill adds.
+5. Phase 2 Mistral Song: Move behind Garuda.
+
+### Cape Westwind
+
+1. MT: Tank the main boss.
+2. OT: Pick up adds.
+3. Avoid AE that drops on boss.
+
+### The Bowl of Embers (Hard)
+
+1. When Ifrit leaps into the air, watch where he and his clones land. Do not stand in his path.
+2. Radiant Plume: first spawn around outer edge, and then in the center.
+3. Phase 2: 4 Infernal Nails spawn. Change targets to this and kill.
+4. Phase 3: Radiant Plume affects entire arena except around Ifrit.
+
+### Battle on the Big Bridge
+
+1. Focus damage on Enkidu.
+2. Pradamante: Move away from other players.
+3. Grovel: Point-blank AE.
+4. Bomb: Run away from this..
+5. Giga Jump: Move away from other players.
+
+### The Howling Eye (Hard)
+
+1. Phase 1: Identical to Normal.
+2. Phase 2: Tank in northwest corner, avoiding green AE circles on the ground.
+3. Phase 3: Two adds spawn. Kill add with green beam between her and Garuda, and then kill other add.
+4. Satin Plume: Kill.
+5. Eye of the Storm: Move to the center and do not touch blue areas. Kill two adds.
+
+### Thornmarch (Hard)
+
+1. Phase 1: Kill all adds.
+2. Phase 2 MT: Tank King Moggle Mogl XII.
+3. Phase 2 OT: Pull Whiskerwall Kupdi Koop (PLD) and Ruffletuft Kupta Kapa (WAR) away from the group and tank.
+
+In Phase 2, the DPS will kill adds in this order:
+
+1. Pukla Puki the Pomburner (BLM)
+2. Furryfoot Kupli Kipp (WHM)
+3. Puksi Piko the Shaggysong (BRD)
+4. Woolywart Kupqu Kogi (ARC)
+5. Pukna Pako the Tailturner (ROG)
+
+### The Navel (Hard)
+
+1. Leap: Stay as far away from the center while still not being inside the red circle.
+2. Landslide: Avoid or get knocked off the platform.
+3. Bomb Boulders: Explode after set period of time, avoid.
+4. Granite Gaol: Targets one play and traps them inside a rock. Destroy the rock to prevent player from being knocked off.
+5. Titan's Heart: Destroy the heart.
+6. Weight of the Land: Targets 4 random players. Move out of AE before it goes off.
+
+### The Whorleater (Hard)
+
+1. One tank on the head of Leviathan, and one on the tail.
+2. Do not stand in front of geysers from the water.
+3. Kill Gyre Spume quickly.
+4. Off-tank picks up any additional adds.
+5. Before Tsunami goes off, activate the Elemental Shield.
+
+### The Striking Tree (Hard)
+
+1. Thunderspark: Point-blank AE.
+2. Thunderstorm: Spread out so not overlapping
+3. Offtank: Pick up 3 orbs left behind by Thunderstorm.
+4. Kill adds.
+5. Rolling Thunder: Tethers two players. One must grab 3 orbs to break tether.
+
+### The Bowl of Embers (Extreme)
+
+1. Pull to 1 o'clock position on map.
+2. Suppuration: lowers HP, tank swap at 3 stacks
+3. Infernal Nails: change targets and kill one at a time.
+4. Crimson Cyclone: 4 Ifrit clones spawn. Run near right-most spawn, wait for it to rush, then follow their positions as they rush.
+5. Phase 1 Radiant Plumes: spawns at 1 o'clock, then 7 o'clock
+6. Phase 2 Radiant Plumes: spawns at 2 o'clock, then 8 o'clock
+7. Phase 3 Radiant Plumes: spawns at 3 o'clock, then 9 o'clock
+
+### The Final Steps of Faith
+
+1. Phase 1: Face Nidhogg away from party.
+2. Phase 1: When adds spawn, MT grabs one of the adds that isn't the Shadow Dragon, and OT grabs the other. Face both away from party.
+3. Phase 2: Face Nidhogg away from party.
+4. Phase 2: If marked, move towards the walls spread out. Will follow up with line attacks towards the center of arena.
+5. Phase 3: Same as Phase 1, with additional following mechanics.
+6. Phase 3 Aka Morn: Yellow arrow stack attack with multiple hits. Stay stacked until all have gone off.
+7. Phase 3 Fireballs: Explode across X and Y axis.
 
 ### Akh Afah Ampitheatre (Hard)
 
@@ -20,141 +129,7 @@ updated: 2020-06-04T20:35Z
 8. Phase 3: Permafrost: Do not move.
 9. Phase 3: Icicle Impacts: Move to last AE patch to spawn, and then move out before it explodes.
 
-### Battle on the Big Bridge
-
-1. Focus damage on Enkidu.
-2. Pradamante: Move away from other players.
-3. Grovel: Point-blank AE.
-4. Bomb: Run away from this..
-5. Giga Jump: Move away from other players.
-
-### The Bowl of Embers (Normal)
-
-1. When Infernal Nail spawns, switch damage to it.
-2. Radiant Plume: phase 3 AEs, first spawn in the center, and then around the outside.
-
-### The Bowl of Embers (Hard)
-
-1. When Ifrit leaps into the air, watch where he and his clones land. Do not stand in his path.
-2. Radiant Plume: first spawn around outer edge, and then in the center.
-3. Phase 2: 4 Infernal Nails spawn. Change targets to this and kill.
-4. Phase 3: Radiant Plume affects entire arena except around Ifrit.
-
-### The Bowl of Embers (Extreme)
-
-1. Pull to 1 o'clock position on map.
-2. Suppuration: lowers HP, tank swap at 3 stacks
-3. Infernal Nails: change targets and kill one at a time.
-4. Crimson Cyclone: 4 Ifrit clones spawn. Run near right-most spawn, wait for it to rush, then follow their positions as they rush.
-5. Phase 1 Radiant Plumes: spawns at 1 o'clock, then 7 o'clock
-6. Phase 2 Radiant Plumes: spawns at 2 o'clock, then 8 o'clock
-7. Phase 3 Radiant Plumes: spawns at 3 o'clock, then 9 o'clock
-
-### Cape Westwind
-
-1. MT: Tank the main boss.
-2. OT: Pick up adds.
-3. Avoid AE that drops on boss.
-
-### Castrum Fluminis
-
-1. Torment Unto Death: Frontal cone attack.
-2. Zashiki-Asobi: Spawns fans around arena that explode in order they spawn.
-3. Steel of the Underworld: Frontal cone attack
-4. Reprimand: Raid-wide AE.
-5. Midnight Haze: Kill adds.
-6. Lead of the Underworld: Line-up to share damage attack.
-7. Nightbloom: Raid-wide AE.
-8. Phase 2: Kill adds.
-9. Phase 3: Selenomancy: Switch sides when debuff hits 3 stacks.
-10. Phase 3: Lunacy: Stacking shared damage
-11. Phase 3: Dark Blade & Bright Blade: Platform-wide AE.
-12. Phase 3: Dance of the Dead: Raid-wide AE.
-
-### The Dancing Plague (Normal)
-
-1. Divination Rune: Tank buster, frontal cone.
-2. Mist Rune: At least one player must stand in each puddle.
-3. Flame Rune: Stand inside one of the puddles.
-4. Phase 2: Kill Mustardseed add first.
-5. Phase 2: MT and OT split other two adds.
-
-### Emanation (Normal)
-
-1. Gather Vril bubbles and use Duty Action once it is available.
-2. Hand of Grace: Move these to opposite ends of the arena. Avoid AE.
-3. Hand of Beauty: Move to the back or side of the arena, near each other.
-4. Divine Denial: Use Vril, and stand near Lakshmi.
-5. Be ready to stack on the Yellow Arrow.
-6. Path of Light: Targets OT. Cleave attack, point away from the group.
-
-### The Final Steps of Faith
-
-1. Phase 1: Face Nidhogg away from party.
-2. Phase 1: When adds spawn, MT grabs one of the adds that isn't the Shadow Dragon, and OT grabs the other. Face both away from party.
-3. Phase 2: Face Nidhogg away from party.
-4. Phase 2: If marked, move towards the walls spread out. Will follow up with line attacks towards the center of arena.
-5. Phase 3: Same as Phase 1, with additional following mechanics.
-6. Phase 3 Aka Morn: Yellow arrow stack attack with multiple hits. Stay stacked until all have gone off.
-7. Phase 3 Fireballs: Explode across X and Y axis.
-
-### Hell's Kier (Normal)
-
-1. Cremate: Tank buster.
-2. Eternal Flame: Kill adds in center of the arena.
-3. Endless Summer: Frontal cone AE.
-4. Phoenix Down: Kill middle plume and stand near it. Any adds that spawn, kill.
-5. Phase 2: Each player stands in their own circle. Face direction of arrow in circle.
-6. Ruthless Refrain: Knockback. Stand near center.
-7. Phantom Flurry: Multi-hit tank buster, followed by frontal half-arena AE.
-8. Phoenix Says: Watch phoenix as it circles arena. Do not stand in colored section that corresponds to what the phoenix is flying in front of.
-9. Incandescent Interlude: One player stands in each circle.
-
-### The Howling Eye (Normal)
-
-1. Keep Garuda facing away from the center rocks.
-2. Slipstream: Frontal cone, move to the side.
-3. Mistral Song / Aerial Blast: LOS attack, keep a rock between yourself and Garuda.
-4. Razor Plumes: Kill adds.
-5. Phase 2 Mistral Song: Move behind Garuda.
-
-### The Howling Eye (Hard)
-
-1. Phase 1: Identical to Normal.
-2. Phase 2: Tank in northwest corner, avoiding green AE circles on the ground.
-3. Phase 3: Two adds spawn. Kill add with green beam between her and Garuda, and then kill other add.
-4. Satin Plume: Kill.
-5. Eye of the Storm: Move to the center and do not touch blue areas. Kill two adds.
-
-### The Jade Stoa
-
-1. Storm Pulse: Raid-wide AE
-2. Heavenly Strike: Tank-buster
-3. State of Shock: Stack up
-4. Unrelenting Anguish: Avoid red orbs
-5. Phase 2 Hakutei-Tiger: Tank this
-6. Phase 2 White Herald: move away from rest of group
-7. Phase 3 Roar of Thunder: Do as much damage as possible
-8. Phase 4 Dodge orbs
-9. Phase 4 Bombogenesis: Spread apart
-10. Phase 4 Distant Clap: Stand on top of boss or at edge of arena
-
-### The Navel (Normal)
-
-1. Leap: Stay as far away from the center while still not being inside the red circle.
-2. Landslide: Avoid or get knocked off the platform.
-3. Granite Gaol: Targets one play and traps them inside a rock. Destroy the rock to prevent player from being knocked off.
-4. Titan's Heart: Destroy the heart.
-5. Weight of the Land: Targets 2 random players. Move out of AE before it goes off.
-
-### The Navel (Hard)
-
-1. Leap: Stay as far away from the center while still not being inside the red circle.
-2. Landslide: Avoid or get knocked off the platform.
-3. Bomb Boulders: Explode after set period of time, avoid.
-4. Granite Gaol: Targets one play and traps them inside a rock. Destroy the rock to prevent player from being knocked off.
-5. Titan's Heart: Destroy the heart.
-6. Weight of the Land: Targets 4 random players. Move out of AE before it goes off.
+## Trials - Stormblood
 
 ### The Pool of Tribute (Normal)
 
@@ -164,14 +139,14 @@ updated: 2020-06-04T20:35Z
 4. OT: Walk in front of the orbs so they do not explode on the group.
 5. Earth and Stone: Follow which stone captures a player as it shuffles. Destroy that stone.
 
-### The Pool of Tribute (Extreme)
+### Emanation (Normal)
 
-1. See above notes for normal mode.
-2. Churning: 4 players marked with debuff. Players must not be moving or attacking when it wears off.
-3. MT and OT must swap roles during Phase 2 giant sword attack.
-4. Stormsplitter: MT and OT swap after it hits.
-5. Levin Bolt 1: Affected players jump to other side of platform for the AE.
-6. Levin Bolt 2: All players move to other side of arena.
+1. Gather Vril bubbles and use Duty Action once it is available.
+2. Hand of Grace: Move these to opposite ends of the arena. Avoid AE.
+3. Hand of Beauty: Move to the back or side of the arena, near each other.
+4. Divine Denial: Use Vril, and stand near Lakshmi.
+5. Be ready to stack on the Yellow Arrow.
+6. Path of Light: Targets OT. Cleave attack, point away from the group.
 
 ### The Royal Menagerie
 
@@ -190,35 +165,54 @@ updated: 2020-06-04T20:35Z
 - 13. Phase 3: Diamond Dust: Do not move.
 - 14. Phase 3: Aerieal Blast: Cyclone in center will push players back. Keep running towards it.
 
-### The Striking Tree (Hard)
+### The Pool of Tribute (Extreme)
 
-1. Thunderspark: Point-blank AE.
-2. Thunderstorm: Spread out so not overlapping
-3. Offtank: Pick up 3 orbs left behind by Thunderstorm.
-4. Kill adds.
-5. Rolling Thunder: Tethers two players. One must grab 3 orbs to break tether.
+1. See above notes for normal mode.
+2. Churning: 4 players marked with debuff. Players must not be moving or attacking when it wears off.
+3. MT and OT must swap roles during Phase 2 giant sword attack.
+4. Stormsplitter: MT and OT swap after it hits.
+5. Levin Bolt 1: Affected players jump to other side of platform for the AE.
+6. Levin Bolt 2: All players move to other side of arena.
 
-### Thornmarch (Hard)
+### The Jade Stoa (Normal)
 
-1. Phase 1: Kill all adds.
-2. Phase 2 MT: Tank King Moggle Mogl XII.
-3. Phase 2 OT: Pull Whiskerwall Kupdi Koop (PLD) and Ruffletuft Kupta Kapa (WAR) away from the group and tank.
+1. Storm Pulse: Raid-wide AE
+2. Heavenly Strike: Tank-buster
+3. State of Shock: Stack up
+4. Unrelenting Anguish: Avoid red orbs
+5. Phase 2 Hakutei-Tiger: Tank this
+6. Phase 2 White Herald: move away from rest of group
+7. Phase 3 Roar of Thunder: Do as much damage as possible
+8. Phase 4 Dodge orbs
+9. Phase 4 Bombogenesis: Spread apart
+10. Phase 4 Distant Clap: Stand on top of boss or at edge of arena
 
-In Phase 2, the DPS will kill adds in this order:
+### Castrum Fluminis
 
-1. Pukla Puki the Pomburner (BLM)
-2. Furryfoot Kupli Kipp (WHM)
-3. Puksi Piko the Shaggysong (BRD)
-4. Woolywart Kupqu Kogi (ARC)
-5. Pukna Pako the Tailturner (ROG)
+1. Torment Unto Death: Frontal cone attack.
+2. Zashiki-Asobi: Spawns fans around arena that explode in order they spawn.
+3. Steel of the Underworld: Frontal cone attack
+4. Reprimand: Raid-wide AE.
+5. Midnight Haze: Kill adds.
+6. Lead of the Underworld: Line-up to share damage attack.
+7. Nightbloom: Raid-wide AE.
+8. Phase 2: Kill adds.
+9. Phase 3: Selenomancy: Switch sides when debuff hits 3 stacks.
+10. Phase 3: Lunacy: Stacking shared damage
+11. Phase 3: Dark Blade & Bright Blade: Platform-wide AE.
+12. Phase 3: Dance of the Dead: Raid-wide AE.
 
-### The Whorleater (Hard)
+### Hell's Kier (Normal)
 
-1. One tank on the head of Leviathan, and one on the tail.
-2. Do not stand in front of geysers from the water.
-3. Kill Gyre Spume quickly.
-4. Off-tank picks up any additional adds.
-5. Before Tsunami goes off, activate the Elemental Shield.
+1. Cremate: Tank buster.
+2. Eternal Flame: Kill adds in center of the arena.
+3. Endless Summer: Frontal cone AE.
+4. Phoenix Down: Kill middle plume and stand near it. Any adds that spawn, kill.
+5. Phase 2: Each player stands in their own circle. Face direction of arrow in circle.
+6. Ruthless Refrain: Knockback. Stand near center.
+7. Phantom Flurry: Multi-hit tank buster, followed by frontal half-arena AE.
+8. Phoenix Says: Watch phoenix as it circles arena. Do not stand in colored section that corresponds to what the phoenix is flying in front of.
+9. Incandescent Interlude: One player stands in each circle.
 
 ### The Wreath of Snakes (Normal)
 
@@ -230,7 +224,17 @@ In Phase 2, the DPS will kill adds in this order:
 6. Phase 2: Big Boi Shiki: Avoid arm AEs.
 7. Phase 2: Force of Nature: Stand near middle circle but not inside.
 
-## Alliance Raids
+## Trials - Shadowbringers
+
+### The Dancing Plague (Normal)
+
+1. Divination Rune: Tank buster, frontal cone.
+2. Mist Rune: At least one player must stand in each puddle.
+3. Flame Rune: Stand inside one of the puddles.
+4. Phase 2: Kill Mustardseed add first.
+5. Phase 2: MT and OT split other two adds.
+
+## Alliance Raids - Stormblood
 
 ### The Orbonne Monastery
 
@@ -269,57 +273,7 @@ In Phase 2, the DPS will kill adds in this order:
     8. Phase 3: Demi-Virgo: Stand underneath circle spawns.
     9. Phase 4: Maze: Navigate back towards the boss.
 
-## Normal Raids
-
-### Alphascape 1.0
-
-1. Chaotic Dispersion: Tank-buster.
-2. Tsunami: Stay in the middle third of the arena.
-3. Dynamic Fluid: Stack in the middle.
-4. Knock Down: Move to edge of arenas.
-5. Fiendish Orbs: Both tanks intercept orbs to take damage.
-6. Knock Back: Stand along edge of platform to avoid being knocked into damaged area. Two pairs of two players marked with stack up shared damage, must separate into two even groups.
-7. Blaze: Stay in middle circle of platform.
-8. Cyclone: Tornado in center will occasionally push back towards edge of arena. Stay near tornado.
-
-### Alphascape 2.0
-
-1. Circle spin -> circle spin: Point-blank AE.
-2. Circle spin -> loop: Donut AE, move on top of him.
-3. Two loops: Move to corner of arena.
-4. Earth Shakers: Move away from other players.
-5. Akh Morn: Stack up damage, multiple hits.
-6. Thunderstorm: Move away from other players.
-7. Blizzard Markers: Move away from center of arena.
-8. Cauterize: AE damage across arena.
-9. Immortal Keys: Kill these quickly.
-10. Frost Breath: Frontal cone.
-11. Tail End: Tank buster.
-12. Exaflares: Move across platform.
-13. Akh Rahl: Move away from damage.
-
-### Alphascape 3.0
-
-1. Mustard Bomb: Tank-buster.
-2. Ballistic Impact: Leaves behind flame puddles.
-3. Larboard: Cone attack on left side of boss.
-4. Starboard: Cone attack on right side of boss.
-5. Peripheral Synthesis: Use Duty Action on adds.
-6. Program Loop: Stay in donut shape. Kill add.
-7. Delta Attack: Spam Duty Action key.
-8. Blaster: Off-tank intercepts and moves away from group.
-
-### Alphascape 4.0
-
-1. Solar Ray: Tank-buster
-2. Program Alpha: Stack up shared damage.
-3. Subject Simulation F: Move close to Omega F to survive pushback.
-4. Optimized Blade Dance: Tank-buster, use multiple cooldowns.
-5. Subject Simulation M: Move away to avoid point-blank AE.
-6. Omegoo: Move both towards edge and apart from each other.
-7. Shield + Shower: Kill Omega-M and then Omega-F.
-8. Firewall: Debuff that prevents damage to one of the Omega forms.
-9. Keep Omega-F and Omega-M separated.
+## Normal Raids - Stormblood
 
 ### Deltascape V1.0 (Normal)
 
@@ -413,3 +367,53 @@ In Phase 2, the DPS will kill adds in this order:
 8. Aero Assault: AE knock back.
 9. Phase 2: Graven Image: Move toward orb to avoid being knocked off platform.
 10. Phase 3: Graven Image: Look away from the tower.
+
+### Alphascape 1.0 (Normal)
+
+1. Chaotic Dispersion: Tank-buster.
+2. Tsunami: Stay in the middle third of the arena.
+3. Dynamic Fluid: Stack in the middle.
+4. Knock Down: Move to edge of arenas.
+5. Fiendish Orbs: Both tanks intercept orbs to take damage.
+6. Knock Back: Stand along edge of platform to avoid being knocked into damaged area. Two pairs of two players marked with stack up shared damage, must separate into two even groups.
+7. Blaze: Stay in middle circle of platform.
+8. Cyclone: Tornado in center will occasionally push back towards edge of arena. Stay near tornado.
+
+### Alphascape 2.0 (Normal)
+
+1. Circle spin -> circle spin: Point-blank AE.
+2. Circle spin -> loop: Donut AE, move on top of him.
+3. Two loops: Move to corner of arena.
+4. Earth Shakers: Move away from other players.
+5. Akh Morn: Stack up damage, multiple hits.
+6. Thunderstorm: Move away from other players.
+7. Blizzard Markers: Move away from center of arena.
+8. Cauterize: AE damage across arena.
+9. Immortal Keys: Kill these quickly.
+10. Frost Breath: Frontal cone.
+11. Tail End: Tank buster.
+12. Exaflares: Move across platform.
+13. Akh Rahl: Move away from damage.
+
+### Alphascape 3.0 (Normal)
+
+1. Mustard Bomb: Tank-buster.
+2. Ballistic Impact: Leaves behind flame puddles.
+3. Larboard: Cone attack on left side of boss.
+4. Starboard: Cone attack on right side of boss.
+5. Peripheral Synthesis: Use Duty Action on adds.
+6. Program Loop: Stay in donut shape. Kill add.
+7. Delta Attack: Spam Duty Action key.
+8. Blaster: Off-tank intercepts and moves away from group.
+
+### Alphascape 4.0 (Normal)
+
+1. Solar Ray: Tank-buster
+2. Program Alpha: Stack up shared damage.
+3. Subject Simulation F: Move close to Omega F to survive pushback.
+4. Optimized Blade Dance: Tank-buster, use multiple cooldowns.
+5. Subject Simulation M: Move away to avoid point-blank AE.
+6. Omegoo: Move both towards edge and apart from each other.
+7. Shield + Shower: Kill Omega-M and then Omega-F.
+8. Firewall: Debuff that prevents damage to one of the Omega forms.
+9. Keep Omega-F and Omega-M separated.
