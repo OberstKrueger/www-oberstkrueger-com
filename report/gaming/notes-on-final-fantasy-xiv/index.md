@@ -3,7 +3,7 @@ category: gaming
 created: 2017-07-24T17:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2020-05-27T15:20Z
+updated: 2020-06-04T20:35Z
 ---
 
 ## Trials
@@ -269,7 +269,7 @@ In Phase 2, the DPS will kill adds in this order:
     8. Phase 3: Demi-Virgo: Stand underneath circle spawns.
     9. Phase 4: Maze: Navigate back towards the boss.
 
-## Raids
+## Normal Raids
 
 ### Alphascape 1.0
 
