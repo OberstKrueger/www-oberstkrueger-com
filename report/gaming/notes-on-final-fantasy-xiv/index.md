@@ -3,7 +3,7 @@ category: gaming
 created: 2017-07-24T17:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2020-06-04T20:50Z
+updated: 2020-06-04T20:55Z
 ---
 
 ## Trials - A Realm Reborn
@@ -417,3 +417,13 @@ In Phase 2, the DPS will kill adds in this order:
 7. Shield + Shower: Kill Omega-M and then Omega-F.
 8. Firewall: Debuff that prevents damage to one of the Omega forms.
 9. Keep Omega-F and Omega-M separated.
+
+## Normal Raids - Shadowbringers
+
+### Eden's Gate: Resurrection (Normal)
+
+1. Do not touch the yellow wall around the arena.
+2. Spear of Paradise: Tank buster, two hits.
+3. Vice and Virtue: Line attack on both tanks. Spread out.
+4. Pure Light: Move behind boss.
+5. Adds: Tanked by each tank. Can be stacked for AE damage.
