@@ -3,10 +3,10 @@ category: introduction
 created: 2017-06-20T16:15Z
 title: Hello, world!
 type: page
-updated: 2017-09-01T05:45Z
+updated: 2020-06-11T15:55Z
 ---
 
-Hello! My name is Paul Krueger, and welcome to my little piece of the [intertubes](http://en.wiktionary.org/wiki/Intertubes).
+Hello, and welcome to The Krueger Report!
 
 This site has existed for a couple of years now, in various forms. It started out as a simple blog, more as a way to test out [Ghost](https://ghost.org) than a serious attempt at writing. As time went on, I remembered how much I enjoyed writing back in college and wanted to keep it up. As the blog format was not quite right for me, I altered this site to my own custom solution and reshaped it into that of a book. I like the idea of a book more, as it's something I could theoretically compile to an [EPUB](https://en.wikipedia.org/wiki/EPUB) or other e-book format, or even print, and I could have a snapshot of my life at that point.
 
