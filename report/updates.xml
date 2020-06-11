@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>The Krueger Report</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
@@ -13,7 +13,7 @@
 <entry>
 <title>Updates For !!!!</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/!!!!</id>
@@ -30,7 +30,7 @@
 <entry>
 <title>Updates For May, 2020</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/202005</id>
@@ -57,7 +57,7 @@
 <entry>
 <title>Updates For April, 2020</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/202004</id>
@@ -97,7 +97,7 @@
 <entry>
 <title>Updates For March, 2020</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/202003</id>
@@ -141,7 +141,7 @@
 <entry>
 <title>Updates For February, 2020</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/202002</id>
@@ -179,7 +179,7 @@
 <entry>
 <title>Updates For January, 2020</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/202001</id>
@@ -217,7 +217,7 @@
 <entry>
 <title>Updates For December, 2019</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201912</id>
@@ -254,7 +254,7 @@
 <entry>
 <title>Updates For November, 2019</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201911</id>
@@ -309,7 +309,7 @@
 <entry>
 <title>Updates For October, 2019</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201910</id>
@@ -356,7 +356,7 @@
 <entry>
 <title>Updates For September, 2019</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201909</id>
@@ -402,7 +402,7 @@
 <entry>
 <title>Updates For August, 2019</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201908</id>
@@ -447,7 +447,7 @@
 <entry>
 <title>Updates For July, 2019</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201907</id>
@@ -483,7 +483,7 @@
 <entry>
 <title>Updates For June, 2019</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201906</id>
@@ -535,7 +535,7 @@
 <entry>
 <title>Updates For May, 2019</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201905</id>
@@ -598,7 +598,7 @@
 <entry>
 <title>Updates For April, 2019</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201904</id>
@@ -644,7 +644,7 @@
 <entry>
 <title>Updates For March, 2019</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201903</id>
@@ -697,7 +697,7 @@
 <entry>
 <title>Updates For February, 2019</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201902</id>
@@ -749,7 +749,7 @@
 <entry>
 <title>Updates For January, 2019</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201901</id>
@@ -807,7 +807,7 @@
 <entry>
 <title>Updates For December, 2018</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201812</id>
@@ -911,7 +911,7 @@
 <entry>
 <title>Updates For November, 2018</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201811</id>
@@ -987,7 +987,7 @@
 <entry>
 <title>Updates For October, 2018</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201810</id>
@@ -1073,7 +1073,7 @@
 <entry>
 <title>Updates For September, 2018</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201809</id>
@@ -1170,7 +1170,7 @@
 <entry>
 <title>Updates For August, 2018</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201808</id>
@@ -1256,7 +1256,7 @@
 <entry>
 <title>Updates For July, 2018</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201807</id>
@@ -1316,7 +1316,7 @@
 <entry>
 <title>Updates For June, 2018</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201806</id>
@@ -1377,7 +1377,7 @@
 <entry>
 <title>Updates For May, 2018</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201805</id>
@@ -1447,7 +1447,7 @@
 <entry>
 <title>Updates For April, 2018</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201804</id>
@@ -1519,7 +1519,7 @@
 <entry>
 <title>Updates For March, 2018</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201803</id>
@@ -1591,7 +1591,7 @@
 <entry>
 <title>Updates For February, 2018</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201802</id>
@@ -1646,7 +1646,7 @@
 <entry>
 <title>Updates For January, 2018</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/201801</id>
@@ -1715,7 +1715,7 @@
 <entry>
 <title>Updates For December 31, 2017</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/20171231</id>
@@ -1775,7 +1775,7 @@
 <entry>
 <title>Updates For November 30, 2017</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/20171130</id>
@@ -1842,7 +1842,7 @@
 <entry>
 <title>Updates For October 31, 2017</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/20171031</id>
@@ -1911,7 +1911,7 @@
 <entry>
 <title>Updates For September 30, 2017</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/20170930</id>
@@ -1974,7 +1974,7 @@
 <entry>
 <title>Updates For September 4, 2017</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/20170904</id>
@@ -2031,7 +2031,7 @@
 <entry>
 <title>Updates For August 12, 2017</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/20170812</id>
@@ -2093,7 +2093,7 @@
 <entry>
 <title>Updates For July 20, 2017</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/20170720</id>
@@ -2150,7 +2150,7 @@
 <entry>
 <title>Updates For June 27, 2017</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/20170627</id>
@@ -2201,7 +2201,7 @@
 <entry>
 <title>Updates For June 12, 2017</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/20170612</id>
@@ -2263,7 +2263,7 @@
 <entry>
 <title>Updates For May 14, 2017</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/20170514</id>
@@ -2319,7 +2319,7 @@
 <entry>
 <title>Updates For April 25, 2017</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/20170425</id>
@@ -2359,7 +2359,7 @@
 <entry>
 <title>Updates For April 6, 2017</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/20170406</id>
@@ -2383,7 +2383,7 @@
 <entry>
 <title>Updates For March 18, 2017</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/20170318</id>
@@ -2406,7 +2406,7 @@
 <entry>
 <title>Updates For February 27, 2017</title>
 <author>
-<name>Paul Krueger</name>
+<name>Krueger</name>
 </author>
 <link href="https://krueger.report/introduction/updates" />
 <id>https://krueger.report/updates/20170227</id>
