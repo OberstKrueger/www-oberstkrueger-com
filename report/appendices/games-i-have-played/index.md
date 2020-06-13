@@ -3,7 +3,7 @@ category: appendices
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2020-05-22T18:55Z
+updated: 2020-06-13T21:00Z
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -354,6 +354,7 @@ updated: 2020-05-22T18:55Z
 - [Inside](https://en.wikipedia.org/wiki/Inside_(video_game))
 - [Into The Breach](https://en.wikipedia.org/wiki/Into_the_Breach)
 - [It Lurks Below](https://en.wikipedia.org/wiki/It_Lurks_Below)
+- [Journey](https://en.wikipedia.org/wiki/Journey_(2012_video_game))
 - [Kentucky Route Zero](https://en.wikipedia.org/wiki/Kentucky_Route_Zero)
 - [King's Quest V: Absence Makes the Heart Go Yonder!](https://en.wikipedia.org/wiki/King%27s_Quest_V)
 - [King's Quest VI: Heir Today, Gone Tomorrow](https://en.wikipedia.org/wiki/King%27s_Quest_VI)
