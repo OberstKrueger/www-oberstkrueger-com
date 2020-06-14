@@ -3,7 +3,7 @@ category: technology
 created: 2020-06-14T10:00Z
 title: Past Computing Devices
 type: page
-updated: 2020-06-14T10:00Z
+updated: 2020-06-14T10:10Z
 ---
 
 ## Main Timeline
@@ -33,7 +33,7 @@ updated: 2020-06-14T10:00Z
 
 ### Intel 80486 (1993)
 
-<figure class="halfRight">
+<figure class="quarterRight">
     <img src="/images/past-computing-devices_486.jpg" alt="Packward Bell Multi-Media 486, picture by /u/fwork on reddit">
 </figure>
 
@@ -43,7 +43,7 @@ Unfortunately, due to my young age and having little experience with computers, 
 
 ### Pentium (1996)
 
-<figure class="halfRight">
+<figure class="quarterRight">
     <img src="/images/past-computing-devices_pentium.jpg" alt="HP Pavilion">
 </figure>
 
@@ -86,7 +86,7 @@ Shortly after building this machine, [World of Warcraft](https://en.wikipedia.or
 
 ### PowerBook G4 (2005)
 
-<figure class="halfRight">
+<figure class="quarterRight">
     <img src="/images/past-computing-devices_powerbook-g4.jpg" alt="PowerBook G4">
 </figure>
 
@@ -114,7 +114,7 @@ This machine was later upgraded to 4 gigabytes of RAM. While this machine would 
 
 ### MacBook 13" (2007)
 
-<figure class="halfRight">
+<figure class="quarterRight">
     <img src="/images/past-computing-devices_macbook.jpg" alt="MacBook">
 </figure>
 
@@ -130,7 +130,7 @@ This was not my first Mac, but this machine marks the beginning of when my minds
 
 ### iPhone (2007)
 
-<figure class="halfRight">
+<figure class="quarterRight">
     <img src="/images/past-computing-devices_iphone.jpg" alt="iPhone">
 </figure>
 
@@ -146,7 +146,7 @@ There is a lot to say about how the iPhone changed not only my life but the live
 
 ### Mac Mini (2009)
 
-<figure class="halfRight">
+<figure class="quarterRight">
     <img src="/images/past-computing-devices_mac-mini.jpg" alt="Mac Mini">
 </figure>
 
@@ -164,7 +164,7 @@ The HDD was upgraded to a 500 gigabyte HDD later on its life just to give me mor
 
 ### MacBook Air (2010)
 
-<figure class="halfRight">
+<figure class="quarterRight">
     <img src="/images/past-computing-devices_macbook-air.jpg" alt="MacBook Air">
 </figure>
 
@@ -178,7 +178,7 @@ The replacement for my MacBook, and the last Mac laptop that I owned. This machi
 
 ### iPhone 4 (2010)
 
-<figure class="halfRight">
+<figure class="quarterRight">
     <img src="/images/past-computing-devices_iphone-4.jpg" alt="iPhone 4">
 </figure>
 
@@ -194,7 +194,7 @@ This phone is infamous for being leaked so heavily ahead of time, as well as the
 
 ### iPhone 5S (2013)
 
-<figure class="halfRight">
+<figure class="quarterRight">
     <img src="/images/past-computing-devices_iphone-5s.jpg" alt="iPhone 5S">
 </figure>
 
@@ -210,7 +210,7 @@ If Apple ever released another phone with this exact design but modern internals
 
 ### Mac Mini (2014)
 
-<figure class="halfRight">
+<figure class="quarterRight">
     <img src="/images/past-computing-devices_mac-mini-2014.jpg" alt="Mac Mini">
 </figure>
 
@@ -226,7 +226,7 @@ Despite my love for the Mac Mini form-factor, this particular machine is pretty 
 
 ### iPhone 6 Plus (2014)
 
-<figure class="halfRight">
+<figure class="quarterRight">
     <img src="/images/past-computing-devices_iphone-6-plus.jpg" alt="iPhone 6 Plus">
 </figure>
 
@@ -240,7 +240,7 @@ As much as I loved the iPhone 5S, I replaced it rather quickly when Apple announ
 
 ### Intel Skylake (2015)
 
-<figure class="halfRight">
+<figure class="quarterRight">
     <img src="/images/past-computing-devices_skylake.jpg" alt="Skylake">
 </figure>
 
@@ -256,7 +256,7 @@ This machine has seen many GPUs pass through it. The first upgrade was to an [NV
 
 ### Apple Watch (2015)
 
-<figure class="halfRight">
+<figure class="quarterRight">
     <img src="/images/past-computing-devices_apple-watch.jpg" alt="Apple Watch">
 </figure>
 
@@ -273,7 +273,7 @@ In retrospect, the first generation Apple Watch was a seriously compromised devi
 
 ### iPad (2017)
 
-<figure class="halfRight">
+<figure class="quarterRight">
     <img src="/images/past-computing-devices_ipad.jpg" alt="Apple iPad">
 </figure>
 
@@ -287,7 +287,7 @@ Tablet computers were a device class that I came to much later than most. I prev
 
 ### Apple Watch (2018)
 
-<figure class="halfRight">
+<figure class="quarterRight">
     <img src="/images/past-computing-devices_apple-watch-series-4.jpg" alt="Apple Watch Series 4">
 </figure>
 
@@ -299,7 +299,7 @@ The Apple Watch Series 4 was a gigantic leap in capabilities over my initial "Se
 
 ### Mac Mini (2018)
 
-<figure class="halfRight">
+<figure class="quarterRight">
     <img src="/images/past-computing-devices_mac-mini-2018.jpg" alt="Mac Mini">
 </figure>
 
@@ -315,7 +315,7 @@ While owning this machine, I began the process of upgrading all of my monitors t
 
 ### iPhone 11 (2019)
 
-<figure class="halfRight">
+<figure class="quarterRight">
     <img src="/images/past-computing-devices_iphone-11.jpg" alt="iPhone 11">
 </figure>
 
