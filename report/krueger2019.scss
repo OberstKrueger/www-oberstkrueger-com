@@ -44,6 +44,11 @@ body {
     margin: 0;
 }
 
+main {
+    margin: auto;
+    max-width: $imgWidth;
+}
+
 blockquote,
 pre {
     background-color: $colorInactive;
