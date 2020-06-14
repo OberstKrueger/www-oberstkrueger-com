@@ -251,32 +251,44 @@ figure {
         width: 90%;
     }
     &.halfLeft {
-        float: left;
-        margin-bottom: 0;
-        margin-right: 0.5rem;
-        width: 50%;
+        margin: 0 auto;
+        max-width: $textWidth;
+        img {
+            float: left;
+            margin-right: 0.5rem;
+            width: 50%;
+        }
     }
     &.halfRight {
-        float: right;
-        margin-bottom: 0;
-        margin-left: 0.5rem;
-        width: 50%;
+        margin: 0 auto 0.5rem;
+        max-width: $textWidth;
+        img {
+            float: right;
+            margin-left: 0.5rem;
+            width: 50%;
+        }
     }
     &.quarter {
         max-width: $textWidth / 2;
         width: 25%;
     }
     &.quarterLeft {
-        float: left;
-        margin-bottom: 0;
-        margin-right: 0.5rem;
-        width: 25%;
+        margin: 0 auto 0.5rem;
+        max-width: $textWidth;
+        img {
+            float: left;
+            margin-right: 0.5rem;
+            width: 25%;
+        }
     }
     &.quarterRight {
-        float: right;
-        margin-bottom: 0;
-        margin-left: 0.5rem;
-        width: 25%;
+        margin: 0 auto 0.5rem;
+        max-width: $textWidth;
+        img {
+            float: right;
+            margin-left: 0.5rem;
+            width: 25%;
+        }
     }
 }
 
