@@ -3,7 +3,7 @@ category: root
 created: 2016-11-05T13:00Z
 title: The Krueger Report
 type: index
-updated: 2020-05-05T18:30Z
+updated: 2020-06-14T10:00Z
 ---
 
 ## Introduction
@@ -51,6 +51,7 @@ updated: 2020-05-05T18:30Z
 
 - [Software Tools](/technology/software-tools)
 - [CLI Tools](/technology/cli-tools)
+- [Past Computing Devices](/technology/past-computing-devices)
 - [Simplifying the Smartphone](/technology/simplifying-the-smartphone)
 - [Backups](/technology/backups)
 - [DuckDuckGo](/technology/duckduckgo)
