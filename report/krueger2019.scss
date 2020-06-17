@@ -248,6 +248,7 @@ figure {
     &.halfLeft {
         margin: 0 auto;
         max-width: $textWidth;
+        width: 90%;
         img {
             float: left;
             margin-right: 0.5rem;
@@ -257,6 +258,7 @@ figure {
     &.halfRight {
         margin: 0 auto 0.5rem;
         max-width: $textWidth;
+        width: 90%;
         img {
             float: right;
             margin-left: 0.5rem;
@@ -270,6 +272,7 @@ figure {
     &.quarterLeft {
         margin: 0 auto 0.5rem;
         max-width: $textWidth;
+        width: 90%;
         img {
             float: left;
             margin-right: 0.5rem;
@@ -279,6 +282,7 @@ figure {
     &.quarterRight {
         margin: 0 auto 0.5rem;
         max-width: $textWidth;
+        width: 90%;
         img {
             float: right;
             margin-left: 0.5rem;
