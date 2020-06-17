@@ -10,6 +10,10 @@ updated: 2020-04-15T18:10Z
 **Hosts**: [Marco Arment](https://marco.org), [Casey Liss](https://www.caseyliss.com), [John Siracusa](http://hypercritical.co)<br>
 Three nerds discussing tech, Apple, programming, and loosely related matters.
 
+**Advice For And From The Future**: [Site](https://www.futureadvice.club)<br>
+**Host**: [Rose Eveleth](http://roseveleth.com)<br>
+Tomorrow’s questions, answered today.
+
 **The Bike Shed**: [Site](http://bikeshed.fm)<br>
 **Hosts**: [Derek Prior](http://www.prioritized.net), [Sean Griffin](https://twitter.com/sgrif), [Amanda Hill](http://www.mandybess.com)<br>
 On The Bike Shed, hosts Derek Prior, Sean Griffin, Amanda Hill, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week..
