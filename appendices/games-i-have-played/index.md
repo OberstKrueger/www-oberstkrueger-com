@@ -3,7 +3,7 @@ category: appendices
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2020-06-13T21:00Z
+updated: 2020-06-24T22:10Z
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -432,6 +432,7 @@ updated: 2020-06-13T21:00Z
 - [Quake Champions](https://en.wikipedia.org/wiki/Quake_Champions)
 - [Sacrifice](https://en.wikipedia.org/wiki/Sacrifice_(video_game))
 - [Sanctum](https://en.wikipedia.org/wiki/Sanctum_(2011_video_game))
+- [Satisfactory](https://en.wikipedia.org/wiki/Satisfactory)
 - [Scanner Sombre](https://en.wikipedia.org/wiki/Scanner_Sombre)
 - [Serious Sam: The First Encounter](https://en.wikipedia.org/wiki/Serious_Sam_(video_game)#Serious_Sam:_The_First_Encounter)
 - [Serious Sam: The Second Encounter](https://en.wikipedia.org/wiki/Serious_Sam_(video_game)#Serious_Sam:_The_Second_Encounter)
