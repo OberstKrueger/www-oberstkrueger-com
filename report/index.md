@@ -3,7 +3,7 @@ category: root
 created: 2016-11-05T13:00Z
 title: The Krueger Report
 type: index
-updated: 2020-06-14T10:00Z
+updated: 2020-06-28T11:40Z
 ---
 
 ## Introduction
@@ -60,6 +60,7 @@ updated: 2020-06-14T10:00Z
 ## All About The Mac
 
 - [Setting Up Homebrew](/all-about-the-mac/setting-up-homebrew)
+- [WWDC 2020](/all-about-the-mac/wwdc-2020)
 
 ## Music
 
