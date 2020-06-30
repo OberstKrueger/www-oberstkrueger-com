@@ -1,5 +1,4 @@
 ---
-category: introduction
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
