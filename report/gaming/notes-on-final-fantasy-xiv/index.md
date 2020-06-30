@@ -2,7 +2,7 @@
 created: 2017-07-24T17:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2020-06-04T20:55Z
+updated: 2020-06-30T17:35Z
 ---
 
 ## Trials - A Realm Reborn
@@ -426,3 +426,16 @@ In Phase 2, the DPS will kill adds in this order:
 3. Vice and Virtue: Line attack on both tanks. Spread out.
 4. Pure Light: Move behind boss.
 5. Adds: Tanked by each tank. Can be stacked for AE damage.
+
+### Eden's Gate: Descent (Normal)
+
+1. Doomvoid Guillotine: AE that divides the middle of the arena.
+2. Nyx: Avoid adds.
+3. Doomvoid Slicer: Donut AE.
+4. Shadowblame: Tankbuster on MT and OT.
+5. Dark Fire III: AE markers; move away from other players.
+6. Unholy Darkness: Stack on player with Yellow Arrow.
+7. Shadoweye: Face away from player targeted
+8. Spell In Waiting: Delays above attacks by a few seconds.
+9. Hand Of Erebos: Move to edge next to add.
+10. Punishing Ray: One player stands in each circle.
