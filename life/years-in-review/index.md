@@ -1,5 +1,4 @@
 ---
-category: life
 created: 2017-01-01T15:00Z
 title: Years In Review
 type: page
