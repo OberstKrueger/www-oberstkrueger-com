@@ -2,7 +2,7 @@
 created: 2018-07-21T00:30Z
 title: Exit Status Codes
 type: page
-updated: 2019-02-25T00:35Z
+updated: 2020-06-30T17:25Z
 ---
 
 On all [Unix](https://en.wikipedia.org/wiki/Unix) operating systems, every time a process exits, it returns an [exit status](https://en.wikipedia.org/wiki/Exit_status) that tells the operating system whether the process ran successfully or encountered some sort of failure mode. Implementing these exit statuses is important so that the tool can interact with the rest of the system in an expected way.
@@ -12,6 +12,9 @@ The [POSIX](https://en.wikipedia.org/wiki/POSIX) standards declares that the exi
 ## Zero and Non-Zero
 
 Both standards state that an exit status of zero means the executable exited in a successful state, and any other non-zero exit status means that an error occurred. [The C programming language](https://en.wikipedia.org/wiki/C_(programming_language)) has two constants called EXIT\_SUCCESS and EXIT\_FAILURE that [respectively map to the values of 0 and 1](https://www.gnu.org/software/libc/manual/html_node/Exit-Status.html). Most languages build similar values into their own standard libraries, creating the de facto standard of 0 equaling success and 1 equaling an error.
+
+- 0 - Successful termination
+- 1 - Unspecified error
 
 ## Beyond Just Zero and One
 
@@ -37,9 +40,19 @@ The closest there is to an official extended standard comes from the [BSD family
 
 [GNU grep](https://www.gnu.org/software/grep/) includes one additional exit status. Grep will return 2 if there is any sort of I/O error experienced while processing the command.
 
+- 2 - I/O error
+
 The [Bash Reference Manual](https://www.gnu.org/software/bash/manual/html_node/index.html) adds three additional exit statuses. 2 is returned if the command called is used incorrectly, such as not providing an input or misusing an argument. 126 is returned if command exists but is not executable(for example, if the command does not have correct permission levels), and 127 is returned if the command is not found. Neither of these last two exit statuses would be valid for an executable to itself return, although they can be useful in processing the exit status of other subprocesses of the executable.
 
+- 2 - Incorrect command usage
+- 126 - Command found but not executable
+- 127 - Command not found
+
 Mendel Cooper, author of the [Advanced Bash-Scripting Guide](https://www.tldp.org/LDP/abs/html/) adds a few additional exit statuses on top of the Bash standards: 128 to indicated an invalid exit code, 130 to indicated that the user interrupted the process with Ctrl-C, and anything above 128 indicates a fatal error signal, such as 137(128 + 9) indicated a kill signal 9 being passed to the process. Any exit code above 255 is considered out of range and invalid. Just like the above Bash statuses, these are useful for processing other processes statuses but not being passed by the command run.
+
+- 128 + n - Fatal error signal n, i.e. kill -9 $PPID (128 + 9 = 137)
+- 130 - Command terminated by Ctrl-C
+- 255+ - Exit code out of range
 
 ## List of Exit Statuses
 
