@@ -1,5 +1,4 @@
 ---
-category: technology
 created: 2016-11-17T04:00Z
 title: Backups
 type: page

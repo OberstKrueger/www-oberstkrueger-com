@@ -1,5 +1,4 @@
 ---
-category: all-about-the-mac
 created: 2017-09-23T05:00Z
 title: Setting Up Homebrew
 type: page

@@ -1,5 +1,4 @@
 ---
-category: appendices
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page

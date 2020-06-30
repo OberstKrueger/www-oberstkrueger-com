@@ -1,5 +1,4 @@
 ---
-category: life
 created: 2016-04-25T00:45Z
 title: Work Music
 type: page

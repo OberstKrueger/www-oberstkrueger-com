@@ -1,5 +1,4 @@
 ---
-category: programming
 created: 2017-08-06T17:45Z
 title: base-css
 type: page

@@ -1,5 +1,4 @@
 ---
-category: health
 created: 2017-05-14T08:45Z
 title: Iced Coffee
 type: page

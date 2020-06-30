@@ -1,5 +1,4 @@
 ---
-category: programming
 created: 2017-08-26T16:15Z
 title: Scripting With Swift
 type: page

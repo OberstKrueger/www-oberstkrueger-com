@@ -1,5 +1,4 @@
 ---
-category: gaming
 created: 2017-02-08T07:00Z
 title: Asheron's Call
 type: page

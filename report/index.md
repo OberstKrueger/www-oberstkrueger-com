@@ -1,5 +1,4 @@
 ---
-category: root
 created: 2016-11-05T13:00Z
 title: The Krueger Report
 type: index

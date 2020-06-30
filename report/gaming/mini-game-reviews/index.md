@@ -1,5 +1,4 @@
 ---
-category: games
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page

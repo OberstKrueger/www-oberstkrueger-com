@@ -1,5 +1,4 @@
 ---
-category: music
 created: 2017-11-06T08:05Z
 title: Rebooting iTunes
 type: page

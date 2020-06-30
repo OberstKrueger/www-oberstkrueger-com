@@ -1,5 +1,4 @@
 ---
-category: gaming
 created: 2018-06-30T18:05Z
 title: The Games of Tomorrow Corporation
 type: page

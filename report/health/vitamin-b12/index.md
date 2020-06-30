@@ -1,5 +1,4 @@
 ---
-category: health
 created: 2017-04-25T21:30Z
 title: Vitamin B12
 type: page

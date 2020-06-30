@@ -1,5 +1,4 @@
 ---
-category: technology
 created: 2016-10-02T16:50Z
 title: DuckDuckGo
 type: page

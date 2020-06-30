@@ -1,5 +1,4 @@
 ---
-category: programming
 created: 2018-03-29T02:30Z
 title: Updating Sublime Text
 type: page

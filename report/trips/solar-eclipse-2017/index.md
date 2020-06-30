@@ -1,5 +1,4 @@
 ---
-category: trips
 created: 2017-08-22T08:30Z
 title: Solar Eclipse - 2017
 type: page

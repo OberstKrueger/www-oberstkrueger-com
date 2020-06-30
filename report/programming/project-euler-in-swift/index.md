@@ -1,5 +1,4 @@
 ---
-category: programming
 created: 2017-04-06T08:45Z
 title: Project Euler In Swift
 type: page

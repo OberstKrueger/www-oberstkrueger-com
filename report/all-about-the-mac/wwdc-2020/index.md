@@ -1,5 +1,4 @@
 ---
-category: all-about-the-mac
 created: 2020-06-28T11:40Z
 title: WWDC 2020
 type: page

@@ -1,5 +1,4 @@
 ---
-category: gaming
 created: 2016-06-22T07:45Z
 title: Disabling Gaming Platforms’ Social Features
 type: page

@@ -1,5 +1,4 @@
 ---
-category: technology
 created: 2018-04-25T03:25Z
 title: CLI Tools
 type: page

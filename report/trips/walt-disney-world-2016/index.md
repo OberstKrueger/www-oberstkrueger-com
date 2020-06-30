@@ -1,5 +1,4 @@
 ---
-category: trips
 created: 2017-08-14T11:00Z
 title: Walt Disney World - 2016
 type: page

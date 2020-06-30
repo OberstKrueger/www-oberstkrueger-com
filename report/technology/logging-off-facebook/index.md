@@ -1,5 +1,4 @@
 ---
-category: technology
 created: 2016-08-17T15:45Z
 title: Logging Off Facebook
 type: page

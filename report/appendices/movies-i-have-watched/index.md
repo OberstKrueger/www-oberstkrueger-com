@@ -1,5 +1,4 @@
 ---
-category: appendices
 created: 2017-08-07T20:45Z
 title: Movies I Have Watched
 type: page

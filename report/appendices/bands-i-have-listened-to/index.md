@@ -1,5 +1,4 @@
 ---
-category: appendices
 created: 2019-05-16T15:35Z
 title: Bands I Have Listened To
 type: page

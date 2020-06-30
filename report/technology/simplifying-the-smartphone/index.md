@@ -1,5 +1,4 @@
 ---
-category: technology
 created: 2018-08-28T17:30Z
 title: Simplifying the Smartphone
 type: page

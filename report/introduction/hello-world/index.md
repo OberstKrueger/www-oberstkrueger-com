@@ -1,5 +1,4 @@
 ---
-category: introduction
 created: 2017-06-20T16:15Z
 title: Hello, world!
 type: page

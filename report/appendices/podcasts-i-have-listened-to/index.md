@@ -1,5 +1,4 @@
 ---
-category: appendices
 created: 2017-06-04T19:20Z
 title: Podcasts I Have Listened To
 type: page

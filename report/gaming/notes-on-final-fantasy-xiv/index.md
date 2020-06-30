@@ -1,5 +1,4 @@
 ---
-category: gaming
 created: 2017-07-24T17:00Z
 title: Notes On Final Fantasy XIV
 type: page

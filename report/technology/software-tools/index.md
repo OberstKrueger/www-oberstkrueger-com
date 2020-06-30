@@ -1,5 +1,4 @@
 ---
-category: technology
 created: 2017-02-27T17:00Z
 title: Software Tools
 type: page

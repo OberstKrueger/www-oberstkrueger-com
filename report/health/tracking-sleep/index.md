@@ -1,5 +1,4 @@
 ---
-category: health
 created: 2016-03-27T12:30Z
 title: Tracking Sleep
 type: page

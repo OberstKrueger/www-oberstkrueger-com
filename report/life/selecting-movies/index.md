@@ -1,5 +1,4 @@
 ---
-category: life
 created: 2017-11-12T08:00Z
 title: Selecting Movies
 type: page

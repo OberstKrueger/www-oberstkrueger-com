@@ -1,5 +1,4 @@
 ---
-category: programming
 created: 2018-07-21T00:30Z
 title: Exit Status Codes
 type: page

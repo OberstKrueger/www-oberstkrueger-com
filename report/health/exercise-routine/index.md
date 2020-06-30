@@ -1,5 +1,4 @@
 ---
-category: health
 created: 2017-03-18T19:45Z
 title: Exercise Routine
 type: page

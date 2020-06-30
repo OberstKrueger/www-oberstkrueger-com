@@ -1,5 +1,4 @@
 ---
-category: automation
 created: 2018-10-17T00:30Z
 title: Why Automate?
 type: page

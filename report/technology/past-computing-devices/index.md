@@ -1,5 +1,4 @@
 ---
-category: technology
 created: 2020-06-14T10:00Z
 title: Past Computing Devices
 type: page

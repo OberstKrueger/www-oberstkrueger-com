@@ -1,5 +1,4 @@
 ---
-category: programming
 created: 2017-07-02T19:15Z
 title: Helpful Algorithms
 type: page

@@ -1,5 +1,4 @@
 ---
-category: life
 created: 2018-05-30T01:15Z
 title: Traveling Minimally
 type: page

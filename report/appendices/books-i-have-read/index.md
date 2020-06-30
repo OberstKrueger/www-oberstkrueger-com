@@ -1,5 +1,4 @@
 ---
-category: appendices
 created: 2017-06-11T13:30Z
 title: Books I Have Read
 type: page
