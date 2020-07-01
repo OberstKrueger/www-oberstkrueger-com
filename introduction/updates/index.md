@@ -2,8 +2,38 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2020-06-01T10:40Z
+updated: 2020-07-01T16:45Z
 ---
+
+## 2020.06
+
+### Past Computing Devices
+
+For the past month, I have been going researching as much as I can about all of the [past computing devices](https://krueger.report/technology/past-computing-devices/) that I have used throughout my life. This includes as desktop and laptop computers, smartphones, smartwatches, and tablets. It was interesting figuring out what I have used in the past. The specific models of my first two computers were impossible to locate, although I think I did get close on the second computer, and the timeline for my GPU upgrades might be missing an entry, but overall, I think I found everything else that I have used in my life. Video game consoles are not currently included, but I do plan to go back and add them at some point.
+
+### WWDC 2020
+
+[WWDC 2020](https://krueger.report/all-about-the-mac/wwdc-2020/) is one of the most important computer events for me each year. I have never published any thoughts about it before, reserving that for conversations with friends. This year, marking the new big platform transition announced, I decided to expand my thoughts into a piece so I can later refer back to what excited me and what concerned me about this year's events.
+
+### Page Updates
+
+[Notes on Final Fantasy XIV](https://krueger.report/gaming/notes-on-final-fantasy-xiv/) was updated to list all of the entries in chronological order. Initially, all of the raids and trials were in alphabetical order, but due there now being so many entries, search is required anyways to find a specific one quickly. Therefore, having it in chronological order is helpful for knowing what is missing and what is not.
+
+### Favorite Articles
+
+- Gothe, N.P., Khan, I., Hayes, J., Erlenbach, E., Damoiseaux, J.S. (2019). Yoga effects on brain health: a systematic review of the current literature. *Brain Plasticity*, 5, 1. 105-122.
+
+### Books Read
+
+- Tyson, Neil deGrasse - Letters from an Astrophysicist
+
+### Games Played
+
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [Journey](https://en.wikipedia.org/wiki/Journey_(2012_video_game))
+- [Satisfactory](https://en.wikipedia.org/wiki/Satisfactory)
+- [Tyranny](https://en.wikipedia.org/wiki/Tyranny_(video_game))
+
 
 ## 2020.05
 
