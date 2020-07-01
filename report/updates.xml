@@ -7,7 +7,7 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2020-06-01T10:40Z</updated>
+<updated>2020-07-01T16:45Z</updated>
 
 <!--
 <entry>
@@ -26,6 +26,43 @@
 </content>
 </entry>
 -->
+
+<entry>
+<title>Updates For June, 2020</title>
+<author>
+<name>Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/202006</id>
+<published>2020-07-01T16:45Z</published>
+<updated>2020-07-01T16:45Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2020.06</h2>
+<h3>Past Computing Devices</h3>
+<p>For the past month, I have been going researching as much as I can about all of the <a href="https://krueger.report/technology/past-computing-devices/">past computing devices</a> that I have used throughout my life. This includes as desktop and laptop computers, smartphones, smartwatches, and tablets. It was interesting figuring out what I have used in the past. The specific models of my first two computers were impossible to locate, although I think I did get close on the second computer, and the timeline for my GPU upgrades might be missing an entry, but overall, I think I found everything else that I have used in my life. Video game consoles are not currently included, but I do plan to go back and add them at some point.</p>
+<h3>WWDC 2020</h3>
+<p><a href="https://krueger.report/all-about-the-mac/wwdc-2020/">WWDC 2020</a> is one of the most important computer events for me each year. I have never published any thoughts about it before, reserving that for conversations with friends. This year, marking the new big platform transition announced, I decided to expand my thoughts into a piece so I can later refer back to what excited me and what concerned me about this year's events.</p>
+<h3>Page Updates</h3>
+<p><a href="https://krueger.report/gaming/notes-on-final-fantasy-xiv/">Notes on Final Fantasy XIV</a> was updated to list all of the entries in chronological order. Initially, all of the raids and trials were in alphabetical order, but due there now being so many entries, search is required anyways to find a specific one quickly. Therefore, having it in chronological order is helpful for knowing what is missing and what is not.</p>
+<h3>Favorite Articles</h3>
+<ul>
+<li>Gothe, N.P., Khan, I., Hayes, J., Erlenbach, E., Damoiseaux, J.S. (2019). Yoga effects on brain health: a systematic review of the current literature. <em>Brain Plasticity</em>, 5, 1. 105-122.</li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Tyson, Neil deGrasse - Letters from an Astrophysicist</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Journey_(2012_video_game)">Journey</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Satisfactory">Satisfactory</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tyranny_(video_game)">Tyranny</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For May, 2020</title>
