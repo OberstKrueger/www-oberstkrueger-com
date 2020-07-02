@@ -2,7 +2,7 @@
 created: 2017-06-11T13:30Z
 title: Books I Have Read
 type: page
-updated: 2020-06-19T01:00Z
+updated: 2020-07-02T09:35Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -124,6 +124,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Munroe, Randall - Thing Explainer: Complicated Stuff in Simple Words
 - Munroe, Randall - What if?: Serious Scientific Answers to Absurd Hypothetical Questions
 - Singer, P.W. - LikeWar: The Weaponization of Social Media
+- Tyson, Neil deGrasse - Astrophysics for People in A Hurry
 - Tyson, Neil deGrasse - Death by Blackhole: And Other Cosmic Quandaries
 - Tyson, Neil deGrasse - Letters from an Astrophysicist
 - Tyson, Neil deGrasse - Space Chronicles: Facing the Ultimate Frontier
