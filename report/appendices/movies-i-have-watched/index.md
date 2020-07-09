@@ -2,7 +2,7 @@
 created: 2017-08-07T20:45Z
 title: Movies I Have Watched
 type: page
-updated: 2020-03-24T04:50Z
+updated: 2020-07-09T19:20Z
 ---
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
@@ -98,6 +98,7 @@ updated: 2020-03-24T04:50Z
 - [The Grapes of Wrath](https://en.wikipedia.org/wiki/The_Grapes_of_Wrath_(film))
 - [The Great Escape](https://en.wikipedia.org/wiki/The_Great_Escape_(film))
 - [The Green Mile](https://en.wikipedia.org/wiki/The_Green_Mile_(film))
+- [Hamilton](https://en.wikipedia.org/wiki/Hamilton_(2020_film))
 - [Harry Potter and the Philosopher's Stone](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film))
 - [Harry Potter and the Chamber of Secrets](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film))
 - [Harry Potter and the Prisoner of Azkaban](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film))
