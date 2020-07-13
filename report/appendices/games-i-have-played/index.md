@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2020-06-24T22:10Z
+updated: 2020-07-13T09:05Z
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -333,6 +333,7 @@ updated: 2020-06-24T22:10Z
 - [Guild Wars 2](https://en.wikipedia.org/wiki/Guild_Wars_2)
 - [Hackmud](https://en.wikipedia.org/wiki/Hackmud)
 - [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game))
+- [Half-Life: Alyx](https://en.wikipedia.org/wiki/Half-Life:_Alyx)
 - [Half-Life: Blue Shift](https://en.wikipedia.org/wiki/Half-Life:_Blue_Shift)
 - [Half-Life: Opposing Force](https://en.wikipedia.org/wiki/Half-Life:_Opposing_Force)
 - [Half-Life 2](https://en.wikipedia.org/wiki/Half-Life_2)
