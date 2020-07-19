@@ -2,7 +2,7 @@
 created: 2017-07-24T17:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2020-07-19T09:25Z
+updated: 2020-07-19T09:35Z
 ---
 
 ## Trials - A Realm Reborn
@@ -448,3 +448,13 @@ In Phase 2, the DPS will kill adds in this order:
 4. Tsunami: 4 different debuffs placed on players, each going off at different times.
 5. Surging Tsunami: Knocks all players away from target.
 6. Smothering Tsunami: Spread AEs apart.
+
+### Eden's Gate: Sepulture (Normal)
+
+1. Evil Earth: Delayed AE that spreds from starting square.
+2. Stonecrusher: Tank buster with debuff. Tank swap.
+3. Crumbling Down: Position non-glowing boulder between yourself and Titan before Seismic Wave casts.
+4. Geocrush: Knockback, stand near Titan..
+5. Massive Landslide: Stand in front of Titan, then immediately move to the side.
+6. Cobolt Bomb: Makes a single boulder grow in size, making its range larger.
+7. Fault Line: Stand on the two-segment wide section of arena.
