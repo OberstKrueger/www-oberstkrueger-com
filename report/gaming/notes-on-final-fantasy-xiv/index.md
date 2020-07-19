@@ -2,7 +2,7 @@
 created: 2017-07-24T17:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2020-06-30T17:35Z
+updated: 2020-07-19T09:25Z
 ---
 
 ## Trials - A Realm Reborn
@@ -439,3 +439,12 @@ In Phase 2, the DPS will kill adds in this order:
 8. Spell In Waiting: Delays above attacks by a few seconds.
 9. Hand Of Erebos: Move to edge next to add.
 10. Punishing Ray: One player stands in each circle.
+
+### Eden's Gate: Inundation (Normal)
+
+1. Rip Current: Targets MT, line attack. Move away from group.
+2. Tidal Wave: Move towards wave to not be knocked off platform.
+3. Undersea Quake: Do not stand in front of either head.
+4. Tsunami: 4 different debuffs placed on players, each going off at different times.
+5. Surging Tsunami: Knocks all players away from target.
+6. Smothering Tsunami: Spread AEs apart.
