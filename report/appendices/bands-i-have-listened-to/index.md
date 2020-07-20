@@ -2,7 +2,7 @@
 created: 2019-05-16T15:35Z
 title: Bands I Have Listened To
 type: page
-updated: 2020-07-13T08:55Z
+updated: 2020-07-20T08:50Z
 ---
 
 This page is split into two sections. The first section lists which bands I have listened to the complete discography for. The second section are bands that I have sampled, usually by listening to a [greatest hits album](https://en.wikipedia.org/wiki/Greatest_hits_album) or an essentials playlist on Apple Music.
@@ -318,6 +318,7 @@ This page is split into two sections. The first section lists which bands I have
 - Tiarra
 - To-Mera
 - To/Die/For
+- Tori Amos
 - Visions of Atlantis
 - Weird Al Yankovic
 - White Zombie
