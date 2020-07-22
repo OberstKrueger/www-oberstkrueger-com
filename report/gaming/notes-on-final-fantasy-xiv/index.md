@@ -2,7 +2,7 @@
 created: 2017-07-24T17:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2020-07-22T18:15Z
+updated: 2020-07-22T18:20Z
 ---
 
 ## Trials - A Realm Reborn
@@ -176,7 +176,7 @@ In Phase 2, the DPS will kill adds in this order:
 ### The Jade Stoa (Normal)
 
 1. Storm Pulse: Raid-wide AE
-2. Heavenly Strike: Tank-buster
+2. Heavenly Strike: Tank buster
 3. State of Shock: Stack up
 4. Unrelenting Anguish: Avoid red orbs
 5. Phase 2 Hakutei-Tiger: Tank this
@@ -215,7 +215,7 @@ In Phase 2, the DPS will kill adds in this order:
 
 ### The Wreath of Snakes (Normal)
 
-1. Infirm Soul: Tankbuster.
+1. Infirm Soul: Tank buster.
 2. Onmyo Circle: PBAE.
 3. Dragon Ring: Stand inside melee range.
 4. Summon Shiki: Tank adds. Explode on death, so don't kill all at once.
@@ -238,7 +238,7 @@ In Phase 2, the DPS will kill adds in this order:
 ### The Orbonne Monastery
 
 1. Mustadio
-    1. Arm Shot: Tankbuster.
+    1. Arm Shot: Tank buster.
     2. Left/Right Handgonne: Move to opposite side of boss.
     3. Maintenance: Spawns adds that create line AEs.
     4. Analysis: Face the gap in the market towards the boss.
@@ -246,7 +246,7 @@ In Phase 2, the DPS will kill adds in this order:
     6. Maintenance 2.0: Respawns adds that AE for their quarter of the arena.
     7. Maintenance 3.0: Combines mechanics of Maintenance 1.0 and 2.0.
 2. Agrias
-    1. Thunder Slash: Frontal cone tankbuster.
+    1. Thunder Slash: Frontal cone tank buster.
     2. Shieldbearer: Stand in circle, face boss, and then use duty action button.
     3. Cleansing Strike: Targets one group of raid. That group must kill adds.
     4. Swordbearer: Inside Cleaning Strike, same as Shieldbearer but must be used against adds with shield barriers.
@@ -255,7 +255,7 @@ In Phase 2, the DPS will kill adds in this order:
 3. The Thunder God
     1. TG Holy Sword: If horizontal, don't stand on platforms being pointed at. If vertical, move close to boss. If horizontal but not pointing at platforms, move to edge of arena.
     2. Shadowblade: Marked player moves away from group. Each alliances effect can not touch another.
-    3. Crush Helm: Tankbuster.
+    3. Crush Helm: Tank buster.
     4. Duskblade: 3 players must stand in each circle.
     5. Crush Weapon: Targeted player moves away from other players and then runs from AE.
     6. Coliseum: Kill adds.
@@ -268,7 +268,7 @@ In Phase 2, the DPS will kill adds in this order:
     4. Phase 2: All 3 previous boss attacks spawn at once.
     5. Phase 2: Ultimate Illusion: Stand inside bubble.
     6. Phase 3: East/West March: Moves all adds and AEs in the named direction.
-    7. Phase 3: Redemption: Tankbuster.
+    7. Phase 3: Redemption: Tank buster.
     8. Phase 3: Demi-Virgo: Stand underneath circle spawns.
     9. Phase 4: Maze: Navigate back towards the boss.
 
@@ -285,7 +285,7 @@ In Phase 2, the DPS will kill adds in this order:
 
 ### Deltascape V2.0 (Normal)
 1. Earthquake: Use Duty Action to levitate above damage.
-2. Evil Sphere: Tank-buster.
+2. Evil Sphere: Tank buster.
 3. Aetherial Rift: Use Duty Action to rise out of the sinking death.
 4. Gravitational Explosion: Yellow arrow stack.
 5. Maniacal Probe: After Epicenter is cast, move away from any raised tentacle with a blue eye above it.
@@ -313,7 +313,7 @@ In Phase 2, the DPS will kill adds in this order:
 3. Blizzard III + Void: Move around as the cast finishes.
 4. Fire III: Marks players for PBAE damage.
 5. Fire III + Void: Do not move or attack while debuff is present.
-6. Thunder III: Tankbuster and a debuff. When two stacks of debuff are present, MT and OT swap roles.
+6. Thunder III: Tank buster and a debuff. When two stacks of debuff are present, MT and OT swap roles.
 7. Thunder III + Void: Large AE + debuff. Move away.
 8. Vacuum Wave: Knocks players back
 9. Holy: Yellow arrow stack.
@@ -369,7 +369,7 @@ In Phase 2, the DPS will kill adds in this order:
 
 ### Alphascape 1.0 (Normal)
 
-1. Chaotic Dispersion: Tank-buster.
+1. Chaotic Dispersion: Tank buster.
 2. Tsunami: Stay in the middle third of the arena.
 3. Dynamic Fluid: Stack in the middle.
 4. Knock Down: Move to edge of arenas.
@@ -396,7 +396,7 @@ In Phase 2, the DPS will kill adds in this order:
 
 ### Alphascape 3.0 (Normal)
 
-1. Mustard Bomb: Tank-buster.
+1. Mustard Bomb: Tank buster.
 2. Ballistic Impact: Leaves behind flame puddles.
 3. Larboard: Cone attack on left side of boss.
 4. Starboard: Cone attack on right side of boss.
@@ -407,10 +407,10 @@ In Phase 2, the DPS will kill adds in this order:
 
 ### Alphascape 4.0 (Normal)
 
-1. Solar Ray: Tank-buster
+1. Solar Ray: Tank buster.
 2. Program Alpha: Stack up shared damage.
 3. Subject Simulation F: Move close to Omega F to survive pushback.
-4. Optimized Blade Dance: Tank-buster, use multiple cooldowns.
+4. Optimized Blade Dance: Tank buster, use multiple cooldowns.
 5. Subject Simulation M: Move away to avoid point-blank AE.
 6. Omegoo: Move both towards edge and apart from each other.
 7. Shield + Shower: Kill Omega-M and then Omega-F.
@@ -432,7 +432,7 @@ In Phase 2, the DPS will kill adds in this order:
 1. Doomvoid Guillotine: AE that divides the middle of the arena.
 2. Nyx: Avoid adds.
 3. Doomvoid Slicer: Donut AE.
-4. Shadowblame: Tankbuster on MT and OT.
+4. Shadowblame: Tank buster on MT and OT.
 5. Dark Fire III: AE markers; move away from other players.
 6. Unholy Darkness: Stack on player with Yellow Arrow.
 7. Shadoweye: Face away from player targeted
