@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2020-05-27T15:10Z
+updated: 2020-07-22T19:10Z
 ---
 
 ## Beautiful Desolation
@@ -192,6 +192,22 @@ What is most striking about the game to me is the art direction of it. Subnautic
 Subnautica does a great job of giving hints of the way forward without ever forcing you to do so. The world is open to exploration at the player's leisure. The one catch to this is that resources in the game do no respawn. A part of the ocean can be over-fished, or mineral resources tapped completely. This pushes the player to try and live more sustainably, or to go to further depths to explore. There are a lot of options available, all equally right in how you want to approach accomplishing your goal.
 
 Unknown Worlds Entertainment created an amazing experience in this game. By the end, I was happy to have explored the game so thoroughly, but sad that it was ending. I know it will be hard game to go back and play again, as much of the mystery will be gone. But the memories I gained through my first playthrough are still vivid in my mind, even months after playing. No other game has had exploration that felt as rewarding as this one, nor created a world that will stick in my mind for a long time to come.
+
+## Tyranny
+
+<figure>
+    <img src='/images/mini-game-reviews_tyranny.jpg' alt='Screenshot of Tyranny'>
+</figure>
+
+Tyranny concludes a trilogy of CRPGs that for me started with the Pillar's of Eternity duet and continued through Torment: Tides of Numenera. I am glad to have played the game, but have come to the conclusion that I am ready to be done with this breed of CRPG for a while.
+
+Where Tyranny shines is in its story and characterizations. The game does not cover as broad of a story as Pillars of Eternity, instead focusing on a smaller subset of the world. Sections of the world are confined to 4-5 areas, each being roughly the same size as an area in the original Baldur's Gate. These areas are used for one or two quests, and then you will move on.
+
+As the world is smaller, so too is the selection of characters to act as party members. There are only 6 characters to choose from. These characters are written well, with excellent voice acting. The only problem is that much like the world does not offer many less-traveled areas to explore, the characters do not have additional depth that takes probing to learn about. For example, there is but one story for the character of Verse. Whether she is loyal to you or fearful of you matters little for how it plays out. Just an hour or so of questing and that is the additional depth to it. In fact, the lack of optional content that is present in the game is both a pro and a con. On the pro side, the game is short compared to other titles in the genre. I completed my first playthrough in 21 hours, and that included time exploring side quests. A future playthrough in under 15 hours sounds doable if I focus on the main story. The con to this is that having more to explore would have been great. Tyranny's world is unique compared to many others, and the characters have a solid base for future expansion. Unfortunately, this looks like it will never come to be.
+
+While the world was enjoyable, the combat of the game is lacking. It is typical CRPG combat, but in such high volume that it detracts from the story as the game goes on. Certain segments of the game include longer dungeons full of fights, and by halfway through the game, I turned down the difficulty just to progress through them faster. The combat is not bad, as it was in Torment: Tides of Numenera, but it is not great either.
+
+Tyranny feels like a budget Obsidian title. It has all the hallmarks of a great game, but everything is cut short or lacks polish. The expansion packs in particular offered the hope of being able to dive further into the world, but are unfortunately bug-ridden to the point where quests stopped progressing for me. Since patches ceased for the game at the end of 2016, it is unlikely to see any further refinement in this area. Tyranny is both a good game for what it was does, but disappointing in that I wanted more from it and was not able to have it.
 
 ## Unreal
 
