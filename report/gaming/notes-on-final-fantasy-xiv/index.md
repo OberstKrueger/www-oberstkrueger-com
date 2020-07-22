@@ -2,7 +2,7 @@
 created: 2017-07-24T17:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2020-07-19T09:35Z
+updated: 2020-07-22T18:15Z
 ---
 
 ## Trials - A Realm Reborn
@@ -458,3 +458,12 @@ In Phase 2, the DPS will kill adds in this order:
 5. Massive Landslide: Stand in front of Titan, then immediately move to the side.
 6. Cobolt Bomb: Makes a single boulder grow in size, making its range larger.
 7. Fault Line: Stand on the two-segment wide section of arena.
+
+### Eden's Verse: Fulmination (Normal)
+
+1. Crippling Blow: Tank buster.
+2. Stratospear Summons: Move to side with smaller spear.
+3. Surge Protection Orbs: Keep 1 stack up at all time. No more than 3 stacks.
+4. Stormcloud Summons: Targeted players move to opposite ends of arena.
+5. Divine Judgement Volts: Massive AE, removes one stack of Surge Protection.
+6. Tribunal Summons: Knocks back from center column or side rows.
