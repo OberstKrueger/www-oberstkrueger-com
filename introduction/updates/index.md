@@ -2,8 +2,42 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2020-07-01T16:45Z
+updated: 2020-08-01T08:30Z
 ---
+
+## 2020.07
+
+### Page Updates
+
+For the first time in 4 years, I have made a significant change to my [data backup strategy](https://krueger.report/technology/backups/). New features of Arq have allowed me to transition to an online-only backup. My monthly cost has not gone up substantially, despite my backups now being in three online locations instead of just one. It is hard to say how long this current scheme will last, but I intend for it to be a ten or more year plan.
+
+### Favorite Articles
+
+- Allcott, H., Braghieri, L., Eichmeyer, S., Gentzkow, M. (2020). The welfare effects of social media. *American Economic Association*, 11(3). 629-676.
+- Bornholt, J., Lopez, R., Carmean, D.M., Ceze, L., Seelig, G., Strauss, K. (2016). A DNA-based archival storage system. *21th ACM International Conference on Architectural Support for Programming Languages and Operating Systems*, April 2-6, 2016.
+- Chaix, A., Lin, T., Le. H.D., Chang, M.W., Panda, S. (2018). Time-restricted feeding prevents obesity and metabolic syndrome in mice lacking a circadian clock. *Cell Metabolism*, 28. 1-7.
+- Edinburgh, R.M., Bradley, H.E., Abdullah, N.F., Robinson, S.L., Chrzanowski-Smith, O.J., Walhin, J.P., ... Gonzalez, J.T. (2019). Lipid metabolism links nutrient-exercise timing to insulin sensitivity in men classified as overweight or obese. *The Journal of Clinical Endocrinilogy & Metabolish*, 105(3). 660-676.
+- McKenzie, A., Punske, J. (2020). Language development during interstellar travel. *Acta Futura*, 12. 123-132.
+- Pedisic, Z., Shrestha, N., Kovalchik, S., Stamatakis, E., Liangruenrom, N., Grgic, J., ... Oja, P. (2019). Is running associated with a lower risk of all-cause, cardiovascular and cancer mortality, and is the more the better? A systematic review and meta-analysis. *British Journal of Sports Medicine*, November 2019. 1-9.
+- Ripple, W.J., Wolf, C., Newsome, T.M., Barnard, P., Moomaw, W.R. (2019). World scientists' warning of a climate emergency. *BioScience*, 70(1). 8-12.
+- Stoyan, H. (1984). Early LISP history (1956-1959). *LFP '84: Procedings of the 1984 ACM Symposium on LISP and functional programming*. August, 1984. 229-310.
+
+### Books Read
+
+- Pynchon, Thomas - The Crying of Lot 49
+- Tyson, Neil deGrasse - Astrophysics for People in A Hurry
+
+### Games Played
+
+- [Beat Saber](https://en.wikipedia.org/wiki/Beat_Saber)
+- [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [Half-Life: Alyx](https://en.wikipedia.org/wiki/Half-Life:_Alyx)
+- [Satisfactory](https://en.wikipedia.org/wiki/Satisfactory)
+
+### Movies Watched
+
+- [Hamilton](https://en.wikipedia.org/wiki/Hamilton_(2020_film))
 
 ## 2020.06
 
