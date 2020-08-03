@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2020-07-22T19:10Z
+updated: 2020-08-03T10:10Z
 ---
 
 ## Beautiful Desolation
@@ -120,6 +120,22 @@ When I was playing through Gris, I was reminded of my first playthrough of Journ
 The most memorable part of Gris is its visuals. Ever since the old platformers of the 1990s, there has been a hope of having games that look like a piece of hand-drawn art brought to life. Gris accomplishes this goal beautifully. All of the art is hand-drawn, with the characters having a pencil-drawn look, and the world being created through splashes of watercolor. Environmental effects look like paint spreading across the screen, creating a very otherworldly effect.
 
 The gameplay of Gris is satisfying, albeit not the highlight of the game. The platform mechanics are lacking compared to other platformers. But since this game is more about the emotional and visual journey, the lack of strong platforming is not something I hold against the game.
+
+## Half-Life: Alyx
+
+<figure>
+    <img src='/images/mini-game-reviews_half-life-alyx.jpg' alt='Compilation of Half-Life: Alyx screenshots'>
+</figure>
+
+This game breaks the 13 years of waiting since the last Half-Life game, and 9 years since the last game to take place in the same universe with Portal 2. The summation of the game is that the wait was worth it. Half-Life: Alyx is a phenomenal game, one any Half-Life fan should play.
+
+Since this is the first virtual-reality game that I played, I will focus on that aspect of things. There are many aspects of virtual reality that I understood on an abstract level, but experiencing them first-hand has made virtual reality the manner in which I want to play all future games. Full-body virtual reality especially creates an experience that nothing else has matched. Being able to duck beneath enemies or objects flying at you is incredible. When your character is talking to others up close and having to look up or down to match their gaze, which is tracking back at you, gives the game a realistic element that nothing else has matched. In fact, this is the one element of virtual reality that I love. Even if the characters are not photorealistic, their feeling like human-sized persons gives conversations and battles a whole new feel. This extends to true height and depth of the environments. Buildings can feel tall, and being on elevated ledges gives a stronger sense that falling will have catastrophic results.
+
+The whiskey factory portion of the game shows how different a game can be in virtual reality. So many of the elements, from using both hands for different actions, to constant ducking, catching objects as they fall, and using the increased head mobility to be aware of your surroundings. Much as how Ravenholm is remembered from Half-Life 2 for its ambiance and level-design, the whiskey factory should be remembered for how different it is from any other gaming experience that was previously released.
+
+Half-Life: Alyx is the first virtual reality game I have played, and already I have experience how its control scheme is superior to many other titles. Valve went through the effort of allowing complete customizationm in how the game is played, with support for both finger-tracked controls and typical buttons for interactions, to different settings for standing vs. sitting gameplay. The player is allowed to play with as much or as little body motion as they would like, which is great not only for personal preference but for accessibility resonse as well.
+
+This game is a landmark game. Every aspect of it was great, and particular elements will stick with me for a while. It has sold me on the concept of virtual reality as a gaming platform, and I hope that more developers develop with this format in mind.
 
 ## Heroes of the Storm
 
