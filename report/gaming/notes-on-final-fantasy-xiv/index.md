@@ -2,7 +2,7 @@
 created: 2017-07-24T17:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2020-07-22T18:20Z
+updated: 2020-08-03T10:30Z
 ---
 
 ## Trials - A Realm Reborn
@@ -467,3 +467,17 @@ In Phase 2, the DPS will kill adds in this order:
 4. Stormcloud Summons: Targeted players move to opposite ends of arena.
 5. Divine Judgement Volts: Massive AE, removes one stack of Surge Protection.
 6. Tribunal Summons: Knocks back from center column or side rows.
+
+### Eden's Verse: Furor (Normal)
+
+1. Ferostorm: Cone attack in direction of blades.
+2. Air Bump: Two players stand in each circle; then move away.
+3. Storm of Fury: Conal attack to towards tethered players.
+4. Vacuum Slice: Divides arena in half; do not cross.
+5. Occluded Front: Circles cast short-range AE.
+6. Hands of Hell: Separate to only one per player.
+7. Instant Incineration: Tank buster.
+8. Hot Foot: Move close to Ifrit.
+9. Garuda + Ifrit: Split tank.
+10. When Garuda and Ifrit combine, all of the above abilities repeat, with multiple going off at the same time.
+11. Conflag Strike: At the end of cast, 270 degree conal attack.
