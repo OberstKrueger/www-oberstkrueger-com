@@ -2,7 +2,7 @@
 created: 2017-06-11T13:30Z
 title: Books I Have Read
 type: page
-updated: 2020-07-29T00:10Z
+updated: 2020-08-05T08:40Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -153,6 +153,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 
 ## Technology
 
+- Dodrill, Christine - Musings from Within
 - Huang, Andrew - The Hardware Hacker: Adventures in Making and Breaking Hardware
 Kaku, Michio - The Future of Humanity: Terraforming Mars, Interstellar Travel, Immortality, and Our Destiny Beyond Earth
 - Kakuzō, Okakura - The Book of Tea
