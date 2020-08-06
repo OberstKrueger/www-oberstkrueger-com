@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2020-08-03T10:10Z
+updated: 2020-08-06T19:30Z
 ---
 
 ## Beautiful Desolation
@@ -152,6 +152,24 @@ In typical Blizzard fashion, Heroes of the Storm is a visual and aural treat. Th
 One of the negative aspects of development that Blizzard has with World of Warcraft also applies to Heroes of the Storm: endless and needles changes to balance. World of Warcraft famously revamps most classes every expansion, and Heroes of the Storm does the same with its characters. Every patch makes fundamental changes to how one or two characters play, changing their abilities and altering their skills. This included a larger change to the game by the introduction of lootboxes, the addictive gambling mechanic that Blizzard has been in love with since Overwatch's launch.
 
 Out of all of the MOBA games available, Heroes of the Storm resonated with me the most. I enjoyed my time playing it, but with Blizzard wrapping down support for the game, as well as major overhauls to some of my favorite characters, I have little desire to ever play the game again. With the MOBA genre starting to lose favor to the battle royale genre, I do not see myself investing heavily in any other MOBA games after having played Heroes of the Storm.
+
+## Journey
+
+<figure>
+    <img src='/images/mini-game-reviews_journey.jpg' alt='Screenshot of Journey'>
+</figure>
+
+Journey is one of my favorite gaming experiences, albeit one that I do not want to experience again anytime soon.
+
+I originally played this game back in 2012, when it launched near the end of the PlayStation 3's life. What made the game unique at the time was how the player was paired up with another random player. The only communication between the two players were through songs that you could sing using the controller. The identity of your partner(s) were not revealed until after the game was complete.
+
+On my only playthrough on the PlayStation 3, I was partnered with a single person for the whole game. There are plenty of opportunities to lose your partner throughout the game, but we managed to stay close together and completed it together. We both messaged each other afterwards, and it was a pleasant experience with a person. I never played the game again because the game was complete for me, and while that partner did not turn into any sort of friendship, it was an experience I wanted to let sit on its own. That one partner went by the PSN name XXFairyTalesXX, and despite not knowing the person, I look back on the experience fondly.
+
+When the game was released on PC, I concluded that I wanted to do a single playthrough again, and see how the experience matched the original playthrough 8 years prior. The game is just as engaging and gorgeous as I remembered, but there was one distinct difference: instead of completing the game with a single partner, I completed it with 5 different players. I did not realize how many there were at the time, although I knew there were at least 3. The first player I was connected with ran off without me at one point, and another was disconnected, with him crouching down and just disappearing before my eyes.
+
+While unintentioned, the difference in playthroughs represented well where I was at each of those stages of my life. My first playthrough was back during my college years, where my connections to people I had known most of my life were strong. My circle of friends was expanding, but they were all long-lasting connections. The second playthrough summed up the changes that have come from further adulthood, with having multiple people for just parts of the journey of life, relying on more and more people to help get me through all of the challenges presented.
+
+This difference has solidified my decision to not play through Journey again, despite my love for everything about it. The experience is truly complete now, and anything further would just muddy it down.
 
 ## Quake Champions
 
