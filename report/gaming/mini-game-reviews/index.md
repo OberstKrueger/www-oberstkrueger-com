@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2020-08-06T19:30Z
+updated: 2020-08-06T19:35Z
 ---
 
 ## Beautiful Desolation
@@ -158,8 +158,6 @@ Out of all of the MOBA games available, Heroes of the Storm resonated with me th
 <figure>
     <img src='/images/mini-game-reviews_journey.jpg' alt='Screenshot of Journey'>
 </figure>
-
-Journey is one of my favorite gaming experiences, albeit one that I do not want to experience again anytime soon.
 
 I originally played this game back in 2012, when it launched near the end of the PlayStation 3's life. What made the game unique at the time was how the player was paired up with another random player. The only communication between the two players were through songs that you could sing using the controller. The identity of your partner(s) were not revealed until after the game was complete.
 
