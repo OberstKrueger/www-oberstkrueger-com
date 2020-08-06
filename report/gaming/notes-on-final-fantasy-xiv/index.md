@@ -2,7 +2,7 @@
 created: 2017-07-24T17:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2020-08-03T10:30Z
+updated: 2020-08-06T18:15Z
 ---
 
 ## Trials - A Realm Reborn
@@ -481,3 +481,14 @@ In Phase 2, the DPS will kill adds in this order:
 9. Garuda + Ifrit: Split tank.
 10. When Garuda and Ifrit combine, all of the above abilities repeat, with multiple going off at the same time.
 11. Conflag Strike: At the end of cast, 270 degree conal attack.
+
+### Eden's Verse: Iconoclasm (Normal)
+
+1. Unshadowed Stake: Tethered line attack tank buster.
+2. Words of Motion: Birds fly down columsn of arena in the order they spawn.
+3. Words of Motion + Portals: Same as above; portal entrance teleport to same-colored portal exit.
+4. Away With Thee: Teleport to location tethered to them after countdown.
+5. Silver Sledge: Stack up, but in two separate groups.
+6. Unjoined Aspect: Get hit by birds of opposite color as debuff.
+7. Adds: Stack adds to kill.
+8. Unjoined Aspect + Portals: Same as above two. Simple way is to stand with opposite color portal in the row on your side.
