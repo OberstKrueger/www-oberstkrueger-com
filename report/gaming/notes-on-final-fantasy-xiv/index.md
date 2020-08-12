@@ -2,7 +2,7 @@
 created: 2017-07-24T17:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2020-08-06T18:15Z
+updated: 2020-08-12T16:50Z
 ---
 
 ## Trials - A Realm Reborn
@@ -492,3 +492,16 @@ In Phase 2, the DPS will kill adds in this order:
 6. Unjoined Aspect: Get hit by birds of opposite color as debuff.
 7. Adds: Stack adds to kill.
 8. Unjoined Aspect + Portals: Same as above two. Simple way is to stand with opposite color portal in the row on your side.
+
+### Eden's Verse: Refulgence (Normal)
+
+1. Redress: Look away from Shiva. Follows up with Axe Kick or Scythe kick. Move away or close, respectively.
+2. Thin Ice: Slides halfway across arena.
+3. Biting Frost: 270º frontal cone attack.
+4. Driving Frost: 90º rear cone attack.
+5. Double Slap: Tank buster.
+6. Chasing Ice: Follows players for 3 ticks. Keep moving.
+7. Heavenly Strike: AE knockback.
+8. Mirror, Mirror: Reflects Shiva's last attack.
+9. Shattered World: Kill adds, intercept tethered attacks.
+10. Twin Stillness: Biting Frost and Driving Frost attacks from earlier in a random order.
