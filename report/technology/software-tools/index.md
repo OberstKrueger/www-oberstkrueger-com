@@ -2,7 +2,7 @@
 created: 2017-02-27T17:00Z
 title: Software Tools
 type: page
-updated: 2018-07-20T23:55Z
+updated: 2020-08-12T17:20Z
 ---
 
 Choosing the right software for the job can be a painstaking process. On all of the major platforms, there is a plethora of tools available for most tasks. Picking the first thing that comes along without evaluating all of the options might save some time up front, but it will lead to headaches further on down the line.
@@ -74,17 +74,17 @@ This is my criteria for all software that I use. When evaluating new application
 
 ### RSS Reader
 
-**Name**: [Reeder](http://reederapp.com)<br>
+**Name**: [NetNewsWire](http://netnewswireapp.com)<br>
 **OS**: iOS, macOS<br>
-**Used Since**: December 12, 2010<br>
-**Previously Used**: [NetNewsWire](http://netnewswireapp.com), [Unread](http://supertop.co/unread/)
+**Used Since**: March, 2020<br>
+**Previously Used**: [Reeder](http://reederapp.com)<br>, [Unread](http://supertop.co/unread/)
 
 ### Task Management
 
-**Name**: [OmniFocus](https://www.omnigroup.com/omnifocus)<br>
+**Name**: [Things](https://culturedcode.com/things/)<br>
 **OS**: iOS, macOS<br>
-**Used Since**: February 20, 2018<br>
-**Previously Used**: [Reminders](https://en.wikipedia.org/wiki/Reminders_(Apple))
+**Used Since**: December, 2018<br>
+**Previously Used**: [OmniFocus](https://www.omnigroup.com/omnifocus), [Reminders](https://en.wikipedia.org/wiki/Reminders_(Apple))
 
 ### Writing
 
@@ -117,9 +117,9 @@ This is my criteria for all software that I use. When evaluating new application
 
 ### Command-Line Terminal
 
-**Name**: [Alacritty](https://github.com/jwilm/alacritty), [iTerm](https://www.iterm2.com)
+**Name**: [iTerm](https://www.iterm2.com)
 **Used Since**: December 25, 2007<br>
-**Previously Used**: [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS))<br>
+**Previously Used**: [Alacritty](https://github.com/jwilm/alacritty), [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS))<br>
 
 ### File Backup
 
@@ -129,9 +129,9 @@ This is my criteria for all software that I use. When evaluating new application
 
 ### Image Editing
 
-**Name**: [Pixelmator](http://www.pixelmator.com)<br>
-**Used Since**: June 30, 2011<br>
-**Previously Used**: [Adobe Photoshop CS6](https://en.wikipedia.org/wiki/Adobe_Photoshop), [GIMP](https://www.gimp.org)
+**Name**: [Pixelmator Pro](https://www.pixelmator.com/pro/)<br>
+**Used Since**: November, 2019<br>
+**Previously Used**: [Adobe Photoshop CS6](https://en.wikipedia.org/wiki/Adobe_Photoshop), [GIMP](https://www.gimp.org), [Pixelmator](http://www.pixelmator.com)
 
 ### IRC
 
