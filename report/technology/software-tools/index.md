@@ -2,7 +2,7 @@
 created: 2017-02-27T17:00Z
 title: Software Tools
 type: page
-updated: 2020-08-12T17:25Z
+updated: 2020-08-12T17:30Z
 ---
 
 Choosing the right software for the job can be a painstaking process. On all of the major platforms, there is a plethora of tools available for most tasks. Picking the first thing that comes along without evaluating all of the options might save some time up front, but it will lead to headaches further on down the line.
@@ -63,14 +63,14 @@ This is my criteria for all software that I use. When evaluating new application
 
 **Name**: [iBooks](https://www.apple.com/ibooks/)<br>
 **OS**: iOS, macOS<br>
-**Used Since**: April 2, 2010<br>
+**Used Since**: April, 2010<br>
 **Previously Used**: [Google Play Books](https://en.wikipedia.org/wiki/Google_Play_Books)
 
 ### Password Manager
 
 **Name**: [1Password](https://1password.com)<br>
 **OS**: iOS, macOS<br>
-**Used Since**: August 26, 2013
+**Used Since**: August, 2013
 
 ### RSS Reader
 
@@ -90,7 +90,7 @@ This is my criteria for all software that I use. When evaluating new application
 
 **Name**: [iA Writer](https://ia.net/writer/)<br>
 **OS**: iOS, macOS<br>
-**Used Since**: January 14, 2014<br>
+**Used Since**: January, 2014<br>
 **Previously Used**: [Bean](http://www.bean-osx.com/Bean.html), [OpenOffice.org](https://en.wikipedia.org/wiki/OpenOffice.org), [Pages](https://www.apple.com/pages/), [Scrivener](http://www.literatureandlatte.com/scrivener.php)
 
 ## iOS Tools
@@ -98,13 +98,13 @@ This is my criteria for all software that I use. When evaluating new application
 ### Podcasts
 
 **Name**: [Overcast](https://overcast.fm)<br>
-**Used Since**: July 16, 2014<br>
+**Used Since**: July, 2014<br>
 **Previously Used**: [Apple Podcasts](https://support.apple.com/en-us/HT201859), [iTunes](https://www.apple.com/itunes/)
 
 ### Sleep Tracking
 
 **Name**: [AutoSleep](http://autosleep.tantsissa.com)<br>
-**Used Since**: December 22, 2016<br>
+**Used Since**: December, 2016<br>
 **Previously Used**: [Sleep Cycle](https://www.sleepcycle.com), [Sleep++](https://david-smith.org/apps/)
 
 ## macOS Tools
@@ -112,19 +112,19 @@ This is my criteria for all software that I use. When evaluating new application
 ### Code Editor
 
 **Name**: [Sublime Text](https://www.sublimetext.com)<br>
-**Used Since**: July 1, 2011<br>
+**Used Since**: July, 2011<br>
 **Previously Used**: [Atom](https://atom.io), [Emacs](https://www.gnu.org/software/emacs/), [TextWrangler](http://www.barebones.com/products/textwrangler/), [Neovim](https://neovim.io), [Visual Studio Code](https://code.visualstudio.com)
 
 ### Command-Line Terminal
 
 **Name**: [iTerm](https://www.iterm2.com)
-**Used Since**: December 25, 2007<br>
+**Used Since**: December, 2007<br>
 **Previously Used**: [Alacritty](https://github.com/jwilm/alacritty), [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS))<br>
 
 ### File Backup
 
 **Name**: [Arq](https://www.arqbackup.com)<br>
-**Used Since**: July 15, 2016<br>
+**Used Since**: July, 2016<br>
 **Previously Used**: [Time Machine](https://en.wikipedia.org/wiki/Time_Machine_(macOS))
 
 ### Image Editing
