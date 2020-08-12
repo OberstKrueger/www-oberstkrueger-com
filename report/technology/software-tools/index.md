@@ -2,7 +2,7 @@
 created: 2017-02-27T17:00Z
 title: Software Tools
 type: page
-updated: 2020-08-12T17:35Z
+updated: 2020-08-12T17:50Z
 ---
 
 Choosing the right software for the job can be a painstaking process. On all of the major platforms, there is a plethora of tools available for most tasks. Picking the first thing that comes along without evaluating all of the options might save some time up front, but it will lead to headaches further on down the line.
@@ -65,6 +65,13 @@ This is my criteria for all software that I use. When evaluating new application
 **OS**: iOS, macOS<br>
 **Used Since**: April, 2010<br>
 **Previously Used**: [Google Play Books](https://en.wikipedia.org/wiki/Google_Play_Books)
+
+### E-mail
+
+**Name**: [Mail](https://en.wikipedia.org/wiki/Apple_Mail)<br>
+**OS**: iOS, macOS<br>
+**Used Since**: March, 2015<br>
+**Previously Used**: [Gmail](https://en.wikipedia.org/wiki/Gmail)
 
 ### Password Manager
 
