@@ -2,7 +2,7 @@
 created: 2016-11-05T13:00Z
 title: The Krueger Report
 type: index
-updated: 2020-06-28T11:40Z
+updated: 2020-08-12T17:00Z
 ---
 
 ## Introduction
@@ -65,11 +65,6 @@ updated: 2020-06-28T11:40Z
 
 - [Rebooting iTunes](/music/rebooting-itunes)
 - [Work Music](/music/work-music)
-
-## Trips
-
-- [Walt Disney World - 2016](/trips/walt-disney-world-2016)
-- [Solar Eclipse - 2017](/trips/solar-eclipse-2017)
 
 ## Appendices
 
