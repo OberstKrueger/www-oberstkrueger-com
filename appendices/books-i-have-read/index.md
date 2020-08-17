@@ -2,7 +2,7 @@
 created: 2017-06-11T13:30Z
 title: Books I Have Read
 type: page
-updated: 2020-08-05T08:40Z
+updated: 2020-08-17T11:05Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -29,6 +29,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Garfinkel, Simson - The Unix-Haters Handbook
 - Hall, Erika - Just Enough Research
 - Hahn, Harley - Emacs Field Guide
+- Hudson, Paul - Objective-C for Swift Developers
 - Keith, Jeremy - Resilient Web Design
 - McGuire, Hugh & O'Leary, Brian - Book: A Futurist's Manifesto
 - Merchant, Brian - The One Device: The Secret History of the iPhone
