@@ -2,7 +2,7 @@
 created: 2017-02-27T17:00Z
 title: Software Tools
 type: page
-updated: 2020-08-12T17:50Z
+updated: 2020-08-31T11:00Z
 ---
 
 Choosing the right software for the job can be a painstaking process. On all of the major platforms, there is a plethora of tools available for most tasks. Picking the first thing that comes along without evaluating all of the options might save some time up front, but it will lead to headaches further on down the line.
@@ -84,7 +84,7 @@ This is my criteria for all software that I use. When evaluating new application
 **Name**: [NetNewsWire](http://netnewswireapp.com)<br>
 **OS**: iOS, macOS<br>
 **Used Since**: March, 2020<br>
-**Previously Used**: [Reeder](http://reederapp.com)<br>, [Unread](http://supertop.co/unread/)
+**Previously Used**: [Reeder](http://reederapp.com), [Unread](http://supertop.co/unread/)
 
 ### Task Management
 
@@ -142,5 +142,5 @@ This is my criteria for all software that I use. When evaluating new application
 
 ### Integrated Development Environment (C, Swift)
 
-**Name**: [Xcode](https://developer.apple.com/xcode/)
+**Name**: [Xcode](https://developer.apple.com/xcode/)<br>
 **Used Since**: June, 2018
