@@ -2,7 +2,7 @@
 created: 2017-02-27T17:00Z
 title: Software Tools
 type: page
-updated: 2020-08-31T11:05Z
+updated: 2020-08-31T11:10Z
 ---
 
 Choosing the right software for the job can be a painstaking process. On all of the major platforms, there is a plethora of tools available for most tasks. Picking the first thing that comes along without evaluating all of the options might save some time up front, but it will lead to headaches further on down the line.
@@ -116,12 +116,6 @@ This is my criteria for all software that I use. When evaluating new application
 
 ## macOS Tools
 
-### Code Editor
-
-**Name**: [Sublime Text](https://www.sublimetext.com)<br>
-**Used Since**: July, 2011<br>
-**Previously Used**: [Atom](https://atom.io), [Emacs](https://www.gnu.org/software/emacs/), [TextWrangler](http://www.barebones.com/products/textwrangler/), [Neovim](https://neovim.io), [Visual Studio Code](https://code.visualstudio.com)
-
 ### Command-Line Terminal
 
 **Name**: [iTerm](https://www.iterm2.com)
@@ -150,3 +144,9 @@ This is my criteria for all software that I use. When evaluating new application
 **Name**: [Textual 7](https://www.codeux.com/textual/)<br>
 **Used Since**: May, 2016<br>
 **Previously Used**: [XChat Aqua](https://xchataqua.github.io)
+
+### Text Editor
+
+**Name**: [Sublime Text](https://www.sublimetext.com)<br>
+**Used Since**: July, 2011<br>
+**Previously Used**: [Atom](https://atom.io), [Emacs](https://www.gnu.org/software/emacs/), [TextWrangler](http://www.barebones.com/products/textwrangler/), [Neovim](https://neovim.io), [Visual Studio Code](https://code.visualstudio.com)
