@@ -7,7 +7,7 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2020-08-01T08:30Z</updated>
+<updated>2020-09-01T11:00Z</updated>
 
 <!--
 <entry>
@@ -26,6 +26,47 @@
 </content>
 </entry>
 -->
+
+<entry>
+<title>Updates For August, 2020</title>
+<author>
+<name>Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/202008</id>
+<published>2020-09-01T11:00Z</published>
+<updated>2020-09-01T11:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2020.08</h2>
+<h3>Page Updates</h3>
+<ul>
+<li><a href="https://krueger.report/technology/software-tools/">Software Tools</a> has been updated significantly with newer tools that I use. I have also dropped the exact date that I started using an application, as it was based on purchased date and not likely accurate.</li>
+</ul>
+<h3>Favorite Articles</h3>
+<ul>
+<li>Bainbridge, L. (1983). Ironies of automation. <em>Automatica</em>, 19(6). 775-779.</li>
+<li>Barratt, E.L., Davis, N.J. (2015). Autonomous sensory meridian response (ASMR): a flow-like mental state. PeerJ 3:e851. https://doi.org/10.7717/peerj.851</li>
+<li>del Campo, M.A., Kehle, T.J. (2016). Autonomous sensory meridian response (ASMR) and frisson: Mindfully induced sensory phenomena that promote happiness. <em>International Journal of School and Educational Psychology</em>, 4(2). 99-105.</li>
+<li>Fogli, A., Aiello, L.M., Quercia, D. (2020). Our dreams, our selves: automatic analysis of dream reports. <em>Royal Society of Open Science</em>, 7(192080). 1-19.</li>
+<li>Jordan, E., Lawrence, S.J., Meyer, T.P.H., Schmidt, D., Schultz, S., Mueller, J., ... Chaplin, P. (2020). Broad antibody and cellular immune response from a phase 2 clinical trial with a novel multivalent poxvirus based RSV vaccine. <em>The Journal of Infectious Diseases</em>, jjaa460. https://doi.org/10.1093/infdis/jiaa460.</li>
+<li>Larsen, J.R., Martin, M.R., Martin, J.D., Kuhn, P., Hicks, J.B. (2020). Modeling the onset of symptoms of COVId-19. <em>Frontiers in Public Health</em>, 8(473). 1-14.</li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Dodrill, Christine - Musings from Within</li>
+<li>Kaku, Michio - The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Beat_Saber">Beat Saber</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Death_Stranding">Death Stranding</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Eliza_(video_game)">Eliza</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For July, 2020</title>

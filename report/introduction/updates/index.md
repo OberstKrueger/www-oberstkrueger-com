@@ -2,8 +2,35 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2020-08-01T08:30Z
+updated: 2020-09-01T11:00Z
 ---
+
+## 2020.08
+
+### Page Updates
+
+- [Software Tools](https://krueger.report/technology/software-tools/) has been updated significantly with newer tools that I use. I have also dropped the exact date that I started using an application, as it was based on purchased date and not likely accurate.
+
+### Favorite Articles
+
+- Bainbridge, L. (1983). Ironies of automation. *Automatica*, 19(6). 775-779.
+- Barratt, E.L., Davis, N.J. (2015). Autonomous sensory meridian response (ASMR): a flow-like mental state. PeerJ 3:e851. https://doi.org/10.7717/peerj.851
+- del Campo, M.A., Kehle, T.J. (2016). Autonomous sensory meridian response (ASMR) and frisson: Mindfully induced sensory phenomena that promote happiness. *International Journal of School and Educational Psychology*, 4(2). 99-105.
+- Fogli, A., Aiello, L.M., Quercia, D. (2020). Our dreams, our selves: automatic analysis of dream reports. *Royal Society of Open Science*, 7(192080). 1-19.
+- Jordan, E., Lawrence, S.J., Meyer, T.P.H., Schmidt, D., Schultz, S., Mueller, J., ... Chaplin, P. (2020). Broad antibody and cellular immune response from a phase 2 clinical trial with a novel multivalent poxvirus based RSV vaccine. *The Journal of Infectious Diseases*, jjaa460. https://doi.org/10.1093/infdis/jiaa460.
+- Larsen, J.R., Martin, M.R., Martin, J.D., Kuhn, P., Hicks, J.B. (2020). Modeling the onset of symptoms of COVId-19. *Frontiers in Public Health*, 8(473). 1-14.
+
+### Books Read
+
+- Dodrill, Christine - Musings from Within
+- Kaku, Michio - The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind
+
+### Games Played
+
+- [Beat Saber](https://en.wikipedia.org/wiki/Beat_Saber)
+- [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding)
+- [Eliza](https://en.wikipedia.org/wiki/Eliza_(video_game))
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
 
 ## 2020.07
 
