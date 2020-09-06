@@ -2,7 +2,7 @@
 created: 2016-02-10T06:06Z
 title: About The Author
 type: page
-updated: 2020-04-09T15:20Z
+updated: 2020-09-06T10:25Z
 ---
 
 ## Current Computing Devices
@@ -50,25 +50,3 @@ Peripherals: [LG 27UL600-W](https://www.lg.com/us/monitors/lg-27UL600-W-4k-uhd-l
 Geekbench 5.1 CPU: [1,230 / 5,618](https://browser.geekbench.com/v5/cpu/989607)<br>
 Geekbench 5.1 Compute (Metal): [35,421](https://browser.geekbench.com/v5/compute/735313)<br>
 Geekbench 5.1 Compute (OpenCL): [31,530](https://browser.geekbench.com/v5/compute/735318)
-
-## Current Workspaces
-
-<figure>
-	<img src='/images/about-the-author_macos.jpg'>
-	<figcaption>macOS</figcaption>
-</figure>
-
-<figure>
-	<img src='/images/about-the-author_ipad.jpg'>
-	<figcaption>iPad</figcaption>
-</figure>
-
-<figure class='half'>
-	<img src='/images/about-the-author_iphone.jpg'>
-	<figcaption>iPhone</figcaption>
-</figure>
-
-<figure class='quarter'>
-	<img src='/images/about-the-author_watch.jpg'>
-	<figcaption>Apple Watch</figcaption>
-</figure>
