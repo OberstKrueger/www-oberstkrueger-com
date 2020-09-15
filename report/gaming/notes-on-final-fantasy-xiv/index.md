@@ -2,7 +2,7 @@
 created: 2017-07-24T17:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2020-08-12T16:50Z
+updated: 2020-09-15T20:10Z
 ---
 
 ## Trials - A Realm Reborn
@@ -271,6 +271,45 @@ In Phase 2, the DPS will kill adds in this order:
     7. Phase 3: Redemption: Tank buster.
     8. Phase 3: Demi-Virgo: Stand underneath circle spawns.
     9. Phase 4: Maze: Navigate back towards the boss.
+
+## Alliance Raids - Shadowbringers
+
+### The Copied Factory
+
+- 1. Serial-jointed Command Model
+    - 1. Systematic Siege: Avoid orbs.
+    - 2. Clanging Blow: Tank buster.
+    - 3. Energy Assault: Shoots 90-degree damage towards target.
+    - 4. Systematic Targeting: Do not stand near red lasers.
+    - 5. Side-Striking Spin: Stand in the middle.
+    - 6. Systematic Airstrike: Follows path of arrows on ground; do not stand underneath.
+- 2. Hobbes
+    - 1. Each platform has its own AE and movement system that is telegraphed.
+    - 2. Big Claw: Rotating AEs. Move in opposite direction of arrows.
+    - 3. Small Claw: Move to edge; tank picks up tethers; tank buster.
+    - 4. Flamethrowers: Do not stand in front of lit flamethrowers.
+    - 5. Ringer Laser: Ring damage that shrinks after each tick.
+- 3. Engels
+    - 1. Marx Smash: Massive damage to side of platform with flaming arm.
+    - 2. Precision-Guided Missile: Tank buster.
+    - 3. Guided Missile: AE attacks that follow targeted players.
+    - 4. Marx Smash (Raised arms): Stand close to Engels in the center.
+    - 5: Marx Smash (Lowered armors): Stand away from Engels on the edge.
+    - 6. Energy Barrage: Stand to the side, then stand in a circle.
+    - 7. Adds: Kill away from each other.
+    - 8. Platform Destruction: Stand to south edge.
+    - 9. Marx Arms: Do not stand in between.
+    - 10. Crush Protocol: Stand in front of Engels; kill adds.
+- 4. 9S-operated Walking Fortress
+    - 1. Laser Turret: Do not stand in front of.
+    - 2. Dual-Flank Cannons: Stand in front or behind the boss.
+    - 3. Front-Hind Cannons: Stand on the sides of the boss.
+    - 4. Engage Mark Support: Move away from the quarters of the arena the arms are near.
+    - 5. Undock: Move out of bombing zones.
+    - 6. Anti-Personnel Missile: Targets platforms in succession for AE.
+    - 7. Engage Gloliath Tank Support: Face tanks away from center.
+    - 8. Hack: Move behind other tank, then move away from the second tank.
+    - 9. Adds: Kill separated.
 
 ## Normal Raids - Stormblood
 
