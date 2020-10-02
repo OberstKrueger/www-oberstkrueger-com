@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2020-07-16T20:50Z
+updated: 2020-10-02T19:40Z
 ---
 
 ## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
@@ -465,6 +465,7 @@ updated: 2020-07-16T20:50Z
 - [Star Wars: Rebel Assault II: The Hidden Empire](https://en.wikipedia.org/wiki/Star_Wars:_Rebel_Assault_II:_The_Hidden_Empire)
 - [Star Wars: Rogue Squadron](https://en.wikipedia.org/wiki/Star_Wars:_Rogue_Squadron)
 - [Star Wars: Rogue Squadron II: Rogue Leader](https://en.wikipedia.org/wiki/Star_Wars_Rogue_Squadron_II:_Rogue_Leader)
+- [Star Wars: Squadrons](https://en.wikipedia.org/wiki/Star_Wars:_Squadrons)
 - [Star Wars: The Old Republic](https://en.wikipedia.org/wiki/Star_Wars:_The_Old_Republic)
 - [Star Wars Episode I: Racer](https://en.wikipedia.org/wiki/Star_Wars_Episode_I:_Racer)
 - [Star Wars Galaxies](https://en.wikipedia.org/wiki/Star_Wars_Galaxies)
