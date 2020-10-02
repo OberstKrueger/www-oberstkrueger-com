@@ -2,8 +2,27 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2020-09-01T11:00Z
+updated: 2020-10-02T19:35Z
 ---
+
+## 2020.09
+
+### Articles Read
+
+- Bucci, R., Staff, J. (2020). Pubertal timing and adolescent delinquency. *Criminology*, 58(3). 537-567.
+- Drakulich, K., Wozniak, K.H., Hagan, J., Johnson, D. (2020). Race and policing in the 2016 presidential election: Black lives matter, the police, and dog whistle politics. *Criminology*, 58(2). 370-402.
+- Garikipati, S., Kambhampati, U. (2020). Leading the fight against the pandemic: Does gender 'really' matter?. SSRN. 1-16.
+- Jacobsen, W.C. (2020). School punishment and interpersonal exclusion: Rejection, withdrawal, and separation from friends. *Criminology*, 58(1). 35-69.
+- McIlroy-Young, R., Sen, S., Kleinberg, J., Anderson, A. (2020). Aligning superhuman AI with human behavior: Chess as a model system. KDD '20: Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. August 2020. 1677-1687.
+- Ragan, D.T. (2020). Similarity between deviant peers: Developmental trends in influence and selection. *Criminology*, 58(2). 336-369.
+- Thomas, K.J., Loughran, T.A., Hamilton, B.C. (2020). Perceived arrest risk, psychic rewards, and offense specialization: A partial test of rational choice theory. *Criminology*, 58(3). 485-509.
+- Weiss, D.B., Testa, A., Santos, M.R. (2020). Institutional anomie and cross-national differences in incarceration. *Criminology*, 58(3). 454-484.
+
+### Games Played
+
+- [Beat Saber](https://en.wikipedia.org/wiki/Beat_Saber)
+- [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
 
 ## 2020.08
 
