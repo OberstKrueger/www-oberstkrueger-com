@@ -7,7 +7,7 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2020-09-01T11:00Z</updated>
+<updated>2020-10-02T19:35Z</updated>
 
 <!--
 <entry>
@@ -26,6 +26,39 @@
 </content>
 </entry>
 -->
+
+<entry>
+<title>Updates For September, 2020</title>
+<author>
+<name>Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/202009</id>
+<published>2020-10-02T19:35Z</published>
+<updated>2020-10-02T19:35Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2020.09</h2>
+<h3>Articles Read</h3>
+<ul>
+<li>Bucci, R., Staff, J. (2020). Pubertal timing and adolescent delinquency. <em>Criminology</em>, 58(3). 537-567.</li>
+<li>Drakulich, K., Wozniak, K.H., Hagan, J., Johnson, D. (2020). Race and policing in the 2016 presidential election: Black lives matter, the police, and dog whistle politics. <em>Criminology</em>, 58(2). 370-402.</li>
+<li>Garikipati, S., Kambhampati, U. (2020). Leading the fight against the pandemic: Does gender 'really' matter?. SSRN. 1-16.</li>
+<li>Jacobsen, W.C. (2020). School punishment and interpersonal exclusion: Rejection, withdrawal, and separation from friends. <em>Criminology</em>, 58(1). 35-69.</li>
+<li>McIlroy-Young, R., Sen, S., Kleinberg, J., Anderson, A. (2020). Aligning superhuman AI with human behavior: Chess as a model system. KDD '20: Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining. August 2020. 1677-1687.</li>
+<li>Ragan, D.T. (2020). Similarity between deviant peers: Developmental trends in influence and selection. <em>Criminology</em>, 58(2). 336-369.</li>
+<li>Thomas, K.J., Loughran, T.A., Hamilton, B.C. (2020). Perceived arrest risk, psychic rewards, and offense specialization: A partial test of rational choice theory. <em>Criminology</em>, 58(3). 485-509.</li>
+<li>Weiss, D.B., Testa, A., Santos, M.R. (2020). Institutional anomie and cross-national differences in incarceration. <em>Criminology</em>, 58(3). 454-484.</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Beat_Saber">Beat Saber</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Death_Stranding">Death Stranding</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For August, 2020</title>
