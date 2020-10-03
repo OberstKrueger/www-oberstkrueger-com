@@ -2,7 +2,7 @@
 created: 2017-06-11T13:30Z
 title: Books I Have Read
 type: page
-updated: 2020-08-27T18:00Z
+updated: 2020-10-03T11:15Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -130,6 +130,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Tyson, Neil deGrasse - Astrophysics for People in A Hurry
 - Tyson, Neil deGrasse - Death by Blackhole: And Other Cosmic Quandaries
 - Tyson, Neil deGrasse - Letters from an Astrophysicist
+- Tyson, Neil deGrasse - Merlin's Tour of the Universe
 - Tyson, Neil deGrasse - Space Chronicles: Facing the Ultimate Frontier
 - Tyson, Neil deGrasse - The Pluto Files: The Rise and Fall of America's Favorite Planet
 
