@@ -203,8 +203,10 @@ table {
     a:visited {
         color: $colorGreen;
     }
-    tr {
+    td {
         border: 1px solid $colorFG;
+    }
+    tr {
         vertical-align: text-top;
     }
 }
