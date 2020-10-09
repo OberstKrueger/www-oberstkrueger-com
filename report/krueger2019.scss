@@ -190,6 +190,17 @@ sup {
 
 table {
     margin: 0 auto ($lineHeight + rem);
+    a:link,
+    a:visited,
+    a:hover,
+    a:active {
+        color: $colorBlue;
+        font-weight: $fontWeightBold;
+        text-decoration: none;
+    }
+    a:visited {
+        color: $colorGreen;
+    }
 }
 
 ul {
