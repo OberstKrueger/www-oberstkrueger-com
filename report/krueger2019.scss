@@ -201,6 +201,9 @@ table {
     a:visited {
         color: $colorGreen;
     }
+    tr {
+        vertical-align: text-top;
+    }
 }
 
 ul {
