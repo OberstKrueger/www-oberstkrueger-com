@@ -189,6 +189,8 @@ sup {
 }
 
 table {
+    border: 1px solid $colorFG;
+    border-collapse: collapse;
     margin: 0 auto ($lineHeight + rem);
     a:link,
     a:visited,
@@ -202,6 +204,7 @@ table {
         color: $colorGreen;
     }
     tr {
+        border: 1px solid $colorFG;
         vertical-align: text-top;
     }
 }
