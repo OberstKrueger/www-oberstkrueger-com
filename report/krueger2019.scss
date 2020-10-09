@@ -188,6 +188,10 @@ sup {
     vertical-align: baseline;
 }
 
+table {
+    margin: 0 auto ($lineHeight + rem);
+}
+
 ul {
     list-style: circle outside;
     margin: 0 auto ($lineHeight + rem);
@@ -206,6 +210,7 @@ h5,
 h6,
 ol,
 p,
+table,
 ul {
     max-width: $textWidth;
     width: 90%;
