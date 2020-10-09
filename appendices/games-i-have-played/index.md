@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2020-10-09T20:05Z
+updated: 2020-10-09T20:10Z
 ---
 
 | Name | Platform(s) |
@@ -11,9 +11,9 @@ updated: 2020-10-09T20:05Z
 | [7 Billion Humans](https://en.wikipedia.org/wiki/7_Billion_Humans) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [A Dark Room](https://en.wikipedia.org/wiki/A_Dark_Room) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
 | [ABZÛ](https://en.wikipedia.org/wiki/Abzû_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [The Addams Family](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game)) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [The Addams Family: Pugley's Scavenger Hunt](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game_series)#The_Addams_Family:_Pugsley.27s_Scavenger_Hunt) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [Adventures of Lolo](https://en.wikipedia.org/wiki/Adventures_of_Lolo) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [The Addams Family](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game)) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [The Addams Family: Pugley's Scavenger Hunt](https://en.wikipedia.org/wiki/The_Addams_Family_(video_game_series)#The_Addams_Family:_Pugsley.27s_Scavenger_Hunt) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Adventures of Lolo](https://en.wikipedia.org/wiki/Adventures_of_Lolo) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
 | [Age of Conan: Hyborian Adventures](https://en.wikipedia.org/wiki/Age_of_Conan) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Age of Empires II: Age of Kings](https://en.wikipedia.org/wiki/Age_of_Empires_II) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Age of Empires II: Definitive Edition](https://en.wikipedia.org/wiki/Age_of_Empires_II:_Definitive_Edition) | [PC](https://en.wikipedia.org/wiki/PC_game) |
@@ -37,7 +37,7 @@ updated: 2020-10-09T20:05Z
 | [Baldur's Gate II: Shadows of Amn](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Baldur's Gate II: Throne of Bhaal](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Banjo-Kazooie](https://en.wikipedia.org/wiki/Banjo-Kazooie) | [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) |
-| [Batman: The Video Game](https://en.wikipedia.org/wiki/Batman:_The_Video_Game) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Batman: The Video Game](https://en.wikipedia.org/wiki/Batman:_The_Video_Game) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
 | [BattleTech](https://en.wikipedia.org/wiki/BattleTech_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Bayonetta](https://en.wikipedia.org/wiki/Bayonetta) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Beat Saber](https://en.wikipedia.org/wiki/Beat_Saber) | [PC](https://en.wikipedia.org/wiki/PC_game) |
@@ -49,15 +49,15 @@ updated: 2020-10-09T20:05Z
 | [Blast Corps](https://en.wikipedia.org/wiki/Blast_Corps) | [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) |
 | [BlazBlue: Calamity Trigger](https://en.wikipedia.org/wiki/BlazBlue:_Calamity_Trigger) | [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) |
 | [Bloodstained: Ritual of the Night](https://en.wikipedia.org/wiki/Bloodstained:_Ritual_of_the_Night) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [Bomberman](https://en.wikipedia.org/wiki/Bomberman_(1983_video_game)) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Bomberman](https://en.wikipedia.org/wiki/Bomberman_(1983_video_game)) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
 | [Borderlands](https://en.wikipedia.org/wiki/Borderlands_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Borderlands 2](https://en.wikipedia.org/wiki/Borderlands_2) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Braid](https://en.wikipedia.org/wiki/Braid_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Brave Fencer Musashi](https://en.wikipedia.org/wiki/Brave_Fencer_Musashi) | [PlayStation](https://en.wikipedia.org/wiki/PlayStation) |
 | [Bulletstorm](https://en.wikipedia.org/wiki/Bulletstorm) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [Chip 'n Dale Rescue Rangers](https://en.wikipedia.org/wiki/Chip_%27n_Dale_Rescue_Rangers_(video_game)) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Chip 'n Dale Rescue Rangers](https://en.wikipedia.org/wiki/Chip_%27n_Dale_Rescue_Rangers_(video_game)) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
 | [Chrono Cross](https://en.wikipedia.org/wiki/Chrono_Cross) | [PlayStation](https://en.wikipedia.org/wiki/PlayStation) |
-| [Chrono Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Chrono Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [City of Heroes](https://en.wikipedia.org/wiki/City_of_Heroes) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Civilization IV: Beyond the Sword](https://en.wikipedia.org/wiki/Civilization_IV:_Beyond_the_Sword) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Civilization IV: Warlords](https://en.wikipedia.org/wiki/Civilization_IV:_Warlords) | [PC](https://en.wikipedia.org/wiki/PC_game) |
@@ -66,8 +66,8 @@ updated: 2020-10-09T20:05Z
 | [Civilization V: Gods & Kings](https://en.wikipedia.org/wiki/Civilization_V:_Gods_%26_Kings) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Civilization V](https://en.wikipedia.org/wiki/Civilization_V) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Civilization: Beyond Earth](https://en.wikipedia.org/wiki/Civilization:_Beyond_Earth) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [ClayFighter](https://en.wikipedia.org/wiki/ClayFighter) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [ClayFighter 2: Judgement Clay](https://en.wikipedia.org/wiki/ClayFighter_2:_Judgment_Clay) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [ClayFighter](https://en.wikipedia.org/wiki/ClayFighter) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [ClayFighter 2: Judgement Clay](https://en.wikipedia.org/wiki/ClayFighter_2:_Judgment_Clay) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [ClayFighter 63⅓](https://en.wikipedia.org/wiki/ClayFighter_63%E2%85%93) | [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) |
 | [Cogmind](https://en.wikipedia.org/wiki/Cogmind) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Command & Conquer 3: Tiberium Wars](https://en.wikipedia.org/wiki/Command_%26_Conquer_3:_Tiberium_Wars) | [PC](https://en.wikipedia.org/wiki/PC_game) |
@@ -106,29 +106,29 @@ updated: 2020-10-09T20:05Z
 | [Diablo III](https://en.wikipedia.org/wiki/Diablo_III) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Diablo III: Reaper of Souls](https://en.wikipedia.org/wiki/Diablo_III:_Reaper_of_Souls) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Diddy Kong Racing](https://en.wikipedia.org/wiki/Diddy_Kong_Racing) | [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) |
-| [Disney's Aladdin](https://en.wikipedia.org/wiki/Disney%27s_Aladdin_(Capcom)) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Disney's Aladdin](https://en.wikipedia.org/wiki/Disney%27s_Aladdin_(Capcom)) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Divinity: Original Sin II](https://en.wikipedia.org/wiki/Divinity:_Original_Sin_II) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Don't Starve](https://en.wikipedia.org/wiki/Don%27t_Starve) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong_(video_game)) | [Arcade](https://en.wikipedia.org/wiki/Arcade_game) |
-| [Donkey Kong Country](https://en.wikipedia.org/wiki/Donkey_Kong_Country) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [Donkey Kong Country 2: Diddy's Kong Quest](https://en.wikipedia.org/wiki/Donkey_Kong_Country_2:_Diddy%27s_Kong_Quest) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [Donkey Kong Country 3: Dixie Kong's Double Trouble!](https://en.wikipedia.org/wiki/Donkey_Kong_Country_3:_Dixie_Kong%27s_Double_Trouble!) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Donkey Kong Country](https://en.wikipedia.org/wiki/Donkey_Kong_Country) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Donkey Kong Country 2: Diddy's Kong Quest](https://en.wikipedia.org/wiki/Donkey_Kong_Country_2:_Diddy%27s_Kong_Quest) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Donkey Kong Country 3: Dixie Kong's Double Trouble!](https://en.wikipedia.org/wiki/Donkey_Kong_Country_3:_Dixie_Kong%27s_Double_Trouble!) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Doom 2: Hell on Earth](https://en.wikipedia.org/wiki/Doom_II:_Hell_on_Earth) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Doom 3](https://en.wikipedia.org/wiki/Doom_3) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Doom 64](https://en.wikipedia.org/wiki/Doom_64) | [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64), [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Doom (2016)](https://en.wikipedia.org/wiki/Doom_(2016_video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Dota 2](https://en.wikipedia.org/wiki/Dota_2) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [Dr. Mario](https://en.wikipedia.org/wiki/Dr._Mario) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Dr. Mario](https://en.wikipedia.org/wiki/Dr._Mario) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
 | [Dragon Age: Inquisition](https://en.wikipedia.org/wiki/Dragon_Age:_Inquisition) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Dragon Age: Origins](https://en.wikipedia.org/wiki/Dragon_Age:_Origins) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [Duck Hunt](https://en.wikipedia.org/wiki/Duck_Hunt) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Duck Hunt](https://en.wikipedia.org/wiki/Duck_Hunt) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
 | [Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Duke Nukem Forever](https://en.wikipedia.org/wiki/Duke_Nukem_Forever) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Dungeons of Dredmor](https://en.wikipedia.org/wiki/Dungeons_of_Dredmor) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [DUST 514](https://en.wikipedia.org/wiki/Dust_514) | [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) |
-| [Earthworm Jim](https://en.wikipedia.org/wiki/Earthworm_Jim) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [Earthworm Jim 2](https://en.wikipedia.org/wiki/Earthworm_Jim_2) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Earthworm Jim](https://en.wikipedia.org/wiki/Earthworm_Jim) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Earthworm Jim 2](https://en.wikipedia.org/wiki/Earthworm_Jim_2) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Ehrgeiz: God Bless the Ring](https://en.wikipedia.org/wiki/Ehrgeiz) | [PlayStation](https://en.wikipedia.org/wiki/PlayStation) |
 | [The Elder Scrolls III: Bloodmoon](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Bloodmoon) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [The Elder Scrolls III: Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind) | [PC](https://en.wikipedia.org/wiki/PC_game) |
@@ -162,7 +162,7 @@ updated: 2020-10-09T20:05Z
 | [Exapunks](https://en.wikipedia.org/wiki/Exapunks) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Exploding Kittens](https://en.wikipedia.org/wiki/Exploding_Kittens) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
 | [F-1 Race](https://en.wikipedia.org/wiki/F-1_Race) | [Game Boy](https://en.wikipedia.org/wiki/Game_Boy) |
-| [F-Zero](https://en.wikipedia.org/wiki/F-Zero_(video_game)) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [F-Zero](https://en.wikipedia.org/wiki/F-Zero_(video_game)) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Factorio](https://en.wikipedia.org/wiki/Factorio) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Fallout](https://en.wikipedia.org/wiki/Fallout_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Fallout 2](https://en.wikipedia.org/wiki/Fallout_2) | [PC](https://en.wikipedia.org/wiki/PC_game) |
@@ -173,10 +173,10 @@ updated: 2020-10-09T20:05Z
 | [Far Cry](https://en.wikipedia.org/wiki/Far_Cry_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Fat Princess](https://en.wikipedia.org/wiki/Fat_Princess) | [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) |
 | [Final Doom](https://en.wikipedia.org/wiki/Final_Doom) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
-| [Final Fantasy IV](https://en.wikipedia.org/wiki/Final_Fantasy_IV) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [Final Fantasy V](https://en.wikipedia.org/wiki/Final_Fantasy_V) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [Final Fantasy VI](https://en.wikipedia.org/wiki/Final_Fantasy_VI) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Final Fantasy IV](https://en.wikipedia.org/wiki/Final_Fantasy_IV) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Final Fantasy V](https://en.wikipedia.org/wiki/Final_Fantasy_V) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Final Fantasy VI](https://en.wikipedia.org/wiki/Final_Fantasy_VI) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Final Fantasy VII](https://en.wikipedia.org/wiki/Final_Fantasy_VII) | [PlayStation](https://en.wikipedia.org/wiki/PlayStation) |
 | [Final Fantasy VIII](https://en.wikipedia.org/wiki/Final_Fantasy_VIII) | [PlayStation](https://en.wikipedia.org/wiki/PlayStation) |
 | [Final Fantasy IX](https://en.wikipedia.org/wiki/Final_Fantasy_IX) | [PlayStation](https://en.wikipedia.org/wiki/PlayStation) |
@@ -232,7 +232,7 @@ updated: 2020-10-09T20:05Z
 | [Half-Life 2](https://en.wikipedia.org/wiki/Half-Life_2) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Half-Life 2: Episode One](https://en.wikipedia.org/wiki/Half-Life_2:_Episode_One) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Half-Life 2: Episode Two](https://en.wikipedia.org/wiki/Half-Life_2:_Episode_Two) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [Harvest Moon](https://en.wikipedia.org/wiki/Harvest_Moon_(video_game)) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Harvest Moon](https://en.wikipedia.org/wiki/Harvest_Moon_(video_game)) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Hearthstone](https://en.wikipedia.org/wiki/Hearthstone_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Hellblade: Senua's Sacrifice](https://en.wikipedia.org/wiki/Hellblade:_Senua%27s_Sacrifice) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Hellgate: London](https://en.wikipedia.org/wiki/Hellgate:_London) | [PC](https://en.wikipedia.org/wiki/PC_game) |
@@ -254,10 +254,10 @@ updated: 2020-10-09T20:05Z
 | [Jade Coccoon: Story of the Tamamayu](https://en.wikipedia.org/wiki/Jade_Cocoon:_Story_of_the_Tamamayu) | [PlayStation](https://en.wikipedia.org/wiki/PlayStation) |
 | [Journey](https://en.wikipedia.org/wiki/Journey_(2012_video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game), [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) |
 | [Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park_(pinball)) | [Arcade](https://en.wikipedia.org/wiki/Arcade_game) |
-| [Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park_(SNES_video_game)) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park_(SNES_video_game)) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Kentucky Route Zero](https://en.wikipedia.org/wiki/Kentucky_Route_Zero) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Kid Icarus: Of Myths and Monsters](https://en.wikipedia.org/wiki/Kid_Icarus:_Of_Myths_and_Monsters) | [Game Boy](https://en.wikipedia.org/wiki/Game_Boy) |
-| [Killer Instinct](https://en.wikipedia.org/wiki/Killer_Instinct_(1994_video_game)) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Killer Instinct](https://en.wikipedia.org/wiki/Killer_Instinct_(1994_video_game)) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Killer Instinct Gold](https://en.wikipedia.org/wiki/Killer_Instinct_Gold) | [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) |
 | [King's Quest V: Absence Makes the Heart Go Yonder!](https://en.wikipedia.org/wiki/King%27s_Quest_V) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [King's Quest VI: Heir Today, Gone Tomorrow](https://en.wikipedia.org/wiki/King%27s_Quest_VI) | [PC](https://en.wikipedia.org/wiki/PC_game) |
@@ -266,7 +266,7 @@ updated: 2020-10-09T20:05Z
 | [Kingdom Rush](https://en.wikipedia.org/wiki/Kingdom_Rush) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
 | [Kingdom Rush: Origins](https://en.wikipedia.org/wiki/Kingdom_Rush) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
 | [Kingdom Rush: Vengeance](https://en.wikipedia.org/wiki/Kingdom_Rush) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
-| [Kirby's Adventure](https://en.wikipedia.org/wiki/Kirby%27s_Adventure) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Kirby's Adventure](https://en.wikipedia.org/wiki/Kirby%27s_Adventure) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
 | [Kirby's Dream Land](https://en.wikipedia.org/wiki/Kirby%27s_Dream_Land) | [Game Boy](https://en.wikipedia.org/wiki/Game_Boy) |
 | [Kirby's Dream Land 2](https://en.wikipedia.org/wiki/Kirby%27s_Dream_Land_2) | [Game Boy](https://en.wikipedia.org/wiki/Game_Boy) |
 | [Kirby's Pinball Land](https://en.wikipedia.org/wiki/Kirby%27s_Pinball_Land) | [Game Boy](https://en.wikipedia.org/wiki/Game_Boy) |
@@ -276,27 +276,27 @@ updated: 2020-10-09T20:05Z
 | [Left 4 Dead](https://en.wikipedia.org/wiki/Left_4_Dead) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Left 4 Dead 2](https://en.wikipedia.org/wiki/Left_4_Dead_2) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Legend of Mana](https://en.wikipedia.org/wiki/Legend_of_Mana) | [PlayStation](https://en.wikipedia.org/wiki/PlayStation) |
-| [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
-| [The Legend of Zelda: A Link To The Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [The Legend of Zelda: A Link To The Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [The Legend of Zelda: Link's Awakening](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening) | [Game Boy](https://en.wikipedia.org/wiki/Game_Boy) |
 | [The Legend of Zelda: Ocarina of Time](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time) | [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) |
 | [The Legend of Zelda: The Wind Waker HD](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker_HD) | [Wii U](https://en.wikipedia.org/wiki/Wii_U) |
 | [The Legend of Zelda: Twilight Princess](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Twilight_Princess) | [Wii](https://en.wikipedia.org/wiki/Wii) |
-| [Lemmings](https://en.wikipedia.org/wiki/Lemmings_(video_game)) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Lemmings](https://en.wikipedia.org/wiki/Lemmings_(video_game)) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
 | [Letterpress](http://www.letterpressapp.com) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
 | [Life Is Strange](https://en.wikipedia.org/wiki/Life_Is_Strange) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Life Is Strange: Before the Storm](https://en.wikipedia.org/wiki/Life_Is_Strange:_Before_the_Storm) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Limbo](https://en.wikipedia.org/wiki/Limbo_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Lineage II](https://en.wikipedia.org/wiki/Lineage_II) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [The Lion King](https://en.wikipedia.org/wiki/The_Lion_King_(video_game)) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [The Lion King](https://en.wikipedia.org/wiki/The_Lion_King_(video_game)) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Little Inferno](https://en.wikipedia.org/wiki/Little_Inferno) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Little Nightmares](https://en.wikipedia.org/wiki/Little_Nightmares) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [LittleBigPlanet](https://en.wikipedia.org/wiki/LittleBigPlanet_(2008_video_game)) | [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) |
 | [Magicka](https://en.wikipedia.org/wiki/Magicka) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Major League Baseball Featuring Ken Griffy Jr.](https://en.wikipedia.org/wiki/Major_League_Baseball_Featuring_Ken_Griffey_Jr.) | [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) |
-| [Mario Is Missing](https://en.wikipedia.org/wiki/List_of_Mario_educational_games#Mario_is_Missing.21) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Mario Is Missing](https://en.wikipedia.org/wiki/List_of_Mario_educational_games#Mario_is_Missing.21) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Mario Kart 64](https://en.wikipedia.org/wiki/Mario_Kart_64) | [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) |
-| [Mario Paint](https://en.wikipedia.org/wiki/Mario_Paint) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Mario Paint](https://en.wikipedia.org/wiki/Mario_Paint) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Mario Party](https://en.wikipedia.org/wiki/Mario_Party_(video_game)) | [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) |
 | [Mario Party 4](https://en.wikipedia.org/wiki/Mario_Party_4) | [GameCube](https://en.wikipedia.org/wiki/GameCube) |
 | [Mass Effect](https://en.wikipedia.org/wiki/Mass_Effect_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
@@ -310,37 +310,37 @@ updated: 2020-10-09T20:05Z
 | [MechWarrior 2: Mercenaries](https://en.wikipedia.org/wiki/MechWarrior_2:_Mercenaries) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [MechWarrior 3](https://en.wikipedia.org/wiki/MechWarrior_3) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [MechWarrior Online](https://en.wikipedia.org/wiki/MechWarrior_Online) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [Mega Man](https://en.wikipedia.org/wiki/Mega_Man_(video_game)) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
-| [Mega Man 2](https://en.wikipedia.org/wiki/Mega_Man_2) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
-| [Mega Man 4](https://en.wikipedia.org/wiki/Mega_Man_4) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
-| [Mega Man 5](https://en.wikipedia.org/wiki/Mega_Man_5) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
-| [Mega Man 6](https://en.wikipedia.org/wiki/Mega_Man_6) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
-| [Mega Man X](https://en.wikipedia.org/wiki/Mega_Man_X_(video_game)) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [Mega Man X2](https://en.wikipedia.org/wiki/Mega_Man_X2) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [Mega Man X3](https://en.wikipedia.org/wiki/Mega_Man_X3) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Mega Man](https://en.wikipedia.org/wiki/Mega_Man_(video_game)) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Mega Man 2](https://en.wikipedia.org/wiki/Mega_Man_2) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Mega Man 4](https://en.wikipedia.org/wiki/Mega_Man_4) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Mega Man 5](https://en.wikipedia.org/wiki/Mega_Man_5) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Mega Man 6](https://en.wikipedia.org/wiki/Mega_Man_6) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Mega Man X](https://en.wikipedia.org/wiki/Mega_Man_X_(video_game)) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Mega Man X2](https://en.wikipedia.org/wiki/Mega_Man_X2) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Mega Man X3](https://en.wikipedia.org/wiki/Mega_Man_X3) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Meridian 59](https://en.wikipedia.org/wiki/Meridian_59) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [Metal Gear](https://en.wikipedia.org/wiki/Metal_Gear_(video_game)) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Metal Gear](https://en.wikipedia.org/wiki/Metal_Gear_(video_game)) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
 | [Metal Gear Solid](https://en.wikipedia.org/wiki/Metal_Gear_Solid) | [PlayStation](https://en.wikipedia.org/wiki/PlayStation) |
 | [Metal Gear Solid 2: Sons of Liberty](https://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty) | [PlayStation 2](https://en.wikipedia.org/wiki/PlayStation_2) |
 | [Metal Gear Solid 3: Snake Eater](https://en.wikipedia.org/wiki/Metal_Gear_Solid_3:_Snake_Eater) | [PlayStation 2](https://en.wikipedia.org/wiki/PlayStation_2) |
 | [Metal Gear Solid 4: Guns of the Patriots](https://en.wikipedia.org/wiki/Metal_Gear_Solid_4:_Guns_of_the_Patriots) | [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) |
-| [Metroid](https://en.wikipedia.org/wiki/Metroid_(video_game)) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Metroid](https://en.wikipedia.org/wiki/Metroid_(video_game)) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
 | [Metroid II: Return of Samus](https://en.wikipedia.org/wiki/Metroid_II:_Return_of_Samus) | [Game Boy](https://en.wikipedia.org/wiki/Game_Boy) |
-| [Mighty Morphin Power Rangers](https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers_(video_game)#Super_NES) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [Mike Tyson's Punch-Out!!](https://en.wikipedia.org/wiki/Punch-Out!!_(NES)) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Mighty Morphin Power Rangers](https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers_(video_game)#Super_NES) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Mike Tyson's Punch-Out!!](https://en.wikipedia.org/wiki/Punch-Out!!_(NES)) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
 | [Minecraft](https://en.wikipedia.org/wiki/Minecraft) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Mini Metro](https://en.wikipedia.org/wiki/Mini_Metro_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Mirror's Edge](https://en.wikipedia.org/wiki/Mirror%27s_Edge) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Monument Valley](https://en.wikipedia.org/wiki/Monument_Valley_(video_game)) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
 | [Monument Valley 2](https://en.wikipedia.org/wiki/Monument_Valley_2) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
-| [Mortal Kombat](https://en.wikipedia.org/wiki/Mortal_Kombat_(1992_video_game)) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [Mortal Kombat II](https://en.wikipedia.org/wiki/Home_versions_of_Mortal_Kombat_II) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [Mortal Kombat 3](https://en.wikipedia.org/wiki/Mortal_Kombat_3) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Mortal Kombat](https://en.wikipedia.org/wiki/Mortal_Kombat_(1992_video_game)) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Mortal Kombat II](https://en.wikipedia.org/wiki/Home_versions_of_Mortal_Kombat_II) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Mortal Kombat 3](https://en.wikipedia.org/wiki/Mortal_Kombat_3) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Myst](https://en.wikipedia.org/wiki/Myst) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Myst III: Exile](https://en.wikipedia.org/wiki/Myst_III:_Exile) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Natural Selection](https://en.wikipedia.org/wiki/Natural_Selection_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Natural Selection 2](https://en.wikipedia.org/wiki/Natural_Selection_2) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [NBA Hangtime](https://en.wikipedia.org/wiki/NBA_Hangtime) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [NBA Hangtime](https://en.wikipedia.org/wiki/NBA_Hangtime) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [NieR:Automata](https://en.wikipedia.org/wiki/Nier:_Automata) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [No Man's Sky](https://en.wikipedia.org/wiki/No_Man%27s_Sky) | [PC](https://en.wikipedia.org/wiki/PC_game) |
@@ -358,7 +358,7 @@ updated: 2020-10-09T20:05Z
 | [Pillars of Eternity](https://en.wikipedia.org/wiki/Pillars_of_Eternity) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Pillars of Eternity: White March](https://en.wikipedia.org/wiki/Pillars_of_Eternity:_The_White_March) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Pillars of Eternity II: Deadfire](https://en.wikipedia.org/wiki/Pillars_of_Eternity_II:_Deadfire) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [Pilotwings](https://en.wikipedia.org/wiki/Pilotwings) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Pilotwings](https://en.wikipedia.org/wiki/Pilotwings) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [PixelJunk: Monsters](https://en.wikipedia.org/wiki/PixelJunk_Monsters) | [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) |
 | [PixelJunk: Shooter](https://en.wikipedia.org/wiki/PixelJunk_Shooter) | [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) |
 | [Plague Inc](https://en.wikipedia.org/wiki/Plague_Inc.) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
@@ -379,7 +379,7 @@ updated: 2020-10-09T20:05Z
 | [Prey (2006)](https://en.wikipedia.org/wiki/Prey_(2006_video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Prey (2017)](https://en.wikipedia.org/wiki/Prey_(2017_video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Prey: Mooncrash](https://en.wikipedia.org/wiki/Prey_(2017_video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [Primal Rage](https://en.wikipedia.org/wiki/Primal_Rage) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Primal Rage](https://en.wikipedia.org/wiki/Primal_Rage) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Project: Gorgon](https://www.projectgorgon.com) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Pyre](https://en.wikipedia.org/wiki/Pyre_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Quake](https://en.wikipedia.org/wiki/Quake_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
@@ -406,7 +406,7 @@ updated: 2020-10-09T20:05Z
 | [Satisfactory](https://en.wikipedia.org/wiki/Satisfactory) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Scanner Sombre](https://en.wikipedia.org/wiki/Scanner_Sombre) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Scribblenauts Remix](https://en.wikipedia.org/wiki/Scribblenauts_Remix) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
-| [Secret of Mana](https://en.wikipedia.org/wiki/Secret_of_Mana) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Secret of Mana](https://en.wikipedia.org/wiki/Secret_of_Mana) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Serious Sam: The First Encounter](https://en.wikipedia.org/wiki/Serious_Sam_(video_game)#Serious_Sam:_The_First_Encounter) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Serious Sam: The Second Encounter](https://en.wikipedia.org/wiki/Serious_Sam_(video_game)#Serious_Sam:_The_Second_Encounter) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Shadow of the Colossus](https://en.wikipedia.org/wiki/Shadow_of_the_Colossus) | [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) |
@@ -433,7 +433,7 @@ updated: 2020-10-09T20:05Z
 | [Spy Mouse](https://en.wikipedia.org/wiki/Spy_Mouse) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
 | [Spyro the Dragon](https://en.wikipedia.org/wiki/Spyro_the_Dragon_(video_game)) | [PlayStation](https://en.wikipedia.org/wiki/PlayStation) |
 | [The Stanley Parable](https://en.wikipedia.org/wiki/The_Stanley_Parable) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [Star Fox](https://en.wikipedia.org/wiki/Star_Fox_(video_game)) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Star Fox](https://en.wikipedia.org/wiki/Star_Fox_(video_game)) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Star Fox 64](https://en.wikipedia.org/wiki/Star_Fox_64) | [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) |
 | [Star Wars](https://en.wikipedia.org/wiki/Star_Wars_(1983_video_game)) | [Arcade](https://en.wikipedia.org/wiki/Arcade_game) |
 | [Star Wars Episode I: Racer](https://en.wikipedia.org/wiki/Star_Wars_Episode_I:_Racer) | [PC](https://en.wikipedia.org/wiki/PC_game) |
@@ -455,32 +455,32 @@ updated: 2020-10-09T20:05Z
 | [Stardew Valley](https://en.wikipedia.org/wiki/Stardew_Valley) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Starsiege: Tribes](https://en.wikipedia.org/wiki/Starsiege:_Tribes) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Stellaris](https://en.wikipedia.org/wiki/Stellaris_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [Street Fighter II Turbo: Hyper Fighting](https://en.wikipedia.org/wiki/Street_Fighter_II′_Turbo:_Hyper_Fighting) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Street Fighter II Turbo: Hyper Fighting](https://en.wikipedia.org/wiki/Street_Fighter_II′_Turbo:_Hyper_Fighting) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Subnautica](https://en.wikipedia.org/wiki/Subnautica) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Subnautica: Below Zero](https://en.wikipedia.org/wiki/Subnautica) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Super Mario 3D World](https://en.wikipedia.org/wiki/Super_Mario_3D_World) | [Wii U](https://en.wikipedia.org/wiki/Wii_U) |
 | [Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64) | [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) |
-| [Super Mario All-Stars](https://en.wikipedia.org/wiki/Super_Mario_All-Stars) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [Super Mario Bros.](https://en.wikipedia.org/wiki/Super_Mario_Bros.) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
-| [Super Mario Bros. 2](https://en.wikipedia.org/wiki/Super_Mario_Bros._2) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
-| [Super Mario Bros. 3](https://en.wikipedia.org/wiki/Super_Mario_Bros._3) | [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
-| [Super Mario Kart](https://en.wikipedia.org/wiki/Super_Mario_Kart) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Super Mario All-Stars](https://en.wikipedia.org/wiki/Super_Mario_All-Stars) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Super Mario Bros.](https://en.wikipedia.org/wiki/Super_Mario_Bros.) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Super Mario Bros. 2](https://en.wikipedia.org/wiki/Super_Mario_Bros._2) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Super Mario Bros. 3](https://en.wikipedia.org/wiki/Super_Mario_Bros._3) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
+| [Super Mario Kart](https://en.wikipedia.org/wiki/Super_Mario_Kart) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Super Mario Land](https://en.wikipedia.org/wiki/Super_Mario_Land) | [Game Boy](https://en.wikipedia.org/wiki/Game_Boy) |
 | [Super Mario Land 2: 6 Golden Coins](https://en.wikipedia.org/wiki/Super_Mario_Land_2:_6_Golden_Coins) | [Game Boy](https://en.wikipedia.org/wiki/Game_Boy) |
-| [Super Mario RPG](https://en.wikipedia.org/wiki/Super_Mario_RPG) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Super Mario RPG](https://en.wikipedia.org/wiki/Super_Mario_RPG) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Super Mario Run](https://en.wikipedia.org/wiki/Super_Mario_Run) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
-| [Super Mario World](https://en.wikipedia.org/wiki/Super_Mario_World) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [Super Mario World 2: Yoshi's Island](https://en.wikipedia.org/wiki/Yoshi%27s_Island) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Super Mario World](https://en.wikipedia.org/wiki/Super_Mario_World) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Super Mario World 2: Yoshi's Island](https://en.wikipedia.org/wiki/Yoshi%27s_Island) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Super Meat Boy](https://en.wikipedia.org/wiki/Super_Meat_Boy) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [Super Metroid](https://en.wikipedia.org/wiki/Super_Metroid) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [Super Scope 6](https://en.wikipedia.org/wiki/Super_Scope_6V) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Super Metroid](https://en.wikipedia.org/wiki/Super_Metroid) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Super Scope 6](https://en.wikipedia.org/wiki/Super_Scope_6V) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Super Smash Bros.](https://en.wikipedia.org/wiki/Super_Smash_Bros._(video_game)) | [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) |
 | [Super Smash Bros. Brawl](https://en.wikipedia.org/wiki/Super_Smash_Bros._Brawl) | [Wii](https://en.wikipedia.org/wiki/Wii) |
 | [Super Smash Bros. For Wii U](https://en.wikipedia.org/wiki/Super_Smash_Bros._for_Nintendo_3DS_and_Wii_U) | [Wii U](https://en.wikipedia.org/wiki/Wii_U) |
 | [Super Smash Bros. Melee](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee) | [GameCube](https://en.wikipedia.org/wiki/GameCube) |
-| [Super Star Wars](https://en.wikipedia.org/wiki/Super_Star_Wars) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [Super Star Wars: Return of the Jedi](https://en.wikipedia.org/wiki/Super_Star_Wars:_Return_of_the_Jedi) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [Super Star Wars: The Empire Strikes Back](https://en.wikipedia.org/wiki/Super_Star_Wars:_The_Empire_Strikes_Back) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Super Star Wars](https://en.wikipedia.org/wiki/Super_Star_Wars) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Super Star Wars: Return of the Jedi](https://en.wikipedia.org/wiki/Super_Star_Wars:_Return_of_the_Jedi) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Super Star Wars: The Empire Strikes Back](https://en.wikipedia.org/wiki/Super_Star_Wars:_The_Empire_Strikes_Back) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Super Street Fighter II Turbo HD Remix](https://en.wikipedia.org/wiki/Super_Street_Fighter_II_Turbo_HD_Remix) | [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) |
 | [Super Street Fighter IV](https://en.wikipedia.org/wiki/Super_Street_Fighter_IV) | [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) |
 | [Superbrothers: Swords and Sworcery EP](https://en.wikipedia.org/wiki/Superbrothers:_Sword_%26_Sworcery_EP) | [PC](https://en.wikipedia.org/wiki/PC_game) |
@@ -489,7 +489,7 @@ updated: 2020-10-09T20:05Z
 | [The Talos Principle](https://en.wikipedia.org/wiki/The_Talos_Principle) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Team Fortress 2](https://en.wikipedia.org/wiki/Team_Fortress_2) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Team Fortress Classic](https://en.wikipedia.org/wiki/Team_Fortress_Classic) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [Teenage Mutant Ninja Turtles: Turtles In Time](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Turtles_in_Time) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Teenage Mutant Ninja Turtles: Turtles In Time](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Turtles_in_Time) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Terra Battle](https://en.wikipedia.org/wiki/Terra_Battle) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
 | [Terra Battle 2](https://en.wikipedia.org/wiki/Terra_Battle_2) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
 | [Terraria](https://en.wikipedia.org/wiki/Terraria) | [PC](https://en.wikipedia.org/wiki/PC_game) |
@@ -503,7 +503,7 @@ updated: 2020-10-09T20:05Z
 | [Tony Hawk's Pro Skater 3](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_3) | [GameCube](https://en.wikipedia.org/wiki/GameCube) |
 | [Toobin'](https://en.wikipedia.org/wiki/Toobin%27) | [Arcade](https://en.wikipedia.org/wiki/Arcade_game) |
 | [Torment: Tides of Numenera](https://en.wikipedia.org/wiki/Torment:_Tides_of_Numenera) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [Toy Story](https://en.wikipedia.org/wiki/Toy_Story_(video_game)) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Toy Story](https://en.wikipedia.org/wiki/Toy_Story_(video_game)) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Transistor](https://en.wikipedia.org/wiki/Transistor_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Tribes 2](https://en.wikipedia.org/wiki/Tribes_2) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Tron 2.0](https://en.wikipedia.org/wiki/Tron_2.0) | [PC](https://en.wikipedia.org/wiki/PC_game) |
@@ -548,12 +548,12 @@ updated: 2020-10-09T20:05Z
 | [World of Warcraft: The Burning Crusade](https://en.wikipedia.org/wiki/World_of_Warcraft:_The_Burning_Crusade) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [World of Warcraft: Warlords of Draenor](https://en.wikipedia.org/wiki/World_of_Warcraft:_Warlords_of_Draenor) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [World of Warcraft: Wrath of the Lich King](https://en.wikipedia.org/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [WWF Raw](https://en.wikipedia.org/wiki/WWF_Raw_(video_game)) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [WWF Raw](https://en.wikipedia.org/wiki/WWF_Raw_(video_game)) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [X-Men](https://en.wikipedia.org/wiki/X-Men_(1992_video_game)) | [Arcade](https://en.wikipedia.org/wiki/Arcade_game) |
 | [Xenogears](https://en.wikipedia.org/wiki/Xenogears) | [PlayStation](https://en.wikipedia.org/wiki/PlayStation) |
 | [Year Walk](https://en.wikipedia.org/wiki/Year_Walk) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
-| [Yoshi's Cookie](https://en.wikipedia.org/wiki/Yoshi%27s_Cookie) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
-| [Zombies Ate My Neighbors](https://en.wikipedia.org/wiki/Zombies_Ate_My_Neighbors) | [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Yoshi's Cookie](https://en.wikipedia.org/wiki/Yoshi%27s_Cookie) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Zombies Ate My Neighbors](https://en.wikipedia.org/wiki/Zombies_Ate_My_Neighbors) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [The 7th Guest](https://en.wikipedia.org/wiki/The_7th_Guest) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [The 11th Hour](https://en.wikipedia.org/wiki/The_11th_Hour_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [The 13th Doll](https://en.wikipedia.org/wiki/The_7th_Guest#The_13th_Doll) | [PC](https://en.wikipedia.org/wiki/PC_game) |
