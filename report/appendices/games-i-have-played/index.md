@@ -2,23 +2,23 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2020-10-02T19:40Z
+updated: 2020-10-09T18:05Z
 ---
 
-## [Arcade](https://en.wikipedia.org/wiki/Arcade_game) & [Pinball](https://en.wikipedia.org/wiki/Pinball)
-
-- [Cruis'n World](https://en.wikipedia.org/wiki/Cruis%27n_World)
-- [Daytona USA](https://en.wikipedia.org/wiki/Daytona_USA_(video_game))
-- [Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong_(video_game))
-- [High Speed](https://en.wikipedia.org/wiki/High_Speed_(pinball))
-- [Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park_(pinball))
-- [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man)
-- [Samurai Shodown](https://en.wikipedia.org/wiki/Samurai_Shodown_(video_game))
-- [Smash TV](https://en.wikipedia.org/wiki/Smash_TV)
-- [Star Wars](https://en.wikipedia.org/wiki/Star_Wars_(1983_video_game))
-- [Time Crisis II](https://en.wikipedia.org/wiki/Time_Crisis_II)
-- [Toobin'](https://en.wikipedia.org/wiki/Toobin%27)
-- [X-Men](https://en.wikipedia.org/wiki/X-Men_(1992_video_game))
+| Name | Platform(s) |
+|:--|:--|
+| [Cruis'n World](https://en.wikipedia.org/wiki/Cruis%27n_World) | Arcade |
+| [Daytona USA](https://en.wikipedia.org/wiki/Daytona_USA_(video_game)) | Arcade |
+| [Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong_(video_game)) | Arcade |
+| [High Speed](https://en.wikipedia.org/wiki/High_Speed_(pinball)) | Arcade |
+| [Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park_(pinball)) | Arcade |
+| [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man) | Arcade |
+| [Samurai Shodown](https://en.wikipedia.org/wiki/Samurai_Shodown_(video_game)) | Arcade |
+| [Smash TV](https://en.wikipedia.org/wiki/Smash_TV) | Arcade |
+| [Star Wars](https://en.wikipedia.org/wiki/Star_Wars_(1983_video_game)) | Arcade |
+| [Time Crisis II](https://en.wikipedia.org/wiki/Time_Crisis_II) | Arcade |
+| [Toobin'](https://en.wikipedia.org/wiki/Toobin%27) | Arcade |
+| [X-Men](https://en.wikipedia.org/wiki/X-Men_(1992_video_game)) | Arcade |
 
 ## [Game Boy](https://en.wikipedia.org/wiki/Game_Boy)
 
