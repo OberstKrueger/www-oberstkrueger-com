@@ -2,14 +2,14 @@
 created: 2017-04-06T08:45Z
 title: Project Euler In Swift
 type: page
-updated: 2018-05-02T04:00Z
+updated: 2020-10-12T11:00Z
 ---
 
 My favorite way to learn a new programming language is using problems from [Project Euler](https://projecteuler.net). These problems are largely math problems, with a smattering of cryptography and other such topics. Many of the problems can be brute forced, but even on modern CPUs, these can take minutes or hours to solve. To truly solve the problem, one must come up with an efficient algorithm, and most are solvable in only a few seconds of time.
 
-My goal is to work on one problem from Project Euler every week. I will post my code on this page. The code will be formatted so that each bit can function independently. A good way to see this is to load it into [Swift Playgrounds](https://developer.apple.com/swift/playgrounds/) or [Xcode](https://en.wikipedia.org/wiki/Xcode) and run the code.
+My goal is to work on two problems from Project Euler every month. I will post my code on this page. The code will be formatted so that each bit can function independently. Since this is a project designed for exploring Swift, I limit myself to using frameworks written by Apple.
 
-Note: The problems, as presented by Project Euler, have definitive inputs with a single desired output. Despite this, I still setup my code in the form of functions that can be generalized with any input and still provide the appropriate answer.
+Note: The problems, as presented by Project Euler, have definitive inputs with a single desired output. Despite this, I still setup my code in the form of functions that can be generalized with any input and still provide the appropriate answer. Provided solutions will sometimes build off previously created helper functions.
 
 ## Problem 001 - Multiples Of 3 And 5
 
@@ -17,13 +17,13 @@ Note: The problems, as presented by Project Euler, have definitive inputs with a
 >
 > Find the sum of all the multiples of 3 or 5 below 1000.
 
-	func p001(input: Int = 1_000) -> Int {
+    func Problem0001(_ input: UInt = 1_000) -> UInt {
+        let three = stride(from: 3, to: input, by: 3).reduce(0, +)
+        let five = stride(from: 5, to: input, by: 5).reduce(0, +)
+        let fifteen = stride(from: 15, to: input, by: 15).reduce(0, +)
 
-		return stride(from: 3, to: input, by: 3).reduce(0, +) +
-			stride(from: 5, to: input, by: 5).reduce(0, +) +
-			stride(from: 15, to: input, by: 15).reduce(0, -)
-
-	}
+        return three + five - fifteen
+    }
 
 ## Problem 002 - Even Fibonacci Numbers
 
@@ -33,60 +33,51 @@ Note: The problems, as presented by Project Euler, have definitive inputs with a
 >
 > By considering the terms in the Fibonacci Sequence whose values do not exceed four million, find the sum of the even-valued terms.
 
-	func p002(input: Int = 4_000_000) -> Int {
-		var output: Int = 0
-		var number1: Int = 0
-		var number2: Int = 2
+    func Problem0002(_ input: UInt = 4_000_000) -> UInt {
+        var result: UInt = 0
+        var firstNumber: UInt = 0
+        var secondNumber: UInt = 2
 
-		while number2 < input {
-			output += number2
-			(number1, number2) = (number2, (4 * number2) + number1)
-		}
+        while secondNumber < input {
+            result += secondNumber
+            (firstNumber, secondNumber) = (secondNumber, (4 * secondNumber) + firstNumber)
+        }
 
-		return output
-	}
-
-## Primality Check
-
-Determining [primality](https://en.wikipedia.org/wiki/Prime_number) of a number is one of the basics in Project Euler. Problem 003 is the first to deal with prime numbers, and while this Extension is not used in my solution, it is something that sets up my solution. This function will be used heavily later on in Project Euler.
-
-	extension Int {
-		var isPrime: Bool {
-			if self <= 1 { return false }
-			if self % 2 == 0 { return self == 2 }
-			if self % 3 == 0 { return self == 3 }
-			let r = Int(sqrt(Double(self)))
-			var f: Int = 5
-			while f <= r {
-				if self % f == 0 || self % (f + 2) == 0 { return false }
-				f += 6
-			}
-			return true
-		}
-	}
+        return result
+    }
 
 ## Find All Prime Factors Of A Number
 
 This is necessary for Problem 003. This code returns an Array of Ints that includes all [prime factors](https://en.wikipedia.org/wiki/Prime_factor) of the tested number. It is implemented as an extension of the Int type, so that any Int can easily return its own prime factors using the example syntax 42.primeFactors or number.primeFactors.
 
-	extension Int {
-		var primeFactors: [Int] {
-			var output: [Int] = []
-			var counter: Int = 2
-			var max = self
+    extension UInt {
+        var primeFactors: [UInt: UInt] {
+            var counter: UInt = 3
+            var factors: [UInt: UInt] = [:]
+            var max: UInt = self
 
-			while counter <= max {
-				if max % counter == 0 {
-					max /= counter
-					output.append(counter)
-				} else {
-					counter += 1
-				}
-			}
+            // Reduces max to odd, counting up how many times 2 divides into it
+            if max >= 2 {
+                while max % 2 == 0 {
+                    max /= 2
+                    factors[2, default: 0] += 1
+                }
+            }
 
-			return output
-		}
-	}
+            // Odd-only numbers, as 2 is the only even prime number. Non-prime odd numbers will have been previously
+            // disqualified due to their prime factors having previously been counted.
+            while counter <= max {
+                if max % counter == 0 {
+                    max /= counter
+                    factors[counter, default: 0] += 1
+                } else {
+                    counter += 2
+                }
+            }
+
+            return factors
+        }
+    }
 
 ## Problem 003 - Largest Prime Factor
 
@@ -94,32 +85,9 @@ This is necessary for Problem 003. This code returns an Array of Ints that inclu
 >
 > What is the largest prime factor of the number 600851475143?
 
-	func p003(input: Int = 600_851_475_143) -> Int {
-
-		if let number = input.primeFactors.last { return number }
-		else { return 0 }
-
-	}
-
-## Testing Whether A String Is A Palindrome
-
-Figuring out whether a string is a [palindrome](https://en.wikipedia.org/wiki/Palindrome) is necessary for Problem 004. This String Extension compares the string's first and last characters, pair by pair. The result is delivered as a Boolean. Any string can be checked as a palindrome by invoking the syntax word.isPalindrome. Ints can be checked by casting the Int as a String. An example of this is String(1337).isPalindrome.
-
-	extension String {
-		var isPalindrome: Bool {
-			return self == String(self.characters.reversed())
-		}
-	}
-
-## Finding Square Of An Integer
-
-The square number of an integer is simply the integer times itself once. It is a simple calculation, but one that I prefer to put in an Extension just to make sure later code is a little cleaner.
-
-	extension Int {
-		var square: Int {
-			return self * self
-		}
-	}
+    func Problem0003(_ input: UInt = 600_851_475_143) -> UInt {
+        return input.primeFactors.keys.sorted(by: >)[0]
+    }
 
 ## Problem 004 - Largest Palindrome Product
 
@@ -127,45 +95,64 @@ The square number of an integer is simply the integer times itself once. It is a
 >
 > Find the largest palindrome made from the product of two 3-digit numbers.
 
-	func p004(input: Int = 999) -> Int {
-		var output: Int = 0
+    func Problem0004(_ input: UInt = 999) -> UInt {
+        var result: UInt = 0
 
-		while output == 0 {
-			for firstNumber: Int in stride(from: input, to: 1, by: -1) {
-				if firstNumber.square < output {
-					break
-				}
-				for secondNumber: Int in stride(from: firstNumber, to: 1, by: -1) {
-					let testNumber: Int = firstNumber * secondNumber
-					if testNumber > output && String(testNumber).isPalindrome {
-						output = testNumber
-					}
-				}
-			}
-		}
+        while result == 0 {
+            for firstNumber: UInt in stride(from: input, to: 1, by: -1) {
+                if firstNumber * firstNumber < result {
+                    break
+                }
+                for secondNumber: UInt in stride(from: firstNumber, to: 1, by: -1) {
+                    let testNumber: UInt = firstNumber * secondNumber
+                    if testNumber > result && String(testNumber) == String(String(testNumber).reversed()) {
+                        result = testNumber
+                    }
+                }
+            }
+        }
 
-		return output
-	}
+        return result
+    }
 
 ## Finding The Power Of A Number
 
 Having a function for finding the [exponential power](https://en.wikipedia.org/wiki/Exponentiation) of a number is not necessary, but it does help clean up and simplify functions that make use of it.
 
-	extension Int {
-		func power(by: Int = 1) -> Int {
-			if by <= 0 { return 1 }
+    extension UInt {
+        static func ^(lhs: UInt, rhs: UInt) -> UInt {
+            if rhs <= 0 { return 1 }
 
-			var counter = by
-			var output = self
+            var counter = rhs
+            var result = lhs
 
-			while counter > 1 {
-				counter -= 1
-				output *= self
-			}
+            while counter > 1 {
+                counter -= 1
+                result *= lhs
+            }
 
-			return output
-		}
-	}
+            return result
+        }
+    }
+
+## Primality Check
+
+Determining [primality](https://en.wikipedia.org/wiki/Prime_number) of a number is one of the basics in Project Euler. Problem 003 is the first to deal with prime numbers, and while this Extension is not used in my solution, it is something that sets up my solution. This function will be used heavily later on in Project Euler.
+
+    extension UInt {
+        var isPrime: Bool {
+            if self <= 1 { return false }
+            if self % 2 == 0 { return self == 2 }
+            if self % 3 == 0 { return self == 3 }
+            let r: UInt = UInt(Double(self).squareRoot())
+            var f: UInt = 5
+            while f <= r {
+                if self % f == 0 || self % (f + 2) == 0 { return false }
+                f += 6
+            }
+            return true
+        }
+    }
 
 ## Problem 005 - Smallest Multiple
 
@@ -173,34 +160,27 @@ Having a function for finding the [exponential power](https://en.wikipedia.org/w
 >
 > What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
-	func p005(input: Int = 20) -> Int {
-		var output: Int = 1
-		var primeFactors: [Int: Int] = [:]
+    func Problem0005(_ input: UInt = 20) -> UInt {
+        var result: UInt = 1
+        var primeFactors: [UInt: UInt] = [:]
 
-		for number: Int in 2...input {
-			if number.isPrime {
-				primeFactors[number] = 1
-			} else {
-				var tempFactors: [Int: Int] = [:]
-				for factor: Int in number.primeFactors {
-					if tempFactors[factor] == nil {
-						tempFactors[factor] = 1
-					} else {
-						tempFactors[factor]! += 1
-					}
-				}
-				for factor: (key: Int, value: Int) in tempFactors {
-					if primeFactors[factor.key]! < factor.value {
-						primeFactors[factor.key] = factor.value
-					}
-				}
-			}
-		}
-		for factor: (key: Int, value: Int) in primeFactors {
-			output *= factor.key.power(by: factor.value)
-		}
-		return output
-	}
+        for number in 2...input {
+            if number.isPrime {
+                primeFactors[number] = 1
+            } else {
+                for (key, value) in number.primeFactors {
+                    if primeFactors[key, default: 0] < value {
+                        primeFactors[key] = value
+                    }
+                }
+            }
+        }
+        for (key, value) in primeFactors {
+            result *= key ^ value
+        }
+
+        return result
+    }
 
 ## Problem 006 - Sum Square Difference
 
@@ -216,12 +196,12 @@ numbers and the square of the sum is 3025 − 385 = 2640.
 > Find the difference between the sum of the squares of the first one hundred
 natural numbers and the square of the sum.
 
-	func p006(input: Int = 100) -> Int {
-		let squareSum: Int = stride(from: 1, to: input + 1, by: 1).reduce(0, +)
-		let sumSquare: Int = stride(from: 1, to: input + 1, by: 1).reduce(0, {$0 + $1 * $1})
+    func Problem0006(_ input: UInt = 100) -> UInt {
+        let squareSum: UInt = stride(from: 1, through: input, by: 1).reduce(0, +)
+        let sumSquare: UInt = stride(from: 1, through: input, by: 1).reduce(0, {$0 + ($1 * $1)})
 
-		return squareSum.square - sumSquare
-	}
+        return (squareSum * squareSum) - sumSquare
+    }
 
 ## Problem 007 - 10001st Prime
 
@@ -229,22 +209,17 @@ natural numbers and the square of the sum.
 >
 > What is the 10,001st prime number?
 
-	func p007(input: Int = 10_001) -> Int {
-		var output: Int = 0
-		var counter: Int = 0
-		var number: Int = 1
+    func Problem0007(_ input: UInt = 10_001) -> UInt {
+        var counter: UInt = 0
+        var number: UInt = 1
 
-		while counter < input {
-			number += 1
-			if number.isPrime {
-				output = number
-				counter += 1
-			}
+        while counter < input {
+            number += 1
+            if number.isPrime { counter += 1 }
+        }
 
-		}
-
-		return output
-	}
+        return number
+    }
 
 ## Problem 008 - Largest Product In A Series
 
@@ -275,32 +250,20 @@ natural numbers and the square of the sum.
 
 *Note: The above number is entered as a String from a separate file due to size.*
 
-	func p008(input: String = p008_input) -> Int {
-		var output: Int = 0
-		var currentNumbers: [Int] = []
-		var numberArray: [Int] = []
+    func Problem0008(_ input: Int = 13) -> Int {
+        let data = ProblemData().Problem0008
+        var result: Int = 0
 
-		for character: Character in input.characters {
-			if let number = Int(String(character)) {
-				numberArray.append(number)
-			}
-		}
-		while numberArray.count > 1 {
-			var product: Int = 1
-			if currentNumbers.count >= 13 {
-				currentNumbers.removeFirst()
-			}
-			currentNumbers.append(numberArray.removeFirst())
-			for number: Int in currentNumbers {
-				product *= number
-			}
-			if product > output {
-				output = product
-			}
-		}
+        for startingIndex in 0..<(data.count - input) {
+            let testNumber = Array(data)[startingIndex..<(startingIndex + input)]
+                .compactMap({ Int(String($0)) })
+                .reduce(1, *)
 
-		return output
-	}
+            if testNumber > result { result = testNumber }
+        }
+
+        return result
+    }
 
 ## Problem 009 - Special Pythagorean Triplet
 
@@ -314,69 +277,69 @@ natural numbers and the square of the sum.
 >
 > Find the product abc.
 
-	func p009(input: Int = 1_000) -> Int {
-		let halfInput = input / 2
+    func Problem0009(_ input: UInt = 1_000) -> UInt {
+        let halfInput: UInt = input / 2
 
-		for number1: Int in 1..<input {
-			for number2: Int in (number1 + 1)...input {
-				if number2 * (number1 + number2) == halfInput {
-					return (2 * number1 * number2) *
-						(number2.square - number1.square) *
-						(number1.square + number2.square)
-				}
-			}
-		}
+        for firstNumber in 1..<input {
+            for secondNumber in (firstNumber + 1)...input {
+                if secondNumber * (firstNumber + secondNumber) == halfInput {
+                    return (2 * firstNumber * secondNumber) *
+                        ((secondNumber ^ 2) - (firstNumber ^ 2)) *
+                        ((firstNumber ^ 2) + (secondNumber ^ 2))
+                }
+            }
+        }
 
-		return 0
-	}
+        return 0
+    }
 
 ## Square Root Of An Integer
 
 Simple extension to Int. Far from necessary due to how short it is, but keeps the double type-casting in a single spot instead of littering every place that it is needed.
 
-	extension Int {
-		var squareRoot: Int {
-			return Int(sqrt(Double(self)))
-		}
-	}
+    extension Int {
+        var squareRoot: Int {
+            return Int(sqrt(Double(self)))
+        }
+    }
 
 ## Finding Primes Using The Sieve Of Eratosthenes
 
 The next problem can be solved quickly using the above primality check, but it presents a good opportunity to test out an algorithm for the [sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes).
 
-	func sieve(target: Int) -> [Int] {
-		if target <= 1 { return [] }
-		
-		var checks: [Bool] = Array(repeating: true, count: target + 1)
-		var primes: [Int] = []
-		
-		for number in 2...target.squareRoot {
-			if checks[number] {
-				primes.append(number)
-				for notPrime in stride(from: number * number, to: target + 1, by: number) { checks[notPrime] = false }
-			}
-		}
-		for number in (target.squareRoot + 1)...target {
-			if checks[number] { primes.append(number) }
-		}
-		
-		return primes
-	}
+    func sieve(target: Int) -> [Int] {
+        if target <= 1 { return [] }
+
+        var checks: [Bool] = Array(repeating: true, count: target + 1)
+        var primes: [Int] = []
+
+        for number in 2...target.squareRoot {
+            if checks[number] {
+                primes.append(number)
+                for notPrime in stride(from: number * number, to: target + 1, by: number) { checks[notPrime] = false }
+            }
+        }
+        for number in (target.squareRoot + 1)...target {
+            if checks[number] { primes.append(number) }
+        }
+
+        return primes
+    }
 
 ## Problem 010 - Summation Of Primes
 
 > The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
-> 
+>
 > Find the sum of all the primes below two million.
 
-	func p010(input: Int = 2_000_000) -> Int {
-		return sieve(target: input).reduce(0, +)
-	}
+    func Problem0010(_ input: UInt = 2_000_000) -> UInt {
+        return primeSieve(input - 1).reduce(0, +)
+    }
 
 ## Problem 011 - Largest Product In A Grid
 
 > In the 20×20 grid below, four numbers along a diagonal line have been marked in red.
-> 
+>
 > 08 02 22 97 38 15 00 40 00 75 04 05 07 78 52 12 50 77 91 08
 > 49 49 99 40 17 81 18 57 60 87 17 40 98 43 69 48 04 56 62 00
 > 81 49 31 73 55 79 14 29 93 71 40 67 53 88 30 03 49 13 36 65
@@ -397,88 +360,84 @@ The next problem can be solved quickly using the above primality check, but it p
 > 20 69 36 41 72 30 23 88 34 62 99 69 82 67 59 85 74 04 36 16
 > 20 73 35 29 78 31 90 01 74 31 49 71 48 86 81 16 23 57 05 54
 > 01 70 54 71 83 51 54 69 16 92 33 48 61 43 52 01 89 19 67 48
-> 
+>
 > The product of these numbers is 26 × 63 × 78 × 14 = 1788696.
-> 
+>
 > What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?
 
 *Note: The above grid is entered as an Array of an Array of Ints.*
 
-	func p011(input: [[Int]] = p011_input) -> Int {
-		let xMax: Int = input[0].count - 1
-		let yMax: Int = input.count - 1
-		var output: Int = 0
-	
-		for yIndex: Int in 0...yMax {
-			for xIndex: Int in 0...xMax {
-				if yIndex <= yMax - 3 {
-					let possibleTotal: Int = input[yIndex][xIndex] * input[yIndex + 1][xIndex] * input[yIndex + 2][xIndex] * input[yIndex + 3][xIndex]
-					if possibleTotal > output { output = possibleTotal }
-				}
-				if xIndex <= xMax - 3 {
-					let possibleTotal: Int = input[yIndex][xIndex] * input[yIndex][xIndex + 1] * input[yIndex][xIndex + 2] * input[yIndex][xIndex + 3]
-					if possibleTotal > output { output = possibleTotal }
-				}
-				if yIndex <= yMax - 3 && xIndex <= xMax - 3 {
-					let possibleTotal: Int = input[yIndex][xIndex] * input[yIndex + 1][xIndex + 1] * input[yIndex + 2][xIndex + 2] * input[yIndex + 3][xIndex + 3]
-					if possibleTotal > output { output = possibleTotal }
-				}
-				if yIndex >= 3 && xIndex <= xMax - 3 { //
-					let possibleTotal: Int = input[yIndex][xIndex] * input[yIndex - 1][xIndex + 1] * input[yIndex - 2][xIndex + 2] * input[yIndex - 3][xIndex + 3]
-					if possibleTotal > output { output = possibleTotal }
-				}
-			}
-		}
-	
-		return output
-	}
+    func Problem0011() -> UInt {
+        let data: [[UInt]] = ProblemData().Problem0011
+
+        let xMax: Int = data[0].count - 1
+        let yMax: Int = data.count - 1
+        var result: UInt = 0
+
+        for yIndex: Int in 0...yMax {
+            for xIndex: Int in 0...xMax {
+                if yIndex <= yMax - 3 {
+                    let possibleTotal: UInt = data[yIndex][xIndex]
+                        * data[yIndex + 1][xIndex]
+                        * data[yIndex + 2][xIndex]
+                        * data[yIndex + 3][xIndex]
+                    if possibleTotal > result { result = possibleTotal }
+                }
+                if xIndex <= xMax - 3 {
+                    let possibleTotal: UInt = data[yIndex][xIndex]
+                        * data[yIndex][xIndex + 1]
+                        * data[yIndex][xIndex + 2]
+                        * data[yIndex][xIndex + 3]
+                    if possibleTotal > result { result = possibleTotal }
+                }
+                if yIndex <= yMax - 3 && xIndex <= xMax - 3 {
+                    let possibleTotal: UInt = data[yIndex][xIndex]
+                        * data[yIndex + 1][xIndex + 1]
+                        * data[yIndex + 2][xIndex + 2]
+                        * data[yIndex + 3][xIndex + 3]
+                    if possibleTotal > result { result = possibleTotal }
+                }
+                if yIndex >= 3 && xIndex <= xMax - 3 { //
+                    let possibleTotal: UInt = data[yIndex][xIndex]
+                        * data[yIndex - 1][xIndex + 1]
+                        * data[yIndex - 2][xIndex + 2]
+                        * data[yIndex - 3][xIndex + 3]
+                    if possibleTotal > result { result = possibleTotal }
+                }
+            }
+        }
+
+        return result
+    }
 
 ## Triangular Numbers
 
 [Triangular numbers](https://en.wikipedia.org/wiki/Triangular_number) are numbers are calculated by counting up from 1 and adding all of the previous numbers together. The first triangular number is 1, the second triangular number is 1 + 2, the third triangular number is 1 + 2 + 3, etc. A faster method of counting triangular numbers is to use the following algorithm, passing the n<sup>th</sup> digit that you want to find:
 
-	func triangleNumber(_ number: Int) -> Int {
-		return (number * (number + 1)) / 2
-	}
-
-## Finding Factors of an Integer
-
-The below code finds the [factors](https://en.wikipedia.org/wiki/Divisor) for any integer.
-
-	extension Int {
-		var factors: [Int] {
-			var output: [Int] = self >= 1 ? [1, self] : []
-			for prime in Set(self.primeFactors) {
-				output += (Array(Swift.stride(from: prime, to: self, by: prime).filter({self % $0 == 0})))
-			}
-			return Array(Set(output)).sorted()
-		}
-	}
+    func triangleNumber(number: UInt) -> UInt {
+        return (number * (number + 1)) / 2
+    }
 
 ## Counting Factors
 
-For most purposes, using the amount code and counting the numbers in the array is sufficient for figuring out the amount of factors for any number. For Problem 012, a more efficient method of counting factors is necessary, as millions of factorizations are necessary to find the answer. The following code uses the above primeFactors extension to accomplish a faster method of counting factors:
+For Problem 012, an efficient method of counting factors is necessary, as millions of factorizations are necessary to find the answer.
 
-	extension Int {
-		var factorCount: Int {
-			if self <= 0 { return 0 }
-			let factors: [Int] = self.primeFactors
-			var output: Int = 1
-			for prime in Set(factors) {
-				output *= factors.filter({$0 == prime}).count + 1
-			}
-			return output
-		}
-	}
+    extension UInt {
+        var factorCount: UInt {
+            if self <= 0 { return 0 }
+
+            return self.primeFactors.reduce(1, {$0 * ($1.value + 1)})
+        }
+    }
 
 ## Problem 012 - Highly Divisible Triangular Number
 
 > The sequence of triangle numbers is generated by adding the natural numbers. So the 7th triangle number would be 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28. The first ten terms would be:
-> 
+>
 > 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, ...
-> 
+>
 > Let us list the factors of the first seven triangle numbers:
-> 
+>
 > 1: 1
 > 3: 1,3
 > 6: 1,2,3,6
@@ -486,22 +445,23 @@ For most purposes, using the amount code and counting the numbers in the array i
 > 15: 1,3,5,15
 > 21: 1,3,7,21
 > 28: 1,2,4,7,14,28
-> 
+>
 > We can see that 28 is the first triangle number to have over five divisors.
-> 
+>
 > What is the value of the first triangle number to have over five hundred divisors?
 
-	func p012(_ input: Int = 500) -> Int {
-		var counter: Int = 0
-		while triangleNumber(counter).factorCount < input { counter += 1 }
-	
-		return triangleNumber(counter)
-	}
+    func Problem0012(_ input: UInt = 500) -> UInt {
+        var counter: UInt = 0
+
+        while triangleNumber(number: counter).factorCount < input { counter += 1 }
+
+        return triangleNumber(number: counter)
+    }
 
 ## Problem 013 - Large Sum
 
 > Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
-> 
+>
 > 37107287533902102798797998220837590246510135740250
 > 46376937677490009712648124896970078050417018260538
 > 74324986199524741059474233309513058123726617309629
@@ -603,115 +563,119 @@ For most purposes, using the amount code and counting the numbers in the array i
 > 20849603980134001723930671666823555245252804609722
 > 53503534226472524250874054075591789781264330331690
 
-	import Foundation
-
-	func p013(_ input: [String] = p013_input) -> String {
-		let output: String = input.reduce(Decimal(0), {$0 + Decimal(string: $1)!}).description
-		return output.prefix(10).description
-	}
+    func Problem0013(_ input: [String] = ProblemData().p013_input) -> String {
+        let output: String = input.reduce(Decimal(0), {$0 + Decimal(string: $1)!}).description
+        return output.prefix(10).description
+    }
 
 ## Problem 014 - Longest Collatz Sequence
 
 > The following iterative sequence is defined for the set of positive integers:
-> 
+>
 > n → n/2 (n is even)
 > n → 3n + 1 (n is odd)
-> 
+>
 > Using the rule above and starting with 13, we generate the following sequence:
-> 
+>
 > 13 → 40 → 20 → 10 → 5 → 16 → 8 → 4 → 2 → 1
 > It can be seen that this sequence (starting at 13 and finishing at 1) contains 10 terms. Although it has not been proved yet (Collatz Problem), it is thought that all starting numbers finish at 1.
-> 
+>
 > Which starting number, under one million, produces the longest chain?
-> 
+>
 > NOTE: Once the chain starts the terms are allowed to go above one million.
 
-	struct collatzStruct {
-		var counts: [Int: Int] = [1:1]
+    struct collatzCount {
+        var counts: [UInt: UInt] = [1:1]
 
-		mutating func collatzCount(_ input: Int) -> Int {
-			if counts.keys.contains(input) == false {
-				if input % 2 == 0 {
-					counts[input] = collatzCount(input / 2) + 1
-				} else {
-					counts[input] = collatzCount(((3 * input) + 1) / 2) + 2
-				}
-			}
+        mutating func count(_ input: UInt) -> UInt {
+            if counts.keys.contains(input) == false {
+                if input.isMultiple(of: 2) {
+                    counts[input] = count(input / 2) + 1
+                } else {
+                    counts[input] = count(((3 * input) + 1) / 2) + 2
+                }
+            }
 
-			return counts[input, default: 0]
-		}
+            return counts[input, default: 0]
+        }
 
-		mutating func collatzSequence(_ input: Int) -> [Int] {
-			var number: Int = input
-			var output: [Int] = [input]
+        mutating func sequence(_ input: UInt) -> [UInt] {
+            var number: UInt = input
+            var output: [UInt] = [input]
 
-			while number != 1 {
-				if number % 2 == 0 { number = number / 2 }
-				else { number = (3 * number) + 1 }
-				output.append(number)
-			}
+            while number != 1 {
+                if number.isMultiple(of: 2) {
+                    number = number / 2
+                }
+                else {
+                    number = (3 * number) + 1
+                }
 
-			if counts.keys.contains(output.count) == false {
-				counts[input] = output.count
-			}
+                output.append(number)
+            }
 
-			return output
-		}
-	}
+            let count = UInt(output.count)
+            if counts.keys.contains(count) == false {
+                counts[input] = count
+            }
 
-	func p014(_ input: Int = 1_000_000) -> Int {
-		var ccs = collatzStruct()
-		var highCount: Int = 0
-		var output: Int = 0
+            return output
+        }
+    }
 
-		for number in stride(from: input - 1, to: input / 2, by: -2) {
-			let testCount: Int = ccs.collatzCount(number)
-			if testCount > highCount {
-				highCount = testCount
-				output = number
-			}
-		}
+    func Problem0014(_ input: UInt = 1_000_000) -> UInt {
+        var ccs = collatzCount()
+        var highCount: UInt = 0
+        var output: UInt = 0
 
-		return output
-	}
+        for number in stride(from: input - 1, to: input / 2, by: -2) {
+            let testCount: UInt = ccs.count(number)
+            if testCount > highCount {
+                highCount = testCount
+                output = number
+            }
+        }
+
+        return output
+    }
 
 ## Problem 015 - Lattice Paths
 
 > Starting in the top left corner of a 2×2 grid, and only being able to move to the right and down, there are exactly 6 routes to the bottom right corner.
-> 
+>
 > How many such routes are there through a 20×20 grid?
 
-	func p015(_ input: Int = 20) -> Int {
-		return (1...input).reduce(1, {$0 * (input + $1) / $1})
-	}
+    func p015(_ input: Int = 20) -> Int {
+        return (1...input).reduce(1, {$0 * (input + $1) / $1})
+    }
 
 ## Problem 016 - Power Digit Sum
 
 > 2^15 = 32768 and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.
-> 
+>
 > What is the sum of the digits of the number 2^1000?
 
-	import Foundation
+    import Foundation
 
-	func p016(_ input: Int = 1_000) -> Int {
-	    var carryOver: UInt8 = 0
-	    var digits: [UInt8] = [1]
+    func Problem0016(_ input: UInt = 1_000) -> UInt {
+        var carryOver: UInt8 = 0
+        var digits: [UInt8] = [1]
 
-	    for _ in 1...input {
-	        for index in 0..<digits.endIndex {
-	            digits[index] = (digits[index] * 2) + carryOver
-	            if digits[index] >= 10 {
-	                digits[index] -= 10
-	                carryOver = 1
-	            } else {
-	                carryOver = 0
-	            }
-	        }
-	        if carryOver > 0 {
-	            digits.append(carryOver)
-	            carryOver = 0
-	        }
-	    }
+        for _ in 1...input {
+            for index in 0..<digits.endIndex {
+                digits[index] = (digits[index] * 2) + carryOver
+                if digits[index] >= 10 {
+                    digits[index] -= 10
+                    carryOver = 1
+                } else {
+                    carryOver = 0
+                }
+            }
+            if carryOver > 0 {
+                digits.append(carryOver)
+                carryOver = 0
+            }
+        }
 
-	    return digits.reduce(0, {$0 + Int($1)})
-	}
+        return digits.reduce(0, {$0 + UInt($1)})
+    }
