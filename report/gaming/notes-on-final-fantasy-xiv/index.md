@@ -2,7 +2,7 @@
 created: 2017-07-24T17:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2020-09-15T20:20Z
+updated: 2020-10-24T10:40Z
 ---
 
 ## Trials - A Realm Reborn
@@ -310,6 +310,42 @@ In Phase 2, the DPS will kill adds in this order:
     7. Engage Gloliath Tank Support: Face tanks away from center.
     8. Hack: Move behind other tank, then move away from the second tank.
     9. Adds: Kill separated.
+
+### The Puppet's Bunker
+
+1. 813P-operated Aegis Unit
+    1. Anti-Personnel Laser: Tankbuster.
+    2. Beam Cannons: Move to fastest shrinking beam area.
+    3. Surface Laser: Targeted player move away from party and then move out of effect once it triggers.
+    4. Swoop: Move out of target.
+    5. Refraction Cannon: Do not stand in front of fire cannon.
+    6. Bombardment: Kill add.
+    7. High-powered Laser: Stack up
+    8. Life's Last Song: Move into gaps, then wait for explosion before moving to the next.
+2. 7xxp-operated Superior Flight Unit
+    1. Missile Command: Multiple raid-wide AEs.
+    2. High-Powered Laser: Line up, with attack facing away from other parties.
+    3. Sharp Turn: Stand on side away from sword.
+    4. Precision-Guided Missile: Tankbuster.
+    5. Sliding Swipe: 3 attacks with random thrusters selected. Stand on opposite side.
+3. 905P-operated Heavy Artillery Unit
+    1. Volt Array: High raid-wide damage
+    2. Laser Turret: Stand in front of raised lasers, then move to the side before it reaches you.
+    3. High-POwered Laser: Targets 2 tanks. Stand away from rest of the raid without overlapping.
+    4. Energy Bombardment: Move towards final AE attack to stand in after boss jumps to it.
+    5. Pods: Attack type based on screen behind are either column or round AE attacks. Stand in between line column attacks. Note: The last attack will shift either to the left or right.
+4. The Compound
+    1. Mechanical Laceration: High raid-wide damage.
+    2. Mechanical Decapitation: Stand underneath boss.
+    3. Mechanical Dissection: Stand on sides opposite lasers.
+    4. Yo-Yo Form: Stand in between both versions of boss.
+5. Compound 2P
+    1. Centrifugal Slice: High raid-wide damage.
+    2. Prime Blade: Can be either point-blank AE attack, frontal cone attack, or room-wide damage with a safe spot underneath 2P.
+    3. Forced Transpot: Circle with sparking link is where the boss will teleport. Adjust accordingly.
+    4. Three Parts Disdain: 3 attacks with knockback. Raid must stay stacked up.
+    5. Four Parts Resolve: Marks 4 players. 1st and 3rd the boss jumps onto, 2nd and 4th the boss does a line attack towards.
+    6. Reproduce: Clones appear around the room that mimic attack boss does from the center of the room.
 
 ## Normal Raids - Stormblood
 
