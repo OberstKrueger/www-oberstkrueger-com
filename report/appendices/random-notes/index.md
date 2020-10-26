@@ -2,7 +2,7 @@
 created: 2017-06-11T13:00Z
 title: Random Notes
 type: page
-updated: 2020-04-15T18:00Z
+updated: 2020-10-26T10:50Z
 ---
 
 The following are random ideas, quotes, or thoughts that I have come across.
@@ -14,6 +14,12 @@ The following are random ideas, quotes, or thoughts that I have come across.
 > -Eliezer S. Yudkowsky
 
 ## Knowledge
+
+> As for material, I learn what I’m interested in. First, because life is too short to do things that you don’t love. Second, I’ve found that studying stuff I genuinely like awakens my curiosity. And curiosity is essential to develop mastery because mastery is about depth and breadth of knowledge.
+>
+> For example, if you’re learning JavaScript and you’re curious about it, you’ll go and figure out how JS runtime environment works in Chrome even though the tutorial doesn’t cover it. Just because you’re interested. But if you’re not curious, then you’ll just memorize the tutorial, and your knowledge will be shallow.
+>
+> -Vasili Shynkarenka
 
 > We have inherited great riches from our distance ancestors, but the reality is that huge swatches of ancient culture were lost in the long journey to the twenty-first century. Only a fraction has survived: seven of the eighty or so plays by Aeschylus, seven of the one hundred and twenty by Sophocles, eighteen out of ninety-two by Euripides. Many other writers have disappeared altogether, reduced to ghostly mentions in other works. In the late fifth century, a man named Stobaeus compiled a huge anthology of 1,430 poetry and prose quotations. Just 315 of them are from works that still exist - the rest are lost.
 >
