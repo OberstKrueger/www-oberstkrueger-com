@@ -2,8 +2,33 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2020-10-02T19:35Z
+updated: 2020-11-01T10:25Z
 ---
+
+## 2020.10
+
+### Articles Read
+
+- Ariel, B., Sherman, L.W., Newton, M. (2020). Testing hot-spots police patrols against no-treatment controls: Temporal and spatial deterrence effects in the London Underground experiment. *Criminology*, 58(1). 101-128.
+- Chesney-Lind, M. (2020). Feminist criminology in an era of misogyny. *Criminology*, 58(3). 407-422.
+- Laakso, M., Matthias, L., Jahn, N. (2020). Open is not forever: A study of vanished open access journals. arXiv:2008.11933 [cs.DL]. https://arxiv.org/abs/2008.11933
+- McCarthy, B., Hagan, J., Herda, D. (2020). Neighborhood climates of legal cynicism and complaints about abuse of police power. *Criminology*, 58(3). 51-536.
+- Motz, R.T., Barnes, J.C., Caspi, A., Arseneault, L., Cullen, F.T., ... Moffitt, T.E. (2020). Does contact with the justice system deter or promote future delinquency? Results from a longitudinal study of British adolescent twins. *Criminology*, 58(2). 307-335.
+- Sugie, N.F., Zatz, N.D., Augustine, D. (2020). Employer aversion to criminal records: An experimental study of mechanisms. *Criminology*, 58(1). 5-34.
+- Widdowson, A.O., Jacobsen, W.C., Siennick, S.E., Warren, P.Y. (2020). Together despite the odds: Explaining racial and ethnic heterogeneity in union dissolution after incarceration. *Criminology*, 58(1). 129-155.
+- Wildeman, C., Anderson, L.H. (2020). Long-term consequences of being placed in disciplinary segregation. *Criminology*, 58(3). 423-453.
+
+### Books Read
+
+- Kaku, Michio - Beyond Einstein: The Cosmic Quest for the Theory of the Universe
+- Tyson, Neil deGrasse - Merlin's Tour of the Universe
+
+### Games Played
+
+- [Baldur's Gate III (Steam Early Access)](https://en.wikipedia.org/wiki/Baldur%27s_Gate_III)
+- [Beat Saber](https://en.wikipedia.org/wiki/Beat_Saber)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [Star Wars: Squadrons](https://en.wikipedia.org/wiki/Star_Wars:_Squadrons)
 
 ## 2020.09
 
