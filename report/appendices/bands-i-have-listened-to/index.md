@@ -2,7 +2,7 @@
 created: 2019-05-16T15:35Z
 title: Bands I Have Listened To
 type: page
-updated: 2020-10-28T17:40Z
+updated: 2020-11-06T17:45Z
 ---
 
 This page is split into two sections. The first section lists which bands I have listened to the complete discography for. The second section are bands that I have sampled, usually by listening to a [greatest hits album](https://en.wikipedia.org/wiki/Greatest_hits_album) or an essentials playlist on Apple Music.
@@ -34,6 +34,7 @@ This page is split into two sections. The first section lists which bands I have
 - Chumbawamba
 - Crimson Sun
 - Daft Punk
+- Damnation Angels
 - Dead Can Dance
 - Delain
 - Deltron 3030
@@ -208,7 +209,6 @@ This page is split into two sections. The first section lists which bands I have
 - Bullet For My Valentine
 - Combichrist
 - Conflict
-- Damnation Angels
 - Dark Moor
 - Dark Princess
 - Dark Sarah
