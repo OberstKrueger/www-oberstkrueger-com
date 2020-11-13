@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2020-10-09T20:15Z
+updated: 2020-11-13T18:05Z
 ---
 
 | Name | Platform(s) |
@@ -159,6 +159,7 @@ updated: 2020-10-09T20:15Z
 | [EverQuest: The Scars of Velious](https://en.wikipedia.org/wiki/EverQuest_expansions#The_Scars_of_Velious) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [EverQuest: The Shadows of Luclin](https://en.wikipedia.org/wiki/EverQuest_expansions#The_Shadows_of_Luclin) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Evoland](https://en.wikipedia.org/wiki/Evoland) | [PC](https://en.wikipedia.org/wiki/PC_game) |
+| [Evoland 2](https://en.wikipedia.org/wiki/Evoland_2) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Exapunks](https://en.wikipedia.org/wiki/Exapunks) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Exploding Kittens](https://en.wikipedia.org/wiki/Exploding_Kittens) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
 | [F-1 Race](https://en.wikipedia.org/wiki/F-1_Race) | [Game Boy](https://en.wikipedia.org/wiki/Game_Boy) |
