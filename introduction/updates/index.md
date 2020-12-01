@@ -2,8 +2,31 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2020-11-01T10:25Z
+updated: 2020-12-01T10:10Z
 ---
+
+## 2020.11
+
+### Articles Read
+
+- Buchanan, M., Khrohn, M.D. (2020). Does it matter if those who matter don't mind? Effects of gang versus delinquent peer group membership on labeling processes. *Criminology*, 58(2). 28-306.
+- Cain, S.W., McGlashan, E.M., Vidafar, P., Mustafovska, J., ... Phillips, A.J.K. (2020). Evening home lighting adversely impacts the circadian system and sleep. *Scientific Reports*, 10:19110. 1-10.
+- Giordano, P.C. (2020). Continuing education: Toward a life-course perspective on social learning. *Criminology*, 58(2). 199-225.
+- Melde, C., Berg, M.T., Esbensen, F. (2020). "Nerve" and violent encounters: An assessment of fearlessness in the face of danger. *Criminology*, 58(2). 226-254.
+- Nivette, A., Eisner, M., Ribeaud, D. (2020). Evaluating the shared and unique predictors of legal cynicism and police legitimacy from adolescence into early adulthood. *Criminology*, 58(1). 70-100.
+- Panfil, V.R. (2020). "I was a homo thug, now I'm just homo": Gay gang members' desistance and persistence. *Criminology*, 58(2). 255-279.
+- Shi, L., Lu, Y., Pickett, J.T. (2020). The public salience of crime, 1960–2014: Age–period–cohort and time–series analyses. *Criminology*, 58(3). 568-593.
+- Stewart, R., Uggen, C. (2020). Criminal records and college admissions: A modified experimental audit. *Criminology*, 58(1). 156-188.
+
+### Games Played
+
+- [Deus Ex](https://en.wikipedia.org/wiki/Deus_Ex_(video_game))
+- [Diablo](https://en.wikipedia.org/wiki/Diablo_(video_game))
+- [Diablo II](https://en.wikipedia.org/wiki/Diablo_II)
+- [Evoland](https://en.wikipedia.org/wiki/Evoland)
+- [Evoland 2](https://en.wikipedia.org/wiki/Evoland_2)
+- [Final Fantasy X-2 HD Remaster](https://en.wikipedia.org/wiki/Final_Fantasy_X/X-2_HD_Remaster)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
 
 ## 2020.10
 
