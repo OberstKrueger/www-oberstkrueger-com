@@ -2,7 +2,7 @@
 created: 2019-05-16T15:35Z
 title: Bands I Have Listened To
 type: page
-updated: 2020-12-03T19:30Z
+updated: 2020-12-03T19:35Z
 ---
 
 This page is split into two sections. The first section lists which bands I have listened to the complete discography for. The second section are bands that I have sampled, usually by listening to a [greatest hits album](https://en.wikipedia.org/wiki/Greatest_hits_album) or an essentials playlist on Apple Music.
@@ -100,6 +100,7 @@ This page is split into two sections. The first section lists which bands I have
 - Luna Aeterna
 - Lunar Path
 - Lunatica
+- Machinae Supremacy
 - Mandragora Scream
 - Manntra
 - MaYaN
@@ -260,7 +261,6 @@ This page is split into two sections. The first section lists which bands I have
 - Live
 - London Grammar
 - Lordi
-- Machinae Supremacy
 - Manowar
 - Marilyn Manson
 - Massive Attack
