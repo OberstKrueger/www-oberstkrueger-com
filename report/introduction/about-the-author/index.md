@@ -29,15 +29,15 @@ SSD: 32 GB
 Geekbench 5.1 CPU: [559 / 1,031](https://browser.geekbench.com/v5/cpu/989663)<br>
 Geekbench 5.1 Compute (Metal): [2,234](https://browser.geekbench.com/v5/compute/422007)
 
-### iPhone 11
+### iPhone 12 Mini
 
-CPU: [Apple A13 @ 2.66 GHz](https://en.wikipedia.org/wiki/Apple_A13)<br>
-GPU: [Apple A13](https://en.wikipedia.org/wiki/Apple_A13)<br>
+CPU: [Apple A14 @ 3 GHz](https://en.wikipedia.org/wiki/Apple_A14)<br>
+GPU: [Apple A14](https://en.wikipedia.org/wiki/Apple_A14)<br>
 RAM: 4096 MB<br>
-SSD: 128 GB
+SSD: 256 GB
 
-Geekbench 5.1 CPU: [1,334 / 3,504](https://browser.geekbench.com/v5/cpu/989662)<br>
-Geekbench 5.1 Compute (Metal): [6,326](https://browser.geekbench.com/v5/compute/422001)
+Geekbench 5.2.5 CPU: [1,603 / 3,945](https://browser.geekbench.com/v5/cpu/5167933)<br>
+Geekbench 5.2.5 Compute (Metal): [9,315](https://browser.geekbench.com/v5/compute/1998970)
 
 ### Mac Mini
 

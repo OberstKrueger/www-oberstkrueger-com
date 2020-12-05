@@ -2,7 +2,7 @@
 created: 2020-06-14T10:00Z
 title: Past Computing Devices
 type: page
-updated: 2020-06-14T10:30Z
+updated: 2020-12-05T11:35Z
 ---
 
 ## Main Timeline
@@ -324,4 +324,16 @@ This was the first device that I owned that used an Apple GPU built into the sys
 
 - CPU: [Apple A13](https://en.wikipedia.org/wiki/Apple_A13)
 - RAM: 4 gigabytes
-- OS: [iOS 13](https://en.wikipedia.org/wiki/IOS_13)
+- OS: [iOS 13](https://en.wikipedia.org/wiki/IOS_13)-[iOS 14](https://en.wikipedia.org/wiki/IOS_14)
+
+### iPhone 12 (2020)
+
+<figure class="halfRight">
+    <img src="/images/past-computing-devices_iphone-12.png" alt="iPhone 12">
+</figure>
+
+When Apple released the iPhone 6 Plus, I upgraded after using my iPhone 5S for only a year due to the increased size. At the time, I did not have an iPad and the bigger screen was useful during public transit commutes. For 2020, I made the same type of shift, but in the opposite direction. The iPhone 12 Mini was the smallest high-end phone Apple has released since the 5S, and I wanted to move back in that direction, so despite owning the iPhone 11 for only one year, I made the transition back. Since I now use an iPad for reading tasks, having a smaller device helped with my desire to have a more [simplified smartphone](https://krueger.report/technology/simplifying-the-smartphone/).
+
+- CPU: [Apple A14](https://en.wikipedia.org/wiki/Apple_A14)
+- RAM: 4 gigabytes
+- OS: [iOS 14](https://en.wikipedia.org/wiki/IOS_14)
