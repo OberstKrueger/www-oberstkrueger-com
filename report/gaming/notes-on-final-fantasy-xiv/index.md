@@ -2,7 +2,7 @@
 created: 2017-07-24T17:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2020-10-24T10:40Z
+updated: 2020-12-05T11:00Z
 ---
 
 ## Trials - A Realm Reborn
@@ -232,6 +232,21 @@ In Phase 2, the DPS will kill adds in this order:
 3. Flame Rune: Stand inside one of the puddles.
 4. Phase 2: Kill Mustardseed add first.
 5. Phase 2: MT and OT split other two adds.
+
+### The Seat of Sacrifice (Normal)
+
+1. Terror Unleashed: Heal to full health.
+2. Absolute Fire III: Stop moving and attacking until debuff ends.
+3. Absolute Blizzard III: Keep moving until debuff ends.
+4. Imbued Blizzard/Fire: Adds the above abilities to sword attacks. Respond appropriately.
+5. Sword of Light: Stay outside of shape being formed by sword.
+6. The Bitter End: Tankbuster.
+7. Ultimate Crossover: Tank Limit Break.
+8. Meteors: 2 players per circle.
+9. Absolute Holy: All players stack except for player with flare marker.
+10. Radiant Braver: Line attack towards all marked players.
+11. Radiant Desperado: Stack lineup attack on each healer. Group must split.
+12. Radiant Meteor: Spread out to each corner.
 
 ## Alliance Raids - Stormblood
 
