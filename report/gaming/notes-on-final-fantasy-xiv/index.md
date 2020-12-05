@@ -2,7 +2,7 @@
 created: 2017-07-24T17:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2020-12-05T11:00Z
+updated: 2020-12-05T11:15Z
 ---
 
 ## Trials - A Realm Reborn
@@ -224,6 +224,22 @@ In Phase 2, the DPS will kill adds in this order:
 7. Phase 2: Force of Nature: Stand near middle circle but not inside.
 
 ## Trials - Shadowbringers
+
+### The Cinder Drift (Normal)
+
+1. Stamp: Tank buster.
+2. Ravensclaw: AE attack at the end of each crack.
+3. Liequefaction: Stand on top of cracks.
+4. Undermine: Stand away from cracks.
+5. Ruby Ray: Stand behind boss.
+6. Helicoclaw: Path of AE circles follow lines.
+7. High Power Homing Laser: Two stackup attacks. Split group.
+8. Ravensflight: Stay out of telegraphed path of boss.
+9. Optimized Ultima: Kill before spell casts.
+10. Negative Personae: Kill adds, keep separate.
+11. Ruby Claw: Tank buster.
+12. Magitek Meteor: Hide behind rocks.
+13. Mark II Magitek Meteor: One player must stand in each marker. Other players kill adds.
 
 ### The Dancing Plague (Normal)
 
