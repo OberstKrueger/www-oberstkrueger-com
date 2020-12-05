@@ -2,7 +2,7 @@
 created: 2020-06-14T10:00Z
 title: Past Computing Devices
 type: page
-updated: 2020-12-05T11:35Z
+updated: 2020-12-05T12:05Z
 ---
 
 ## Main Timeline
@@ -194,7 +194,7 @@ This phone is infamous for being leaked so heavily ahead of time, as well as the
 ### iPhone 5S (2013)
 
 <figure class="halfRight">
-    <img src="/images/past-computing-devices_iphone-5s.jpg" alt="iPhone 5S">
+    <img src="/images/past-computing-devices_iphone-5s.png" alt="iPhone 5S">
 </figure>
 
 To this day, the iPhone 5S remains my favorite iPhone ever released. The design of the device is peak Jony Ives, with a beautiful exterior, flawless functionality, and a classic look that made no compromises. It was the last iPhone to not have a camera bump, which is a design compromise that I dislike.
@@ -210,7 +210,7 @@ If Apple ever released another phone with this exact design but modern internals
 ### Mac Mini (2014)
 
 <figure class="halfRight">
-    <img src="/images/past-computing-devices_mac-mini-2014.jpg" alt="Mac Mini">
+    <img src="/images/past-computing-devices_mac-mini-2014.png" alt="Mac Mini">
 </figure>
 
 My second Mac desktop, and the first time that all of my Apple devices did not have an optical drive. This Mac Mini was a nice step up from the previous one in all but one way: the hard drive. My previous Mac Mini had its hard drive upgraded to something that was both higher capacity and speed. This Mac Mini was a stock 5400 RPM hard disk, which after having both my gaming PC and my MacBook Air running on an SSD, loading speeds are back to being a bottleneck. This Mac Mini was difficult to upgrade, so I left it as is.
@@ -226,7 +226,7 @@ Despite my love for the Mac Mini form-factor, this particular machine is pretty 
 ### iPhone 6 Plus (2014)
 
 <figure class="halfRight">
-    <img src="/images/past-computing-devices_iphone-6-plus.jpg" alt="iPhone 6 Plus">
+    <img src="/images/past-computing-devices_iphone-6-plus.png" alt="iPhone 6 Plus">
 </figure>
 
 As much as I loved the iPhone 5S, I replaced it rather quickly when Apple announced significantly larger iPhones. My job at the time had me taking the train into work, and I wanted a device that was easier to read on while riding the train each day. I was not yet looking to purchase an iPad, so a larger phone helped fill that role. The iPhone 6 Plus was generally a good iPhone, although I disliked the camera bump that it added, and it did occasionally exhibit from what tech commentators have called "touch disease", wherein the touchscreen will not respond to touch until the phone has been locked and then unlocked again. Beyond this issue, I had no other issues, and the phone ended up lasting me 5 years, even without replacing the battery.
@@ -240,7 +240,7 @@ As much as I loved the iPhone 5S, I replaced it rather quickly when Apple announ
 ### Intel Skylake (2015)
 
 <figure class="halfRight">
-    <img src="/images/past-computing-devices_skylake.jpg" alt="Skylake">
+    <img src="/images/past-computing-devices_skylake.png" alt="Skylake">
 </figure>
 
 It took 8 years, but 2015 was the time to replace the venerable Intel Q6600. I had been keeping an eye on benchmarks, and the previous desktop CPU line, Haswell, was starting to surpass the Q6600 significantly. Games that I played were starting to become CPU limited, as performance metrics were showing. The i7-6700 was still quad-core, but a true quad-core that reduced the overhead of running multithreaded programs. Games were still having issues taking advantage of all the cores when I purchased this machine, but like with the Q6600, I wanted to try and make this machine last as long as possible.
@@ -256,7 +256,7 @@ This machine has seen many GPUs pass through it. The first upgrade was to an [NV
 ### Apple Watch (2015)
 
 <figure class="halfRight">
-    <img src="/images/past-computing-devices_apple-watch.jpg" alt="Apple Watch">
+    <img src="/images/past-computing-devices_apple-watch.png" alt="Apple Watch">
 </figure>
 
 Apple's announcement of the Apple Watch excited me more than any previous Apple device. The first Apple device that you wear, the first of a brand new product category for them, and one that the market had toyed with previously but did not shake up the world. I had worn Fitbits before, but this looked to expand that functionality beyond anything others had done.
@@ -273,7 +273,7 @@ In retrospect, the first generation Apple Watch was a seriously compromised devi
 ### iPad (2017)
 
 <figure class="halfRight">
-    <img src="/images/past-computing-devices_ipad.jpg" alt="Apple iPad">
+    <img src="/images/past-computing-devices_ipad.png" alt="Apple iPad">
 </figure>
 
 Tablet computers were a device class that I came to much later than most. I previously had a [Google Nexus 7](https://en.wikipedia.org/wiki/Nexus_7_(2012)) that met an untimely end, but was in no rush to replace it with something that fit in with the Apple ecosystem better. The 5th generation iPad is when Apple lowered the introductory price of full-size tablets down below $500, which helped push me towards getting it. I was also working graveyard at the time, and having a larger device than my phone was helpful for reading and researching topics during downtime at work.
@@ -287,7 +287,7 @@ Tablet computers were a device class that I came to much later than most. I prev
 ### Apple Watch (2018)
 
 <figure class="halfRight">
-    <img src="/images/past-computing-devices_apple-watch-series-4.jpg" alt="Apple Watch Series 4">
+    <img src="/images/past-computing-devices_apple-watch-series-4.png" alt="Apple Watch Series 4">
 </figure>
 
 The Apple Watch Series 4 was a gigantic leap in capabilities over my initial "Series 0" Apple Watch. CPU speeds were significantly faster, the OS gained a ton of new abilities, and the Apple Watch itself had become an accepted part of daily life for many. I still run as much as I can from the Watch, and independent watch apps added in watchOS 6 have made this even more capable. This particular watch is still only WiFi capable, but my reliance on it has me thinking about getting a cellular version for my next upgrade.
@@ -299,7 +299,7 @@ The Apple Watch Series 4 was a gigantic leap in capabilities over my initial "Se
 ### Mac Mini (2018)
 
 <figure class="halfRight">
-    <img src="/images/past-computing-devices_mac-mini-2018.jpg" alt="Mac Mini">
+    <img src="/images/past-computing-devices_mac-mini-2018.png" alt="Mac Mini">
 </figure>
 
 After the less than stellar performance of the 2014 Mac Mini, Apple's announcement of a much more powerful Mac Mini made me incredibly happy. This would end up being the first Mac that I ordered customized, and my intent was to maximize its capabilities so that it both lasted me a long time and made me happy as I used it. Given the constant rumors of Apple switching the Mac lineup to their own ARM CPUs, I wanted this potential last x86 Mac to last a long time as that transition unfolded.
@@ -315,7 +315,7 @@ While owning this machine, I began the process of upgrading all of my monitors t
 ### iPhone 11 (2019)
 
 <figure class="halfRight">
-    <img src="/images/past-computing-devices_iphone-11.jpg" alt="iPhone 11">
+    <img src="/images/past-computing-devices_iphone-11.png" alt="iPhone 11">
 </figure>
 
 The iPhone 6 Plus lasted me 5 years, longer than any previous cellular phone had.  It was a great device, but iOS 13 no longer supporting it meant that it was time to upgrade. The iPhone 11 is still a great phone, but as good as it is, my infatuation with the form factor has definitely waned. These are now functional devices that do not garner much excitement in me.
