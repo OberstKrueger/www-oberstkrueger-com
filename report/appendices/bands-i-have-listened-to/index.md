@@ -2,7 +2,7 @@
 created: 2019-05-16T15:35Z
 title: Bands I Have Listened To
 type: page
-updated: 2020-12-16T15:35Z
+updated: 2020-12-16T15:40Z
 ---
 
 This page is split into two sections. The first section lists which bands I have listened to the complete discography for. The second section are bands that I have sampled, usually by listening to a [greatest hits album](https://en.wikipedia.org/wiki/Greatest_hits_album) or an essentials playlist on Apple Music.
@@ -159,6 +159,7 @@ This page is split into two sections. The first section lists which bands I have
 - Tarja
 - Tarot
 - Tenacious D
+- The Agonist
 - The Birthday Massacre
 - The Fatman and Team Fat
 - The Grim Faeries
@@ -315,7 +316,6 @@ This page is split into two sections. The first section lists which bands I have
 - Tears of Magdalena
 - Tears of Martyr
 - Tegan and Sara
-- The Agonist
 - The Beatles
 - The Cranberries
 - The Dirty Youth
