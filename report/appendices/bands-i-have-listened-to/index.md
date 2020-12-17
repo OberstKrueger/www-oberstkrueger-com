@@ -2,7 +2,7 @@
 created: 2019-05-16T15:35Z
 title: Bands I Have Listened To
 type: page
-updated: 2020-12-17T21:55Z
+updated: 2020-12-17T22:00Z
 ---
 
 This page is split into two sections. The first section lists which bands I have listened to the complete discography for. The second section are bands that I have sampled, usually by listening to a [greatest hits album](https://en.wikipedia.org/wiki/Greatest_hits_album) or an essentials playlist on Apple Music.
@@ -58,6 +58,7 @@ This page is split into two sections. The first section lists which bands I have
 - Eyes of Eden
 - Fiona Apple
 - For My Pain...
+- Forever Slave
 - Frozen Crown
 - Garbage
 - Gorillaz
@@ -233,7 +234,6 @@ This page is split into two sections. The first section lists which bands I have
 - Flowing Tears
 - Foo Fighters
 - For Selena and Sin
-- Forever Slave
 - Freezepop
 - Funker Vogt
 - Godsmack
