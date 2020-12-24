@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2020-11-13T18:05Z
+updated: 2020-12-24T01:40Z
 ---
 
 | Name | Platform(s) |
@@ -73,6 +73,7 @@ updated: 2020-11-13T18:05Z
 | [Command & Conquer 3: Tiberium Wars](https://en.wikipedia.org/wiki/Command_%26_Conquer_3:_Tiberium_Wars) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Command & Conquer: Red Alert 3](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert_3) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Conker's Bad Fur Day](https://en.wikipedia.org/wiki/Conker%27s_Bad_Fur_Day) | [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) |
+| [Control](https://en.wikipedia.org/wiki/Control_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Counter-Strike](https://en.wikipedia.org/wiki/Counter-Strike_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Counter-Strike: Condition Zero](https://en.wikipedia.org/wiki/Counter-Strike:_Condition_Zero) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Counter-Strike: Global Offensive](https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive) | [PC](https://en.wikipedia.org/wiki/PC_game) |
