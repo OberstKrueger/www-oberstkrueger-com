@@ -2,7 +2,7 @@
 created: 2017-08-07T20:45Z
 title: Movies I Have Watched
 type: page
-updated: 2020-12-02T02:10Z
+updated: 2020-12-25T00:40Z
 ---
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
@@ -22,6 +22,7 @@ updated: 2020-12-02T02:10Z
 - [American History X](https://en.wikipedia.org/wiki/American_History_X)
 - [Apocalypse Now](https://en.wikipedia.org/wiki/Apocalypse_Now)
 - [The Aristocats](https://en.wikipedia.org/wiki/The_Aristocats)
+- [Arrival](https://en.wikipedia.org/wiki/Arrival_(film))
 - [Austin Powers: International Man of Myster](https://en.wikipedia.org/wiki/Austin_Powers:_International_Man_of_Mystery)
 - [Austin Powers: The Spy Who Shagged Me](https://en.wikipedia.org/wiki/Austin_Powers:_The_Spy_Who_Shagged_Me)
 - [Austin Powers in Goldmember](https://en.wikipedia.org/wiki/Austin_Powers_in_Goldmember)
