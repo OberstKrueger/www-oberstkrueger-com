@@ -2,8 +2,72 @@
 created: 2017-01-01T15:00Z
 title: Years In Review
 type: page
-updated: 2019-12-31T20:55Z
+updated: 2020-12-31T18:05Z
 ---
+
+## 2020
+
+### Favorite Games
+
+<figure>
+    <img src="/images/years-in-review_death-stranding.jpg">
+    <figcaption>Death Stranding</figcaption>
+</figure>
+
+Few games can be described as having a unique experience the way that Death Stranding does. The game does a fantastic job of creating the feel of a desolate world that is crumbling, and you the player are fighting against that by rebuilding it and connecting people. I am a sucker for any Hideo Kojima game, and Death Stranding is his best game yet.
+
+<figure>
+    <img src="/images/years-in-review_half-life-alyx.jpg">
+    <figcaption>Half-Life: Alyx</figcaption>
+</figure>
+
+When the original Half-Life came out in 1998, it revolutionized both the first-person shooter genre and PC gaming as a whole. Valve managed to repeat this in 2020, with a new Half-Life game that revolutionizes virtual reality gaming. Half-Life: Alyx is the gold standard for immersive games, which is problematic in that it makes any non-virtual reality game pale in comparison.
+
+<figure>
+    <img src="/images/years-in-review_kentucky-route-zero.jpg">
+    <figcaption>Kentucky Route Zero</figcaption>
+</figure>
+
+Kentucky Route Zero is a game that I have known about for almost a decade since its announcement, but I did not play until this year when the final chapter was released. I have a hard time deciding whether waiting was a good decision, but playing all five chapters back-to-back enhanced the experience for me. Even 10 months later, many of the game's scenes are vivid in my mind, and the music is a regular listen for me.
+
+<figure>
+    <img src="/images/years-in-review_black-mesa.jpg">
+    <figcaption>Black Mesa</figcaption>
+</figure>
+
+Before playing Half-Life: Alyx, I played Black Mesa, a recreation of the original Half-Life. Similar to how I consider Half-Life: Alyx to be the current gold standard in virtual reality games, Black Mesa is the benchmark that should be followed for recreations of older games. It sticks close to the original design of Half-Life, keeping the elements that worked in the original game intact, but it is willing to change up the parts that didn't work. With 22 years of game development knowledge, this has turned Black Mesa into the true version of Half-Life for me.
+
+### Favorite Albums
+
+1. Alexander Brandon, Michiel van den Bos - Conspiravision: Deus Ex Remixed
+2. The Birthday Massacre - Diamonds
+3. Yu-Peng Chen - Genshin Impact: City of Winds and Idylls
+4. MikTek - Hereafter
+5. Nine Inch Nails - Ghosts V: Together
+6. Nine Inch Nails - Ghosts VI: Locusts
+7. Static-X - Project: Regeneration Vol. 1
+8. Westworld - Season 3
+
+<figure>
+    <img src="/images/years-in-review_music-2020.jpg">
+    <figcaption>Favorite music of 2020</figcaption>
+</figure>
+
+### A Pandemical Year
+
+Last year, I set a goal of focusing on a few specific projects and not letting myself meander around from topic to topic as I have done previously. This goal was accomplished, but with varying levels of completeness for the projects that I set to focus on.
+
+My most successful project area has been in programming. The goal I set forth was to stay focused on Swift, and not experiment with every language available. My focus has remained on Swift, with the only exception being a small side-dabbling in Objective-C. I don't plan to program direct in Objective-C, but wanted to become more familiar with the specific features and syntax it adds on top of C so that I can interface with it and better understand it, should I be looking to integrate or rewrite a library that is written with it.
+
+I did not complete as many projects as I would have liked. Much of my time was spent delving into Apple's frameworks and creating small experimentations with them. This time I feel was well-spent, as I have a greater understanding not only of the tools available to me, but how many aspects of other apps and the operating system function. That said, I did complete a few projects that allow me to show off what I have learned.
+
+The first project was a rewriting my regularly used terminal commands. A few of my commonly used commands are now pure Swift, and I plan to convert more as time goes on. Since colorized text output is important for me in terminal applications, I created SwiftyTerminalColors, a library that outputs standard ANSI colors when matched with Swift strings. It is a simple library, but is one that gave me a better understanding of shell escape characters and text formatting.
+
+The second project that I completed was Musae, a personal iOS app for music selection. Before writing this, I used a combination of bash scripts, Swift scripts, and iOS shortcuts to select what my daily playlist would be for exercising, meditation, and work. These solutions were convoluted or required regular upkeep. Musae simplifies the process by loading the music synced to my iPhone, organizes the playlists into their respective categories, and selects a playlist. To streamline the music selection process, I can tap a playlist and tell it to either play the playlist (used for my long daily work playlists) or choose a small selection of songs to play next before returning to the work playlist (useful for exercise, meditation, etc.). The app itself is simple and fit to my specific needs, so that there is little reason to put it up on the App Store. But it is the first app that I have created that I use every day.
+
+My writing was not as prolific as I would have liked this year, but I am comfortable with where I am in this regard. Last year, I rekindled my love with reading academic research, and this year has been a continuation of that. I have begun to combine my various notes into a knowledge base that is based on Zettelkasten. My version of it is simplified, but it has given me a good process for note taking and review. At this point, I have ideas for what to write based on the content of the notes, but have yet to go down that path. One of my goals for next year will be to make use of this knowledge base to greater effect, and to expand it with more resources than academic journal articles.
+
+This year has been an odd one. The COVID-19 pandemic has put much of the country into various stages of lockdown, and my job puts me at greater risk of being exposed. This has led to me being a hermit even more than I was before, but has instilled a desire in me to not be cut off from the world. Since I have been unable to socialize in person, I have made an effort to do more socializing online. The result has been that I am now part of a few online groups that I have allowed me to get to know more diverse people that share my interests. These groups are acting as a stepping stone to other groups, which I hope will have the potential to lead into socializing in more domains than the digital. My desire is not to be so much of a shut-in that I have no human contact, and this is a good step to having a social life outside of my day job.
 
 ## 2019
 
