@@ -2,7 +2,7 @@
 created: 2019-05-16T15:35Z
 title: Bands I Have Listened To
 type: page
-updated: 2020-12-30T22:25Z
+updated: 2020-12-31T20:30Z
 ---
 
 This page is split into two sections. The first section lists which bands I have listened to the complete discography for. The second section are bands that I have sampled, usually by listening to a [greatest hits album](https://en.wikipedia.org/wiki/Greatest_hits_album) or an essentials playlist on Apple Music.
@@ -41,6 +41,7 @@ This page is split into two sections. The first section lists which bands I have
 - Damnation Angels
 - Dark Sarah
 - Dead Can Dance
+- Deathstars
 - Delain
 - Deltron 3030
 - Diablo Swing Orchestra
@@ -224,7 +225,6 @@ This page is split into two sections. The first section lists which bands I have
 - Dark Princess
 - Dave Matthews Band
 - Dawn of Destiny
-- Deathstars
 - Dr. Dre
 - Dragonforce
 - Eminem
