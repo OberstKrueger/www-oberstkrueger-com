@@ -2,8 +2,36 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2020-12-01T10:10Z
+updated: 2021-01-01T12:10Z
 ---
+
+## 2020.12
+
+### Page Updates
+
+2020 has been a strange year. Despite all of the challenges brought about by the COVID-19 pandemic, I managed to keep on track for many of my projects, which I highlighted in a new entry in [Years In Review](https://krueger.report/life/years-in-review).
+
+### Articles Read
+
+- Ellis, R. (2020). Redemption and reproach: Religion and carceral control in action among women in prison. *Criminology*, 58(4). 747-772. https://doi.org/10.1111/1745-9125.12258
+- Haggerty, K.D., Bucerius, S.M. (2020). Picking battles: Correctional officers, rules, and discretion in prison. *Criminology*. 1-21. https://doi.org/10.1111/1745-9125.12263
+- Nittono, H. (2020). High-frequency sound components of high-resolution audio are not detected in auditory sensory memory. *Scientific Reports*, 10:21740. 1-7. https://doi.org/10.1038/s41598-020-78889-9
+- Wolfe, S.E., Lawson, S.G. (2020). The organizational justice effect among criminal justice employees: A meta‐analysis. *Criminology*, 58(4). 619-644. https://doi.org/10.1111/1745-9125.12251
+
+### Books Read
+
+- De Grey, Aubrey - Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime
+
+### Games Played
+
+- [Control](https://en.wikipedia.org/wiki/Control_(video_game))
+- [Deus Ex: Human Revolution](https://en.wikipedia.org/wiki/Deus_Ex:_Human_Revolution)
+- [Diablo II](https://en.wikipedia.org/wiki/Diablo_II)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+
+### Movies Watched
+
+- [Arrival](https://en.wikipedia.org/wiki/Arrival_(film))
 
 ## 2020.11
 
