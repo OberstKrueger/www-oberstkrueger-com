@@ -277,6 +277,7 @@ figure {
         text-align: center;
     }
     img {
+        box-shadow: 0 1rem 2rem black;
         margin-bottom: 0;
         @media (min-width: $imgWidth) {
             border-radius: 0.5rem;
