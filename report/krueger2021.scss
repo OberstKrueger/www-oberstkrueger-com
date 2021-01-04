@@ -273,6 +273,7 @@ figure {
     width: 100%;
     figcaption {
         font-size: 0.75rem;
+        margin: ((($lineHeight - 0.75) / 2) + rem) auto;
         text-align: center;
     }
     img {
