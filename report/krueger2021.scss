@@ -119,7 +119,7 @@ h2 {
 h3 {
     font-size: 1rem;
     font-weight: $fontWeightBold;
-    margin: ($lineHeight + rem) auto;
+    margin: (($lineHeight / 2) + rem) auto;
     text-align: center;
     a:link,
     a:visited,
