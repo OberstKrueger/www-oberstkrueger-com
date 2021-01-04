@@ -1,0 +1,423 @@
+/*
+    VARIABLES
+*/
+$colorBG: rgba(28, 28, 28, 1);
+$colorFG: rgba(255, 255, 255, 1);
+$colorInactive: rgba(40, 42, 41, 1);
+$colorBlue: rgba(10, 132, 255, 1);
+$colorGreen: rgba(50, 215, 75, 1);
+
+$fontSize: 100%;
+$fontStack: "Avenir Next", "Avenir", "Open Sans", "Sego UI", sans-serif;
+$fontStackMono: monospace;
+$fontWeight: 400;
+$fontWeightBold: 700;
+$lineHeight: 1.375;
+$textJustify: 32rem;
+$textWidth: 40rem;
+
+$imgWidth: 64rem;
+$textLongest: 21.5rem;
+
+/*
+    ELEMENTS
+*/
+html {
+    background-color: $colorBG;
+    color: $colorFG;
+    font-family: $fontStack;
+    font-size: $fontSize;
+    line-height: $lineHeight;
+    margin: 0;
+    text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+b,
+strong {
+    font-weight: $fontWeightBold;
+}
+
+body {
+    margin: 0;
+}
+
+blockquote,
+pre {
+    background-color: $colorInactive;
+    margin: 0 auto ($lineHeight + rem);
+    max-width: $textWidth;
+    padding: ($lineHeight + rem) 0;
+    width: 90%;
+    :last-child {
+        margin-bottom: 0;
+    }
+}
+
+code {
+    display: block;
+    font-family: $fontStackMono;
+    font-size: 0.75rem;
+    line-height: $lineHeight / 0.75;
+    margin: auto;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+    width: 90%;
+}
+
+em {
+    font-style: italic;
+}
+
+footer {
+    border-top: 0.0625rem solid $colorFG;
+    margin: 0 auto;
+    max-width: $textLongest;
+    text-align: center;
+    width: 90%;
+    a:link,
+    a:visited,
+    a:hover,
+    a:active {
+        color: $colorFG;
+        font-size: 0.75rem;
+        margin-bottom: 0;
+        text-decoration: none;
+    }
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: $fontWeightBold;
+    margin: ($lineHeight * 4rem) auto;
+    text-align: center;
+    a:link,
+    a:visited,
+    a:hover,
+    a:active {
+        color: $colorFG;
+        text-decoration: none;
+    }
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: $fontWeightBold;
+    margin: ($lineHeight * 2rem) auto;
+    text-align: center;
+    a:link,
+    a:visited,
+    a:hover,
+    a:active {
+        color: $colorFG;
+        text-decoration: none;
+    }
+}
+
+h3 {
+    font-size: 1rem;
+    font-weight: $fontWeightBold;
+    margin: ($lineHeight + rem) auto;
+    text-align: center;
+    a:link,
+    a:visited,
+    a:hover,
+    a:active {
+        color: $colorFG;
+        text-decoration: none;
+    }
+}
+
+h4,
+h5,
+h6 {
+    font-size: 1rem;
+    font-weight: $fontWeightBold;
+    margin: 0 auto;
+    text-align: left;
+    a:link,
+    a:visited,
+    a:hover,
+    a:active {
+        color: $colorFG;
+        text-decoration: none;
+    }
+}
+
+li {
+    a:link,
+    a:visited,
+    a:hover,
+    a:active {
+        color: $colorBlue;
+        font-weight: $fontWeightBold;
+        text-decoration: none;
+    }
+    a:visited {
+        color: $colorGreen;
+    }
+}
+
+ol {
+    list-style: decimal outside;
+    margin: 0 auto ($lineHeight + rem);
+    padding: 0;
+    ol,
+    ul {
+        margin-bottom: 0;
+    }
+}
+
+p {
+    font-weight: $fontWeight;
+    margin: 0 auto ($lineHeight + rem);
+    text-align: left;
+    a:link,
+    a:visited,
+    a:hover,
+    a:active {
+        color: $colorBlue;
+        font-weight: $fontWeightBold;
+        text-decoration: none;
+    }
+    a:visited {
+        color: $colorGreen;
+    }
+}
+
+sub {
+    font-size: 75%;
+    position: relative;
+    top: 0.25rem;
+    vertical-align: baseline;
+}
+
+sup {
+    font-size: 75%;
+    position: relative;
+    top: -0.375rem;
+    vertical-align: baseline;
+}
+
+table {
+    border: 1px solid $colorFG;
+    border-collapse: collapse;
+    margin: 0 auto ($lineHeight + rem);
+    a:link,
+    a:visited,
+    a:hover,
+    a:active {
+        color: $colorBlue;
+        font-weight: $fontWeightBold;
+        text-decoration: none;
+    }
+    a:visited {
+        color: $colorGreen;
+    }
+    td {
+        border: 1px solid $colorFG;
+        padding: 0.25rem;
+    }
+    tr {
+        vertical-align: text-top;
+    }
+}
+
+ul {
+    list-style: circle outside;
+    margin: 0 auto ($lineHeight + rem);
+    padding: 0;
+    ol,
+    ul {
+        margin-bottom: 0;
+    }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+p,
+table,
+ul {
+    max-width: $textWidth;
+    width: 90%;
+}
+
+h3,
+h4,
+h5,
+h6,
+ol,
+p,
+ul {
+    @media (min-width: $textJustify) {
+        hyphens: auto;
+        -ms-hpyhens: auto;
+        -webkit-hyphens: auto;
+        text-align: justify;
+    }
+}
+
+/*
+    MEDIA
+*/
+figure {
+    margin: 0 auto ($lineHeight + rem);
+    max-width: $imgWidth;
+    padding: 0;
+    width: 100%;
+    figcaption {
+        font-size: 0.75rem;
+        text-align: center;
+    }
+    img {
+        margin-bottom: 0;
+        @media (min-width: $imgWidth) {
+            border-radius: 0.5rem;
+        }
+    }
+    &.half {
+        max-width: $textWidth;
+        width: 90%;
+        img {
+            border-radius: 0.5rem;
+        }
+    }
+    &.halfLeft {
+        margin: 0 auto;
+        max-width: $textWidth;
+        width: 90%;
+        img {
+            border-radius: 0.5rem;
+            float: left;
+            margin-right: 0.5rem;
+            width: 50%;
+        }
+    }
+    &.halfRight {
+        margin: 0 auto 0.5rem;
+        max-width: $textWidth;
+        width: 90%;
+        img {
+            border-radius: 0.5rem;
+            float: right;
+            margin-left: 0.5rem;
+            width: 50%;
+        }
+    }
+    &.quarter {
+        max-width: $textWidth / 2;
+        width: 25%;
+        img {
+            border-radius: 0.5rem;
+        }
+    }
+    &.quarterLeft {
+        margin: 0 auto 0.5rem;
+        max-width: $textWidth;
+        width: 90%;
+        img {
+            border-radius: 0.5rem;
+            float: left;
+            margin-right: 0.5rem;
+            width: 25%;
+        }
+    }
+    &.quarterRight {
+        margin: 0 auto 0.5rem;
+        max-width: $textWidth;
+        width: 90%;
+        img {
+            border-radius: 0.5rem;
+            float: right;
+            margin-left: 0.5rem;
+            width: 25%;
+        }
+    }
+}
+
+img {
+    display: block;
+    margin: 0 auto ($lineHeight + rem);
+    padding: 0;
+    width: 100%;
+}
+
+video {
+    display: block;
+    margin: 0 auto ($lineHeight + rem);
+    padding: 0;
+    page-break-inside: avoid;
+    width: 100%;
+    &.half {
+        max-width: $textWidth;
+        width: 50%;
+    }
+}
+
+/*
+    CLASSES
+*/
+
+.bandcamp {
+    margin: 0 auto ($lineHeight + rem);
+    max-width: $textWidth;
+    width: 100%;
+}
+
+.error {
+    p {
+        text-align: center;
+        a:visited {
+            color: $colorFG;
+        }
+        @media (min-width: $textJustify) {
+            text-align: center;
+        }
+    }
+}
+
+.index {
+    h2 {
+        border-bottom: 0.0625rem solid $colorFG;
+        border-top: 0.0625rem solid $colorFG;
+        margin: ($lineHeight + rem) auto;
+        max-width: $textLongest; // Calculated based on longest item of index
+        &:first-of-type {
+            margin-top: ($lineHeight * 2rem);
+        }
+    }
+    li {
+        text-align: center;
+        @media (min-width: $textJustify) {
+            text-align: center;
+        }
+    }
+    ul {
+        list-style: none;
+    }
+}
+
+.youtube {
+    margin: auto;
+    max-width: $imgWidth;
+    position: relative;
+    padding-bottom: 56.25%;
+    overflow: hidden;
+    height: auto;
+    margin-bottom: 16px;
+}
+
+.youtube iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
