@@ -7,6 +7,7 @@ $colorInactive: rgba(40, 42, 41, 1);
 $colorBlue: rgba(10, 132, 255, 1);
 $colorGreen: rgba(50, 215, 75, 1);
 
+$borderRadius: 0.5rem;
 $fontSize: 100%;
 $fontStack: "Avenir Next", "Avenir", "Open Sans", "Sego UI", sans-serif;
 $fontStackMono: monospace;
@@ -47,6 +48,7 @@ body {
 blockquote,
 pre {
     background-color: $colorInactive;
+    border-radius: $borderRadius;
     margin: 0 auto ($lineHeight + rem);
     max-width: $textWidth;
     padding: ($lineHeight + rem) 0;
@@ -280,14 +282,14 @@ figure {
         box-shadow: 0 1rem 2rem black;
         margin-bottom: 0;
         @media (min-width: $imgWidth) {
-            border-radius: 0.5rem;
+            border-radius: $borderRadius;
         }
     }
     &.half {
         max-width: $textWidth;
         width: 90%;
         img {
-            border-radius: 0.5rem;
+            border-radius: $borderRadius;
         }
     }
     &.halfLeft {
@@ -295,7 +297,7 @@ figure {
         max-width: $textWidth;
         width: 90%;
         img {
-            border-radius: 0.5rem;
+            border-radius: $borderRadius;
             float: left;
             margin-right: 0.5rem;
             width: 50%;
@@ -306,7 +308,7 @@ figure {
         max-width: $textWidth;
         width: 90%;
         img {
-            border-radius: 0.5rem;
+            border-radius: $borderRadius;
             float: right;
             margin-left: 0.5rem;
             width: 50%;
@@ -316,7 +318,7 @@ figure {
         max-width: $textWidth / 2;
         width: 25%;
         img {
-            border-radius: 0.5rem;
+            border-radius: $borderRadius;
         }
     }
     &.quarterLeft {
@@ -324,7 +326,7 @@ figure {
         max-width: $textWidth;
         width: 90%;
         img {
-            border-radius: 0.5rem;
+            border-radius: $borderRadius;
             float: left;
             margin-right: 0.5rem;
             width: 25%;
@@ -335,7 +337,7 @@ figure {
         max-width: $textWidth;
         width: 90%;
         img {
-            border-radius: 0.5rem;
+            border-radius: $borderRadius;
             float: right;
             margin-left: 0.5rem;
             width: 25%;
