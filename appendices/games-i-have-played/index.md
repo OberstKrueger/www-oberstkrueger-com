@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2020-12-24T01:40Z
+updated: 2021-01-10T01:50Z
 ---
 
 | Name | Platform(s) |
@@ -227,6 +227,7 @@ updated: 2020-12-24T01:40Z
 | [Guild Wars: Eye of the North](https://en.wikipedia.org/wiki/Guild_Wars:_Eye_of_the_North) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Guild Wars 2](https://en.wikipedia.org/wiki/Guild_Wars_2) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Hackmud](https://en.wikipedia.org/wiki/Hackmud) | [PC](https://en.wikipedia.org/wiki/PC_game) |
+| [Hades](https://en.wikipedia.org/wiki/Hades_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Half-Life: Alyx](https://en.wikipedia.org/wiki/Half-Life:_Alyx) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Half-Life: Blue Shift](https://en.wikipedia.org/wiki/Half-Life:_Blue_Shift) | [PC](https://en.wikipedia.org/wiki/PC_game) |
