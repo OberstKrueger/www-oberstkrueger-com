@@ -2,7 +2,7 @@
 created: 2017-08-07T20:45Z
 title: Movies I Have Watched
 type: page
-updated: 2020-12-25T00:40Z
+updated: 2020-01-21T16:55Z
 ---
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
@@ -216,6 +216,7 @@ updated: 2020-12-25T00:40Z
 - [Sleeping Beauty](https://en.wikipedia.org/wiki/Sleeping_Beauty_(1959_film))
 - [Snow White and the Seven Dwarfs](https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film))
 - [The Social Network](https://en.wikipedia.org/wiki/The_Social_Network)
+- [Soul](https://en.wikipedia.org/wiki/Soul_(2020_film))
 - [Spectre](https://en.wikipedia.org/wiki/Spectre_(2015_film))
 - [Speed Racer](https://en.wikipedia.org/wiki/Speed_Racer_(film))
 - [Spirited Away](https://en.wikipedia.org/wiki/Spirited_Away)
