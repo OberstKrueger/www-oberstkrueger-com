@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-01-10T01:50Z
+updated: 2021-01-31T12:15Z
 ---
 
 | Name | Platform(s) |
@@ -397,6 +397,7 @@ updated: 2021-01-10T01:50Z
 | [Quake 4](https://en.wikipedia.org/wiki/Quake_4) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Reigns](https://en.wikipedia.org/wiki/Reigns_(video_game)) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
 | [Resident Evil 2 (2019)](https://en.wikipedia.org/wiki/Resident_Evil_2_(2019_video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
+| [Resident Evil 3 (2020)](https://en.wikipedia.org/wiki/Resident_Evil_3_(2020_video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Rise of the Tomb Raider](https://en.wikipedia.org/wiki/Rise_of_the_Tomb_Raider) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Riven](https://en.wikipedia.org/wiki/Riven) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Rock Band](https://en.wikipedia.org/wiki/Rock_Band_(video_game)) | [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) |
