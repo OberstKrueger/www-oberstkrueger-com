@@ -2,8 +2,37 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2021-01-01T12:10Z
+updated: 2021-02-03T23:30Z
 ---
+
+## 2021.01
+
+### Articles Read
+
+- Bradshaw, C.J.A., et al. (2021). Underestimating the challenges of avoiding a ghastly future. *Frontiers In Conservation Science*, 1, Article 615419. http://doi.org/10.3389/fcosc.2020.615419
+- Correa, J.C., Laverde-Rojas, H., Marmolejo-Ramos, F., Tejada, J, Bahník, Š. (2020). The Sci-hub effect: Sci-hub downloads lead to more article citations. arXiv:2006.14979v2. https://arxiv.org/abs/2006.14979v2
+- De Courson, B., Nettle, D. (2021). Why do inequality and deprivation produce high crime and low trust? *Scientific Reports*, 11, Article 1937. https://doi.org/10.1038/s41598-020-80897-8
+- Fredriksson, T., Gålnander, R. (2020). Fearful futures and haunting histories in women's desistance from crime: A longitudinal study of desistance as an uncanny process. *Criminology*, 58(4), 559-618. https://doi.org/10.1111/1745-9125.12250
+- Huang, C., et al. (2021). 6-month consequences of COVID-19 in patients discharged from hospital: a cohort study. *The Lancet*, 397(10270), 220-232. https://doi.org/10.1016/S0140-6736(20)32656-8
+- Khan, W.A.A., Jackson, M.L, Kennedy, G.A., Conduit, R. (2021). DesuExSounds, Pas de la Dame Sauvage. *Scientific Reports*, 11, Article 866. https://doi.org/10.1038/s41598-020-79093-5
+- Lydon-Staley, D.M., Zhou, D., Blevins, A.S., Zurn, P., Bassett, D.S. (2020). Hunters, busybodies and the knowledge network building associated with deprivation curiosity. *Nature Human Behavior*. https://doi.org/10.1038/s41562-020-00985-7
+- Shen, Y., Bushway, S. D., Sorensen, L. C., & Smith, H. L. (2020). Locking up my generation: Cohort differences in prison spells over the life court. *Criminology*, 58(4), 645-677. https://doi.org/10.1111/1745-9125.12256
+
+### Books Read
+
+- Gibson, William - Agency
+
+### Games Played
+
+- [Control](https://en.wikipedia.org/wiki/Control_(video_game))
+- [Deus Ex: Mankind Divided](https://en.wikipedia.org/wiki/Deus_Ex:_Mankind_Divided)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [Hades](https://en.wikipedia.org/wiki/Hades_(video_game))
+- [Resident Evil 3 (2020)](https://en.wikipedia.org/wiki/Resident_Evil_3_(2020_video_game))
+
+### Movies Watched
+
+- [Soul](https://en.wikipedia.org/wiki/Soul_(2020_film))
 
 ## 2020.12
 

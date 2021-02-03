@@ -7,7 +7,7 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2021-01-01T12:10Z</updated>
+<updated>2021-02-03T23:30Z</updated>
 
 <!--
 <entry>
@@ -26,6 +26,49 @@
 </content>
 </entry>
 -->
+
+<entry>
+<title>Updates For January, 2021</title>
+<author>
+<name>Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/202101</id>
+<published>2021-02-03T23:30Z</published>
+<updated>2021-02-03T23:30Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2021.01</h2>
+<h3>Articles Read</h3>
+<ul>
+<li>Bradshaw, C.J.A., et al. (2021). Underestimating the challenges of avoiding a ghastly future. <em>Frontiers In Conservation Science</em>, 1, Article 615419. http://doi.org/10.3389/fcosc.2020.615419</li>
+<li>Correa, J.C., Laverde-Rojas, H., Marmolejo-Ramos, F., Tejada, J, Bahník, Š. (2020). The Sci-hub effect: Sci-hub downloads lead to more article citations. arXiv:2006.14979v2. https://arxiv.org/abs/2006.14979v2</li>
+<li>De Courson, B., Nettle, D. (2021). Why do inequality and deprivation produce high crime and low trust? <em>Scientific Reports</em>, 11, Article 1937. https://doi.org/10.1038/s41598-020-80897-8</li>
+<li>Fredriksson, T., Gålnander, R. (2020). Fearful futures and haunting histories in women's desistance from crime: A longitudinal study of desistance as an uncanny process. <em>Criminology</em>, 58(4), 559-618. https://doi.org/10.1111/1745-9125.12250</li>
+<li>Huang, C., et al. (2021). 6-month consequences of COVID-19 in patients discharged from hospital: a cohort study. <em>The Lancet</em>, 397(10270), 220-232. https://doi.org/10.1016/S0140-6736(20)32656-8</li>
+<li>Khan, W.A.A., Jackson, M.L, Kennedy, G.A., Conduit, R. (2021). DesuExSounds, Pas de la Dame Sauvage. <em>Scientific Reports</em>, 11, Article 866. https://doi.org/10.1038/s41598-020-79093-5</li>
+<li>Lydon-Staley, D.M., Zhou, D., Blevins, A.S., Zurn, P., Bassett, D.S. (2020). Hunters, busybodies and the knowledge network building associated with deprivation curiosity. <em>Nature Human Behavior</em>. https://doi.org/10.1038/s41562-020-00985-7</li>
+<li>Shen, Y., Bushway, S. D., Sorensen, L. C., &amp; Smith, H. L. (2020). Locking up my generation: Cohort differences in prison spells over the life court. <em>Criminology</em>, 58(4), 645-677. https://doi.org/10.1111/1745-9125.12256</li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Gibson, William - Agency</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Control_(video_game)">Control</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Deus_Ex:_Mankind_Divided">Deus Ex: Mankind Divided</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Hades_(video_game)">Hades</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Resident_Evil_3_(2020_video_game)">Resident Evil 3 (2020)</a></li>
+</ul>
+<h3>Movies Watched</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Soul_(2020_film)">Soul</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For December, 2020</title>
