@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-01-31T12:15Z
+updated: 2021-02-03T23:35Z
 ---
 
 | Name | Platform(s) |
@@ -511,6 +511,7 @@ updated: 2021-01-31T12:15Z
 | [Transistor](https://en.wikipedia.org/wiki/Transistor_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Tribes 2](https://en.wikipedia.org/wiki/Tribes_2) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Tron 2.0](https://en.wikipedia.org/wiki/Tron_2.0) | [PC](https://en.wikipedia.org/wiki/PC_game) |
+| [The Turing Test](https://en.wikipedia.org/wiki/The_Turing_Test_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Turok: Dinosaur Hunter](https://en.wikipedia.org/wiki/Turok:_Dinosaur_Hunter) | [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) |
 | [Twisted Metal](https://en.wikipedia.org/wiki/Twisted_Metal_(1995_video_game)) | [PlayStation](https://en.wikipedia.org/wiki/PlayStation) |
 | [Twisted Metal: Black](https://en.wikipedia.org/wiki/Twisted_Metal:_Black) | [PlayStation 2](https://en.wikipedia.org/wiki/PlayStation_2) |
