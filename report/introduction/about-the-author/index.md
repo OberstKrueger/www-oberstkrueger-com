@@ -2,7 +2,7 @@
 created: 2016-02-10T06:06Z
 title: About The Author
 type: page
-updated: 2020-09-06T10:25Z
+updated: 2021-02-18T22:50Z
 ---
 
 ## Current Computing Devices
@@ -19,15 +19,15 @@ Geekbench 5.1 CPU: [1,075 / 4,248](https://browser.geekbench.com/v5/cpu/989593)<
 Geekbench 5.1 Compute (OpenCL): [60,598](https://browser.geekbench.com/v5/compute/421969)<br>
 Geekbench 5.1 Compute (Vulkan): [41,069](https://browser.geekbench.com/v5/compute/421975)
 
-### iPad
+### iPad (8th Generation)
 
-CPU: [Apple A9 @ 1.8 GHz](https://en.wikipedia.org/wiki/Apple_A9)<br>
-GPU: [PowerVR GT7600](https://en.wikipedia.org/wiki/PowerVR#Series7XT_.28Rogue.29)<br>
-RAM: 2048 MB<br>
+CPU: [Apple A12](https://en.wikipedia.org/wiki/Apple_A12)<br>
+GPU: [Apple A12](https://en.wikipedia.org/wiki/Apple_A12)<br>
+RAM: 3072 MB<br>
 SSD: 32 GB
 
-Geekbench 5.1 CPU: [559 / 1,031](https://browser.geekbench.com/v5/cpu/989663)<br>
-Geekbench 5.1 Compute (Metal): [2,234](https://browser.geekbench.com/v5/compute/422007)
+Geekbench 5.2 CPU: [1113 / 2,755](https://browser.geekbench.com/v5/cpu/6191212)<br>
+Geekbench 5.2 Compute (Metal): [5,351](https://browser.geekbench.com/v5/compute/2323357)
 
 ### iPhone 12 Mini
 
