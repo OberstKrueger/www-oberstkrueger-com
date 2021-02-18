@@ -2,22 +2,22 @@
 created: 2016-02-10T06:06Z
 title: About The Author
 type: page
-updated: 2021-02-18T22:50Z
+updated: 2021-02-18T23:00Z
 ---
 
 ## Current Computing Devices
 
 ### Gaming PC
 
-CPU: [Intel Core i7-6700](http://ark.intel.com/products/88196/Intel-Core-i7-6700-Processor-8M-Cache-up-to-4_00-GHz)<br>
-GPU: [AMD Radeon RX 5700](https://www.amd.com/en/products/graphics/amd-radeon-rx-5700)<br>
-RAM: [ADATA AX4U2133W4G13-DRZ 16GB DDR4-2133](http://www.adata.com/en/xpg-dram/orderinfo/305)<br>
-SSD: [Samsung 850 EVO 120GB](http://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-850-evo-2-5-sata-iii-120gb-mz-75e120b-am/) & [500GB Samsung 850 EVO SSD](http://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-850-evo-2-5-sata-iii-500gb-mz-75e500b-am/)<br>
-Peripherals: [LG 25UM58-P](http://www.lg.com/us/monitors/lg-25UM58-P-ultrawide-monitor), [Steam Controller](http://store.steampowered.com/app/353370/)
+CPU: [AMD Ryzen 5 5600X](https://www.amd.com/en/products/cpu/amd-ryzen-5-5600x)<br>
+GPU: [AMD Radeon RX 6800](https://www.amd.com/en/products/graphics/amd-radeon-rx-6800)<br>
+RAM: [Corsair Vengeance LPX 32GB DDR4-3600](https://www.corsair.com/us/en/Categories/Products/Memory/VENGEANCE-LPX/p/CMK32GX4M2D3600C18)<br>
+SSD: [Samsung 980 Pro 1TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/980-pro-pcie-4-0-nvme-ssd-250gb-mz-v8p250b-am/)<br>
+Peripherals: [LG 27UL600-W](https://www.lg.com/us/monitors/lg-27UL600-W-4k-uhd-led-monitor), [Valve Index](https://www.valvesoftware.com/en/index), [Steam Controller](http://store.steampowered.com/app/353370/)
 
-Geekbench 5.1 CPU: [1,075 / 4,248](https://browser.geekbench.com/v5/cpu/989593)<br>
-Geekbench 5.1 Compute (OpenCL): [60,598](https://browser.geekbench.com/v5/compute/421969)<br>
-Geekbench 5.1 Compute (Vulkan): [41,069](https://browser.geekbench.com/v5/compute/421975)
+Geekbench 5.2 CPU: [1,647 / 7,721](https://browser.geekbench.com/v5/cpu/6576174)<br>
+Geekbench 5.2 Compute (OpenCL): [128,163](https://browser.geekbench.com/v5/compute/2435126)<br>
+Geekbench 5.2 Compute (Vulkan): [85,188](https://browser.geekbench.com/v5/compute/2435130)
 
 ### iPad (8th Generation)
 
