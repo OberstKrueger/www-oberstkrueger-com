@@ -2,7 +2,7 @@
 created: 2017-08-07T20:45Z
 title: Movies I Have Watched
 type: page
-updated: 2020-01-21T16:55Z
+updated: 2020-02-19T18:40Z
 ---
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
@@ -178,6 +178,7 @@ updated: 2020-01-21T16:55Z
 - [O Brother, Where Art Thou?](https://en.wikipedia.org/wiki/O_Brother,_Where_Art_Thou%3F)
 - [Old Yeller](https://en.wikipedia.org/wiki/Old_Yeller_(film))
 - [Pan's Labyrinth](https://en.wikipedia.org/wiki/Pan%27s_Labyrinth)
+- [Parasite](https://en.wikipedia.org/wiki/Parasite_(2019_film))
 - [Patton](https://en.wikipedia.org/wiki/Patton_(film))
 - [Peter Pan](https://en.wikipedia.org/wiki/Peter_Pan_(1953_film))
 - [The Pianist](https://en.wikipedia.org/wiki/The_Pianist_(2002_film))
