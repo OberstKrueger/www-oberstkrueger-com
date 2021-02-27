@@ -2,7 +2,7 @@
 created: 2016-02-10T06:06Z
 title: About The Author
 type: page
-updated: 2021-02-18T23:05Z
+updated: 2021-02-27T12:45Z
 ---
 
 ## Current Computing Devices
@@ -26,7 +26,7 @@ GPU: [Apple A12](https://en.wikipedia.org/wiki/Apple_A12)<br>
 RAM: 3 GB<br>
 SSD: 32 GB
 
-Geekbench 5.2 CPU: [1113 / 2,755](https://browser.geekbench.com/v5/cpu/6191212)<br>
+Geekbench 5.2 CPU: [1,113 / 2,755](https://browser.geekbench.com/v5/cpu/6191212)<br>
 Geekbench 5.2 Compute (Metal): [5,351](https://browser.geekbench.com/v5/compute/2323357)
 
 ### iPhone 12 Mini
