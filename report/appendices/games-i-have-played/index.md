@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-02-03T23:35Z
+updated: 2021-02-27T12:40Z
 ---
 
 | Name | Platform(s) |
@@ -141,6 +141,7 @@ updated: 2021-02-03T23:35Z
 | [The Elder Scrolls V: Skyrim - Hearthfire](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_–_Hearthfire) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [The Elder Scrolls V: Skyrim](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Elite: Dangerous](https://en.wikipedia.org/wiki/Elite:_Dangerous) | [PC](https://en.wikipedia.org/wiki/PC_game) |
+| [Eliza](https://en.wikipedia.org/wiki/Eliza_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Eufloria](https://en.wikipedia.org/wiki/Eufloria) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [EVE Online](https://en.wikipedia.org/wiki/Eve_Online) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [EverQuest II](https://en.wikipedia.org/wiki/EverQuest_II) | [PC](https://en.wikipedia.org/wiki/PC_game) |
