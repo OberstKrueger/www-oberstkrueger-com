@@ -2,8 +2,38 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2021-02-03T23:30Z
+updated: 2021-03-02T16:30Z
 ---
+
+## 2021.02
+
+### Articles Read
+
+- Cross, M., Battler, M., Maiwald, V., van 't Woud, H., Ono, A., Schlacht, I.L., Orgel, C., Foing, B., McIsaac, K. (2016). Operational lessons learnt from the 2013 ILEWG EuroMoonMars-B Analogue Campaign for Future Habitat Operations on the Moon and Mars. *Acta Futura*, 10, 61-73. https://doi.org/10.5281/zenodo.202179
+- Dugan, L., Chenoweth, E. (2020). Threat, emboldenment, or both? The effects of political power on violent hate crimes. *Criminology*, 58(4), 714-746. https://doi.org/10.1111/1745-9125.12259
+- Hickert, A., Bushway, S., Nieuwbeerta, P., Dirkzwager, A.J.E. (2020). Confinement as a two‐stage turning point: Do changes in identity or social structure predict subsequent changes in criminal activity? *Criminology*, 59(1). https://doi.org/10.1111/1745-9125.12262
+- Kolodziejczyk, A.M., Orzechowski, L. (2016). Time architecture. *Acta Futura*, 10, 37-44. https://doi.org/10.5281/zenodo.202172
+- Omori, M., Petersen, N. (2020). Institutionalizing inequality in the courts: Decomposing racial and ethnic disparities in detention, conviction, and sentencing. *Criminology*, 58(4), 678-713. https://doi.org/10.1111/1745-9125.12257
+- Roozenbeek, J., Schneider, C.R., Dryhurst, S., Kerr, J.,Freeman, A.L.J., Recchia, G., van der Bles, A.M., van der Linden, S. (2020). Susceptibility to misinformation about COVID-19 around the world. *Royal Society Open Science*, 7(10). https://doi.org/10.1098/rsos.201199
+- Soderberg, C.K., Errington, T.M., Nosek, B.A. (2020). Credibility of preprints: an interdiscliplinary survey of researchers. *Royal Society Open Science*, 7(10). https://doi.org/10.1098/rsos.201520
+- Yaremenko, S., Sauerland, M., Hope, L. (2021). Eyewitness identification performance is not affected by time-of-day optimality. *Scientific Reports*, 11, Article 3462. https://doi.org/10.1038/s41598-021-82628-z
+
+### Books Read
+
+- Pynchon, Thomas - Gravity's Rainbow
+
+### Games Played
+
+- [Deus Ex: Mankind Divided](https://en.wikipedia.org/wiki/Deus_Ex:_Mankind_Divided)
+- [Eliza](https://en.wikipedia.org/wiki/Eliza_(video_game))
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [Resident Evil 3 (2020)](https://en.wikipedia.org/wiki/Resident_Evil_3_(2020_video_game))
+- [Subnautica: Below Zero](https://en.wikipedia.org/wiki/Subnautica)
+- [The Turing Test](https://en.wikipedia.org/wiki/The_Turing_Test_(video_game))
+
+### Movies Watched
+
+- [Parasite](https://en.wikipedia.org/wiki/Parasite_(2019_film))
 
 ## 2021.01
 
