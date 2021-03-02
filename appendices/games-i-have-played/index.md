@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-02-27T12:40Z
+updated: 2021-03-02T16:35Z
 ---
 
 | Name | Platform(s) |
@@ -48,6 +48,7 @@ updated: 2021-02-27T12:40Z
 | [Black Mesa](https://en.wikipedia.org/wiki/Black_Mesa_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Blast Corps](https://en.wikipedia.org/wiki/Blast_Corps) | [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) |
 | [BlazBlue: Calamity Trigger](https://en.wikipedia.org/wiki/BlazBlue:_Calamity_Trigger) | [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) |
+| [Bloodborne](- [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)) | [PlayStation 4](https://en.wikipedia.org/wiki/PlayStation_4) |
 | [Bloodstained: Ritual of the Night](https://en.wikipedia.org/wiki/Bloodstained:_Ritual_of_the_Night) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Bomberman](https://en.wikipedia.org/wiki/Bomberman_(1983_video_game)) | [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) |
 | [Borderlands](https://en.wikipedia.org/wiki/Borderlands_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
