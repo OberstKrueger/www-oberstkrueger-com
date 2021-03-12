@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-03-02T16:35Z
+updated: 2021-03-12T11:05Z
 ---
 
 | Name | Platform(s) |
@@ -251,6 +251,7 @@ updated: 2021-03-02T16:35Z
 | [I Have No Mouth and I Must Scream](https://en.wikipedia.org/wiki/I_Have_No_Mouth,_and_I_Must_Scream_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [ibb and obb](https://en.wikipedia.org/wiki/Ibb_and_Obb) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Icewind Dale](https://en.wikipedia.org/wiki/Icewind_Dale) | [PC](https://en.wikipedia.org/wiki/PC_game) |
+| [Icewind Dale: Enhanded Edition](https://en.wikipedia.org/wiki/Icewind_Dale:_Enhanced_Edition) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Icewind Dale: Heart of Winter](https://en.wikipedia.org/wiki/Icewind_Dale:_Heart_of_Winter) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Icewind Dale II](https://en.wikipedia.org/wiki/Icewind_Dale_II) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Inside](https://en.wikipedia.org/wiki/Inside_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
