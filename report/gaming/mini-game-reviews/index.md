@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2020-08-06T19:35Z
+updated: 2021-03-15T10:30Z
 ---
 
 ## Beautiful Desolation
@@ -168,6 +168,20 @@ When the game was released on PC, I concluded that I wanted to do a single playt
 While unintentioned, the difference in playthroughs represented well where I was at each of those stages of my life. My first playthrough was back during my college years, where my connections to people I had known most of my life were strong. My circle of friends was expanding, but they were all long-lasting connections. The second playthrough summed up the changes that have come from further adulthood, with having multiple people for just parts of the journey of life, relying on more and more people to help get me through all of the challenges presented.
 
 This difference has solidified my decision to not play through Journey again, despite my love for everything about it. The experience is truly complete now, and anything further would just muddy it down.
+
+## Kentucky Route Zero
+
+<figure>
+    <img src='/images/mini-game-reviews_kentucky-route-zero.jpg' alt='Screenshot of Kentucky Route Zero'>
+</figure>
+
+Kentucky Route Zero is an adventure game that follows the last journey of Conway, a delivery truck driver who has been tasked with the final delivery for the shop Lysette's Antiques. His journey to 5 Dogwood Drive to make his final delivery takes him on a journey first through Kentucky and then Route Zero, a surreal highway that bends space and time. Along the way, he meets many people who become his companions on his journey.
+
+One of the key elements that makes Kentucky Route Zero such a memorable experience is the overall style of the game. Everything in the game feels out-of-time, with graphics that have both modern and retro elements. The world and its characters are all flat and textureless, bringing back memories of early 3d graphics from the 80s and 90s.
+
+The music for the game, composed by Ben Babbitt, adds to the timeless feel of the game. Most of the music is atmospheric electronica, but there are interludes of folk songs befitting the locales visited. The highlight of the soundtrack is the Too Late To Love You, performed by the in-game characters of Junebug and Johnny. The sequence of their performance at the Lower Depths bar is the most memorable scene in all of the 5 acts of the game.
+
+My journey along Route Zero was extraordinary, and one of the best adventure games I have played since the classics of the 90s. But it also feels like a one-time adventure, something that was incredible and memorable but would be lessened by playing through it again. I have experienced the story of Conway, and knowing the twists and turns of his trip would decrease the experience of a second playthrough. But like with most chapters in my own life, a great way to reminisce about my time spent with the game is by listening to the soundtrack, which I have done many times and will continue to long into the future.
 
 ## Quake Champions
 
