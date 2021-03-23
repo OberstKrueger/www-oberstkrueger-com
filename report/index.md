@@ -2,7 +2,7 @@
 created: 2016-11-05T13:00Z
 title: The Krueger Report
 type: index
-updated: 2020-08-12T17:00Z
+updated: 2021-03-23T16:50Z
 ---
 
 ## Introduction
@@ -42,7 +42,6 @@ updated: 2020-08-12T17:00Z
 - [base-css](/programming/base-css)
 - [Exit Status Codes](/programming/exit-status-codes)
 - [Helpful Algorithms](/programming/helpful-algorithms)
-- [Project Euler In Swift](/programming/project-euler-in-swift)
 - [Scripting With Swift](/programming/scripting-with-swift)
 - [Updating Sublime Text](/programming/updating-sublime-text)
 
