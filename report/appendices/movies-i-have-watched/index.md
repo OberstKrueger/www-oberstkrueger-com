@@ -2,7 +2,7 @@
 created: 2017-08-07T20:45Z
 title: Movies I Have Watched
 type: page
-updated: 2020-02-19T18:40Z
+updated: 2020-03-30T16:40Z
 ---
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
@@ -100,6 +100,7 @@ updated: 2020-02-19T18:40Z
 - [The Great Escape](https://en.wikipedia.org/wiki/The_Great_Escape_(film))
 - [The Green Mile](https://en.wikipedia.org/wiki/The_Green_Mile_(film))
 - [Guardians of the Galaxy](https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film))
+- [Guardians of the Galaxy Vol. 2](https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2)
 - [Hamilton](https://en.wikipedia.org/wiki/Hamilton_(2020_film))
 - [Harry Potter and the Philosopher's Stone](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film))
 - [Harry Potter and the Chamber of Secrets](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film))
