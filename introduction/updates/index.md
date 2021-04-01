@@ -2,8 +2,38 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2021-03-02T16:30Z
+updated: 2021-04-01T09:20Z
 ---
+
+## 2021.03
+
+### Page Updates
+
+[Mini Game Reviews](https://krueger.report) received its first update in half a year with the addition of Kentucky Route Zero. Writing my thoughts on the game was difficult, as it was a phenomenal game, and a mini review does not do it full justice. In time, a more complete review will be written to put down my complete thoughts on the game.
+
+### Articles Read
+
+- Cousins, J.N., Leon, R.L.F., Jamaluddin, S.A., Ng., A.S.C., Ong, J.L, Chee, M.W.L. (2021). Splitting sleep between the night and a daytime nap reduces homeostatic sleep pressure and enhances long-term memory. *Scientific Reports*, 11, Articler 5275. https://doi.org/10.1038/s41598-021-84625-8
+- Iriye, H., St. Jacques, P.L. (2021). Memories for third-person experiences in immersive virtual reality. *Scientific Reports*, 11, Article 4667. https://doi.org/10.1038/s41598-021-84047-6
+- Oohashi, T., Kawai, N., Nishina, E., Honda, M., ... Shibasaki, H. (2006). The role of biological system other than auditory air-conduction in the emergence of the hypersonic effect. *Brain Research*, 1073-1074. 339-349. https://doi.org/10.1016/j.brainres.2005.12.096
+
+### Books Read
+
+- Tyson, Neil deGrasse & Lang, Avis - Accessory to War: The Unspoken Alliance Between Astrophysics and the Military
+
+### Games Played
+
+- [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)
+- [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls)
+- [Dark Souls III](https://en.wikipedia.org/wiki/Dark_Souls_III)
+- [Deus Ex: Mankind Divided](https://en.wikipedia.org/wiki/Deus_Ex:_Mankind_Divided)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [Icewind Dale: Enhanded Edition](https://en.wikipedia.org/wiki/Icewind_Dale:_Enhanced_Edition)
+- [Subnautica: Below Zero](https://en.wikipedia.org/wiki/Subnautica)
+
+### Movies Watched
+
+- [Guardians of the Galaxy Vol. 2](https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2)
 
 ## 2021.02
 
