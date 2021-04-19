@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-03-30T16:45Z
+updated: 2021-04-19T22:35Z
 ---
 
 | Name | Platform(s) |
@@ -409,6 +409,7 @@ updated: 2021-03-30T16:45Z
 | [Rock Band 2](https://en.wikipedia.org/wiki/Rock_Band_2) | [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) |
 | [Rock Band 3](https://en.wikipedia.org/wiki/Rock_Band_3) | [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) |
 | [Rune](https://en.wikipedia.org/wiki/Rune_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
+| [SaGa Frontier Remastered](https://en.wikipedia.org/wiki/SaGa_Frontier) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Sacrifice](https://en.wikipedia.org/wiki/Sacrifice_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Samurai Shodown](https://en.wikipedia.org/wiki/Samurai_Shodown_(video_game)) | [Arcade](https://en.wikipedia.org/wiki/Arcade_game) |
 | [Sanctum](https://en.wikipedia.org/wiki/Sanctum_(2011_video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
