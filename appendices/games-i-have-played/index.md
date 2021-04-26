@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-04-19T22:35Z
+updated: 2021-04-26T15:40Z
 ---
 
 | Name | Platform(s) |
@@ -95,6 +95,7 @@ updated: 2021-04-19T22:35Z
 | [Dear Esther: Landmark Edition](https://en.wikipedia.org/wiki/Dear_Esther) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [DEFCON](https://en.wikipedia.org/wiki/DEFCON_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
+| [Demon's Souls (2020)](https://en.wikipedia.org/wiki/Demon%27s_Souls_(2020_video_game)) | [PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) |
 | [Depression Quest](https://en.wikipedia.org/wiki/Depression_Quest) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Destiny](https://en.wikipedia.org/wiki/Destiny_(video_game)) | [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) |
 | [Destiny 2](https://en.wikipedia.org/wiki/Destiny_2) | [PC](https://en.wikipedia.org/wiki/PC_game) |
