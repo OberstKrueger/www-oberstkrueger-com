@@ -2,7 +2,7 @@
 created: 2017-06-11T13:30Z
 title: Books I Have Read
 type: page
-updated: 2021-03-15T00:35Z
+updated: 2021-04-28T10:40Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -141,6 +141,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 ## Social Science
 
 - Arbesman, Samuel - Overcomplicated: Technology at the Limits of Comprehension
+- Eveleth, Rose - Flash Forward: An Illustrated Guide to Possible (And Not So Possible) Tomorrows
 - Hicks, Marie - Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing
 - Marx, Karl & Engels, Friedrich - Manifesto of the Communist Party
 - Newport, Cal - Digital Minimalism: Choosing a Focused Life in a Noisy World
