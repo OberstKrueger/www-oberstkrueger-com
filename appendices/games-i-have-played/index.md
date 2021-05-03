@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-04-26T15:40Z
+updated: 2021-05-03T12:00Z
 ---
 
 | Name | Platform(s) |
@@ -351,6 +351,7 @@ updated: 2021-04-26T15:40Z
 | [Natural Selection 2](https://en.wikipedia.org/wiki/Natural_Selection_2) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [NBA Hangtime](https://en.wikipedia.org/wiki/NBA_Hangtime) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights) | [PC](https://en.wikipedia.org/wiki/PC_game) |
+| [NieR Replicant ver.1.22474487139...](https://en.wikipedia.org/wiki/Nier_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [NieR:Automata](https://en.wikipedia.org/wiki/Nier:_Automata) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [No Man's Sky](https://en.wikipedia.org/wiki/No_Man%27s_Sky) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Opus Magnum](https://en.wikipedia.org/wiki/Opus_Magnum_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
