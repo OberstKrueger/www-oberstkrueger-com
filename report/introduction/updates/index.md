@@ -2,8 +2,22 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2021-04-01T09:20Z
+updated: 2021-05-03T12:05Z
 ---
+
+## 2021.04
+
+### Books Read
+
+- Eveleth, Rose - Flash Forward: An Illustrated Guide to Possible (And Not So Possible) Tomorrows
+
+### Games Played
+
+- [Dark Souls III](https://en.wikipedia.org/wiki/Dark_Souls_III)
+- [Demon's Souls (2020)](https://en.wikipedia.org/wiki/Demon%27s_Souls_(2020_video_game))
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [Icewind Dale: Enhanded Edition](https://en.wikipedia.org/wiki/Icewind_Dale:_Enhanced_Edition)
+- [SaGa Frontier Remastered](https://en.wikipedia.org/wiki/SaGa_Frontier)
 
 ## 2021.03
 

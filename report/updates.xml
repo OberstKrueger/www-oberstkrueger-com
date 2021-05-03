@@ -7,7 +7,7 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2021-03-02T16:30Z</updated>
+<updated>2021-05-03T12:05Z</updated>
 
 <!--
 <entry>
@@ -26,6 +26,34 @@
 </content>
 </entry>
 -->
+
+<entry>
+<title>Updates For April, 2021</title>
+<author>
+<name>Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/202104</id>
+<published>2021-05-03T12:05Z</published>
+<updated>2021-05-03T12:05Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2021.04</h2>
+<h3>Books Read</h3>
+<ul>
+<li>Eveleth, Rose - Flash Forward: An Illustrated Guide to Possible (And Not So Possible) Tomorrows</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Dark_Souls_III">Dark Souls III</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Demon%27s_Souls_(2020_video_game)">Demon's Souls (2020)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Icewind_Dale:_Enhanced_Edition">Icewind Dale: Enhanded Edition</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SaGa_Frontier">SaGa Frontier Remastered</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For March, 2021</title>
