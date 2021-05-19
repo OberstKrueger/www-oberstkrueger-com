@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-05-03T12:00Z
+updated: 2021-05-19T02:20Z
 ---
 
 | Name | Platform(s) |
@@ -469,7 +469,7 @@ updated: 2021-05-03T12:00Z
 | [Stellaris](https://en.wikipedia.org/wiki/Stellaris_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Street Fighter II Turbo: Hyper Fighting](https://en.wikipedia.org/wiki/Street_Fighter_II′_Turbo:_Hyper_Fighting) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Subnautica](https://en.wikipedia.org/wiki/Subnautica) | [PC](https://en.wikipedia.org/wiki/PC_game) |
-| [Subnautica: Below Zero](https://en.wikipedia.org/wiki/Subnautica) | [PC](https://en.wikipedia.org/wiki/PC_game) |
+| [Subnautica: Below Zero](https://en.wikipedia.org/wiki/Subnautica:_Below_Zero) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Super Mario 3D World](https://en.wikipedia.org/wiki/Super_Mario_3D_World) | [Wii U](https://en.wikipedia.org/wiki/Wii_U) |
 | [Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64) | [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) |
 | [Super Mario All-Stars](https://en.wikipedia.org/wiki/Super_Mario_All-Stars) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
