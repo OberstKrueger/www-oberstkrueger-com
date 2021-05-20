@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-05-19T02:20Z
+updated: 2021-05-20T01:50Z
 ---
 
 | Name | Platform(s) |
@@ -260,6 +260,7 @@ updated: 2021-05-19T02:20Z
 | [Inside](https://en.wikipedia.org/wiki/Inside_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Into The Breach](https://en.wikipedia.org/wiki/Into_the_Breach) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [It Lurks Below](https://en.wikipedia.org/wiki/It_Lurks_Below) | [PC](https://en.wikipedia.org/wiki/PC_game) |
+| [It Takes Two](https://en.wikipedia.org/wiki/It_Takes_Two_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Jade Coccoon: Story of the Tamamayu](https://en.wikipedia.org/wiki/Jade_Cocoon:_Story_of_the_Tamamayu) | [PlayStation](https://en.wikipedia.org/wiki/PlayStation) |
 | [Journey](https://en.wikipedia.org/wiki/Journey_(2012_video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game), [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) |
 | [Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park_(pinball)) | [Arcade](https://en.wikipedia.org/wiki/Arcade_game) |
