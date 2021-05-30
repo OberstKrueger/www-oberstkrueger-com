@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2021-03-15T10:30Z
+updated: 2021-05-30T01:10Z
 ---
 
 ## Beautiful Desolation
@@ -32,6 +32,22 @@ What makes Black Mesa a brilliant remake is that it is faithful to what worked w
 The largest change Black Mesa made to the original was with the planet of Xen. In the original Half-Life, this is a one hour excursion that felt out of place with the rest of the game. The design was simple, the platforming annoying, and the final boss not very fun. Black Mesa changed all of this, and for the better. Xen's scope is now increased, leading to a four hour experience now. Platforming and puzzles are improved, the history of the Vortigaunts is now integrated into the story, and the final boss, while still not perfect, is more fun to fight.
 
 Overall, Black Mesa is a prime example of how to do a remake properly. It is so successful of a remake in my mind that whenever I feel like playing through the series again, I will play Black Mesa instead of the original Half-Life.
+
+## Bloodborne
+
+<figure>
+    <img src="/images/mini-game-reviews_bloodborne.jpg" alt="Screenshot of Bloodborne">
+</figure>
+
+For too long, I have stayed away from the Souls-like genre. I had a passing familiarity with Demon's Souls when it came out in 2009. It was hard to avoid the discussion around Dark Souls after its release, and despite giving it a try back in 2013, it was as game that I did not get far in. Dark Souls 3 also failed to hook me when I tried it in 2018, although I only gave it a 15 minute shot before putting it down. But 2021 was the year where it all changed.
+
+After acquiring a PlayStation 5, Bloodborne was recommended to me as a great entry-point for the series. Given who the recommendation was from, I decided to give it a few hours before deciding whether to continue. The beginning was challenging, as the Souls-like reputation demands. But it defied my expectation by not feeling unfairly punishing. The game rewarded you for learning, and gave you the tools to do so, along with a healthy dose of experimentation.
+
+The aspect of the game that surprised me the most was how engrossing the world was. There was a lot of lore right on the surface, but never forced on you. The game rewarded you especially for deep exploration. The storytelling is on the minimal side, but all of the pieces are there for you to put together into a more coherent whole. This is my favorite aspect of the game, and it is skillfully done in a way that few other games have accomplished.
+
+Bloodborne's soundtrack also helped suck me into the world. Music is one of the most important aspects of a game for me, and the composing team at FromSoftware have written one of my new favorite soundtracks. Visually, the game looks quite good for a PlayStation 4 game. The only frustrating aspect of it is the jittery frame-pacing. The game aims for 30 FPS, but rarely sits at it for long. This game is in dire need of a PlayStation 5 upgrade, or preferably a PC release.
+
+Bloodborne was a great jumping in for the Souls-like games. It has kindled an obsession in all of FromSoftware's titles, and I hope to be able to revisit Bloodborne at some point when the performance has been fixed.
 
 ## Counter-Strike: Global Offensive
 
