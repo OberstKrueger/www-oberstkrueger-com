@@ -2,7 +2,7 @@
 created: 2017-06-11T13:30Z
 title: Books I Have Read
 type: page
-updated: 2021-04-28T10:40Z
+updated: 2021-05-30T00:30Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -126,6 +126,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Kaku, Michio - The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind
 - Koski, Olivia & Grcevich, Jana - Vacation Guide to the Solar System: Science for the Savvy Space Traveler!
 - Kuhn, Thomas S. -  The Structure of Scientific Revolutions
+- Marchant, J. - The Human Cosmos: Civilization and the Stars
 - Munroe, Randall - How To: Absurd Scientific Advice for Common Real-World Problems
 - Munroe, Randall - Thing Explainer: Complicated Stuff in Simple Words
 - Munroe, Randall - What if?: Serious Scientific Answers to Absurd Hypothetical Questions
