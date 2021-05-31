@@ -2,7 +2,7 @@
 created: 2017-08-07T20:45Z
 title: Movies I Have Watched
 type: page
-updated: 2020-03-30T16:40Z
+updated: 2020-05-31T21:20Z
 ---
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
@@ -233,6 +233,7 @@ updated: 2020-03-30T16:40Z
 - [Star Wars: Episode VIII - The Last Jedi](https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi)
 - [Super 8](https://en.wikipedia.org/wiki/Super_8_(film))
 - [Tarzan](https://en.wikipedia.org/wiki/Tarzan_(1999_film))
+- [Tenet](https://en.wikipedia.org/wiki/Tenet_(film))
 - [The Terminator](https://en.wikipedia.org/wiki/The_Terminator)
 - [Terminator 2: Judgement Day](https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day)
 - [Terminator 3: Rise of the Machines](https://en.wikipedia.org/wiki/Terminator_3:_Rise_of_the_Machines)
