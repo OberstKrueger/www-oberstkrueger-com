@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-05-20T01:50Z
+updated: 2021-05-31T21:30Z
 ---
 
 | Name | Platform(s) |
@@ -22,6 +22,7 @@ updated: 2021-05-20T01:50Z
 | [Alto's Adventure](https://en.wikipedia.org/wiki/Alto%27s_Adventure) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
 | [Alto's Odyssey](https://en.wikipedia.org/wiki/Alto%27s_Adventure) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
 | [American McGee's Alice](https://en.wikipedia.org/wiki/American_McGee%27s_Alice) | [PC](https://en.wikipedia.org/wiki/PC_game) |
+| [Amid Evil](https://en.wikipedia.org/wiki/Amid_Evil) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Anarchy Online](https://en.wikipedia.org/wiki/Anarchy_Online) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Another Eden: The Cat Beyond Time and Space](https://en.wikipedia.org/wiki/Another_Eden) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
 | [Apex Legends](https://en.wikipedia.org/wiki/Apex_Legends) | [PC](https://en.wikipedia.org/wiki/PC_game) |
