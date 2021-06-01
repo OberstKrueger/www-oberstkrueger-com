@@ -2,7 +2,7 @@
 created: 2017-02-27T17:00Z
 title: Software Tools
 type: page
-updated: 2020-08-31T11:15Z
+updated: 2021-06-01T02:15Z
 ---
 
 Choosing the right software for the job can be a painstaking process. On all of the major platforms, there is a plethora of tools available for most tasks. Picking the first thing that comes along without evaluating all of the options might save some time up front, but it will lead to headaches further on down the line.
@@ -61,14 +61,14 @@ This is my criteria for all software that I use. When evaluating new application
 
 ### eBook Reader
 
-**Name**: [iBooks](https://www.apple.com/ibooks/)<br>
+**Name**: [Books](https://en.wikipedia.org/wiki/Apple_Books)<br>
 **OS**: iOS, macOS<br>
 **Used Since**: April, 2010<br>
 **Previously Used**: [Google Play Books](https://en.wikipedia.org/wiki/Google_Play_Books)
 
 ### E-mail
 
-**Name**: [Mail](https://en.wikipedia.org/wiki/Apple_Mail)<br>
+**Name**: [Apple Mail](https://en.wikipedia.org/wiki/Apple_Mail)<br>
 **OS**: iOS, macOS<br>
 **Used Since**: March, 2015<br>
 **Previously Used**: [Gmail](https://en.wikipedia.org/wiki/Gmail)
@@ -82,38 +82,38 @@ This is my criteria for all software that I use. When evaluating new application
 
 ### Password Manager
 
-**Name**: [1Password](https://1password.com)<br>
+**Name**: [1Password](https://en.wikipedia.org/wiki/1Password)<br>
 **OS**: iOS, macOS<br>
 **Used Since**: August, 2013
 
 ### RSS Reader
 
-**Name**: [NetNewsWire](http://netnewswireapp.com)<br>
+**Name**: [NetNewsWire](https://en.wikipedia.org/wiki/NetNewsWire)<br>
 **OS**: iOS, macOS<br>
 **Used Since**: March, 2020<br>
-**Previously Used**: [Reeder](http://reederapp.com), [Unread](http://supertop.co/unread/)
+**Previously Used**: [Reeder](http://reederapp.com), [Unread](https://www.goldenhillsoftware.com/unread/)
 
 ### Task Management
 
-**Name**: [Things](https://culturedcode.com/things/)<br>
+**Name**: [Things](https://en.wikipedia.org/wiki/Things_(software))<br>
 **OS**: iOS, macOS<br>
 **Used Since**: December, 2018<br>
-**Previously Used**: [OmniFocus](https://www.omnigroup.com/omnifocus), [Reminders](https://en.wikipedia.org/wiki/Reminders_(Apple))
+**Previously Used**: [OmniFocus](https://en.wikipedia.org/wiki/OmniFocus), [Reminders](https://en.wikipedia.org/wiki/Reminders_(Apple))
 
 ### Writing
 
-**Name**: [iA Writer](https://ia.net/writer/)<br>
+**Name**: [iA Writer](https://en.wikipedia.org/wiki/IA_Writer)<br>
 **OS**: iOS, macOS<br>
 **Used Since**: January, 2014<br>
-**Previously Used**: [Bean](http://www.bean-osx.com/Bean.html), [OpenOffice.org](https://en.wikipedia.org/wiki/OpenOffice.org), [Pages](https://www.apple.com/pages/), [Scrivener](http://www.literatureandlatte.com/scrivener.php)
+**Previously Used**: [Bean](https://en.wikipedia.org/wiki/Bean_(software)), [OpenOffice.org](https://en.wikipedia.org/wiki/OpenOffice.org), [Pages](https://en.wikipedia.org/wiki/Pages_(word_processor)), [Scrivener](https://en.wikipedia.org/wiki/Scrivener_(software))
 
 ## iOS Tools
 
 ### Podcasts
 
-**Name**: [Overcast](https://overcast.fm)<br>
+**Name**: [Overcast](https://en.wikipedia.org/wiki/Overcast_(app))<br>
 **Used Since**: July, 2014<br>
-**Previously Used**: [Apple Podcasts](https://support.apple.com/en-us/HT201859), [iTunes](https://www.apple.com/itunes/)
+**Previously Used**: [Apple Podcasts](https://en.wikipedia.org/wiki/Podcasts_(software)), [iTunes](https://en.wikipedia.org/wiki/ITunes)
 
 ### Sleep Tracking
 
@@ -125,9 +125,9 @@ This is my criteria for all software that I use. When evaluating new application
 
 ### Command-Line Terminal
 
-**Name**: [iTerm](https://www.iterm2.com)
+**Name**: [iTerm2](https://en.wikipedia.org/wiki/ITerm2)
 **Used Since**: December, 2007<br>
-**Previously Used**: [Alacritty](https://github.com/jwilm/alacritty), [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS))<br>
+**Previously Used**: [Alacritty](https://en.wikipedia.org/wiki/Alacritty), [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS))<br>
 
 ### File Backup
 
@@ -139,11 +139,11 @@ This is my criteria for all software that I use. When evaluating new application
 
 **Name**: [Pixelmator Pro](https://www.pixelmator.com/pro/)<br>
 **Used Since**: November, 2019<br>
-**Previously Used**: [Adobe Photoshop CS6](https://en.wikipedia.org/wiki/Adobe_Photoshop), [GIMP](https://www.gimp.org), [Pixelmator](http://www.pixelmator.com)
+**Previously Used**: [Adobe Photoshop CS6](https://en.wikipedia.org/wiki/Adobe_Photoshop), [GIMP](https://en.wikipedia.org/wiki/GIMP), [Pixelmator](http://www.pixelmator.com)
 
 ### Integrated Development Environment (C, Swift)
 
-**Name**: [Xcode](https://developer.apple.com/xcode/)<br>
+**Name**: [Xcode](https://en.wikipedia.org/wiki/Xcode)<br>
 **Used Since**: June, 2018
 
 ### Internet Relay Chat Client
@@ -154,6 +154,6 @@ This is my criteria for all software that I use. When evaluating new application
 
 ### Text Editor
 
-**Name**: [Sublime Text](https://www.sublimetext.com)<br>
+**Name**: [Sublime Text](https://en.wikipedia.org/wiki/Sublime_Text)<br>
 **Used Since**: July, 2011<br>
-**Previously Used**: [Atom](https://atom.io), [Emacs](https://www.gnu.org/software/emacs/), [TextWrangler](http://www.barebones.com/products/textwrangler/), [Neovim](https://neovim.io), [Visual Studio Code](https://code.visualstudio.com)
+**Previously Used**: [Atom](https://en.wikipedia.org/wiki/Atom_(text_editor)), [Emacs](https://en.wikipedia.org/wiki/Emacs), [TextWrangler](https://en.wikipedia.org/wiki/BBEdit), [Neovim](https://neovim.io), [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code)
