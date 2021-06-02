@@ -7,7 +7,7 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2021-05-03T12:05Z</updated>
+<updated>2021-06-02T00:45Z</updated>
 
 <!--
 <entry>
@@ -26,6 +26,39 @@
 </content>
 </entry>
 -->
+
+<entry>
+<title>Updates For May, 2021</title>
+<author>
+<name>Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/202105</id>
+<published>2021-06-02T00:45Z</published>
+<updated>2021-06-02T00:45Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2021.05</h2>
+<h3>Books Read</h3>
+<ul>
+<li>Marchant, J. - The Human Cosmos: Civilization and the Stars</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Amid_Evil">Amid Evil</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dark_Souls_III">Dark Souls III</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/It_Takes_Two_(video_game)">It Takes Two</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nier_(video_game)">NieR Replicant ver.1.22474487139...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Subnautica:_Below_Zero">Subnautica: Below Zero</a></li>
+</ul>
+<h2>Movies Watched</h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Tenet_(film)">Tenet</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For April, 2021</title>

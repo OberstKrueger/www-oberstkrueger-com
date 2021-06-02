@@ -2,8 +2,27 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2021-05-03T12:05Z
+updated: 2021-06-02T00:45Z
 ---
+
+## 2021.05
+
+### Books Read
+
+- Marchant, J. - The Human Cosmos: Civilization and the Stars
+
+### Games Played
+
+- [Amid Evil](https://en.wikipedia.org/wiki/Amid_Evil)
+- [Dark Souls III](https://en.wikipedia.org/wiki/Dark_Souls_III)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [It Takes Two](https://en.wikipedia.org/wiki/It_Takes_Two_(video_game))
+- [NieR Replicant ver.1.22474487139...](https://en.wikipedia.org/wiki/Nier_(video_game))
+- [Subnautica: Below Zero](https://en.wikipedia.org/wiki/Subnautica:_Below_Zero)
+
+## Movies Watched
+
+- [Tenet](https://en.wikipedia.org/wiki/Tenet_(film))
 
 ## 2021.04
 
