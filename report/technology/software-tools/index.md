@@ -2,7 +2,7 @@
 created: 2017-02-27T17:00Z
 title: Software Tools
 type: page
-updated: 2021-06-01T02:15Z
+updated: 2021-06-02T12:15Z
 ---
 
 Choosing the right software for the job can be a painstaking process. On all of the major platforms, there is a plethora of tools available for most tasks. Picking the first thing that comes along without evaluating all of the options might save some time up front, but it will lead to headaches further on down the line.
@@ -108,6 +108,11 @@ This is my criteria for all software that I use. When evaluating new application
 **Previously Used**: [Bean](https://en.wikipedia.org/wiki/Bean_(software)), [OpenOffice.org](https://en.wikipedia.org/wiki/OpenOffice.org), [Pages](https://en.wikipedia.org/wiki/Pages_(word_processor)), [Scrivener](https://en.wikipedia.org/wiki/Scrivener_(software))
 
 ## iOS Tools
+
+### Command-Line Terminals
+
+**Name**: [Prompt](https://panic.com/prompt/)<br>
+**Used Since**: July, 2015<br>
 
 ### Podcasts
 
