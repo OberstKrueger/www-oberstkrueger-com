@@ -2,7 +2,7 @@
 created: 2017-02-27T17:00Z
 title: Software Tools
 type: page
-updated: 2021-06-02T12:15Z
+updated: 2021-06-08T12:15Z
 ---
 
 Choosing the right software for the job can be a painstaking process. On all of the major platforms, there is a plethora of tools available for most tasks. Picking the first thing that comes along without evaluating all of the options might save some time up front, but it will lead to headaches further on down the line.
@@ -92,6 +92,12 @@ This is my criteria for all software that I use. When evaluating new application
 **OS**: iOS, macOS<br>
 **Used Since**: March, 2020<br>
 **Previously Used**: [Reeder](http://reederapp.com), [Unread](https://www.goldenhillsoftware.com/unread/)
+
+### Spreadsheets
+
+**Name**: [Numbers](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))<br>
+**OS**: iOS, macOS<br>
+**Used Since**: December, 2013<br>
 
 ### Task Management
 
