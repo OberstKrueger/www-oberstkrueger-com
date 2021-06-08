@@ -2,7 +2,7 @@
 created: 2017-02-27T17:00Z
 title: Software Tools
 type: page
-updated: 2021-06-08T12:15Z
+updated: 2021-06-08T12:25Z
 ---
 
 Choosing the right software for the job can be a painstaking process. On all of the major platforms, there is a plethora of tools available for most tasks. Picking the first thing that comes along without evaluating all of the options might save some time up front, but it will lead to headaches further on down the line.
@@ -62,14 +62,14 @@ This is my criteria for all software that I use. When evaluating new application
 ### eBook Reader
 
 **Name**: [Books](https://en.wikipedia.org/wiki/Apple_Books)<br>
-**OS**: iOS, macOS<br>
+**OS**: iPadOS, macOS<br>
 **Used Since**: April, 2010<br>
 **Previously Used**: [Google Play Books](https://en.wikipedia.org/wiki/Google_Play_Books)
 
 ### E-mail
 
 **Name**: [Apple Mail](https://en.wikipedia.org/wiki/Apple_Mail)<br>
-**OS**: iOS, macOS<br>
+**OS**: iPadOS, iOS, macOS<br>
 **Used Since**: March, 2015<br>
 **Previously Used**: [Gmail](https://en.wikipedia.org/wiki/Gmail)
 
@@ -83,42 +83,44 @@ This is my criteria for all software that I use. When evaluating new application
 ### Password Manager
 
 **Name**: [1Password](https://en.wikipedia.org/wiki/1Password)<br>
-**OS**: iOS, macOS<br>
+**OS**: iPadOS, iOS, macOS<br>
 **Used Since**: August, 2013
 
 ### RSS Reader
 
 **Name**: [NetNewsWire](https://en.wikipedia.org/wiki/NetNewsWire)<br>
-**OS**: iOS, macOS<br>
+**OS**: iPadOS, macOS<br>
 **Used Since**: March, 2020<br>
 **Previously Used**: [Reeder](http://reederapp.com), [Unread](https://www.goldenhillsoftware.com/unread/)
 
 ### Spreadsheets
 
 **Name**: [Numbers](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))<br>
-**OS**: iOS, macOS<br>
+**OS**: iPadOS, macOS<br>
 **Used Since**: December, 2013<br>
 
 ### Task Management
 
 **Name**: [Things](https://en.wikipedia.org/wiki/Things_(software))<br>
-**OS**: iOS, macOS<br>
+**OS**: iPadOS, iOS, macOS<br>
 **Used Since**: December, 2018<br>
 **Previously Used**: [OmniFocus](https://en.wikipedia.org/wiki/OmniFocus), [Reminders](https://en.wikipedia.org/wiki/Reminders_(Apple))
 
 ### Writing
 
 **Name**: [iA Writer](https://en.wikipedia.org/wiki/IA_Writer)<br>
-**OS**: iOS, macOS<br>
+**OS**: iPadOS, macOS<br>
 **Used Since**: January, 2014<br>
 **Previously Used**: [Bean](https://en.wikipedia.org/wiki/Bean_(software)), [OpenOffice.org](https://en.wikipedia.org/wiki/OpenOffice.org), [Pages](https://en.wikipedia.org/wiki/Pages_(word_processor)), [Scrivener](https://en.wikipedia.org/wiki/Scrivener_(software))
 
-## iOS Tools
+## iPadOS Tools
 
 ### Command-Line Terminals
 
 **Name**: [Prompt](https://panic.com/prompt/)<br>
 **Used Since**: July, 2015<br>
+
+## iOS Tools
 
 ### Podcasts
 
