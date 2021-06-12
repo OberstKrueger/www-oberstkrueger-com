@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-06-08T12:20Z
+updated: 2021-06-12T02:50Z
 ---
 
 | Name | Platform(s) |
@@ -113,6 +113,7 @@ updated: 2021-06-08T12:20Z
 | [Diablo III: Reaper of Souls](https://en.wikipedia.org/wiki/Diablo_III:_Reaper_of_Souls) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Diddy Kong Racing](https://en.wikipedia.org/wiki/Diddy_Kong_Racing) | [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) |
 | [Dishonored](https://en.wikipedia.org/wiki/Dishonored) | [PC](https://en.wikipedia.org/wiki/PC_game) |
+| [Dishonored 2](https://en.wikipedia.org/wiki/Dishonored_2) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Disney's Aladdin](https://en.wikipedia.org/wiki/Disney%27s_Aladdin_(Capcom)) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Divinity: Original Sin II](https://en.wikipedia.org/wiki/Divinity:_Original_Sin_II) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Don't Starve](https://en.wikipedia.org/wiki/Don%27t_Starve) | [PC](https://en.wikipedia.org/wiki/PC_game) |
