@@ -104,6 +104,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 
 ## Philosophy
 
+- Carse, J.P. (1986). Finite and Infinite Games: A Vision of Life as PLay and Possibility.
 - Kurzweil, Ray - The Age of the Intelligent Machines
 - Kurzweil, Ray - The Age of the Spiritual Machines
 - Kurzweil, Ray - The Singularity Is Near
