@@ -2,7 +2,7 @@
 created: 2018-10-17T00:30Z
 title: Why Automate?
 type: page
-updated: 2018-10-31T16:00Z
+updated: 2021-06-16T23:30Z
 ---
 
 Automation is a task that computers excel at. The whole process of a modern computer is automated: press the power button, and a gargantuan list of processes are automatically run just to turn on the machine. Once running, software [daemons](https://en.wikipedia.org/wiki/Daemon_(computing)) are making sure the system remains functional, providing background services for every application running on top of the operating system, and notifying you whenever something is set to do so.
@@ -41,6 +41,9 @@ The simplest way to automate is to pick a task and research the ways that it can
 
 One advantage of using the command-line as I do is that it provides an easy window into what tasks can be automated. Command-line commands can be long and obtuse. This is especially true for tools that provide dozens or even hundreds of possible arguments, such as ffmpeg. It is often easier to understand how the tool works and create a script on top of it. Abstracting away the information into something automatic and simple is a great way to make using that tool easier.
 
-<https://imgs.xkcd.com/comics/is_it_worth_the_time_2x.png>
+<figure>
+    <img src="https://imgs.xkcd.com/comics/is_it_worth_the_time_2x.png">
+    <figcaption>xkcd comic></figcaption>
+</figure>
 
 Knowing what to automate is the key to saving time. Tasks that are not frequently run will not benefit from automation as much as automating those tasks that are run every day. I personally keep a running list of tasks that I would like to automate, sorted by a mixture of frequency used and time consumed by the task.
