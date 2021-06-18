@@ -2,7 +2,7 @@
 created: 2016-11-05T13:00Z
 title: The Krueger Report
 type: index
-updated: 2021-03-23T16:50Z
+updated: 2021-06-18T21:25Z
 ---
 
 ## Introduction
@@ -58,7 +58,6 @@ updated: 2021-03-23T16:50Z
 ## All About The Mac
 
 - [Setting Up Homebrew](/all-about-the-mac/setting-up-homebrew)
-- [WWDC 2020](/all-about-the-mac/wwdc-2020)
 
 ## Music
 
