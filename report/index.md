@@ -2,7 +2,7 @@
 created: 2016-11-05T13:00Z
 title: The Krueger Report
 type: index
-updated: 2021-06-18T21:25Z
+updated: 2021-06-18T21:30Z
 ---
 
 ## Introduction
@@ -50,6 +50,7 @@ updated: 2021-06-18T21:25Z
 - [Software Tools](/technology/software-tools)
 - [CLI Tools](/technology/cli-tools)
 - [Past Computing Devices](/technology/past-computing-devices)
+- [Setting Up Homebrew](/all-about-the-mac/setting-up-homebrew)
 - [Simplifying the Smartphone](/technology/simplifying-the-smartphone)
 - [Backups](/technology/backups)
 - [DuckDuckGo](/technology/duckduckgo)
@@ -57,7 +58,6 @@ updated: 2021-06-18T21:25Z
 
 ## All About The Mac
 
-- [Setting Up Homebrew](/all-about-the-mac/setting-up-homebrew)
 
 ## Music
 
