@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2021-05-30T01:10Z
+updated: 2021-06-20T21:00Z
 ---
 
 ## Beautiful Desolation
@@ -62,6 +62,20 @@ What impresses me the most about Counter-Strike: Global Offensive is that it is 
 This is emphasized by looking at the game's most popular map: de_dust2. The original de_dust2 was released in 2001, and quickly became a mainstay on servers. It is a well-balanced map that has not needed any major gameplay tweaks since the original version. In Counter-Strike and Counter-Strike: Source, there were servers dedicated to playing the map 24/7. Counter-Strike: Global Offensive honors this by having a map group dedicated to solely playing de_dust2, giving the same functionality.
 
 Counter-Strike is a game that I still enjoy, although I am nowhere near as good as I was back in high school. But it is still fun to play, and something I see myself going back to every so often just to experience it again. Valve's stewardship of the Counter-Strike series is impressive, and I hope that they continue to not make any fundamental changes to the series as a whole. Counter-Strike could easily remain one of the main games that everyone will have played decades into the future, if Valve continues to treat it as it currently does.
+
+## Dark Souls
+
+<figure>
+    <img src="/mini-game-reviews_dark-souls.jpg" alt="Screenshot of Dark Souls">
+</figure>
+
+After playing Bloodborne, the completionist in me wanted to play the rest of the Soulsborne games in as close to order of release as possible. I went into the game knowing it would be a step back in many ways, but I did not expect how much of a mixed bag it would be overall.
+
+The biggest gameplay regression is in the cobmat. It being slower than Bloodborne is not surprising, but I was not expecting how chunky the hitboxes and physics in the game would be. Much of the challenge came from fighting against the physics and what little the game would let me do, and not the actual encounters. Most actions in the game bring your character to a complete halt. The latter half of the game turned into a slog with these elements combined with so many levels being designed around ambushes and traps that are hard or impossible to react to without their knowledge. For a game that is supposed to be challenging but fair, it felt tedious and unfair.
+
+There are some elements of the game that I did enjoy immensely. The music and overall sound design is top notch. The customization of classes and weapons is a welcome introduction from Bloodborne, as well as the added elements of movement speed being different if you wear heavier armor. The world of Dark Souls is much more non-linear than Bloodborne's, especially in the beginning, which was a pleasant surprise.
+
+Overall, Dark Souls was disappointing. It's the first game in a long time where I forced myself to complete it, but the last part was not that much fun at all. After my first attempt through the game, I gave myself a few months off and tried again, just to see if my feelings had changed. I played for a few hours, and decided that the game is one that I enjoy many elements of, other than actually playing it. I do not foresee myself installing it again.
 
 ## Dear Esther
 
