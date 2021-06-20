@@ -2,7 +2,7 @@
 created: 2017-06-11T13:30Z
 title: Books I Have Read
 type: page
-updated: 2021-05-30T00:30Z
+updated: 2021-06-20T20:40Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -91,6 +91,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Twain, Mark - The Adventures of Tom Sawyer
 - Weir, Andy - Artemis
 - Weir, Andy - The Martian
+- Weir, Andy - Project Hail Mary
 
 ## Historical
 
