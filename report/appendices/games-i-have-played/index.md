@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-06-12T02:50Z
+updated: 2021-06-20T21:45Z
 ---
 
 | Name | Platform(s) |
@@ -87,6 +87,7 @@ updated: 2021-06-12T02:50Z
 | [Dance Dance Revolution SuperNova 2](https://en.wikipedia.org/wiki/Dance_Dance_Revolution_SuperNova) | [PlayStation 2](https://en.wikipedia.org/wiki/PlayStation_2) |
 | [Dark Age of Camelot](https://en.wikipedia.org/wiki/Dark_Age_of_Camelot) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls) | [PC](https://en.wikipedia.org/wiki/PC_game) |
+| [Dark Souls II](https://en.wikipedia.org/wiki/Dark_Souls_II) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Dark Souls III](https://en.wikipedia.org/wiki/Dark_Souls_III) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Day of Defeat: Source](https://en.wikipedia.org/wiki/Day_of_Defeat:_Source) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Day of Defeat](https://en.wikipedia.org/wiki/Day_of_Defeat) | [PC](https://en.wikipedia.org/wiki/PC_game) |
