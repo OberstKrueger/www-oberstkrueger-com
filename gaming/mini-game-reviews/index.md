@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2021-06-20T21:00Z
+updated: 2021-06-20T21:05Z
 ---
 
 ## Beautiful Desolation
@@ -66,7 +66,7 @@ Counter-Strike is a game that I still enjoy, although I am nowhere near as good 
 ## Dark Souls
 
 <figure>
-    <img src="/mini-game-reviews_dark-souls.jpg" alt="Screenshot of Dark Souls">
+    <img src="/images/mini-game-reviews_dark-souls.jpg" alt="Screenshot of Dark Souls">
 </figure>
 
 After playing Bloodborne, the completionist in me wanted to play the rest of the Soulsborne games in as close to order of release as possible. I went into the game knowing it would be a step back in many ways, but I did not expect how much of a mixed bag it would be overall.
