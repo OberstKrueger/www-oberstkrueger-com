@@ -2,8 +2,29 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2021-06-02T00:45Z
+updated: 2021-07-05T01:15Z
 ---
+
+## 2021.06
+
+### Page Updates
+
+- [Software Tools](https://krueger.report/technology/software-tools) was updated to include new software that I am using. There is not a lot of changes, just a few new tools and some shifting of specific tools across the different operating systems. Despite not evaluating the page in nearly one year, I have not made many changes to what I use on a day-to-day basis.
+
+### Books Read
+
+- Carse, James P. - Finite and Infinite Games: A Vision of Life as Play and Possibility
+- Weir, Andy - Project Hail Mary
+
+### Games Played
+
+- [Amid Evil](https://en.wikipedia.org/wiki/Amid_Evil)
+- [Dark Souls II](https://en.wikipedia.org/wiki/Dark_Souls_II)
+- [Dark Souls III](https://en.wikipedia.org/wiki/Dark_Souls_III)
+- [Dishonored](https://en.wikipedia.org/wiki/Dishonored)
+- [Dishonored 2](https://en.wikipedia.org/wiki/Dishonored_2)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [It Takes Two](https://en.wikipedia.org/wiki/It_Takes_Two_(video_game))
 
 ## 2021.05
 
