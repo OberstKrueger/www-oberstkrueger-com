@@ -7,7 +7,7 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2021-06-02T00:45Z</updated>
+<updated>2021-07-05T01:15Z</updated>
 
 <!--
 <entry>
@@ -26,6 +26,41 @@
 </content>
 </entry>
 -->
+
+<entry>
+<title>Updates For June, 2021</title>
+<author>
+<name>Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/202106</id>
+<published>2021-07-05T01:15Z</published>
+<updated>2021-07-05T01:15Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2021.06</h2>
+<h3>Page Updates</h3>
+<ul>
+<li><a href="https://krueger.report/technology/software-tools">Software Tools</a> was updated to include new software that I am using. There is not a lot of changes, just a few new tools and some shifting of specific tools across the different operating systems. Despite not evaluating the page in nearly one year, I have not made many changes to what I use on a day-to-day basis.</li>
+</ul>
+<h3>Books Read</h3>
+<ul>
+<li>Carse, James P. - Finite and Infinite Games: A Vision of Life as Play and Possibility</li>
+<li>Weir, Andy - Project Hail Mary</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Amid_Evil">Amid Evil</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dark_Souls_II">Dark Souls II</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dark_Souls_III">Dark Souls III</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dishonored">Dishonored</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dishonored_2">Dishonored 2</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/It_Takes_Two_(video_game)">It Takes Two</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For May, 2021</title>
