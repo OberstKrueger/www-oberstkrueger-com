@@ -2,7 +2,7 @@
 created: 2018-05-30T01:15Z
 title: Traveling Minimally
 type: page
-updated: 2018-05-30T01:15Z
+updated: 2021-07-06T23:25Z
 ---
 
 Whenever I am out of the house, I try to take as little as possible with me. Whether it is for a day trip someplace or traveling across the country, I take only the absolute minimum necessary for where I am going.
@@ -15,7 +15,7 @@ The easiest way to force myself to carry less during the day is to not have a bi
 
 My wallet of choice is perfect for this. It has room for 2 cards, no cash, and my phone. By having room for so few cards, I am forced to cut down on what I bring with me. The major reduction came from rewards cards for stores. While there are some savings to be had with these cards, I have found it easier to just pass on the few dollars savings, and also gaining some anonymity at the same time. This case also allows me to have only one object in my pockets that holds both my cards and my phone. The phone easily slips out when I need to use it, and otherwise takes up little more room than a wallet would normally.
 
-With digital payment systems like [Apple Pay](http://www.apple.com/apple-pay/) and [Google Wallet](https://www.google.com/wallet/) becomimg more ubiquitous, not needing every form of payment on hand does not make me miss out on much.
+With digital payment systems like [Apple Pay](http://www.apple.com/apple-pay/) and [Google Pay](https://pay.google.com/about/) becomimg more ubiquitous, not needing every form of payment on hand does not make me miss out on much.
 
 ### Vacationing
 
