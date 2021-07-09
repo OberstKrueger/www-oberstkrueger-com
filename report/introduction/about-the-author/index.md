@@ -2,7 +2,7 @@
 created: 2016-02-10T06:06Z
 title: About The Author
 type: page
-updated: 2021-02-27T12:50Z
+updated: 2021-07-09T01:50Z
 ---
 
 ## Current Computing Devices
@@ -13,7 +13,7 @@ CPU: [AMD Ryzen 5 5600X](https://www.amd.com/en/products/cpu/amd-ryzen-5-5600x)<
 GPU: [AMD Radeon RX 6800](https://www.amd.com/en/products/graphics/amd-radeon-rx-6800)<br>
 RAM: [Corsair Vengeance LPX 32 GB DDR4-3600](https://www.corsair.com/us/en/Categories/Products/Memory/VENGEANCE-LPX/p/CMK32GX4M2D3600C18)<br>
 SSD: [Samsung 980 Pro 1 TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/980-pro-pcie-4-0-nvme-ssd-250gb-mz-v8p250b-am/)<br>
-Peripherals: [LG 27UL600-W](https://www.lg.com/us/monitors/lg-27UL600-W-4k-uhd-led-monitor), [Valve Index](https://www.valvesoftware.com/en/index), [Steam Controller](http://store.steampowered.com/app/353370/)
+Peripherals: [LG 27UL600-W](https://www.lg.com/us/monitors/lg-27UL600-W-4k-uhd-led-monitor), [Valve Index](https://www.valvesoftware.com/en/index), [DualSense](https://en.wikipedia.org/wiki/DualShock#DualSense)
 
 Geekbench 5.2 CPU: [1,647 / 7,721](https://browser.geekbench.com/v5/cpu/6576174)<br>
 Geekbench 5.2 Compute (OpenCL): [128,163](https://browser.geekbench.com/v5/compute/2435126)<br>
