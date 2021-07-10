@@ -2,7 +2,7 @@
 created: 2018-04-25T03:25Z
 title: CLI Tools
 type: page
-updated: 2018-07-19T15:35Z
+updated: 2021-07-10T23:45Z
 ---
 
 For most people, a [command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) is a product of a bygone era of computing. Computer users up through the 1990s had to be comfortable with a command-line in either [DOS](https://en.wikipedia.org/wiki/DOS) or [Unix](https://en.wikipedia.org/wiki/Unix) forms, but since then, [graphical interfaces](https://en.wikipedia.org/wiki/Graphical_user_interface) have been how most people interact with a computer. This is emphasized in many modern devices like smartphones and tablets where a command-line interface would be difficult to use due to the onscreen keyboard.
@@ -111,20 +111,6 @@ I remain a huge fan of command-lines. Most of my desktops on macOS have a termin
 	- pandoc --list-input-formats
 - List all supported output formats:
 	- pandoc --list-output-formats
-
-## python
-
-**Site**: [https://www.python.org](https://www.python.org)<br>
-**Summary**: Interpreted, interactive, object-oriented programming language
-
-- Call a Python interactive shell (REPL):
-	- python
-- Execute script in a given Python file:
-	- python script.py
-- Execute Python language single command:
-	- python -c command
-- Run library module as a script (terminates option list):
-	- python -m module arguments
 
 ## ranger
 
