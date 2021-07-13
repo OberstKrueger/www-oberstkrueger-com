@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2021-06-20T21:05Z
+updated: 2021-07-13T01:30Z
 ---
 
 ## Beautiful Desolation
@@ -76,6 +76,20 @@ The biggest gameplay regression is in the cobmat. It being slower than Bloodborn
 There are some elements of the game that I did enjoy immensely. The music and overall sound design is top notch. The customization of classes and weapons is a welcome introduction from Bloodborne, as well as the added elements of movement speed being different if you wear heavier armor. The world of Dark Souls is much more non-linear than Bloodborne's, especially in the beginning, which was a pleasant surprise.
 
 Overall, Dark Souls was disappointing. It's the first game in a long time where I forced myself to complete it, but the last part was not that much fun at all. After my first attempt through the game, I gave myself a few months off and tried again, just to see if my feelings had changed. I played for a few hours, and decided that the game is one that I enjoy many elements of, other than actually playing it. I do not foresee myself installing it again.
+
+## Dark Souls III
+
+<figure>
+    <img src="/images/mini-game-reviews_dark-souls-iii.jpg" alt="Screenshot of Dark Souls III">
+</figure>
+
+The old saying goes "third time is the charm", and this is true both for the Dark Souls series and Soulsborne games for me. Dark Souls III is the third game I played, after initially skipping Dark Souls II, but it is my favorite of the Soulsborne genre up to this point.
+
+The most important aspect of Dark Souls III that differentiates it from the rest of the games is that there are no parts of the game that I felt were weak. All of the areas felt great (even the fabled poison swamp), and most of the bosses were memorable fights. The game is a distinct callback to the world of the original Dark Souls. Since the world of the first game was my favorite aspect, seeing the world as time has progressed and cycles of rebirth have possibly occurred was intriguing. In particular, seeing Anor Londo decaying was a powerful moment, as was coming across the ruins of the original Firelink Shrine.
+
+As great as the callbacks to the first game were, what really puts this game up there among the best is its quests. Soulsborne games all have minimalist quests that are easy to miss. Dark Souls III puts the start of them more front and center, and as I worked through them, I grew invested in the stories of the characters. In particular, the quests of Anri of Astora, Siegward of Catarina, and Sirris of the Sunless Realms were quite touching. The stories of these characters is more hopeful than previous games, with the quests all involving last quests to complete before the world's end. Despite the bittersweetness of this aspect to their stories, all of their goals can be accomplished, providing them some peace in their death.
+
+Most games that I play are one and done. Dark Souls III is the first game in a long time where I not only know I will be playing it again, but am anticipating further playthroughs. Before writing this mini review, I have already beaten the game twice, and am planning a third playthrough very soon. Bloodborne introduced me to these games, but Dark Souls III has surpassed the loftiest expectations I could set for a game.
 
 ## Dear Esther
 
