@@ -2,7 +2,7 @@
 created: 2018-04-25T03:25Z
 title: CLI Tools
 type: page
-updated: 2021-07-19T00:40Z
+updated: 2021-07-20T19:45Z
 ---
 
 For most people, a [command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) is a product of a bygone era of computing. Computer users up through the 1990s had to be comfortable with a command-line in either [DOS](https://en.wikipedia.org/wiki/DOS) or [Unix](https://en.wikipedia.org/wiki/Unix) forms, but since then, [graphical interfaces](https://en.wikipedia.org/wiki/Graphical_user_interface) have been how most people interact with a computer. This is emphasized in many modern devices like smartphones and tablets where a command-line interface would be difficult to use due to the onscreen keyboard.
@@ -128,15 +128,15 @@ I remain a huge fan of command-lines. Most of my desktops on macOS have a termin
 - Search for a pattern in files matching a glob (e.g., `README.*`):
 	- rg pattern -g glob
 
-## sassc
+## sass
 
-**Site**: [https://github.com/sass/sassc](https://github.com/sass/sassc)<br>
-**Summary**: Wrapper around libsass that helps to create command-line apps
+**Site**: [https://github.com/sass/dart-sass](https://github.com/sass/dart-sass)<br>
+**Summary**: Sass makes CSS fun again.
 
 - Compile Sass file to CSS:
-	- sassc input output
+	- sass input output
 - Compile Sass to compact CSS:
-	- sassc -t compact input output
+	- sass -t compact input output
 
 ## swiftlint
 
