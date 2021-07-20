@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2021-07-13T01:30Z
+updated: 2021-07-19T23:25Z
 ---
 
 ## Beautiful Desolation
@@ -100,6 +100,22 @@ Most games that I play are one and done. Dark Souls III is the first game in a l
 Dear Esther is one of the first "walking simulators", and still one of the best. Everything about it is beautifully done, with a wonderful art design, somber haunting music, and a perfect narrator throughout. The underground caves that appear midway through the game are an especially memorable section of the game, with a wonderful dance between the music and the visuals creating an experience unlike most games.
 
 For those who do not like ambiguous artsy stories, Dear Esther might be found lacking. The narrator is both unreliable and appears to be jumping between multiple viewpoints, making it difficult to realize the nature of the story in one playthrough. I have played the game multiple times now, and have learned new details each time that were not presented in my previous playthroughs. The game is short, taking about an hour to complete.
+
+## Demon's Souls (2020)
+
+<figure>
+    <img src='images/mini-game-reviews_demons-souls.jpg' alt="Screenshot of Demon's Souls">
+</figure>
+
+The PlayStation 5 remake of Demon's Souls is the fourth Soulsborne game on my adventure through FromSoftware's catalog. The original PlayStation 3 game completely passed under my radar back in 2009. In retrospect, I don't think I would have enjoyed it as much back then, as my gaming priorities were very different. But due to the original being on a console I don't play anymore and the original multiplayer servers being shut down, I am glad that this PlayStation 5 version exists.
+
+The aspect of the game most improved from the original is the graphics. BluePoint created a beautiful world to explore, the highlight of the PlayStation 5's launch titles. There is a lot of detail to see in every aspect of the world, and I was never bored while just looking at all of the sights. The soundtrack in the remake is controversial. I personally loved what they did with the music, but it is understandable why fans of the original are not as keen to it. The epic orchestration fits with what I like, and I think makes the game mesh well with the later entries. The track for Maiden Astraea is a particular highlight of the soundtrack.
+
+Demon's Souls is in some ways a more complex game than the later entries, but simplified in other ways. The equipment system as a whole is more complex and limiting, as armor is gender-locked. The remake has changed this for some armor sets, but others are still limited by gender just as in the original. Upgrading equipment requires more components, requiring more farming for either items or the souls to by the items with. The combat itself is greatly simplified, with most weapons having only a few attacks and no special moves. Weapon selection as a whole is much more limited than latter entries, leading to less variety of builds than you can accomplish in Dark Souls 3.
+
+The one aspect of the game that bothered me the most was the healing. Instead of automatically replenishable flasks that give you health, you have to use grass that drops from enemies. Unfortunately, they are not the most common of drops, so you have to spend time farming them on occasion. This was particularly noticeable when you run low during a boss fight, as it requires you to spend some time farming to be able and give the boss another try. Bloodborne had a similar system of healing, but it had some areas that allowed you to get as many as you needed in a short amount of time, allowing you to not slow down that much in your attempts at progression.
+
+Going back to the original Soulsborne game was quite an enjoyable experience. The world and character design is well done, with only a few individual levels being annoying or less memorable. In particular, the Maiden Astraea sequence is one of my favorites in all of FromSoftware's games. The low point of the game was how much time I had to spend farming health items and upgrade materials, significantly outpacing how much time I had to spend doing the same in the other games. I am glad I had an opportunity to play through this, although my enjoyment of it was much less than in Bloodborne or Dark Souls 3.
 
 ## Diablo 3
 
