@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2021-08-01T14:45Z
+updated: 2021-08-01T14:50Z
 ---
 
 ## Beautiful Desolation
@@ -120,7 +120,7 @@ For those who do not like ambiguous artsy stories, Dear Esther might be found la
 ## Demon's Souls (2020)
 
 <figure>
-    <img src='images/mini-game-reviews_demons-souls.jpg' alt="Screenshot of Demon's Souls">
+    <img src='/images/mini-game-reviews_demons-souls.jpg' alt="Screenshot of Demon's Souls">
 </figure>
 
 The PlayStation 5 remake of Demon's Souls is the fourth Soulsborne game on my adventure through FromSoftware's catalog. The original PlayStation 3 game completely passed under my radar back in 2009. In retrospect, I don't think I would have enjoyed it as much back then, as my gaming priorities were very different. But due to the original being on a console I don't play anymore and the original multiplayer servers being shut down, I am glad that this PlayStation 5 version exists.
