@@ -2,8 +2,26 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2021-07-05T01:15Z
+updated: 2021-08-01T13:50Z
 ---
+
+## 2021.07
+
+[Mini Game Reviews](https://krueger.report/gaming/mini-game-reviews) was updated to include reviews of Demon's Souls and Dark Souls III. Both of these games I enjoyed greatly, with Dark Souls III becoming an instant favorite of mine that I know I will be replaying a lot in the future.
+
+[Past Computing Devices](https://krueger.report/technology/past-computing-devices) now includes details about my current gaming PC. This machine took a lot of effort to acquire the components for due to the COVID-19 pandemic, and I was lucky to get exactly what I was looking for.
+
+### Books Read
+
+- Bellum, Rekka and Lu Linvega, Devine - Busy Doing Nothing
+
+### Games Played
+
+- [Dark Souls II](https://en.wikipedia.org/wiki/Dark_Souls_II)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [Grim Dawn](https://en.wikipedia.org/wiki/Grim_Dawn)
+- [Guild Wars Prophecies](https://en.wikipedia.org/wiki/Guild_Wars_(video_game))
+- [Wolfenstein: Youngblood](https://en.wikipedia.org/wiki/Wolfenstein:_Youngblood)
 
 ## 2021.06
 

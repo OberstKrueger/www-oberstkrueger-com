@@ -7,7 +7,7 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2021-07-05T01:15Z</updated>
+<updated>2021-08-01T13:50Z</updated>
 
 <!--
 <entry>
@@ -26,6 +26,36 @@
 </content>
 </entry>
 -->
+
+<entry>
+<title>Updates For July 2021!</title>
+<author>
+<name>Krueger</name>
+</author>
+<link href="https://krueger.report/introduction/updates" />
+<id>https://krueger.report/updates/202107</id>
+<published>2021-08-01T13:50Z</published>
+<updated>2021-08-01T13:50Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2021.07</h2>
+<p><a href="https://krueger.report/gaming/mini-game-reviews">Mini Game Reviews</a> was updated to include reviews of Demon's Souls and Dark Souls III. Both of these games I enjoyed greatly, with Dark Souls III becoming an instant favorite of mine that I know I will be replaying a lot in the future.</p>
+<p><a href="https://krueger.report/technology/past-computing-devices">Past Computing Devices</a> now includes details about my current gaming PC. This machine took a lot of effort to acquire the components for due to the COVID-19 pandemic, and I was lucky to get exactly what I was looking for.</p>
+<h3>Books Read</h3>
+<ul>
+<li>Bellum, Rekka and Lu Linvega, Devine - Busy Doing Nothing</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Dark_Souls_II">Dark Souls II</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Grim_Dawn">Grim Dawn</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Guild_Wars_(video_game)">Guild Wars Prophecies</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Wolfenstein:_Youngblood">Wolfenstein: Youngblood</a></li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For June, 2021</title>
