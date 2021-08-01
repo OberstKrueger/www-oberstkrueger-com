@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2021-07-19T23:25Z
+updated: 2021-08-01T14:45Z
 ---
 
 ## Beautiful Desolation
@@ -76,6 +76,22 @@ The biggest gameplay regression is in the cobmat. It being slower than Bloodborn
 There are some elements of the game that I did enjoy immensely. The music and overall sound design is top notch. The customization of classes and weapons is a welcome introduction from Bloodborne, as well as the added elements of movement speed being different if you wear heavier armor. The world of Dark Souls is much more non-linear than Bloodborne's, especially in the beginning, which was a pleasant surprise.
 
 Overall, Dark Souls was disappointing. It's the first game in a long time where I forced myself to complete it, but the last part was not that much fun at all. After my first attempt through the game, I gave myself a few months off and tried again, just to see if my feelings had changed. I played for a few hours, and decided that the game is one that I enjoy many elements of, other than actually playing it. I do not foresee myself installing it again.
+
+## Dark Souls II
+
+<figure>
+    <img src="/images/mini-game-reviews_dark-souls-ii.jpg" alt="Screenshot of Dark Souls II">
+</figure>
+
+Due to its reputation, Dark Souls II is the last of the Souls games that I decided to play. The reputation of the game is of being the worst game in the series, something divisive due to how far it strayed from the setup of the rest of the games. Hearing all of this made me hesitant to try it. But when I am glad that I decided to give the game a go, as to me, it almost meets the greatness of Dark Souls III.
+
+Visually, the game is an interesting midpoint between Dark Souls I and III. The world skews closer to Dark Souls 1 in look, although with some of the post-processing effects that are used heavily in III (i.e. depth-of-field to blur far away objects). The characters are much more detailed, with a character creator that allowed me to create a character I was happy with. Animations as a whole are much smoother, closer to what was shown in Bloodborne. Hitboxes also line up better with the animations, allowing for more realistic movement between objects and with weapons connecting. The music to the game is an interesting mix between the more somber feel of Dark Souls I, while the boss tracks are epic but not quite as the Dark Souls III soundtrack. This game does have my favorite town song in Majula, which helps sell the desolateness of your main base.
+
+Overall, the gameplay does a lot of things well. Weapon variety continues to remain strong like in the previous game, with some new options available that were not before. The lack of invasions on a normal new game makes a nice change for those still trying to learn the world. The game is not as non-linear as Dark Souls 1, but much more so than Dark Souls III. Combat feels great, and the increase in summons that can be used for boss fights is good for those who do not want to play online.
+
+That said, there are some elements that are larger steps back from the previous games. The combination healing system of healing gems and Estus flasks is unfortunate, as the flask system is superior for this type of game. Consumable healing items all too often require you to start farming items for repeated boss attempts, and it takes half of the game before the Estus flask is capable of keeping up with boss attempts. The Soul Memory system, where you are matched to other players based on how many total souls you've earned, not what level you are, could lead to players getting stuck and falling behind, unable to summon help if needed. The bosses were a step up, in that none felt horrible to fight the way a number did in Dark Souls I. But there were few that were as memorable as some of the fights from Bloodborne or Dark Souls III, and the final bosses are forgettable in every manner.
+
+Dark Souls II was quite a wonderful surprise after hearing all of negativity surrounding it. It is a game that I look forward to doing a New Game + run through. It is in my current top 3 Souls games, close to Bloodborne and Dark Souls III in that regard.
 
 ## Dark Souls III
 
