@@ -1,0 +1,35 @@
+html {
+    background-color: rgba(28, 28, 28, 1);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+        height: -webkit-fill-available;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 0;
+    width: 85%;
+}
+
+h1 {
+    color:  white;
+    font-family: "sansation-light", sans-serif;
+    font-size: 4rem;
+    margin: 0;
+    text-align: center;
+}
+
+@font-face {
+    font-family: "sansation-light";
+    src: local("Sansation Light"),
+         url("sansation-light.woff2");
+
+}
