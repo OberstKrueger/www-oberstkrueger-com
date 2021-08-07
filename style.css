@@ -43,3 +43,9 @@ h1 {
          url("sansation-light.woff2");
 
 }
+
+@media (min-width: 50rem) {
+    h1 {
+        font-size: 5rem;
+    }
+}
