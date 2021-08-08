@@ -533,7 +533,7 @@
 <h3>Past Computing Devices</h3>
 <p>For the past month, I have been going researching as much as I can about all of the <a href="https://krueger.report/past-computing-devices/">past computing devices</a> that I have used throughout my life. This includes as desktop and laptop computers, smartphones, smartwatches, and tablets. It was interesting figuring out what I have used in the past. The specific models of my first two computers were impossible to locate, although I think I did get close on the second computer, and the timeline for my GPU upgrades might be missing an entry, but overall, I think I found everything else that I have used in my life. Video game consoles are not currently included, but I do plan to go back and add them at some point.</p>
 <h3>WWDC 2020</h3>
-<p><a href="https://krueger.report/all-about-the-mac/wwdc-2020/">WWDC 2020</a> is one of the most important computer events for me each year. I have never published any thoughts about it before, reserving that for conversations with friends. This year, marking the new big platform transition announced, I decided to expand my thoughts into a piece so I can later refer back to what excited me and what concerned me about this year's events.</p>
+<p><a href="https://krueger.report/wwdc-2020/">WWDC 2020</a> is one of the most important computer events for me each year. I have never published any thoughts about it before, reserving that for conversations with friends. This year, marking the new big platform transition announced, I decided to expand my thoughts into a piece so I can later refer back to what excited me and what concerned me about this year's events.</p>
 <h3>Page Updates</h3>
 <p><a href="https://krueger.report/notes-on-final-fantasy-xiv/">Notes on Final Fantasy XIV</a> was updated to list all of the entries in chronological order. Initially, all of the raids and trials were in alphabetical order, but due there now being so many entries, search is required anyways to find a specific one quickly. Therefore, having it in chronological order is helpful for knowing what is missing and what is not.</p>
 <h3>Favorite Articles</h3>
@@ -2448,7 +2448,7 @@
 <content type="html">
 <![CDATA[
 <h3>Setting Up Homebrew</h3>
-<p>Homebrew is one of my most used utilities on macOS. <a href="https://krueger.report/all-about-the-mac/setting-up-homebrew">Setting Up Homebrew</a> is both a quick guide for setting up Homebrew from scratch and a reference for its most used commands.</p>
+<p>Homebrew is one of my most used utilities on macOS. <a href="https://krueger.report/setting-up-homebrew">Setting Up Homebrew</a> is both a quick guide for setting up Homebrew from scratch and a reference for its most used commands.</p>
 <h3>Updates</h3>
 <p>I have added current screenshots of both my iOS and macOS workspaces to <a href="https://krueger.report/about-the-author/">About The Author</a>. Monthly updates to this are my intention, so that I can see how my workspaces change with time.</p>
 <h3>Books Read</h3>
