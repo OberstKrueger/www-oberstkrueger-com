@@ -5,25 +5,6 @@ type: page
 updated: 2020-12-31T18:05Z
 ---
 
-## 2021
-
-### Favorite Games
-
-- Demon's Souls (2020)
-- Subnautica: Below Zero
-- It Takes Two
-
-- Bloodborne, if it gets a PS5 upgrade, or a PC release.
-
-### Favorite Albums
-
-- Subnautica: Below Zero
-
-<figure>
-    <img src="/images/years-in-review_music-2021.jpg">
-    <figcaption>Favorite music of 2021</figcaption>
-</figure>
-
 ## 2020
 
 ### Favorite Games
