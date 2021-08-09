@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-07-12T40:45Z
+updated: 2021-08-09T21:30Z
 ---
 
 | Name | Platform(s) |
@@ -138,6 +138,7 @@ updated: 2021-07-12T40:45Z
 | [DUST 514](https://en.wikipedia.org/wiki/Dust_514) | [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) |
 | [Earthworm Jim](https://en.wikipedia.org/wiki/Earthworm_Jim) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
 | [Earthworm Jim 2](https://en.wikipedia.org/wiki/Earthworm_Jim_2) | [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) |
+| [Edge of Eternity](https://www.eoegame.com) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Ehrgeiz: God Bless the Ring](https://en.wikipedia.org/wiki/Ehrgeiz) | [PlayStation](https://en.wikipedia.org/wiki/PlayStation) |
 | [The Elder Scrolls III: Bloodmoon](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Bloodmoon) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [The Elder Scrolls III: Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind) | [PC](https://en.wikipedia.org/wiki/PC_game) |
