@@ -2,7 +2,7 @@
 created: 2018-08-28T17:30Z
 title: Simplifying the Smartphone
 type: page
-updated: 2018-08-28T17:40Z
+updated: 2021-08-12T02:50Z
 ---
 
 In April of 2017, a startup called [Siempo aimed to create a smartphone designed around not being a distraction](https://medium.com/@getsiempo/siempo-experiences-a-sneak-peak-f01ca74056e6). The idea they presented was intriguing and introduced some features that were unheard of in any smartphone.
@@ -47,10 +47,7 @@ With all of these changes, my iPhone now functions similar to what the Siempo ph
 
 With all of that said, my current iPhone homescreen looks like this:
 
-<figure class='half'>
-    <img src='/images/simplifying-the-smartphone_homescreen.png'>
-    <figcaption>My simplified iPhone homescreen</figcaption>
-</figure>
+<img src='/images/simplifying-the-smartphone_homescreen.png' alt='My simplified iPhone homescreen'>
 
 The apps visible on the home screen are the ones I interact with directly. Everything else is tucked away into the bottom app folder.
 

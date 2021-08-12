@@ -17,7 +17,7 @@ $lineHeight: 1.375;
 $textJustify: 32rem;
 $textWidth: 40rem;
 
-$imgWidth: 64rem;
+$imgWidth: 40rem;
 $textLongest: 21.5rem;
 
 /*
@@ -268,82 +268,6 @@ ul {
 /*
     MEDIA
 */
-figure {
-    margin: 0 auto ($lineHeight + rem);
-    max-width: $imgWidth;
-    padding: 0;
-    width: 100%;
-    figcaption {
-        font-size: 0.75rem;
-        margin: ((($lineHeight - 0.75) / 2) + rem) auto;
-        text-align: center;
-    }
-    img {
-        box-shadow: 0 1rem 2rem black;
-        margin-bottom: 0;
-        @media (min-width: $imgWidth) {
-            border-radius: $borderRadius;
-        }
-    }
-    &.half {
-        max-width: $textWidth;
-        width: 90%;
-        img {
-            border-radius: $borderRadius;
-        }
-    }
-    &.halfLeft {
-        margin: 0 auto;
-        max-width: $textWidth;
-        width: 90%;
-        img {
-            border-radius: $borderRadius;
-            float: left;
-            margin-right: 0.5rem;
-            width: 50%;
-        }
-    }
-    &.halfRight {
-        margin: 0 auto 0.5rem;
-        max-width: $textWidth;
-        width: 90%;
-        img {
-            border-radius: $borderRadius;
-            float: right;
-            margin-left: 0.5rem;
-            width: 50%;
-        }
-    }
-    &.quarter {
-        max-width: $textWidth / 2;
-        width: 25%;
-        img {
-            border-radius: $borderRadius;
-        }
-    }
-    &.quarterLeft {
-        margin: 0 auto 0.5rem;
-        max-width: $textWidth;
-        width: 90%;
-        img {
-            border-radius: $borderRadius;
-            float: left;
-            margin-right: 0.5rem;
-            width: 25%;
-        }
-    }
-    &.quarterRight {
-        margin: 0 auto 0.5rem;
-        max-width: $textWidth;
-        width: 90%;
-        img {
-            border-radius: $borderRadius;
-            float: right;
-            margin-left: 0.5rem;
-            width: 25%;
-        }
-    }
-}
 
 img {
     display: block;
