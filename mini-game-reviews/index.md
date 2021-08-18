@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2021-08-12T02:50Z
+updated: 2021-08-18T01:10Z
 ---
 
 ## Beautiful Desolation
@@ -270,6 +270,18 @@ What is most striking about the game to me is the art direction of it. Subnautic
 Subnautica does a great job of giving hints of the way forward without ever forcing you to do so. The world is open to exploration at the player's leisure. The one catch to this is that resources in the game do no respawn. A part of the ocean can be over-fished, or mineral resources tapped completely. This pushes the player to try and live more sustainably, or to go to further depths to explore. There are a lot of options available, all equally right in how you want to approach accomplishing your goal.
 
 Unknown Worlds Entertainment created an amazing experience in this game. By the end, I was happy to have explored the game so thoroughly, but sad that it was ending. I know it will be hard game to go back and play again, as much of the mystery will be gone. But the memories I gained through my first playthrough are still vivid in my mind, even months after playing. No other game has had exploration that felt as rewarding as this one, nor created a world that will stick in my mind for a long time to come.
+
+## Subnautica: Below Zero
+
+<img src="/images/mini-game-reviews_subnautica-below-zero.jpg" alt="Screenshot of Subnautica: Below Zero">
+
+As the sequel to one of the few survival games to click with me, Subnautica: Below Zero was instantly on my radar since the first announcement. Unknown Worlds is a developer that I trust to purchase everything from, as every work of theirs has been something that I enjoyed. The original Subnautica had a long Steam Early Access period that I missed out on, so I decided to jump in as soon as I could, making this game the first one that I played for an extended beta.
+
+This is a brilliant sequel to Subnautica. While it is a stand-alone game, it works better playing it after having played the first game. The gameplay is the same, but with more tools to play around with. The world is smaller, but more focused on providing a more concrete story than the original game had. This does lead to them being difference experiences, with Below Zero being story-focused and the original being exploration focused. Playing them in release order helps with the flow, as the exploration and experimentation of the original is the focus of the game, whereas the story fills in for how an experienced player will progress quicker.
+
+When the game originally launched into Early Access in January 2019, I dove in. The familiar gameplay let me get started quickly, and experience the new elements right away. The story of the game, while incomplete at the initial launch, was much more apparent than the story of the original. The game presents a direction for you to explore right away, with many more logs and communications with living people than the original had. Throughout Early Access, the world was expanded and areas completed, but there was no major changes to the landmasses. Near the end of 2019, Unknown Worlds announced that the story would be completely overhauled, with some elements moving forward but most of it changing. This was interesting, as I enjoyed the original story, but being able to experience the same world with a new story would be fun too. The final story that Unknown Worlds finished the game with is good, but I am glad I had the opportunity to experience the game twice: with the old story and with the final story.
+
+Despite being a relatively short game, my journey with Subnautica: Below Zero was over a nearly 2.5 year period. I played multiple saves under the original storyline, and then once through with the new storyline near the end of Early Access. As said earlier, this is a worthy sequel to the original game, and every element of it is well-executed, but part of what made the original Subnautica so brilliant is the experience of the first playthrough. The world is intimidating and scary, especially as a new player, and while that wanes towards the end of the game, it is not like the complete comfortableness that you feel in Below Zero. There was never a time that I felt a sense of foreboding, wondering what was around the corner deep inside of a cave, as I already had all of the knowledge and tools to deal with any challenge that would be presented. I am glad Unknown Worlds did not try to recreate that experience, as the direction they went feels better for a sequel. But the original Subnautica will hold a special place for me that this sequel can not touch.
 
 ## Tyranny
 
