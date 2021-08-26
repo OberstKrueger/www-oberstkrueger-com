@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-08-09T21:30Z
+updated: 2021-08-26T02:15Z
 ---
 
 | Name | Platform(s) |
@@ -255,6 +255,7 @@ updated: 2021-08-09T21:30Z
 | [Heroes of the Storm](https://en.wikipedia.org/wiki/Heroes_of_the_Storm) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [High Speed](https://en.wikipedia.org/wiki/High_Speed_(pinball)) | [Arcade](https://en.wikipedia.org/wiki/Arcade_game) |
 | [Hitman Go](https://en.wikipedia.org/wiki/Hitman_Go) | [iPad](https://en.wikipedia.org/wiki/IPad)/[iPhone](https://en.wikipedia.org/wiki/IPhone) |
+| [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [Human Resource Machine](https://en.wikipedia.org/wiki/Human_Resource_Machine) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [I Have No Mouth and I Must Scream](https://en.wikipedia.org/wiki/I_Have_No_Mouth,_and_I_Must_Scream_(video_game)) | [PC](https://en.wikipedia.org/wiki/PC_game) |
 | [ibb and obb](https://en.wikipedia.org/wiki/Ibb_and_Obb) | [PC](https://en.wikipedia.org/wiki/PC_game) |
