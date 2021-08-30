@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-08-27T00:05Z
+updated: 2021-08-30T03:00Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -82,6 +82,7 @@ updated: 2021-08-27T00:05Z
 - [Cruis'n USA](https://en.wikipedia.org/wiki/Cruis%27n_USA)
 - [Cruis'n World](https://en.wikipedia.org/wiki/Cruis%27n_World)
 - [Cut The Rope](https://en.wikipedia.org/wiki/Cut_the_Rope)
+- [Cybeprunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077)
 - [Dance Dance Revolution SuperNova 2](https://en.wikipedia.org/wiki/Dance_Dance_Revolution_SuperNova)
 - [Dark Age of Camelot](https://en.wikipedia.org/wiki/Dark_Age_of_Camelot)
 - [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls)
