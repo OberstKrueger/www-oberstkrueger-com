@@ -7,8 +7,6 @@ updated: 2021-09-02T01:30Z
 
 ## 2021.08
 
-### Books Read
-
 ### Games Played
 
 - [Cybeprunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077)
