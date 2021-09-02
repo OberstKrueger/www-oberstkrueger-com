@@ -2,8 +2,29 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2021-08-08T02:40Z
+updated: 2021-09-02T01:30Z
 ---
+
+## 2021.08
+
+### Books Read
+
+### Games Played
+
+- [Cybeprunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077)
+- [Edge of Eternity](https://www.eoegame.com)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [Grim Dawn](https://en.wikipedia.org/wiki/Grim_Dawn)
+- [Guild Wars Prophecies](https://en.wikipedia.org/wiki/Guild_Wars_(video_game))
+- [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn)
+
+### Movies Watched
+
+- [The Suicide Squad](https://en.wikipedia.org/wiki/The_Suicide_Squad_(film))
+
+### Page Updates
+
+- [Mini Game Reviews](https://krueger.report/mini-game-reviews): Added Darks Souls II and Subnautica: Below Zero.
 
 ## 2021.07
 
