@@ -7,7 +7,7 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2021-08-01T13:50Z</updated>
+<updated>2021-09-02T01:30Z</updated>
 
 <!--
 <entry>
@@ -26,9 +26,42 @@
 </content>
 </entry>
 -->
+<entry>
+<title>Updates For August, 2021</title>
+<author>
+<name>Krueger</name>
+</author>
+<link href="https://krueger.report/updates" />
+<id>https://krueger.report/updates/202108</id>
+<published>2021-09-02T01:30Z</published>
+<updated>2021-09-02T01:30Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2021.08</h2>
+<h3>Books Read</h3>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Cyberpunk_2077">Cybeprunk 2077</a></li>
+<li><a href="https://www.eoegame.com">Edge of Eternity</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Grim_Dawn">Grim Dawn</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Guild_Wars_(video_game)">Guild Wars Prophecies</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Horizon_Zero_Dawn">Horizon Zero Dawn</a></li>
+</ul>
+<h3>Movies Watched</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/The_Suicide_Squad_(film)">The Suicide Squad</a></li>
+</ul>
+<h3>Page Updates</h3>
+<ul>
+<li><a href="https://krueger.report/mini-game-reviews">Mini Game Reviews</a>: Added Darks Souls II and Subnautica: Below Zero.</li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
-<title>Updates For July 2021</title>
+<title>Updates For July, 2021</title>
 <author>
 <name>Krueger</name>
 </author>
