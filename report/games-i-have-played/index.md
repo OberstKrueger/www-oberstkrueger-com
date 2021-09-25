@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-08-30T03:00Z
+updated: 2021-09-25T12:45Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -95,6 +95,7 @@ updated: 2021-08-30T03:00Z
 - [Dear Esther](https://en.wikipedia.org/wiki/Dear_Esther)
 - [Dear Esther: Landmark Edition](https://en.wikipedia.org/wiki/Dear_Esther)
 - [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding)
+- [Deathloop](https://en.wikipedia.org/wiki/Deathloop)
 - [DEFCON](https://en.wikipedia.org/wiki/DEFCON_(video_game))
 - [Demon's Souls (2020)](https://en.wikipedia.org/wiki/Demon%27s_Souls_(2020_video_game))
 - [Depression Quest](https://en.wikipedia.org/wiki/Depression_Quest)
