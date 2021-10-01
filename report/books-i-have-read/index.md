@@ -2,7 +2,7 @@
 created: 2017-06-11T13:30Z
 title: Books I Have Read
 type: page
-updated: 2021-10-01T12:05Z
+updated: 2021-10-01T12:15Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -68,6 +68,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Gibson, William - The Peripheral
 - Gibson, William - Virtual Light
 - Gibson, William - Zero History
+- Hardy, Thomas - Far from the Madding Crowd
 - Howrey, Meg - The Wanderers
 - Leroux, Gaston - The Phantom of the Opera
 - Lewis, C.S. - The Chronicles of Narnia
