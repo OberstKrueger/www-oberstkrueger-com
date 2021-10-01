@@ -2,8 +2,21 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2021-09-02T01:30Z
+updated: 2021-10-01T11:55Z
 ---
+
+## 2021.09
+
+### Books Read
+
+- Mack, Katie - The End of Everything (Astrophysically Speaking)
+
+### Games Played
+
+- [Cybeprunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077)
+- [Deathloop](https://en.wikipedia.org/wiki/Deathloop)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn)
 
 ## 2021.08
 
