@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-09-25T12:45Z
+updated: 2021-10-01T12:00Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -371,6 +371,7 @@ updated: 2021-09-25T12:45Z
 - [Paperboy](https://en.wikipedia.org/wiki/Paperboy_(video_game))
 - [Papers, Please](https://en.wikipedia.org/wiki/Papers,_Please)
 - [Path of Exile](https://en.wikipedia.org/wiki/Path_of_Exile)
+- [Pathfinder: Kingmaker](https://en.wikipedia.org/wiki/Pathfinder:_Kingmaker)
 - [Perfect Dark](https://en.wikipedia.org/wiki/Perfect_Dark)
 - [Pillars of Eternity](https://en.wikipedia.org/wiki/Pillars_of_Eternity)
 - [Pillars of Eternity: White March](https://en.wikipedia.org/wiki/Pillars_of_Eternity:_The_White_March)
