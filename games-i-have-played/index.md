@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-10-01T12:00Z
+updated: 2021-10-12T02:05Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -342,6 +342,7 @@ updated: 2021-10-01T12:00Z
 - [Metal Gear Solid 4: Guns of the Patriots](https://en.wikipedia.org/wiki/Metal_Gear_Solid_4:_Guns_of_the_Patriots)
 - [Metroid](https://en.wikipedia.org/wiki/Metroid_(video_game))
 - [Metroid II: Return of Samus](https://en.wikipedia.org/wiki/Metroid_II:_Return_of_Samus)
+- [Metroid Dread](https://en.wikipedia.org/wiki/Metroid_Dread)
 - [Mighty Morphin Power Rangers](https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers_(video_game)#Super_NES)
 - [Mike Tyson's Punch-Out!!](https://en.wikipedia.org/wiki/Punch-Out!!_(NES))
 - [Minecraft](https://en.wikipedia.org/wiki/Minecraft)
