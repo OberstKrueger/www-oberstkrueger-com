@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2021-08-18T01:10Z
+updated: 2021-10-17T02:55Z
 ---
 
 ## Beautiful Desolation
@@ -322,3 +322,35 @@ The game is structured as a series of short stories. Each one is about the life 
 What separates this game from others is its visual acumen. The game is the most visually appealing walking simulator that I have played, with a wide range of graphical styles present. From the realistic visuals of the house, to the comic styles of Barbara's story, to the imaginary dream world of Lewis' story, there is much to enjoy in this department. Additionally, Jeff Russo does an amazing job with creating a soundtrack that fits the overall theme of the stories being told.
 
 Like most games in this genre, it is short. The whole game can be experienced in about 2 hours total, and it is best played through in one sitting.
+
+## The 7th Guest
+
+<img src='/images/mini-game-reviews_the-7th-guest.jpg' alt='Screenshot of The 7th Guest'>
+
+The 7th Guest was a technological marvel for its time. All of the games that I
+had played previously were simpler 2D sprites or basic 3D polygons with no
+textures. This game had full-motion video, pre-rendered 3D models that moved,
+fully voice-acted, and came on a CD-ROM instead of a collection of floppy
+discs. It was a unique game for its time, one of the first to require a CD-ROM.
+Being young and into huge technological leaps, the game interested me for this
+reason alone, but the rest of the game stuck with me for long after.
+
+This was the first puzzle game of this nature that I played. The closest to
+this that I had played previously was entries in the King's Quest and Space
+Quest series. The puzzles in The 7th Guest are more logical in nature,
+involving word puzzles, chess-based puzzles, and other types of manipulations
+of devices to arrive at a specific solution. Most of the puzzles are fun to
+work through, and back during its release, I recall taking notes about
+different aspects to solve them.
+
+The most lasting element of the game for me is the character of Henry Stauf. He
+is wonderfully portrayed by Robert Hirschboeck. From his introduction until the
+end of the game, he haunts you, taunting your failures as you work through his
+mansion and his puzzles. Hirschboeck plays him as an over-the-top lunatic. From
+his maniacle laugh to his constant riddles, the character has become one of my
+favorite game antagonists of this era.
+
+I have played The 7th Guest many times over the years. Each time, I enjoy it
+thoroughly. Every element of it is great and holds up well. while I usually do
+not get into big horror binges during October, this game is loaded up most
+Halloweens for a quick jaunt into the creepy halls of Stauf's mansion.
