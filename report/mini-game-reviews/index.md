@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2021-10-17T02:55Z
+updated: 2021-10-21T12:20Z
 ---
 
 ## Beautiful Desolation
@@ -354,3 +354,17 @@ I have played The 7th Guest many times over the years. Each time, I enjoy it
 thoroughly. Every element of it is great and holds up well. while I usually do
 not get into big horror binges during October, this game is loaded up most
 Halloweens for a quick jaunt into the creepy halls of Stauf's mansion.
+
+## The 11th Hour
+
+<img src='/images/mini-game-reviews_the-11th-hour.jpg' alt='Screenshot of The 11th Hour'>
+
+As the sequel to The 7th Guest, The 11th Hour has a lot to live up to. Unfortunately, it did a poor job of living up to its predecessor.
+
+The best parts of the game are the puzzles that are well designed and challenging, and Robert Hirschboeck's portrayal of Stauf. His script size increased with this game, and his taunting of you throughout is a lot of fun. It's unfortunate the rest of the returning cast from The 7th Guest weren’t given the same level of care, relegated to short cameos with no impact on the plot.
+
+The story is a huge letdown. The 7th Guest did not have the most original of plots, but it felt organic while you explored the mansion and, most importantly, it never overstayed its welcome. It was campy and over-the-top in a good way. The 11th Hour spent most of its story outside of the mansion. It was separate from the main game, and the two stories did not come together in any sort of satisfying way.
+
+The scavenger hunt part of the game was a drag on it. Some of the clues are clever, but many are obtuse, and I did not have much fun with this part of it. It might have been better if there were less of them. There were around 4-5 hunts per puzzle to solve, which feels like they were padding the game length. The game at least makes it easy to skip past them if that’s your prerogative.
+
+I’m glad I finally played it through to the end. It’s not a horrible game, but definitely a let down after the original.
