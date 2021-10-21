@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-10-12T02:05Z
+updated: 2021-10-21T12:25Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -134,6 +134,7 @@ updated: 2021-10-12T02:05Z
 - [Duck Hunt](https://en.wikipedia.org/wiki/Duck_Hunt)
 - [Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D)
 - [Duke Nukem Forever](https://en.wikipedia.org/wiki/Duke_Nukem_Forever)
+- [Dungeon Encounters](https://store.steampowered.com/app/1451080/DUNGEON_ENCOUNTERS/)
 - [Dungeons of Dredmor](https://en.wikipedia.org/wiki/Dungeons_of_Dredmor)
 - [DUST 514](https://en.wikipedia.org/wiki/Dust_514)
 - [Earthworm Jim](https://en.wikipedia.org/wiki/Earthworm_Jim)
