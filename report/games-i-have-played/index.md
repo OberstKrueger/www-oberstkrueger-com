@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-10-21T12:25Z
+updated: 2021-10-25T12:25Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -191,6 +191,7 @@ updated: 2021-10-21T12:25Z
 - [Final Fantasy V](https://en.wikipedia.org/wiki/Final_Fantasy_V)
 - [Final Fantasy VI](https://en.wikipedia.org/wiki/Final_Fantasy_VI)
 - [Final Fantasy VII](https://en.wikipedia.org/wiki/Final_Fantasy_VII)
+- [Final Fantasy VII Remake](https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake)
 - [Final Fantasy VIII](https://en.wikipedia.org/wiki/Final_Fantasy_VIII)
 - [Final Fantasy IX](https://en.wikipedia.org/wiki/Final_Fantasy_IX)
 - [Final Fantasy X](https://en.wikipedia.org/wiki/Final_Fantasy_X)
