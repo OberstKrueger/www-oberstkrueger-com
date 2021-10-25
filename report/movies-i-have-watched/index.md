@@ -2,7 +2,7 @@
 created: 2017-08-07T20:45Z
 title: Movies I Have Watched
 type: page
-updated: 2020-08-09T21:35Z
+updated: 2020-10-25T12:20Z
 ---
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
@@ -66,6 +66,7 @@ updated: 2020-08-09T21:35Z
 - [Downfall](https://en.wikipedia.org/wiki/Downfall_(2004_film))
 - [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb](https://en.wikipedia.org/wiki/Dr._Strangelove)
 - [Dumbo](https://en.wikipedia.org/wiki/Dumbo)
+- [Dune: Part One](https://en.wikipedia.org/wiki/Dune_(2021_film))
 - [Dunkirk](https://en.wikipedia.org/wiki/Dunkirk_(2017_film))
 - [The End of Evangelion](https://en.wikipedia.org/wiki/The_End_of_Evangelion)
 - [E.T. The Extra-Terrestial](https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial)
