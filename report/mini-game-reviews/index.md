@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2021-10-21T12:20Z
+updated: 2021-10-25T13:00Z
 ---
 
 ## Beautiful Desolation
@@ -368,3 +368,15 @@ The story is a huge letdown. The 7th Guest did not have the most original of plo
 The scavenger hunt part of the game was a drag on it. Some of the clues are clever, but many are obtuse, and I did not have much fun with this part of it. It might have been better if there were less of them. There were around 4-5 hunts per puzzle to solve, which feels like they were padding the game length. The game at least makes it easy to skip past them if that’s your prerogative.
 
 I’m glad I finally played it through to the end. It’s not a horrible game, but definitely a let down after the original.
+
+## The 13th Doll
+
+<img src='/images/mini-game-reviews_the-13th-doll.jpg' alt='Screenshot of The 13th Doll'>
+
+This game was an absolute delight. As a huge fan of The 7th Guest since it was brand new, I was wary going into this, expecting it to very much feel like a fan project that was a let-down compared to what came before it. But what I found was a game that kept all of the elements that worked well in the original, polished the ones that didn't, and then took better versions of the new elements from The 11th Hour. All around, it feels like the sequel that The 11th Hour should have been from the beginning.
+
+The biggest sin of The 11th Hour was having a story that had little to do with Stauf and his mansion. The 13th Doll fixes this by the entirety of the story being based around Stauf's mansion. The characters are being tormented by Stauf, and everything is experienced from the first-person perspective, just as it was in the original. It's all the same cheesy horror that The 7th Guest had, just in higher fidelity. The writing remixes a lot of bits from the original, but not to the detriment of it. It feels like a continuation, not a rip-off like I was fearing.
+
+For the most part, the puzzles were a lot of fun. It's been a while since a new puzzle game made me want to sit down and work through these with notes. There were a few that I took my notes on them with me to work and continued to try and figure out a solution, or at least a strategy to try when I got home. Even the rare puzzle against the AI was fun, since the rules were simplified and you could more quickly focus on figuring out the AI's tactics and not deciphering the puzzle's rules.
+
+It's not as technically groundbreaking as the original, but I would say this game matches The 7th Guest in every other way. It is an incredible game if you enjoyed The 7th Guest, and is a fitting end to the whole series. Since this is likely the last time Robert Hirschboeck will get to play the character of Stauf, I am happy that the game was a strong closer for the character and the series as a whole.
