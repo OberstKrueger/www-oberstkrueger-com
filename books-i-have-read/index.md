@@ -2,7 +2,7 @@
 created: 2017-06-11T13:30Z
 title: Books I Have Read
 type: page
-updated: 2021-10-01T12:15Z
+updated: 2021-10-29T02:45Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -78,6 +78,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Pynchon, Thomas - Gravity's Rainbow
 - Pynchon, Thomas - V.
 - Shaara, Michael - The Killer Angels
+- Stead, Rebecca - When You Reach Me
 - Stephenson, Neal - Anathem
 - Stephenson, Neal - Cryptonomicon
 - Stephenson, Neal - Fall; or, Dodge in Hell
