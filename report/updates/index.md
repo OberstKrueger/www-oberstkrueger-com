@@ -2,8 +2,35 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2021-10-01T11:55Z
+updated: 2021-11-05T11:50Z
 ---
+
+## 2021.10
+
+### Books Read
+
+- Stead, Rebecca - When You Reach Me
+
+### Games Played
+
+- [Cybeprunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077)
+- [Dungeon Encounters](https://store.steampowered.com/app/1451080/DUNGEON_ENCOUNTERS/)
+- [Final Fantasy VII Remake](https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn)
+- [Metroid Dread](https://en.wikipedia.org/wiki/Metroid_Dread)
+- [Pathfinder: Kingmaker](https://en.wikipedia.org/wiki/Pathfinder:_Kingmaker)
+- [The 7th Guest](https://en.wikipedia.org/wiki/The_7th_Guest)
+- [The 11th Hour](https://en.wikipedia.org/wiki/The_11th_Hour_(video_game))
+- [The 13th Doll](https://en.wikipedia.org/wiki/The_7th_Guest#The_13th_Doll)
+
+### Movies Watched
+
+- [Dune: Part One](https://en.wikipedia.org/wiki/Dune_(2021_film))
+
+### Page Updates
+
+- [Mini Game Reviews](https://krueger.report/mini-game-reviews): The 7th Guest, The 11th Hour, The 13th Doll
 
 ## 2021.09
 

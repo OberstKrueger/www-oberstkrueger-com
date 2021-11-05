@@ -7,7 +7,7 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2021-10-01T11:55Z</updated>
+<updated>2021-11-05T11:50Z</updated>
 
 <!--
 <entry>
@@ -26,6 +26,47 @@
 </content>
 </entry>
 -->
+
+<entry>
+<title>Updates For October, 2021</title>
+<author>
+<name>Krueger</name>
+</author>
+<link href="https://krueger.report/updates" />
+<id>https://krueger.report/updates/2110</id>
+<published>2021-11-05T11:50Z</published>
+<updated>2021-11-05T11:50Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2021.10</h2>
+<h3>Books Read</h3>
+<ul>
+<li>Stead, Rebecca - When You Reach Me</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Cyberpunk_2077">Cybeprunk 2077</a></li>
+<li><a href="https://store.steampowered.com/app/1451080/DUNGEON_ENCOUNTERS/">Dungeon Encounters</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake">Final Fantasy VII Remake</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Horizon_Zero_Dawn">Horizon Zero Dawn</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Metroid_Dread">Metroid Dread</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Pathfinder:_Kingmaker">Pathfinder: Kingmaker</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_7th_Guest">The 7th Guest</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_11th_Hour_(video_game)">The 11th Hour</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_7th_Guest#The_13th_Doll">The 13th Doll</a></li>
+</ul>
+<h3>Movies Watched</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Dune_(2021_film)">Dune: Part One</a></li>
+</ul>
+<h3>Page Updates</h3>
+<ul>
+<li><a href="https://krueger.report/mini-game-reviews">Mini Game Reviews</a>: The 7th Guest, The 11th Hour, The 13th Doll</li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For September, 2021</title>
