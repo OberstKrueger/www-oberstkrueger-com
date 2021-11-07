@@ -2,7 +2,7 @@
 created: 2017-06-11T13:30Z
 title: Books I Have Read
 type: page
-updated: 2021-10-29T02:45Z
+updated: 2021-11-07T19:30Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -73,6 +73,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Leroux, Gaston - The Phantom of the Opera
 - Lewis, C.S. - The Chronicles of Narnia
 - Mitchell, David - Cloud Atlas
+- Orwell, George - Nineteen Eighty-Four
 - Penny, Laurie - Everything Belongs to the Future
 - Pynchon, Thomas - The Crying of Lot 49
 - Pynchon, Thomas - Gravity's Rainbow
