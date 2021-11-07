@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2021-10-25T13:00Z
+updated: 2021-11-07T20:00Z
 ---
 
 ## Beautiful Desolation
@@ -100,6 +100,24 @@ Most games that I play are one and done. Dark Souls III is the first game in a l
 Dear Esther is one of the first "walking simulators", and still one of the best. Everything about it is beautifully done, with a wonderful art design, somber haunting music, and a perfect narrator throughout. The underground caves that appear midway through the game are an especially memorable section of the game, with a wonderful dance between the music and the visuals creating an experience unlike most games.
 
 For those who do not like ambiguous artsy stories, Dear Esther might be found lacking. The narrator is both unreliable and appears to be jumping between multiple viewpoints, making it difficult to realize the nature of the story in one playthrough. I have played the game multiple times now, and have learned new details each time that were not presented in my previous playthroughs. The game is short, taking about an hour to complete.
+
+## Deathloop
+
+<img src='/images/mini-game-reviews_deathloop.jpg' alt='Screenshot of Deathloop'>
+
+My love for immersive sims began in 2000 with the release of the demo for Deus
+Ex. In the years since its release, Arkane Studios has come out as the modern
+masters of the genre, with their titles ranking up with the best of Looking
+Glass Studios. Deathloop is the new immersive sim game from Arkane, but it
+takes a decidedly different approach, trading in RPG elements for tighter
+gunplay, while keeping all of the typical level design and story elements that
+they have perfected over the years.
+
+More than any previous Arkane game, Deathloop exudes style. The set pieces in the game, both large and small, all paint the picture of a surreal world where there are no consequences. This has caused the participants to become more eccentric, as they know that even death will not stop them from waking up the next morning. These elements shine through in the little details especially, notes strewn across the levels and dialogue between guards. The setting being built around a 1970s design helps extend the world into a timeless bubble, one that would never be broken.
+
+The dialogue of the main characters, Colt and Julianna, is some of the best writing that Arkane has ever done. At the beginning of each level, the two verbally spar. Julianna often has the upper hand, but Colt holds his own. These dialogue sessions are not just well written, but they give great insight into the two main characters of the game, as well as the world they inhabit. Their past is hinted at regularly, more of which can be found out in the levels.
+
+Unlike other Arkane games, the pre-determined story takes the reins for how the game plays out. There is one solution to the puzzle of the game, and the freedom you are given is how you want to approach arranging the pieces for it. Arkane's previous work provided for vastly different experiences in new playthroughs. The biggest mark against Deathloop is that once the game is solved, there is not much to do but to just run through it and finish it. There is no other mystery to solve, which leads it to being a phenomenal game the first time through, but just average on any follow-up attempts.
 
 ## Demon's Souls (2020)
 
