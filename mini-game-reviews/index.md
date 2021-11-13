@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2021-11-07T20:00Z
+updated: 2021-11-13T21:45Z
 ---
 
 ## Beautiful Desolation
@@ -54,6 +54,18 @@ What impresses me the most about Counter-Strike: Global Offensive is that it is 
 This is emphasized by looking at the game's most popular map: de_dust2. The original de_dust2 was released in 2001, and quickly became a mainstay on servers. It is a well-balanced map that has not needed any major gameplay tweaks since the original version. In Counter-Strike and Counter-Strike: Source, there were servers dedicated to playing the map 24/7. Counter-Strike: Global Offensive honors this by having a map group dedicated to solely playing de_dust2, giving the same functionality.
 
 Counter-Strike is a game that I still enjoy, although I am nowhere near as good as I was back in high school. But it is still fun to play, and something I see myself going back to every so often just to experience it again. Valve's stewardship of the Counter-Strike series is impressive, and I hope that they continue to not make any fundamental changes to the series as a whole. Counter-Strike could easily remain one of the main games that everyone will have played decades into the future, if Valve continues to treat it as it currently does.
+
+## Cyberpunk 2077
+
+<img src='/images/mini-game-reviews_cyberpunk-2077.jpg' alt='Screenshot of Cyberpunk 2077'>
+
+There has been a lot of things said about Cyberpunk 2077 since its release. The reviews written at the time of release are still relevant, as the game still has many bugs, the gameplay mechanics are unbalanced, and the story feels either incomplete or only partially implemented. I won't relitigate these specific criticisms, as it has been done better elsewhere.
+
+My main criticism against the game is that it has an identity crisis. Despite being in development for so long, the developers did not know what kind of game they wanted to make. Was the aim to be a sandbox action game like Grand Theft Auto, or an immersive simulation like Deus Ex, or an open-world RPG like the Elder Scrolls Series? Was the main story supposed to be the focus like in a traditional RPG, or was the simulated world and side quests equally important?
+
+Cyberpunk 2077 feels like it is trying to be all of the above at the same time, but it fails at accomplishing any of it. The sandbox elements are barely functional, with the world simulation being non-existent and faked throughout the entire game. The immersive simulation elements are present, but the game constantly works around to ignore them, showing that it was not developed and written with them in mind originally. The open world elements are all unfinished, with quest lines not having any long-term world effects and NPCs ceasing contact with you or ignoring your past successes and failures.
+
+Since release, employees of CD Projekt Red have confirmed that development on the game was rebooted multiple times and that the technical foundation for their engine was always playing catchup to what the game developers wanted to implement. Ultimately, this game is a prime example of what happens when a game is rushed to meet deadlines at the expensive of the final product's quality. The lack of overall vision, keeping developers in silos without a good way to talk to other teams, and forcing a release when many of those working on the game thought it needed at least two more year of work led to this being a game that is not worth playing. Whether the company can eventually turn that around is yet to be seen, but the patches introduced so far have done little to make me think they can make Cyberpunk 2077 into anything like what they originally envisioned.
 
 ## Dark Souls
 
