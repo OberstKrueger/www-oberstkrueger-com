@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2021-11-13T21:45Z
+updated: 2021-11-13T22:10Z
 ---
 
 ## Beautiful Desolation
@@ -178,6 +178,19 @@ When I think of Doom, I think of a game that gives you lots of weapons and expec
 Doom Eternal skips all this. Encounters are now designed around using a bunch of extra abilities in addition to weapons. These abilities are on timers, which makes it feel more like Destiny than Doom. Level exploration is no longer required, as completing a mission is just a straight corridor through, one fight arena after the other. The only exploration is for finding easter eggs and bonuses, and even these typically do not require much exploration, just looking in the right place at the right time. The story also takes itself seriously now, unlike Doom 2016 which present the story but showed that Doomguy did not care about the shenanigans of humans. Long cutscenes are out of place in a Doom game, yet they are here regularly.
 
 At least Mick Gordon's soundtrack for this game is just as good as the previous entry's, even if the official soundtrack has a less than stellar audio mix.
+
+## Edge of Eternity
+
+<img src='/images/mini-game-reviews_edge-of-eternity.jpg' alt='Screenshot of Edge of Eternity'>
+
+Tactical roleplaying games are an underplayed genre for me. Edge of Eternity is the first one I have played in many decades.
+
+The world of Edge of Eternity is a visual treat. The environmental artists did an excellent job of creating a stunning area to explore that did not break down at all. Likewise, the audio and music fit the rest of the game well. The voice acting was decent, although none of the characters stood out as being memorable in this regard. The story was cohesive and provided a reason to move forward, but it also did not break any boundaries and there are lots of details that did not stick in my head.
+
+Despite the okay to great job with the art-side of the game, the gameplay did not hold up as well. The world looked great, but there was no room for exploration. There were not many secrets to discover, and what few existed were hidden behind puzzles that were not fun to play. The world was also not open until the very end. Previous to this, there were artificial roadblocks that made me feel like there was no point in trying to push against the game's boundaries until the very end. The combat itself was a lot of fun, but the progression systems around it were less fun. Gear progression and weapon leveling felt pointless and required grinding, and the difficulty progression was very uneven. The two main characters of the game were fine and well acted, but none of the side characters added much. This was made worse by the side characters regularly leaving the party, making it feel like there was no point
+in investing in anyone but the main two.
+
+Edge of Eternity is not a bad game, but it is not a great game either. The artists at Midgar Studios did an excellent job, but the gameplay systems needed more time to be developed. There are a lot of great ideas present in the game, but they were not fleshed out enough to turn into a great game.
 
 ## Florence
 
