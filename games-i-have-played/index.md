@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-10-25T12:25Z
+updated: 2021-11-16T03:55Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -247,6 +247,7 @@ updated: 2021-10-25T12:25Z
 - [Half-Life 2](https://en.wikipedia.org/wiki/Half-Life_2)
 - [Half-Life 2: Episode One](https://en.wikipedia.org/wiki/Half-Life_2:_Episode_One)
 - [Half-Life 2: Episode Two](https://en.wikipedia.org/wiki/Half-Life_2:_Episode_Two)
+- [Halo Infinite](https://en.wikipedia.org/wiki/Halo_Infinite)
 - [Harvest Moon](https://en.wikipedia.org/wiki/Harvest_Moon_(video_game))
 - [Hearthstone](https://en.wikipedia.org/wiki/Hearthstone_(video_game))
 - [Hellblade: Senua's Sacrifice](https://en.wikipedia.org/wiki/Hellblade:_Senua%27s_Sacrifice)
