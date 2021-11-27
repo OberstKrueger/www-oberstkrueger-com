@@ -2,7 +2,7 @@
 created: 2017-06-11T13:30Z
 title: Books I Have Read
 type: page
-updated: 2021-11-07T19:30Z
+updated: 2021-11-27T03:25Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -129,6 +129,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Greene, Brian - The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory
 - Greene, Brian - The Fabric of the Cosmos: Space, Time, and the Texture of Reality
 - Greene, Brian - The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos
+- Hawking, Stephen - A Brief History of Time: From the Big Bang to Black Holes
 - Kaku, Michio - Beyond Einstein: The Cosmic Quest for the Theory of the Universe
 - Kaku, Michio - The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind
 - Koski, Olivia & Grcevich, Jana - Vacation Guide to the Solar System: Science for the Savvy Space Traveler!
