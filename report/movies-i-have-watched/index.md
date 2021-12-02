@@ -2,7 +2,7 @@
 created: 2017-08-07T20:45Z
 title: Movies I Have Watched
 type: page
-updated: 2020-10-25T12:20Z
+updated: 2020-12-02T03:45Z
 ---
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
@@ -99,6 +99,7 @@ updated: 2020-10-25T12:20Z
 - [Gran Torino](https://en.wikipedia.org/wiki/Gran_Torino)
 - [The Grapes of Wrath](https://en.wikipedia.org/wiki/The_Grapes_of_Wrath_(film))
 - [The Great Escape](https://en.wikipedia.org/wiki/The_Great_Escape_(film))
+- [The Green Knight](https://en.wikipedia.org/wiki/The_Green_Knight_(film))
 - [The Green Mile](https://en.wikipedia.org/wiki/The_Green_Mile_(film))
 - [Guardians of the Galaxy](https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film))
 - [Guardians of the Galaxy Vol. 2](https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2)
