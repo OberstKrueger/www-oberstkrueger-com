@@ -7,7 +7,7 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2021-11-05T11:50Z</updated>
+<updated>2021-12-02T03:50Z</updated>
 
 <!--
 <entry>
@@ -26,6 +26,42 @@
 </content>
 </entry>
 -->
+
+<entry>
+<title>Updates For November, 2021</title>
+<author>
+<name>Krueger</name>
+</author>
+<link href="https://krueger.report/updates" />
+<id>https://krueger.report/updates/2111</id>
+<published>2021-12-02T03:50Z</published>
+<updated>2021-12-02T03:50Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2021.11</h2>
+<h3>Books Read</h3>
+<ul>
+<li>Hawking, Stephen - A Brief History of Time: From the Big Bang to Black Holes</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Bloodborne">Bloodborne</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cyberpunk_2077">Cybeprunk 2077</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake">Final Fantasy VII Remake</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers">Final Fantasy XIV: Shadowbringers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Halo_Infinite">Halo Infinite</a></li>
+</ul>
+<h3>Movies Watched</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/The_Green_Knight_(film)">The Green Knight</a></li>
+</ul>
+<h3>Page Updates</h3>
+<ul>
+<li><a href="https://krueger.report/mini-game-reviews">Mini Game Reviews</a>: Cyberpunk 2077, Deathloop</li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For October, 2021</title>
