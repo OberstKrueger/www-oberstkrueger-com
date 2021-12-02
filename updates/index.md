@@ -2,8 +2,30 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2021-11-05T11:50Z
+updated: 2021-12-02T03:50Z
 ---
+
+## 2021.11
+
+### Books Read
+
+- Hawking, Stephen - A Brief History of Time: From the Big Bang to Black Holes
+
+### Games Played
+
+- [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)
+- [Cybeprunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077)
+- [Final Fantasy VII Remake](https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake)
+- [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
+- [Halo Infinite](https://en.wikipedia.org/wiki/Halo_Infinite)
+
+### Movies Watched
+
+- [The Green Knight](https://en.wikipedia.org/wiki/The_Green_Knight_(film))
+
+### Page Updates
+
+- [Mini Game Reviews](https://krueger.report/mini-game-reviews): Cyberpunk 2077, Deathloop
 
 ## 2021.10
 
