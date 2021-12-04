@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-12-04T22:20Z
+updated: 2021-12-04T22:25Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -204,6 +204,7 @@ updated: 2021-12-04T22:20Z
 - [Final Fantasy XII: The Zodiac Age](https://en.wikipedia.org/wiki/Final_Fantasy_XII)
 - [Final Fantasy XIII](https://en.wikipedia.org/wiki/Final_Fantasy_XIII)
 - [Final Fantasy XIV: A Realm Reborn](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_A_Realm_Reborn)
+- [Final Fantasy XIV: Endwalker](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Endwalker)
 - [Final Fantasy XIV: Heavensward](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Heavensward)
 - [Final Fantasy XIV: Shadowbringers](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers)
 - [Final Fantasy XIV: Stormblood](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Stormblood)
