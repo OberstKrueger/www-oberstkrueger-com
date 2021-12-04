@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-11-16T03:55Z
+updated: 2021-12-04T22:20Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -152,6 +152,7 @@ updated: 2021-11-16T03:55Z
 - [The Elder Scrolls V: Skyrim](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim)
 - [Elite: Dangerous](https://en.wikipedia.org/wiki/Elite:_Dangerous)
 - [Eliza](https://en.wikipedia.org/wiki/Eliza_(video_game))
+- [Ender Lilies: Quietus of the Knights](https://en.wikipedia.org/wiki/Ender_Lilies:_Quietus_of_the_Knights)
 - [Eufloria](https://en.wikipedia.org/wiki/Eufloria)
 - [EVE Online](https://en.wikipedia.org/wiki/Eve_Online)
 - [EverQuest II](https://en.wikipedia.org/wiki/EverQuest_II)
