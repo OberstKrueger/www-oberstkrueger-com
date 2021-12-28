@@ -2,7 +2,7 @@
 created: 2017-08-07T20:45Z
 title: Movies I Have Watched
 type: page
-updated: 2020-12-02T03:45Z
+updated: 2020-12-28T03:3oZ
 ---
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
@@ -160,6 +160,7 @@ updated: 2020-12-02T03:45Z
 - [The Mask of Zorro](https://en.wikipedia.org/wiki/The_Mask_of_Zorro)
 - [The Matrix](https://en.wikipedia.org/wiki/The_Matrix)
 - [The Matrix Reloaded](https://en.wikipedia.org/wiki/The_Matrix_Reloaded)
+- [The Matrix Resurrections](https://en.wikipedia.org/wiki/The_Matrix_Resurrections)
 - [The Matrix Revolutions](https://en.wikipedia.org/wiki/The_Matrix_Revolutions)
 - [Memento](https://en.wikipedia.org/wiki/Memento_(film))
 - [Men in Black](https://en.wikipedia.org/wiki/Men_in_Black_(1997_film))
