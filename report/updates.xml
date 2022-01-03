@@ -7,7 +7,7 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2021-12-02T03:50Z</updated>
+<updated>2022-01-03T03:40Z</updated>
 
 <!--
 <entry>
@@ -26,6 +26,46 @@
 </content>
 </entry>
 -->
+
+<entry>
+<title>Updates For December, 2021</title>
+<author>
+<name>Krueger</name>
+</author>
+<link href="https://krueger.report/updates" />
+<id>https://krueger.report/updates/2112</id>
+<published>2022-01-03T03:40Z</published>
+<updated>2022-01-03T03:40Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2021.12</h2>
+<h3>Books Read</h3>
+<ul>
+<li>Kolbert, Elizabeth - Under a White Sky: The Nature of the Future</li>
+<li>Prescod-Weinstein, Chanda - The Disordered Cosmos: A Journey into Dark Matter, Spacetime, and Dreams Deferred</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Ender_Lilies:_Quietus_of_the_Knights">Ender Lilies: Quietus of the Knights</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Eve_Online">EVE Online</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake">Final Fantasy VII Remake</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Endwalker">Final Fantasy XIV: Endwalker</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Halo_Infinite">Halo Infinite</a></li>
+</ul>
+<h3>Movies Watched</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/The_Matrix">The Matrix</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Matrix_Reloaded">The Matrix Reloaded</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Matrix_Resurrections">The Matrix Resurrections</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Matrix_Revolutions">The Matrix Revolutions</a></li>
+</ul>
+<h3>Page Updates</h3>
+<ul>
+<li><a href="https://krueger.report/software-tools/">Software Tools</a>: Changed RSS reader to Reeder.</li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For November, 2021</title>
