@@ -2,8 +2,34 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2021-12-02T03:50Z
+updated: 2022-01-03T03:40Z
 ---
+
+## 2021.12
+
+### Books Read
+
+- Kolbert, Elizabeth - Under a White Sky: The Nature of the Future
+- Prescod-Weinstein, Chanda - The Disordered Cosmos: A Journey into Dark Matter, Spacetime, and Dreams Deferred
+
+### Games Played
+
+- [Ender Lilies: Quietus of the Knights](https://en.wikipedia.org/wiki/Ender_Lilies:_Quietus_of_the_Knights)
+- [EVE Online](https://en.wikipedia.org/wiki/Eve_Online)
+- [Final Fantasy VII Remake](https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake)
+- [Final Fantasy XIV: Endwalker](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Endwalker)
+- [Halo Infinite](https://en.wikipedia.org/wiki/Halo_Infinite)
+
+### Movies Watched
+
+- [The Matrix](https://en.wikipedia.org/wiki/The_Matrix)
+- [The Matrix Reloaded](https://en.wikipedia.org/wiki/The_Matrix_Reloaded)
+- [The Matrix Resurrections](https://en.wikipedia.org/wiki/The_Matrix_Resurrections)
+- [The Matrix Revolutions](https://en.wikipedia.org/wiki/The_Matrix_Revolutions)
+
+### Page Updates
+
+- [Software Tools](https://krueger.report/software-tools/): Changed RSS reader to Reeder.
 
 ## 2021.11
 
