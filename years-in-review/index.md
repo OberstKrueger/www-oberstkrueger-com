@@ -2,7 +2,7 @@
 created: 2017-01-01T15:00Z
 title: Years In Review
 type: page
-updated: 2022-01-14T13:10Z
+updated: 2022-01-14T13:25Z
 ---
 
 ## 2021
@@ -36,10 +36,7 @@ The first Subnautica was not only one of my top 2018 games, but has become one o
 - Kat Von D - Love Made Me Do It
 - Ben Prunty - Subnautica: Below Zero
 
-<figure>
-    <img src="/images/years-in-review_music-2021.jpg">
-    <figcaption>Favorite music of 2021</figcaption>
-</figure>
+<img src="/images/years-in-review_music-2021.jpg" alt="Favorite music of 2021">
 
 ### Another Pandemical Year
 
