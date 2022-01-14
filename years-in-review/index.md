@@ -2,8 +2,52 @@
 created: 2017-01-01T15:00Z
 title: Years In Review
 type: page
-updated: 2021-08-12T02:50Z
+updated: 2022-01-14T13:10Z
 ---
+
+## 2021
+
+### Favorite Games
+
+<img src="/images/years-in-review_deathloop.jpg" alt='Deathloop'>
+
+There are only a handful of developers that make games that consistently click with me, and Arkane Studios is one of those developers. Deathloop is their latest outing with a new twist on their traditional immersive sim style. Unlike their previous games, the gameplay has no deep RPG systems in it, instead relying on being an FPS with the other qualities of an immersive sim mixed in. Maintaining their core gameplay and level design competence while stepping up their abilities on world-building has led to Arkane once again producing one of my favorite games of the year.
+
+<img src="/images/years-in-review_halo-infinite.jpg" alt='Halo Infinite'>
+
+Since I have never owned an Xbox, the initial hype for the Halo series passed me by. Halo Infinite continued to not be on my radar until the release of its free multiplayer. On a whim, I downloaded it and after but a few matches, the hype for the series all made sense. The multiplayer was a lot of fun, and I put many hours into it. The game will not be one that I stick with long term, mostly due to the fact that my gaming schedule does not have a lot of room for a competitive shooter, but I enjoyed my time with it and consider it one of the highlights of the year.
+
+<img src="/images/years-in-review_metroid-dread.jpg" alt='Metroid Dread'>
+
+The last Metroid game that I played was Super Metroid on the SNES. It was a great game, but at the same time, not one that gave me a desire to explore other similar titles. Metroid Dread looked interesting, but I was not expecting how engrossed I would get from the game. Every element of the game is well done, and the gameplay is a wonderful progression over the Metroid games of old. The ambient musical style in the game reminded me of other works like Nine Inch Nail's Ghosts albums, furthering my love for the game.
+
+<img src="/images/years-in-review_subnautica-below-zero.jpg" alt='Subnautica: Below Zero'>
+
+The first Subnautica was not only one of my top 2018 games, but has become one of my top all-time games. Any follow-up to it has a high bar to reach. Subnautica: Below Zero does not quite reach the heights of its predecesor, but it does get close. The game changes focus from being a giant sandbox into a smaller focused sandbox with a heavier emphasis on story. This game has the distinction where I got to experience the game in two forms. When the game launched into early access on Steam, the story was vastly diferent from when the game reached its final version. Being able to experience the game differently twice added to my enjoyment of it. The improved base building elements were the cherry-on-top of the whole experience.
+
+### Favorite Albums
+
+- AFI - Bodies
+- Hans Zimmer - Dune
+- BlutEngel - Erlösung: The Victory of Light
+- Square Enix - Final Fantasy XIV: Death Unto Dawn
+- Theatres des Vampires - In Nomine Sanguinis
+- Lord of the Lost - Judas
+- Kat Von D - Love Made Me Do It
+- Ben Prunty - Subnautica: Below Zero
+
+<figure>
+    <img src="/images/years-in-review_music-2021.jpg">
+    <figcaption>Favorite music of 2021</figcaption>
+</figure>
+
+### Another Pandemical Year
+
+COVID-19 continued as a life-altering issue this year, in no small part thanks to a politicized anti-vaccine movement that will keep the disease in our lives for many years to come. Watching how many of the people in my work environment have continued to do everything wrong with regard to the pandemic led me down the path of rethinking if I want to continue in this line of work at all. Combined with many other issues that have cropped up over the last couple of years, the answer is that it is time for a career change.
+
+To facilitate this, 2022 is the year that I will return to school and work towards a computer engineering degree. Since my original decision to not pursue computer science when I first started university, I have resisted the urge to go into this field. Computers and technology are a fun hobby for me, and the concern has always been that turning a hobby into work might remove the joy I experience with it. At the same time, it is a field where the knowledge comes easy for me. I can pick up new concepts within it without much difficulty, and I have a desire to learn more than I currently know. With that, moving from the software side of things into the realm of hardware design will be enough of a change that it will both challenge me and show me a new side to things that I have less experience with.
+
+This will be a long journey. After the last year spent feeling idle, my hope is this change will help push me not only into a new career, but into other global possibilities.
 
 ## 2020
 
