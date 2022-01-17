@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2021-12-04T22:25Z
+updated: 2022-01-17T21:55Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -224,6 +224,7 @@ updated: 2021-12-04T22:25Z
 - [geoDefense Swarm](https://en.wikipedia.org/wiki/GeoDefense_Swarm)
 - [Giana Sisters: Twisted Dreams](https://en.wikipedia.org/wiki/Giana_Sisters:_Twisted_Dreams)
 - [Giants: Citizen Kabuto](https://en.wikipedia.org/wiki/Giants:_Citizen_Kabuto)
+- [God of War](https://en.wikipedia.org/wiki/God_of_War_(2018_video_game))
 - [GoldenEye 007](https://en.wikipedia.org/wiki/GoldenEye_007_(1997_video_game))
 - [Gone Home](https://en.wikipedia.org/wiki/Gone_Home)
 - [Gorillas](https://en.wikipedia.org/wiki/Gorillas_(video_game))
