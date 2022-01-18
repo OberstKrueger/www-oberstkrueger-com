@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2022-01-17T21:55Z
+updated: 2022-01-18T00:30Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -47,7 +47,7 @@ updated: 2022-01-17T21:55Z
 - [Black Mesa](https://en.wikipedia.org/wiki/Black_Mesa_(video_game))
 - [Blast Corps](https://en.wikipedia.org/wiki/Blast_Corps)
 - [BlazBlue: Calamity Trigger](https://en.wikipedia.org/wiki/BlazBlue:_Calamity_Trigger)
-- [Bloodborne](- [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne))
+- [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)
 - [Bloodstained: Ritual of the Night](https://en.wikipedia.org/wiki/Bloodstained:_Ritual_of_the_Night)
 - [Bomberman](https://en.wikipedia.org/wiki/Bomberman_(1983_video_game))
 - [Borderlands](https://en.wikipedia.org/wiki/Borderlands_(video_game))
@@ -316,7 +316,7 @@ updated: 2022-01-17T21:55Z
 - [LittleBigPlanet](https://en.wikipedia.org/wiki/LittleBigPlanet_(2008_video_game))
 - [Magicka](https://en.wikipedia.org/wiki/Magicka)
 - [Major League Baseball Featuring Ken Griffy Jr.](https://en.wikipedia.org/wiki/Major_League_Baseball_Featuring_Ken_Griffey_Jr.)
-- [Mario Is Missing](https://en.wikipedia.org/wiki/List_of_Mario_educational_games#Mario_is_Missing.21)
+- [Mario Is Missing](https://en.wikipedia.org/wiki/Mario_Is_Missing!)
 - [Mario Kart 64](https://en.wikipedia.org/wiki/Mario_Kart_64)
 - [Mario Paint](https://en.wikipedia.org/wiki/Mario_Paint)
 - [Mario Party](https://en.wikipedia.org/wiki/Mario_Party_(video_game))
@@ -439,7 +439,7 @@ updated: 2022-01-17T21:55Z
 - [Shadow of the Colossus](https://en.wikipedia.org/wiki/Shadow_of_the_Colossus)
 - [Shadowrun Returns](https://en.wikipedia.org/wiki/Shadowrun_Returns)
 - [Shenzhen I/O](https://en.wikipedia.org/wiki/Shenzhen_I/O)
-- [Sigil](https://www.romerogames.ie/si6il)
+- [Sigil](https://en.wikipedia.org/wiki/Sigil_(mod))
 - [SimCity](https://en.wikipedia.org/wiki/SimCity_(1989_video_game))
 - [SimCity 2000](https://en.wikipedia.org/wiki/SimCity_2000)
 - [SimCity 3000](https://en.wikipedia.org/wiki/SimCity_3000)
@@ -500,7 +500,7 @@ updated: 2022-01-17T21:55Z
 - [Super Mario World 2: Yoshi's Island](https://en.wikipedia.org/wiki/Yoshi%27s_Island)
 - [Super Meat Boy](https://en.wikipedia.org/wiki/Super_Meat_Boy)
 - [Super Metroid](https://en.wikipedia.org/wiki/Super_Metroid)
-- [Super Scope 6](https://en.wikipedia.org/wiki/Super_Scope_6V)
+- [Super Scope 6](https://en.wikipedia.org/wiki/Super_Scope_6)
 - [Super Smash Bros.](https://en.wikipedia.org/wiki/Super_Smash_Bros._(video_game))
 - [Super Smash Bros. Brawl](https://en.wikipedia.org/wiki/Super_Smash_Bros._Brawl)
 - [Super Smash Bros. For Wii U](https://en.wikipedia.org/wiki/Super_Smash_Bros._for_Nintendo_3DS_and_Wii_U)

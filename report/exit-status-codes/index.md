@@ -2,12 +2,12 @@
 created: 2018-07-21T00:30Z
 title: Exit Status Codes
 type: page
-updated: 2020-06-30T17:25Z
+updated: 2021-01-18T00:20Z
 ---
 
 On all [Unix](https://en.wikipedia.org/wiki/Unix) operating systems, every time a process exits, it returns an [exit status](https://en.wikipedia.org/wiki/Exit_status) that tells the operating system whether the process ran successfully or encountered some sort of failure mode. Implementing these exit statuses is important so that the tool can interact with the rest of the system in an expected way.
 
-The [POSIX](https://en.wikipedia.org/wiki/POSIX) standards declares that the exit status for an executable is a 32-bit integer, meaning the value can be between 0 and 2,147,483,647. [The Single Unix Specification](http://www.unix.org/what_is_unix/single_unix_specification.html) declares that an exit status only pulls from the final 8-bits of whatever exit status is presented, effectively making it an 8-bit unsigned integer. Since most tools created are aiming to target systems that follow both the POSIX standard and the Unix standard, restricting the exit status to being 0 through 255 allows for the best compatibility.
+The [POSIX](https://en.wikipedia.org/wiki/POSIX) standards declares that the exit status for an executable is a 32-bit integer, meaning the value can be between 0 and 2,147,483,647. [The Single Unix Specification](https://www.unix.org/what_is_unix/single_unix_specification.html) declares that an exit status only pulls from the final 8-bits of whatever exit status is presented, effectively making it an 8-bit unsigned integer. Since most tools created are aiming to target systems that follow both the POSIX standard and the Unix standard, restricting the exit status to being 0 through 255 allows for the best compatibility.
 
 ## Zero and Non-Zero
 

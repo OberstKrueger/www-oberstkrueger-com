@@ -2,10 +2,10 @@
 created: 2017-09-23T05:00Z
 title: Setting Up Homebrew
 type: page
-updated: 2018-04-12T00:10Z
+updated: 2021-01-18T00:25Z
 ---
 
-Any command-line user will know that a robust [package manager](https://en.wikipedia.org/wiki/Package_manager) is not only essential, but something that is a great advantage over your typical GUI. All of the major Linux distributions have package mangers built in: [Arch Linux](https://en.wikipedia.org/wiki/Arch_Linuxn) has [pacman](https://wiki.archlinux.org/index.php/Pacman), [Debian](https://en.wikipedia.org/wiki/Debian)-based distributions have [APT](https://en.wikipedia.org/wiki/APT_(Debian)), [Fedora](https://en.wikipedia.org/wiki/Fedora_(operating_system)) has [rpm](https://en.wikipedia.org/wiki/Rpm_(software)), and [Gentoo](https://en.wikipedia.org/wiki/Gentoo_Linux) has [Portage](https://en.wikipedia.org/wiki/Portage_(software)). But out of the box, there is no package manager for [macOS](https://en.wikipedia.org/wiki/MacOS).
+Any command-line user will know that a robust [package manager](https://en.wikipedia.org/wiki/Package_manager) is not only essential, but something that is a great advantage over your typical GUI. All of the major Linux distributions have package mangers built in: [Arch Linux](https://en.wikipedia.org/wiki/Arch_Linux) has [pacman](https://wiki.archlinux.org/index.php/Pacman), [Debian](https://en.wikipedia.org/wiki/Debian)-based distributions have [APT](https://en.wikipedia.org/wiki/APT_(Debian)), [Fedora](https://en.wikipedia.org/wiki/Fedora_(operating_system)) has [rpm](https://en.wikipedia.org/wiki/Rpm_(software)), and [Gentoo](https://en.wikipedia.org/wiki/Gentoo_Linux) has [Portage](https://en.wikipedia.org/wiki/Portage_(software)). But out of the box, there is no package manager for [macOS](https://en.wikipedia.org/wiki/MacOS).
 
 [Homebrew](https://en.wikipedia.org/wiki/Homebrew_(package_management_software)) is a community-created package manager for macOS that functions just like any other package manager for Linux. Applications are simple to install, with simple commands to do so. Dependencies are handled automatically by Homebrew, meaning one only needs to tell it to install the application they want, and all of its requirements will be installed as well. All applications can be updated with a single command. And since this all runs through the terminal, it can be scripted and runs fast compared to updates through the [Mac App Store](https://en.wikipedia.org/wiki/Mac_App_Store).
 
@@ -14,7 +14,7 @@ Any command-line user will know that a robust [package manager](https://en.wikip
 ### Prerequisites
 
 - macOS 10.10 Yosemite or higher
-- [Xcode](https://developer.apple.com/xcode/) or the Command-Line Tools installed
+- [Xcode](https://en.wikipedia.org/wiki/Xcode) or the Command-Line Tools installed
 
 ### Installation
 

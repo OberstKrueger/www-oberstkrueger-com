@@ -2,10 +2,10 @@
 created: 2017-04-25T21:30Z
 title: Vitamin B12
 type: page
-updated: 2017-09-01T05:45Z
+updated: 2021-01-20T13:20Z
 ---
 
-For over a decade now, I have been a vegetarian. One of the health concerns with being vegetarian is hypocobalaminemia, or vitamin B<sub>12</sub> deficiency. Since [most sources of B<sub>12</sub> is animal-based](http://frankhollis.com/temp/BMJ%20B12%20deficiency%20review.pdf), it can be difficult for vegans and vegetarians to acquire enough of the vitamin to satisfy the body's needs. Hypocobalaminemia causes anemia and fatigue, but the symptom that bothers me the most is damage to neurological functions.
+For over a decade now, I have been a vegetarian. One of the health concerns with being vegetarian is hypocobalaminemia, or vitamin B<sub>12</sub> deficiency. Since [most sources of B<sub>12</sub> is animal-based](https://www.bmj.com/lookup/doi/10.1136/bmj.g5226), it can be difficult for vegans and vegetarians to acquire enough of the vitamin to satisfy the body's needs. Hypocobalaminemia causes anemia and fatigue, but the symptom that bothers me the most is damage to neurological functions.
 
 Before diving too deep into this, one thing needs to be stated up front: research is scant in this area. The mechanism between B<sub>12</sub> and cognitive function is not fully understood. Much of the search is focused on older populations experiencing cognitive decline, so the results from these studies might not apply to all to those not already experiencing such decline. [Correlation between B<sub>12</sub> supplementation and cognitive improvement is weak](http://www.cochrane.org/CD004394/DEMENTIA_no-evidence-of-the-efficacy-of-vitamin-b12-supplementation-for-cognitive-function), necessitating more research be done.
 
@@ -21,7 +21,7 @@ When doing a cursory search for B<sub>12</sub> supplements at [Walgreens](https:
 
 The absorption rate of [B<sub>12</sub> injections](http://www.webmd.com/drugs/2/drug-6550/vitamin-b-12-injection/details) is significantly higher than through oral supplements. A 10 microgram injection has an absorption rate of 97%, and a 1000 microgram injection has an absorption rate of 15%. The 150 micrograms that your body would absorb from the 1000 microgram injection is enough for the average adult to last 2 months.
 
-Soylent makes up the majority of my food, and Rosa Labs specifically addresses B<sub>12</sub> levels. A full packet's worth of Soylent [includes 6 micrograms of B<sub>12</sub> in the form of cyanocobalamin](https://faq.soylent.com/hc/en-us/articles/204492985-Vitamin-B12). Rosa Labs has this to say about how they include the vitamin.
+Soylent makes up the majority of my food, and Rosa Labs specifically addresses B<sub>12</sub> levels. A full packet's worth of Soylent [includes 6 micrograms of B<sub>12</sub> in the form of cyanocobalamin](https://web.archive.org/web/20161224074743/https://faq.soylent.com/hc/en-us/articles/204492985-Vitamin-B12). Rosa Labs has this to say about how they include the vitamin.
 
 > Among the several forms of vitamin B<sub>12</sub> in existence, cyanocobalamin is the most cost-effective. At this time, research has not shown significant differences in the bioavailability of the various forms of vitamin B<sub>12</sub>. When taken solely as a supplement (in pill form, for example), there is concern that low quantities of cyanocobalamin are bonded to the Intrinsic Factor (the transport protein which enables cyanocobalamin to be absorbed in the small intestine). However, when consumed as part of a meal (as it is in Soylent), the stomach naturally releases sufficient quantities of the Intrinsic Factor to bind to 2 to 4 ug of cyanocobalamin.
 >

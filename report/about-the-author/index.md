@@ -2,15 +2,15 @@
 created: 2016-02-10T06:06Z
 title: About The Author
 type: page
-updated: 2021-07-09T01:50Z
+updated: 2022-01-18T00:20Z
 ---
 
 ## Current Computing Devices
 
 ### Gaming PC
 
-CPU: [AMD Ryzen 5 5600X](https://www.amd.com/en/products/cpu/amd-ryzen-5-5600x)<br>
-GPU: [AMD Radeon RX 6800](https://www.amd.com/en/products/graphics/amd-radeon-rx-6800)<br>
+CPU: [AMD Ryzen 5 5600X](https://en.wikipedia.org/wiki/Zen_3)<br>
+GPU: [AMD Radeon RX 6800](https://en.wikipedia.org/wiki/Radeon_RX_6000_series)<br>
 RAM: [Corsair Vengeance LPX 32 GB DDR4-3600](https://www.corsair.com/us/en/Categories/Products/Memory/VENGEANCE-LPX/p/CMK32GX4M2D3600C18)<br>
 SSD: [Samsung 980 Pro 1 TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/980-pro-pcie-4-0-nvme-ssd-250gb-mz-v8p250b-am/)<br>
 Peripherals: [LG 27UL600-W](https://www.lg.com/us/monitors/lg-27UL600-W-4k-uhd-led-monitor), [Valve Index](https://www.valvesoftware.com/en/index), [DualSense](https://en.wikipedia.org/wiki/DualShock#DualSense)

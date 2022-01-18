@@ -2,7 +2,7 @@
 created: 2017-06-04T19:20Z
 title: Podcasts I Have Listened To
 type: page
-updated: 2020-04-15T18:10Z
+updated: 2021-01-20T13:00Z
 ---
 
 **Accidental Tech Podcast**: [Site](http://atp.fm)<br>
@@ -10,7 +10,7 @@ updated: 2020-04-15T18:10Z
 Three nerds discussing tech, Apple, programming, and loosely related matters.
 
 **Advice For And From The Future**: [Site](https://www.futureadvice.club)<br>
-**Host**: [Rose Eveleth](http://roseveleth.com)<br>
+**Host**: [Rose Eveleth](https://roseveleth.com)<br>
 Tomorrow’s questions, answered today.
 
 **The Bike Shed**: [Site](http://bikeshed.fm)<br>
@@ -18,7 +18,7 @@ Tomorrow’s questions, answered today.
 On The Bike Shed, hosts Derek Prior, Sean Griffin, Amanda Hill, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week..
 
 **Cortex**: [Site](https://www.relay.fm/cortex)<br>
-**Hosts**: [CGP Grey](http://www.cgpgrey.com/), [Myke Hurley](http://mykewasright.com)<br>
+**Hosts**: [CGP Grey](https://www.cgpgrey.com/), [Myke Hurley](http://mykewasright.com)<br>
 CGP Grey and Myke Hurley are both independent content creators. Each episode, they get together to discuss their working lives.
 
 **Criminal**: [Site](http://thisiscriminal.com)<br>
@@ -30,7 +30,7 @@ Criminal is a podcast about crime. Not so much the "if it bleeds, it leads," kin
 Nate Silver and the FiveThirtyEight team cover the latest in politics, tracking the issues and “game-changers” every week.
 
 **Flash Forward**: [Site](http://www.flashforwardpod.com)<br>
-**Host**: [Rose Eveleth](http://roseveleth.com)<br>
+**Host**: [Rose Eveleth](https://roseveleth.com)<br>
 A show about possible and not so possible futures. From space pirates to conscious robots to the end of antibiotics.
 
 **The Haskell Cast**: [Site](http://www.haskellcast.com)<br>
@@ -58,7 +58,7 @@ A short, weekly podcast about spaceflight, exploration, policy, and strategy in 
 Material is a weekly discussion about the Google and Android universe. Your intrepid hosts try to answer the question, “What holds up the digital world?” The answer, so far, is that it’s Google all the way down.
 
 **The Menu Bar**<br>
-**Hosts**: [Zac Cichy](https://twitter.com/zcichy), [Andrew J. Clark](http://www.andrewjclark.com.au)<br>
+**Hosts**: [Zac Cichy](https://twitter.com/zcichy), [Andrew J. Clark](https://www.andrewjclark.com.au)<br>
 A place to relax, talk tech, and drink.
 
 **The Minimalists**: [Site](http://www.theminimalists.com/podcast/) / [Wiki](https://en.wikipedia.org/wiki/The_Minimalists)<br>
@@ -66,11 +66,11 @@ A place to relax, talk tech, and drink.
 Joshua Fields Millburn & Ryan Nicodemus discuss living a meaningful life with less.
 
 **Mixed Feelings**: [Site](https://www.relay.fm/mixedfeelings)<br>
-**Hosts**: [Gillian Parker](https://gillianslongisland.wordpress.com), [Quinn Rose](http://aspiringrobot.com)<br>
+**Hosts**: [Gillian Parker](https://gillianslongisland.wordpress.com), [Quinn Rose](https://aspiringrobot.com)<br>
 A show about news, politics and pop culture. Every episode, your hosts talk about their favorite stories of the week … and probably at least one random current event that has nothing to do with anything.
 
 **Noclip**: [Site](http://noclippodcast.libsyn.com)<br>
-**Host**: [Danny O'Dwyer](https://mobile.twitter.com/dannyodwyer)<br>
+**Host**: [Danny O'Dwyer](https://twitter.com/dannyodwyer)<br>
 Dispatches from the world of video games. Noclip dives deep into the heart of gaming and tells you the stories behind the code.
 
 **Note To Self**: [Site](http://www.wnyc.org/shows/notetoself/) / [Wiki](https://en.wikipedia.org/wiki/Note_To_Self)<br>
@@ -125,14 +125,14 @@ From development and design to marketing and support, Under the Radar is all abo
 **Host**: [Jen Simmons](http://jensimmons.com)<br>
 Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up.
 
-**Welcome To Macintosh**: [Site](http://www.macintosh.fm)<br>
+**Welcome To Macintosh**: [Site](https://www.macintosh.fm)<br>
 **Host**: [Mark Bramhill](http://markbramhill.com)<br>
 A show about Apple and the community around it — the fanatics, the haters, the app makers, and the former employees. Join host Mark Bramhill for stories about the outsized impact the world's largest corporation has on all of our lives.
 
-**The West Wing Weekly**: [Site](http://thewestwingweekly.com) / [Wiki](https://en.wikipedia.org/wiki/The_West_Wing_Weekly)<br>
+**The West Wing Weekly**: [Site](https://thewestwingweekly.com) / [Wiki](https://en.wikipedia.org/wiki/The_West_Wing_Weekly)<br>
 **Hosts**: [Hrishikesh Hirway](https://en.wikipedia.org/wiki/Hrishikesh_Hirway), [Joshua Malina](https://en.wikipedia.org/wiki/Joshua_Malina)<br>
 An episode-by-episode discussion of The West Wing, one of television’s most beloved shows, co-hosted by one of its stars, Joshua Malina, along with Hrishikesh Hirway of Song Exploder.
 
 **You Are Not So Smart**: [Site](https://youarenotsosmart.com/podcast/)<br>
-**Host**: [David McRaney](http://davidmcraney.com)<br>
+**Host**: [David McRaney](https://www.davidmcraney.com)<br>
 You Are Not So Smart is a celebration of self delusion that explores topics related to cognitive biases, heuristics, and logical fallacies. David McRaney interviews scientists about their research into how the mind works, and then he eats a cookie.

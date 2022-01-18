@@ -13,7 +13,7 @@ Since most of my gaming is on the PC, I wanted to look at all of the platforms t
 
 There are two main ways to play Blizzard games: download the individual clients from the [Battle.net](http://us.battle.net/en/) website, or download the [Blizzard Desktop App](http://us.battle.net/en/app/). Unfortunately, Blizzard [mandated the use of the Blizzard Desktop App for all of their modern games](http://us.battle.net/wow/en/blog/14568367/upgrade-to-the-battlenet®-desktop-app-6-24-2014). Even games like [World of Warcraft](http://us.battle.net/wow/en/) that launched before the Desktop App existed are forced to use the Blizzard Desktop App.
 
-The only games that do not require the Desktop app are Blizzard's repetoire of classic games: [Diablo 2](http://classic.battle.net/diablo2exp/), [Starcraft](http://classic.battle.net/scc/), and [Warcraft 3](http://classic.battle.net/war3/).
+The only games that do not require the Desktop app are Blizzard's repetoire of classic games: [Diablo II](https://en.wikipedia.org/wiki/Diablo_II), [StarCraft](https://en.wikipedia.org/wiki/StarCraft_(video_game)), and [Warcraft III](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos).
 
 The key problem with the Blizzard Desktop App is that it does not allow you to disable any of the social features. When logged in, there are three options available for the friends list: Online, Away, and Busy. All of these options will have you show up one way or another to everyone on your friends list. The only way to not show up as online in some form is to log out or close the application.
 

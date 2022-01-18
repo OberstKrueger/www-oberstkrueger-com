@@ -2,10 +2,10 @@
 created: 2018-08-28T17:30Z
 title: Simplifying the Smartphone
 type: page
-updated: 2021-08-12T02:50Z
+updated: 2021-01-20T13:05Z
 ---
 
-In April of 2017, a startup called [Siempo aimed to create a smartphone designed around not being a distraction](https://medium.com/@getsiempo/siempo-experiences-a-sneak-peak-f01ca74056e6). The idea they presented was intriguing and introduced some features that were unheard of in any smartphone.
+In April of 2017, a startup called [Siempo aimed to create a smartphone designed around not being a distraction](https://www.theverge.com/circuitbreaker/2017/3/14/14908020/siempo-mindful-phone-app-addiction-kickstarter-launch). The idea they presented was intriguing and introduced some features that were unheard of in any smartphone.
 
 The campaign for the Siempo phone failed, but since then, both Apple and Google have stepped forward to provide similar features for their devices. iOS 12 includes the ability to [set limitations on the usage of both categories of and specific apps](https://www.macstories.net/news/ios-12-the-macstories-overview/) and improvements to Do Not Disturb Mode. [Android P has similar features](https://arstechnica.com/gadgets/2018/05/google-details-new-android-p-features-including-iphone-x-like-gesture-controls/).
 

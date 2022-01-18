@@ -2,7 +2,7 @@
 created: 2017-01-01T15:00Z
 title: Years In Review
 type: page
-updated: 2022-01-14T13:25Z
+updated: 2022-01-18T00:15Z
 ---
 
 ## 2021
@@ -205,7 +205,7 @@ This year saw the release of Stormblood, the second expansion for [Final Fantasy
 
 <img src='/images/years-in-review_what-remains-of-edith-finch.jpg' alt='What Remains of Edith Finch'>
 
-My year would not be complete without a new [walking simulator](https://en.wikipedia.org/wiki/Adventure_game#Exploration_games) to play through. [What Remains of Edith Finch](https://en.wikipedia.org/wiki/What_Remains_of_Edith_Finch) is my walking simulator of choice for 2017, and what an amazing game it is. It surpasses every other in the genre, including the perennial [Dear Esther](https://en.wikipedia.org/wiki/Dear_Esther).
+My year would not be complete without a new [walking simulator](https://en.wikipedia.org/wiki/Adventure_game#Walking_simulators) to play through. [What Remains of Edith Finch](https://en.wikipedia.org/wiki/What_Remains_of_Edith_Finch) is my walking simulator of choice for 2017, and what an amazing game it is. It surpasses every other in the genre, including the perennial [Dear Esther](https://en.wikipedia.org/wiki/Dear_Esther).
 
 <img src='/images/years-in-review_life-is-strange-before-the-storm.jpg' alt='Life is Strange: Before the Storm'>
 
@@ -300,7 +300,7 @@ Ever since the release of his soundtrack for [FTL](https://en.wikipedia.org/wiki
 
 ### DOOM, by Mick Gordon
 
-Much like the game itself, the [soundtrack for DOOM](http://mick-gordon.com/doom/) is amazing. [Mick Gordon](http://mick-gordon.com) is a name I was unfamiliar with before the release of the game, but instantly fell in love with his work.
+Much like the game itself, the [soundtrack for DOOM](https://en.wikipedia.org/wiki/Doom_(2016_video_game)#Soundtrack) is amazing. [Mick Gordon](https://en.wikipedia.org/wiki/Mick_Gordon_(composer)) is a name I was unfamiliar with before the release of the game, but instantly fell in love with his work.
 
 Gordon took a different direction with the music compared to [Robert Prince's](https://en.wikipedia.org/wiki/Robert_Prince_(video_game_composer)) iconic soundtracks for DOOM and DOOM II. Instead of songs reminiscent of 1980's and early 1990's metal, Gordon created a piece of work more inline with the work of [Trent Reznor's](https://en.wikipedia.org/wiki/Trent_Reznor) [Quake](https://en.wikipedia.org/wiki/Quake_(video_game)) soundtrack. Very industrial in sound, it is music that stands well on its own. I have listened to the official release and various fan-edits numerous times since it came out, and I can say it stands up to, if not surpasses, the great work of all previous DOOM and Quake soundtracks.
 

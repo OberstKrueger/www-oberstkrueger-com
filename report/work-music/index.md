@@ -2,14 +2,14 @@
 created: 2016-04-25T00:45Z
 title: Work Music
 type: page
-updated: 2018-05-09T02:30Z
+updated: 2021-01-18T00:30Z
 ---
 
 Music is an integral part of how I work. Whenever I am working on a task, music is playing in the background.
 
 The music I choose to listen to while working has a few specific traits to it. If I were to try and focus while programming, something like Metallica would act as a distraction from the work for me. Instead, I listen to music that meets two requirements: ambient sounding, and no vocals.
 
-Additionally, I break up the music I listen to by task. What's playing while I do housework will be different than what I program to. Having specific music for each task helps me focus more, as simply hearing that particular music puts me into the proper mindset for that task. All of the music I listen to is managed through [iTunes' Smart Playlists](https://support.apple.com/kb/PH19487) and stored on my computer. I want all of the music to always be available and not have to worry about any of the artists pulling their music from any streaming service.
+Additionally, I break up the music I listen to by task. What's playing while I do housework will be different than what I program to. Having specific music for each task helps me focus more, as simply hearing that particular music puts me into the proper mindset for that task. All of the music I listen to is managed through [iTunes' Smart Playlists](https://support.apple.com/guide/music/create-edit-and-delete-smart-playlists-mus1712973f4/mac) and stored on my computer. I want all of the music to always be available and not have to worry about any of the artists pulling their music from any streaming service.
 
 For programming, my music of choice is slower ambient electronic music. My playlist for this consists largely of releases by [Ultimae Records](https://ultimae.com) and includes artists like [AES Dana](http://aesdana.free.fr/aesdana/News.html), [Martin Nonstatic](https://ultimae.com/artists/martin-nonstatic/), and [Solar Fields](http://www.solarfields.com).
 

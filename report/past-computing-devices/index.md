@@ -309,8 +309,8 @@ When Apple released the iPhone 6 Plus, I upgraded after using my iPhone 5S for o
 
 My schedule for updating my gaming PC was planned for the middle of 2020. Unfortunately, the COVID-19 pandemic slow this down. It took nearly an entire year to cobble up the components for this upgrade, due to so many of them being out-of-stock and overpriced from resellers. The machine I ended up with is exactly the specs that I wanted, and in a form factor that I had been interested in switching to for many years: mini-ITX. This gaming PC is substantially more powerful than the last, and thanks to some necessary undervolting of the different pieces, is both quieter and cooler running than the previous machine. It is nice to break out of the mid-tower PC scene, and despite some initial hardships getting the power management proper, I am quite happy with what I ended up with.
 
-- CPU: [AMD Ryzen 5 5600X](https://www.amd.com/en/products/cpu/amd-ryzen-5-5600x)
-- GPU: [AMD Radeon RX 6800](https://www.amd.com/en/products/graphics/amd-radeon-rx-6800)
+- CPU: [AMD Ryzen 5 5600X](https://en.wikipedia.org/wiki/Zen_3)
+- GPU: [AMD Radeon RX 6800](https://en.wikipedia.org/wiki/Radeon_RX_6000_series)
 - RAM: 32 gigabytes
 - SSD: 1 terabyte
 - OS: [Windows 10](https://en.wikipedia.org/wiki/Windows_10)
