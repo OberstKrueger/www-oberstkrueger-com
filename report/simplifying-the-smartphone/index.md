@@ -2,7 +2,7 @@
 created: 2018-08-28T17:30Z
 title: Simplifying the Smartphone
 type: page
-updated: 2021-01-20T13:05Z
+updated: 2022-01-21T13:15Z
 ---
 
 In April of 2017, a startup called [Siempo aimed to create a smartphone designed around not being a distraction](https://www.theverge.com/circuitbreaker/2017/3/14/14908020/siempo-mindful-phone-app-addiction-kickstarter-launch). The idea they presented was intriguing and introduced some features that were unheard of in any smartphone.
@@ -27,7 +27,7 @@ Apple splits calendar events and checklist tasks into two separate apps, respect
 
 Notes is a great app, especially since the [iOS 9 update](https://www.macworld.com/article/2947866/ios/meet-the-new-notes-ios-9s-feature-packed-evernote-rival.html). But for textual notes, I prefer them to be in a simpler format: [Markdown](https://en.wikipedia.org/wiki/Markdown). Notes uses a proprietary [rich text](https://en.wikipedia.org/wiki/Formatted_text) format that allows embedding images, maps, and other multimedia. These are not features I want to take advantage of. A simpler solution for note taking is [iA Writer](https://ia.net/writer). iA Writer uses Markdown for all text, fundamentally disallowing the usage of anything other than un-stylized text. The app interface is simplified with few customization options outside of color theme, font style, and font size. In addition to the iOS version, iA Writer is also available on macOS, allowing me to use the same app across multiple platforms.
 
-Most of my music listening is through custom-curated playlists synced using iTunes to the stock Music app. In addition to this, I also have the two additional sources of audio entertainment: [Overcast](https://overcast.fm/) for podcast listening, and [SomaFM](http://somafm.com/mobile/iphone.html) for the only radio stations that I listen to.
+Most of my music listening is through custom-curated playlists synced to the stock Music app. In addition to this, I also have the two additional sources of audio entertainment: [Overcast](https://overcast.fm/) for podcast listening, and [SomaFM](http://somafm.com/mobile/iphone.html) for the only radio stations that I listen to.
 
 The final and largest change to the stock iOS apps, and the only one that adds a large feature not present in the stock apps, is [OmniFocus](https://www.omnigroup.com/omnifocus/ios). I am a recent convert to the OmniFocus way of life, and I run my life out of it. Fantastical handles my day-to-day activities, but OmniFocus handles all of the big picture items. One issue with this is OmniFocus can take over the tasks of Fantastical, as it displays calendar events like Fantastical, but it does not allow adding new events or editing currently scheduled events. In theory, I could fall back to the default Calendar app for these tasks, but in practice, the fiction of doing this through Fantastical is lessened. This division of duties is one that might change in the future, once I have OmniFocus for macOS set up to interact with some other command-line tools that I use, but until then, it will be on my phone for backup access should I not have my iPad or Mac available.
 

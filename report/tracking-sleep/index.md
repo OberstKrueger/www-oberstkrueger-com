@@ -2,7 +2,7 @@
 created: 2016-03-27T12:30Z
 title: Tracking Sleep
 type: page
-updated: 2021-08-12T02:50Z
+updated: 2022-01-21T13:15Z
 ---
 
 While much of the focus on the [Apple Watch](https://www.apple.com/watch/) has centered around notifications and interactions between it and the phone, what interests me most about the device is using it for new tasks that the [iPhone](https://www.apple.com/iphone/) and my [Mac Mini](https://www.apple.com/mac-mini/) can not do. The big area that the Apple Watch can do that the other devices can not is health tracking.
@@ -11,7 +11,7 @@ Since it is a worn device with a [built-in accelerometer and gyroscope](https://
 
 The app I use to track my sleep is [AutoSleep](http://autosleep.tantsissa.com). Unlike other sleep tracking apps, this one just requires setup in the app, and then it works automatically. AutoSleep works best when the user has a relatively stable sleep schedule, although since it functions by tracking the movements of the user, it can adapt to an instance of sleep that deviates from the norm.
 
-The previous apps that I have used, [Sleep++](https://itunes.apple.com/us/app/sleep++/id1038440371) and [Sleep Cycle](http://www.sleepcycle.com), all required setting the watch into sleep mode every night. This extra step was not only a hassle, but it meant that if I was tired and forgot to turn the mode on, a night's worth of sleep tracking was missed. Additionally, the mode needed to be turned off in the morning, which was occasionally missed until a few hours later.
+The previous apps that I have used, [Sleep++](https://apps.apple.com/us/app/sleep/id1038440371) and [Sleep Cycle](http://www.sleepcycle.com), all required setting the watch into sleep mode every night. This extra step was not only a hassle, but it meant that if I was tired and forgot to turn the mode on, a night's worth of sleep tracking was missed. Additionally, the mode needed to be turned off in the morning, which was occasionally missed until a few hours later.
 
 <img src='/images/tracking-sleep_autosleep.jpg' alt='AutoSleep'>
 
