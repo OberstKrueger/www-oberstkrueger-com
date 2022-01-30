@@ -2,7 +2,7 @@
 created: 2016-06-22T07:45Z
 title: Disabling Gaming Platforms’ Social Features
 type: page
-updated: 2021-08-12T02:50Z
+updated: 2022-01-30T13:10Z
 ---
 
 Most modern game platforms include a number of forced social features. They can be difficult to hide, and some platforms do not allow you to disable them at all.
@@ -25,7 +25,7 @@ On [Android](https://www.android.com) and [iOS](https://www.apple.com/ios/), Hea
 
 Achievements are handled by each individual game, none of which can be disabled out of the box. There exists a few mods for World of Warcraft that allow for the hiding of achievement notifications, but they are still tracked by the game, and hiding the achievement announcements to other players is impossible.
 
-Blizzard's classic games do not have any force achievements or social features. They can all be played single-player without logging into anything. The [Battle.net](https://en.wikipedia.org/wiki/Battle.net) interface for those games functions separate from the current iteration of Battle.net, so one can play Starcraft multiplayer without showing up to all of their [Overwatch](https://playoverwatch.com) friends.
+Blizzard's classic games do not have any force achievements or social features. They can all be played single-player without logging into anything. The [Battle.net](https://en.wikipedia.org/wiki/Battle.net) interface for those games functions separate from the current iteration of Battle.net, so one can play Starcraft multiplayer without showing up to all of their [Overwatch](https://playoverwatch.com) friends. Unfortunately, the original Battle.net servers have been shut down for WarCraft III, leaving less games available on the service.
 
 ## GOG
 
