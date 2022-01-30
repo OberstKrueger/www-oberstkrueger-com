@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2022-01-18T00:30Z
+updated: 2022-01-30T13:05Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -275,8 +275,8 @@ updated: 2022-01-18T00:30Z
 - [It Takes Two](https://en.wikipedia.org/wiki/It_Takes_Two_(video_game))
 - [Jade Coccoon: Story of the Tamamayu](https://en.wikipedia.org/wiki/Jade_Cocoon:_Story_of_the_Tamamayu)
 - [Journey](https://en.wikipedia.org/wiki/Journey_(2012_video_game))
-- [Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park_(pinball))
-- [Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park_(SNES_video_game))
+- [Jurassic Park (Pinball)](https://en.wikipedia.org/wiki/Jurassic_Park_(pinball))
+- [Jurassic Park (SNES)](https://en.wikipedia.org/wiki/Jurassic_Park_(SNES_video_game))
 - [Kentucky Route Zero](https://en.wikipedia.org/wiki/Kentucky_Route_Zero)
 - [Kid Icarus: Of Myths and Monsters](https://en.wikipedia.org/wiki/Kid_Icarus:_Of_Myths_and_Monsters)
 - [Killer Instinct](https://en.wikipedia.org/wiki/Killer_Instinct_(1994_video_game))
