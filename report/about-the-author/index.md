@@ -2,7 +2,7 @@
 created: 2016-02-10T06:06Z
 title: About The Author
 type: page
-updated: 2022-01-18T00:20Z
+updated: 2022-01-31T01:25Z
 ---
 
 ## Current Computing Devices
@@ -39,14 +39,13 @@ SSD: 256 GB
 Geekbench 5.2 CPU: [1,603 / 3,945](https://browser.geekbench.com/v5/cpu/5167933)<br>
 Geekbench 5.2 Compute (Metal): [9,315](https://browser.geekbench.com/v5/compute/1998970)
 
-### Mac Mini
+### MacBook Pro 14" (2021)
 
-CPU: [Intel Core i7-8700B](https://ark.intel.com/products/134905/Intel-Core-i7-8700B-Processor-12M-Cache-up-to-4-60-GHz-)<br>
-GPU: [AMD Radeon RX 570](https://www.amd.com/en/products/graphics/radeon-rx-570)<br>
-RAM: 16 GB 2667 MHz DDR4<br>
-SSD: 512 GB Apple SSD<br>
-Peripherals: [LG 27UL600-W](https://www.lg.com/us/monitors/lg-27UL600-W-4k-uhd-led-monitor), [Keychron K3](https://www.keychron.com/products/keychron-k3-wireless-mechanical-keyboard), [Magic Trackpad 2](https://en.wikipedia.org/wiki/Magic_Trackpad_2)
+CPU: [Apple M1 Max](https://en.wikipedia.org/wiki/Apple_M1_Pro_and_M1_Max)<br>
+GPU: [24-Core Apple M1 Max](https://en.wikipedia.org/wiki/Apple_M1_Pro_and_M1_Max)<br>
+RAM: 32 GB DDR5-6400<br>
+SSD: 1TB Apple SSD<br>
 
-Geekbench 5.1 CPU: [1,230 / 5,618](https://browser.geekbench.com/v5/cpu/989607)<br>
-Geekbench 5.1 Compute (Metal): [35,421](https://browser.geekbench.com/v5/compute/735313)<br>
-Geekbench 5.1 Compute (OpenCL): [31,530](https://browser.geekbench.com/v5/compute/735318)
+Geekbench 5.4 CPU: [1,778 / 12,636](https://browser.geekbench.com/v5/cpu/12500978)<br>
+Geekbench 5.4 Compute (Metal): [59,127](https://browser.geekbench.com/v5/compute/4178916)<br>
+Geekbench 5.4 Compute (OpenCL): [50,714](https://browser.geekbench.com/v5/compute/4178914)
