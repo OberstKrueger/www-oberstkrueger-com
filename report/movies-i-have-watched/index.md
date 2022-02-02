@@ -2,7 +2,7 @@
 created: 2017-08-07T20:45Z
 title: Movies I Have Watched
 type: page
-updated: 2020-12-28T03:3oZ
+updated: 2022-01-03T03:20Z
 ---
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
@@ -133,6 +133,7 @@ updated: 2020-12-28T03:3oZ
 - [Inside Out](https://en.wikipedia.org/wiki/Inside_Out_(2015_film))
 - [Interstellar](https://en.wikipedia.org/wiki/Interstellar_(film))
 - [Iron Man](https://en.wikipedia.org/wiki/Iron_Man_(2008_film))
+- [It](https://en.wikipedia.org/wiki/It_(2017_film))
 - [It's a Wonderful Life](https://en.wikipedia.org/wiki/It%27s_a_Wonderful_Life)
 - [James and the Giant Peach](https://en.wikipedia.org/wiki/James_and_the_Giant_Peach_(film))
 - [Jaws](https://en.wikipedia.org/wiki/Jaws_(film))
