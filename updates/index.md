@@ -2,8 +2,24 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2022-01-03T03:40Z
+updated: 2022-02-02T03:25Z
 ---
+
+## 2022.01
+
+### Games Played
+
+- [EVE Online](https://en.wikipedia.org/wiki/Eve_Online)
+- [Final Fantasy XIV: Endwalker](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Endwalker)
+- [God of War](https://en.wikipedia.org/wiki/God_of_War_(2018_video_game))
+
+### Movies Watched
+
+- [It](https://en.wikipedia.org/wiki/It_(2017_film))
+
+### Page Updates
+
+- [Years in Review](https://krueger.report/years-in-review): Updated for 2021.
 
 ## 2021.12
 
