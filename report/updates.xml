@@ -7,7 +7,7 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2022-01-03T03:40Z</updated>
+<updated>2022-02-02T03:25Z</updated>
 
 <!--
 <entry>
@@ -26,6 +26,36 @@
 </content>
 </entry>
 -->
+
+<entry>
+<title>Updates For January, 2022</title>
+<author>
+<name>Krueger</name>
+</author>
+<link href="https://krueger.report/updates" />
+<id>https://krueger.report/updates/2201</id>
+<published>2022-02-02T03:25Z</published>
+<updated>2022-02-02T03:25Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2022.01</h2>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Eve_Online">EVE Online</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Endwalker">Final Fantasy XIV: Endwalker</a></li>
+<li><a href="https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)">God of War</a></li>
+</ul>
+<h3>Movies Watched</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/It_(2017_film)">It</a></li>
+</ul>
+<h3>Page Updates</h3>
+<ul>
+<li><a href="https://krueger.report/years-in-review">Years in Review</a>: Updated for 2021.</li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For December, 2021</title>
