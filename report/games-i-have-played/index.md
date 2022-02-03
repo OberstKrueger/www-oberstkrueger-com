@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2022-01-30T13:05Z
+updated: 2022-02-03T01:10Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -397,6 +397,7 @@ updated: 2022-01-30T13:05Z
 - [Poker Night at the Inventory](https://en.wikipedia.org/wiki/Poker_Night_at_the_Inventory)
 - [Pokémon Blue](https://en.wikipedia.org/wiki/Pokémon_Red_and_Blue)
 - [Pokémon Go](https://en.wikipedia.org/wiki/Pokémon_Go)
+- [Pokémon Legends: Arceus](https://en.wikipedia.org/wiki/Pokémon_Legends:_Arceus)
 - [Pokémon X](https://en.wikipedia.org/wiki/Pokémon_X_and_Y)
 - [Portal](https://en.wikipedia.org/wiki/Portal_(video_game))
 - [Portal 2](https://en.wikipedia.org/wiki/Portal_2)
