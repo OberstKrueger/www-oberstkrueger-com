@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2021-11-13T22:10Z
+updated: 2022-02-08T12:15Z
 ---
 
 ## Beautiful Desolation
@@ -300,7 +300,21 @@ The story of the game is an average story, but it is made memorable by its execu
 
 Multiplayer is fun, but due to the lack of customizable controls and my being left-handed, I could never be competitive. This led to most of my multiplayer time being spent playing against the AI, in what was called "comp stomps". The most commonly played map was Big Game Hunters, which is the most memorable RTS map I have ever played.
 
-Going back to this game after so many years has been difficult. The lack of customizable controls makes it difficult for me to get back into, especially after what was allowed in Red Alert 3 and StarCraft 2. But even 20 years later, I can see what I loved about it back then. Blizzard's 2017 remaster of the game did a great job of updating the visuals while leaving everything else the same, preserving what made the game so unique for its time.
+Going back to this game after so many years has been difficult. The lack of customizable controls makes it difficult for me to get back into, especially after what was allowed in Red Alert 3 and StarCraft II. But even 20 years later, I can see what I loved about it back then. Blizzard's 2017 remaster of the game did a great job of updating the visuals while leaving everything else the same, preserving what made the game so unique for its time.
+
+## StarCraft II
+
+<img src='/images/mini-game-reviews_starcraft-ii.jpg' alt='Screenshot of StarCraft II'>
+
+Strategy and tactical games have remained a genre of games that I have long wished I was more dedicated to. Despite having many friends who played Command and Conquer, my first real introduction to the genre was Age of Empires. I played through a few other strategy games over the years, but it always fell out of favor quickly. It was not until StarCraft II was released that I found a strategy game that I both loved and felt like I could play well.
+
+The singleplayer for StarCraft II is split into three campaigns, one for each race within the game. All three campaigns emphasize both the good and the bad of the original StarCraft. The story is trite just like the first, but the execution is even worse. Blizzard has certain story tropes that they repeat in every game, and this includes just about every one. Despite the lackluster story-telling, the gameplay was fun. It showcased what was new compared to the original game quite well, and gave a lot of customization that was not present previously.
+
+Everything in StarCraft II was expanded compared to what was in StarCraft. More units were added, providing more options to an end-game strategy. Singleplayer had even more units and upgrades available compared to multiplayer, due to not needing to balance them all as tightly. Multiplayer was a sublime experience, with more options for ladder play and cooperative play. At launch, the game included built-in fights against AIs, and later it added a dedicated cooperative mode that placed two players together against a more difficult version of the campaign missions.
+
+At the end of 2020, ten years after its initial release, Blizzard announced that future development for the game would cease and that the game would be entering maintenance mode. Outside of minor balance changes, Blizzard is treating the game as "complete". It is an expected but still unfortunate end for the game, as it felt like it was closing in on perfection in the last few years  before this announcement.
+
+Despite this announcement, StarCraft II is a game that I can wholeheartedly recommend to everyone. It is partially free-to-play now, with the first campaign and multiplayer components available without purchase. The game took a few years to find itself, it is now as good of a strategy game as has every existed. It is one of the few games where it is hard to see how it could truly be topped in greatness. Maybe one day there will be a challenger to its throne, but the decline of the genre as a whole makes me doubt that.
 
 ## Subnautica
 
