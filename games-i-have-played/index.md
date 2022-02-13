@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2022-02-03T01:10Z
+updated: 2022-02-13T07:25Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -495,6 +495,7 @@ updated: 2022-02-03T01:10Z
 - [Super Mario Kart](https://en.wikipedia.org/wiki/Super_Mario_Kart)
 - [Super Mario Land](https://en.wikipedia.org/wiki/Super_Mario_Land)
 - [Super Mario Land 2: 6 Golden Coins](https://en.wikipedia.org/wiki/Super_Mario_Land_2:_6_Golden_Coins)
+- [Super Mario Odyssey](https://en.wikipedia.org/wiki/Super_Mario_Odyssey)
 - [Super Mario RPG](https://en.wikipedia.org/wiki/Super_Mario_RPG)
 - [Super Mario Run](https://en.wikipedia.org/wiki/Super_Mario_Run)
 - [Super Mario World](https://en.wikipedia.org/wiki/Super_Mario_World)
