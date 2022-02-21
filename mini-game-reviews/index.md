@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2022-02-08T12:15Z
+updated: 2022-02-21T11:55Z
 ---
 
 ## Beautiful Desolation
@@ -201,6 +201,20 @@ Florence is a very different game from most of what else is written on this page
 But even as a "bite-size game-like experience", it is worth checking out. What Florence does, it does well. The story is told in a minimal style through a hand-drawn storybook aesthetic. The soundtrack fits the light-hearted nature of the visuals. It is not the most memorable soundtrack, but it isn't bad either.
 
 Beyond that, there is not much to say about the game. A short review for a short game, but a positive one.
+
+## God of War (2018)
+
+<img src='/images/mini-game-reviews_god-of-war.jpg' alt='Screenshot of God of War'>
+
+The 2018 entry into the God of War series, simply titled God of War, is the 8th game in the seris, and the first one that I have played through entirely. The previous entries in the series are a style of action game that I am not fond of, with the blatant sexism present in the games making the decision to pass on them an easy decision. After a few friends recommended this newest entry and said that it fixed a lot of the problems of the previous games, I picked it up and started playing.
+
+The first impression of the game was incredible. The visuals of the game are top notch, with great sound design complementing the action on the screen. The characters are all modeled after their voice actors to varying degrees, and motion captured, giving them all a very life-like feel. This game is a good example of how actors can do more than just provide their voice to a game. One of the interesting aspects of the game was its attempt at being a single long shot from the beginning of the game until the end. This works for the most part, as all exploration in the main world keeps the consistency of the single cut, but some of the later passages through portals to other worlds include a complete fade to white, ruining the illusion.
+
+For as good as the artistic elements of the game are, God of War felt like a 10 hour game stretched into 20 hours. A few parts of the story felt padded, including scenes that ended up not adding a lot to the final story. The combat system also had many elements that would have been better if it was condensed. The skill system opens up a lot of new abilities in the beginning of the game, but it starts to slow down and not add anything unique for the latter half of the game. Finally, the equipment system in the game felt tacked on, as if it was put in to be something else to upgrade over time. None of the upgrades from this system felt substantial though, with weapon upgrades occurring at set points in the game and armor upgrades making only a small difference in performance.
+
+At launch, the also had many performance issues that brought even the most top-of-the-line machine down. The biggest offender was severe framerate stuttering whenever the game needed to load any new assets. On my system, this brought the framerate down into the 40s and occasionally the 30s. Thankfully, when it was not loading, I was able to run at max settings with AMD's FSR enabled to keep it nearly locked at 60 FPS.
+
+Despite the issues with the game, I enjoyed my time with it. Even when the gameplay started to wane in quality, turning the difficulty down to enjoy the story kept the experience interesting. The direction this game has taken the series means I will give future titles some consideration. I just hope that they will do a better job of designing around their intended game length.
 
 ## Gris
 
