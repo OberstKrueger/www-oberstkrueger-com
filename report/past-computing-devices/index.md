@@ -2,7 +2,7 @@
 created: 2020-06-14T10:00Z
 title: Past Computing Devices
 type: page
-updated: 2021-08-12T02:50Z
+updated: 2022-02-23T10:55Z
 ---
 
 ## Main Timeline
@@ -314,3 +314,15 @@ My schedule for updating my gaming PC was planned for the middle of 2020. Unfort
 - RAM: 32 gigabytes
 - SSD: 1 terabyte
 - OS: [Windows 10](https://en.wikipedia.org/wiki/Windows_10)
+
+### MacBook Pro (2021)
+
+<img src='/images/past-computing-devices_macbook-pro.jpg' alt='14" MacBook Pro with M1 Max'>
+
+When I decided to go back to school, I knew I needed a laptop so that I could get homework done while out of the house. The main question was if I wanted a laptop to supplement my Mac Mini or to get something powerful enough to fill the role of both. I opted for the latter. The decision to go with the 14" version of the MacBook Pro was so that the laptop was the same general size as all of the 13" MacBooks I used in the past. While the new Pro is much heavier than the MacBook Air I last used, it is still lighter than the old PowerBook G4 that got me into Apple products. In many ways, this laptop is reminiscent of that PowerBook G4, which has turned it into something that I happily use all of the time.
+
+- CPU: [Apple M1 Max](https://en.wikipedia.org/wiki/Apple_M1_Pro_and_M1_Max)
+- GPU: [24-core M1 Max](https://en.wikipedia.org/wiki/Apple_M1_Pro_and_M1_Max)
+- RAM: 32 gigabytes
+- SSD: 1 terabyte
+- OS: [macOS 12 Monterey](https://en.wikipedia.org/wiki/MacOS_Monterey)
