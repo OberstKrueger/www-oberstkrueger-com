@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2022-02-13T07:25Z
+updated: 2022-03-04T00:25Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -141,6 +141,7 @@ updated: 2022-02-13T07:25Z
 - [Earthworm Jim 2](https://en.wikipedia.org/wiki/Earthworm_Jim_2)
 - [Edge of Eternity](https://www.eoegame.com)
 - [Ehrgeiz: God Bless the Ring](https://en.wikipedia.org/wiki/Ehrgeiz)
+- [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring)
 - [The Elder Scrolls III: Bloodmoon](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Bloodmoon)
 - [The Elder Scrolls III: Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind)
 - [The Elder Scrolls III: Tribunal](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Tribunal)
