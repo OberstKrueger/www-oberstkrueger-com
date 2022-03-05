@@ -7,7 +7,7 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2022-02-02T03:25Z</updated>
+<updated>2022-03-04T09:20Z</updated>
 
 <!--
 <entry>
@@ -26,6 +26,33 @@
 </content>
 </entry>
 -->
+
+<entry>
+<title>Updates For February, 2022</title>
+<author>
+<name>Krueger</name>
+</author>
+<link href="https://krueger.report/updates" />
+<id>https://krueger.report/updates/202202</id>
+<published>2022-03-04T09:20Z</published>
+<updated>2022-03-04T09:20Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2022.02</h2>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Elden_Ring">Elden Ring</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Eve_Online">EVE Online</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Pok%C3%A9mon_Legends:_Arceus">Pokémon Legends: Arceus</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Super_Mario_Odyssey">Super Mario Odyssey</a></li>
+</ul>
+<h3>Page Updates</h3>
+<ul>
+<li><a href="https://krueger.report/mini-game-reviews">Mini Game Reviews</a>: God of War, StarCraft II</li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For January, 2022</title>
