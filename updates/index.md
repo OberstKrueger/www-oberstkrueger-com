@@ -2,8 +2,21 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2022-02-02T03:25Z
+updated: 2022-03-04T09:20Z
 ---
+
+## 2022.02
+
+### Games Played
+
+- [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring)
+- [EVE Online](https://en.wikipedia.org/wiki/Eve_Online)
+- [Pokémon Legends: Arceus](https://en.wikipedia.org/wiki/Pokémon_Legends:_Arceus)
+- [Super Mario Odyssey](https://en.wikipedia.org/wiki/Super_Mario_Odyssey)
+
+### Page Updates
+
+- [Mini Game Reviews](https://krueger.report/mini-game-reviews): God of War, StarCraft II
 
 ## 2022.01
 
