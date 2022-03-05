@@ -31,7 +31,7 @@ Overall, Black Mesa is a prime example of how to do a remake properly. It is so 
 
 ## Bloodborne
 
-<img src="/images/mini-game-reviews_bloodborne.jpg" alt="Screenshot of Bloodborne">
+<img src='/images/mini-game-reviews_bloodborne.jpg' alt='Screenshot of Bloodborne'>
 
 For too long, I have stayed away from the Souls-like genre. I had a passing familiarity with Demon's Souls when it came out in 2009. It was hard to avoid the discussion around Dark Souls after its release, and despite giving it a try back in 2013, it was as game that I did not get far in. Dark Souls 3 also failed to hook me when I tried it in 2018, although I only gave it a 15 minute shot before putting it down. But 2021 was the year where it all changed.
 
@@ -69,7 +69,7 @@ Since release, employees of CD Projekt Red have confirmed that development on th
 
 ## Dark Souls
 
-<img src="/images/mini-game-reviews_dark-souls.jpg" alt="Screenshot of Dark Souls">
+<img src='/images/mini-game-reviews_dark-souls.jpg' alt='Screenshot of Dark Souls'>
 
 After playing Bloodborne, the completionist in me wanted to play the rest of the Soulsborne games in as close to order of release as possible. I went into the game knowing it would be a step back in many ways, but I did not expect how much of a mixed bag it would be overall.
 
@@ -81,7 +81,7 @@ Overall, Dark Souls was disappointing. It's the first game in a long time where 
 
 ## Dark Souls II
 
-<img src="/images/mini-game-reviews_dark-souls-ii.jpg" alt="Screenshot of Dark Souls II">
+<img src='/images/mini-game-reviews_dark-souls-ii.jpg' alt='Screenshot of Dark Souls II'>
 
 Due to its reputation, Dark Souls II is the last of the Souls games that I decided to play. The reputation of the game is of being the worst game in the series, something divisive due to how far it strayed from the setup of the rest of the games. Hearing all of this made me hesitant to try it. But when I am glad that I decided to give the game a go, as to me, it almost meets the greatness of Dark Souls III.
 
@@ -95,7 +95,7 @@ Dark Souls II was quite a wonderful surprise after hearing all of negativity sur
 
 ## Dark Souls III
 
-<img src="/images/mini-game-reviews_dark-souls-iii.jpg" alt="Screenshot of Dark Souls III">
+<img src='/images/mini-game-reviews_dark-souls-iii.jpg' alt='Screenshot of Dark Souls III'>
 
 The old saying goes "third time is the charm", and this is true both for the Dark Souls series and Soulsborne games for me. Dark Souls III is the third game I played, after initially skipping Dark Souls II, but it is my favorite of the Soulsborne genre up to this point.
 
