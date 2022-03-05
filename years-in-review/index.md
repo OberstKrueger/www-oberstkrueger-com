@@ -9,19 +9,19 @@ updated: 2022-01-18T00:15Z
 
 ### Favorite Games
 
-<img src="/images/years-in-review_deathloop.jpg" alt='Deathloop'>
+<img src='/images/years-in-review_deathloop.jpg' alt='Deathloop'>
 
 There are only a handful of developers that make games that consistently click with me, and Arkane Studios is one of those developers. Deathloop is their latest outing with a new twist on their traditional immersive sim style. Unlike their previous games, the gameplay has no deep RPG systems in it, instead relying on being an FPS with the other qualities of an immersive sim mixed in. Maintaining their core gameplay and level design competence while stepping up their abilities on world-building has led to Arkane once again producing one of my favorite games of the year.
 
-<img src="/images/years-in-review_halo-infinite.jpg" alt='Halo Infinite'>
+<img src='/images/years-in-review_halo-infinite.jpg' alt='Halo Infinite'>
 
 Since I have never owned an Xbox, the initial hype for the Halo series passed me by. Halo Infinite continued to not be on my radar until the release of its free multiplayer. On a whim, I downloaded it and after but a few matches, the hype for the series all made sense. The multiplayer was a lot of fun, and I put many hours into it. The game will not be one that I stick with long term, mostly due to the fact that my gaming schedule does not have a lot of room for a competitive shooter, but I enjoyed my time with it and consider it one of the highlights of the year.
 
-<img src="/images/years-in-review_metroid-dread.jpg" alt='Metroid Dread'>
+<img src='/images/years-in-review_metroid-dread.jpg' alt='Metroid Dread'>
 
 The last Metroid game that I played was Super Metroid on the SNES. It was a great game, but at the same time, not one that gave me a desire to explore other similar titles. Metroid Dread looked interesting, but I was not expecting how engrossed I would get from the game. Every element of the game is well done, and the gameplay is a wonderful progression over the Metroid games of old. The ambient musical style in the game reminded me of other works like Nine Inch Nail's Ghosts albums, furthering my love for the game.
 
-<img src="/images/years-in-review_subnautica-below-zero.jpg" alt='Subnautica: Below Zero'>
+<img src='/images/years-in-review_subnautica-below-zero.jpg' alt='Subnautica: Below Zero'>
 
 The first Subnautica was not only one of my top 2018 games, but has become one of my top all-time games. Any follow-up to it has a high bar to reach. Subnautica: Below Zero does not quite reach the heights of its predecesor, but it does get close. The game changes focus from being a giant sandbox into a smaller focused sandbox with a heavier emphasis on story. This game has the distinction where I got to experience the game in two forms. When the game launched into early access on Steam, the story was vastly diferent from when the game reached its final version. Being able to experience the game differently twice added to my enjoyment of it. The improved base building elements were the cherry-on-top of the whole experience.
 
@@ -36,7 +36,7 @@ The first Subnautica was not only one of my top 2018 games, but has become one o
 - Kat Von D - Love Made Me Do It
 - Ben Prunty - Subnautica: Below Zero
 
-<img src="/images/years-in-review_music-2021.jpg" alt="Favorite music of 2021">
+<img src='/images/years-in-review_music-2021.jpg' alt='Favorite music of 2021'>
 
 ### Another Pandemical Year
 
@@ -50,19 +50,19 @@ This will be a long journey. After the last year spent feeling idle, my hope is 
 
 ### Favorite Games
 
-<img src="/images/years-in-review_death-stranding.jpg" alt='Death Stranding'>
+<img src='/images/years-in-review_death-stranding.jpg' alt='Death Stranding'>
 
 Few games can be described as having a unique experience the way that Death Stranding does. The game does a fantastic job of creating the feel of a desolate world that is crumbling, and you the player are fighting against that by rebuilding it and connecting people. I am a sucker for any Hideo Kojima game, and Death Stranding is his best game yet.
 
-<img src="/images/years-in-review_half-life-alyx.jpg" alt='Half-Life: Alyx'>
+<img src='/images/years-in-review_half-life-alyx.jpg' alt='Half-Life: Alyx'>
 
 When the original Half-Life came out in 1998, it revolutionized both the first-person shooter genre and PC gaming as a whole. Valve managed to repeat this in 2020, with a new Half-Life game that revolutionizes virtual reality gaming. Half-Life: Alyx is the gold standard for immersive games, which is problematic in that it makes any non-virtual reality game pale in comparison.
 
-<img src="/images/years-in-review_kentucky-route-zero.jpg" alt='Kentucky Route Zero'>
+<img src='/images/years-in-review_kentucky-route-zero.jpg' alt='Kentucky Route Zero'>
 
 Kentucky Route Zero is a game that I have known about for almost a decade since its announcement, but I did not play until this year when the final chapter was released. I have a hard time deciding whether waiting was a good decision, but playing all five chapters back-to-back enhanced the experience for me. Even 10 months later, many of the game's scenes are vivid in my mind, and the music is a regular listen for me.
 
-<img src="/images/years-in-review_black-mesa.jpg" alt='Black Mesa'>
+<img src='/images/years-in-review_black-mesa.jpg' alt='Black Mesa'>
 
 Before playing Half-Life: Alyx, I played Black Mesa, a recreation of the original Half-Life. Similar to how I consider Half-Life: Alyx to be the current gold standard in virtual reality games, Black Mesa is the benchmark that should be followed for recreations of older games. It sticks close to the original design of Half-Life, keeping the elements that worked in the original game intact, but it is willing to change up the parts that didn't work. With 22 years of game development knowledge, this has turned Black Mesa into the true version of Half-Life for me.
 
@@ -77,7 +77,7 @@ Before playing Half-Life: Alyx, I played Black Mesa, a recreation of the origina
 7. Static-X - Project: Regeneration Vol. 1
 8. Westworld - Season 3
 
-<img src="/images/years-in-review_music-2020.jpg" alt='Favorite music of 2020'>
+<img src='/images/years-in-review_music-2020.jpg' alt='Favorite music of 2020'>
 
 ### A Pandemical Year
 
