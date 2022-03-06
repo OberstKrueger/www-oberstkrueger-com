@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2022-02-21T11:55Z
+updated: 2022-03-06T10:10Z
 ---
 
 ## Beautiful Desolation
@@ -344,7 +344,7 @@ Unknown Worlds Entertainment created an amazing experience in this game. By the 
 
 ## Subnautica: Below Zero
 
-<img src="/images/mini-game-reviews_subnautica-below-zero.jpg" alt="Screenshot of Subnautica: Below Zero">
+<img src='/images/mini-game-reviews_subnautica-below-zero.jpg' alt='Screenshot of Subnautica: Below Zero'>
 
 As the sequel to one of the few survival games to click with me, Subnautica: Below Zero was instantly on my radar since the first announcement. Unknown Worlds is a developer that I trust to purchase everything from, as every work of theirs has been something that I enjoyed. The original Subnautica had a long Steam Early Access period that I missed out on, so I decided to jump in as soon as I could, making this game the first one that I played for an extended beta.
 
