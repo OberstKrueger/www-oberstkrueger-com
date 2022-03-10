@@ -2,7 +2,7 @@
 created: 2017-06-11T13:30Z
 title: Books I Have Read
 type: page
-updated: 2021-12-24T03:2G5Z
+updated: 2022-03-10T13:00Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -173,6 +173,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 
 ## Technology
 
+- Bartle, Richard - MMOs from the Outside In: The Massively-Multiplayer Online Role-Playing Games of Psychology, Law, Government, and Real Life
 - De Grey, Aubrey - Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime
 - Dodrill, Christine - Musings from Within
 - Huang, Andrew - The Hardware Hacker: Adventures in Making and Breaking Hardware
