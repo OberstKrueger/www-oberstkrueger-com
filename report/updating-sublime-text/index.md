@@ -2,7 +2,7 @@
 created: 2018-03-29T02:30Z
 title: Updating Sublime Text
 type: page
-updated: 2018-04-12T00:40Z
+updated: 2022-03-11T10:10Z
 ---
 
 For 7 years, Sublime Text has been my go-to text editor for everything. No other text editor I have used matches the speed of Sublime, and the customization options available rival most other editors out there.
@@ -69,7 +69,7 @@ Code is an interesting editor to use. Due to how Microsoft has designed it, it c
 
 Microsoft continues to put a lot of resources into Code, and the plugin community that has formed around it reminds me of where Sublime's was a few years ago. A lot of languages have both better support in Code than other editors, and that support lands there first. It is an opinionated editor in how it handles files, and seems to mimic Visual Studio in how it functions.
 
-# Taking This All Back to Sublime
+## Taking This All Back to Sublime
 
 Despite not having any plans to go back to most of the editors I experimented with, I did take away something from many of them.
 
@@ -81,7 +81,7 @@ Up until the last few years, code completion in editors that weren't focused on 
 
 The big takeaway from using other editors, especially the command-line based ones, is a reinforcing of how much I enjoy the [Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy). No matter the amount of plugins you use, Emacs and Neovim won't have all of the same features as an IDE, but treating the entire command-line environment as an IDE can get you all of those features. Other tasks such as debugging can be accomplished easily with third-party tools. With this in mind, when going back to Sublime, I did not feel a desire to have every IDE feature replicated, just the important ones for directly manipulating code. Other features can be run through a separate command-line, or even another GUI application. For many languages, this provides the perfect environment for how I use the languages. Heavier Swift applications I still relegate to Xcode, but even light Swift scripting is just fine from Sublime and run through the command-line.
 
-# Conclusions
+## Conclusions
 
 This long exploration of other editors has only reinforced my attachment to Sublime Text. All of the other editors have great features to them, but the cons of them outweigh their advantages. Sublime Text, to me, sits well right in the middle of everything. It has great support for basic IDE features through the use of plugins. It has a myriad of themes that allow it to visually stand with the rest of my environment. It is one of the most performant editors on the market. It's cross-platform, so if I switch to Linux one day, I can take it with me.
 
