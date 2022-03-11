@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2022-03-06T10:10Z
+updated: 2022-03-11T10:00Z
 ---
 
 ## Beautiful Desolation
@@ -144,6 +144,18 @@ Demon's Souls is in some ways a more complex game than the later entries, but si
 The one aspect of the game that bothered me the most was the healing. Instead of automatically replenishable flasks that give you health, you have to use grass that drops from enemies. Unfortunately, they are not the most common of drops, so you have to spend time farming them on occasion. This was particularly noticeable when you run low during a boss fight, as it requires you to spend some time farming to be able and give the boss another try. Bloodborne had a similar system of healing, but it had some areas that allowed you to get as many as you needed in a short amount of time, allowing you to not slow down that much in your attempts at progression.
 
 Going back to the original Soulsborne game was quite an enjoyable experience. The world and character design is well done, with only a few individual levels being annoying or less memorable. In particular, the Maiden Astraea sequence is one of my favorites in all of FromSoftware's games. The low point of the game was how much time I had to spend farming health items and upgrade materials, significantly outpacing how much time I had to spend doing the same in the other games. I am glad I had an opportunity to play through this, although my enjoyment of it was much less than in Bloodborne or Dark Souls 3.
+
+## Diablo
+
+<img src='/images/mini-game-reviews_diablo.png' alt='Screenshot of Diablo'>
+
+When I was younger, most of the RPGs that I played were Japanese in origin. Chrono Trigger, Final Fantasy, and other series on consoles dominated what I played. Despite being a heavy PC gamer, it wasn't until the late 1990's that I began to dive into PC RPGs. Diablo was one of the first, and it permanently changed the games that I am interested in.
+
+The best aspect of Diablo is its simplicity. There are 3 classes that the player can select from, but they just give you a starting point. Unlike many other class-based RPGs, Diablo lets every class use every weapon and spell, as long as they have the character stats to do so. This allowed a lot of freedom that I later found other games did not have, and helped cement my love of games with broader class systems or skill systems in palce of classes. Combing this with the random loot system created a game where each playthrough could be approached in different ways. It's possible to play through and alter your character based on the equipment you come across, instead of having to search for specific items for your class. Repeated playthroughs were promoted by randomized quest selection and enemy types, making followup playthroughs worthwhile to complete.
+
+Multiplayer in Diablo was a hit or miss experience, but did show the potential for what an online RPG could be. Since the game lacked anti-cheating methods or character verification, many characters found online had items that were more powerful than anything attainable in the normal course of the game. Thankfully, future titles improved on this, as even the broken state of Diablo's multiplayer was a lot of fun to experience.
+
+Diablo is a classic game that has aged well due to the simplicity of the core game systems. Despite some user interface and control systems that are dated, the rest of the game is still fun to play to this day. And as much fun as Diablo still is, it pales in comparison to its sequel...
 
 ## Diablo 3
 
