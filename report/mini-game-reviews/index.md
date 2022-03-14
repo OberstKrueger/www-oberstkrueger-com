@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2022-03-11T10:00Z
+updated: 2022-03-14T12:10Z
 ---
 
 ## Beautiful Desolation
@@ -112,6 +112,20 @@ Most games that I play are one and done. Dark Souls III is the first game in a l
 Dear Esther is one of the first "walking simulators", and still one of the best. Everything about it is beautifully done, with a wonderful art design, somber haunting music, and a perfect narrator throughout. The underground caves that appear midway through the game are an especially memorable section of the game, with a wonderful dance between the music and the visuals creating an experience unlike most games.
 
 For those who do not like ambiguous artsy stories, Dear Esther might be found lacking. The narrator is both unreliable and appears to be jumping between multiple viewpoints, making it difficult to realize the nature of the story in one playthrough. I have played the game multiple times now, and have learned new details each time that were not presented in my previous playthroughs. The game is short, taking about an hour to complete.
+
+## Death Stranding
+
+<img src='/images/mini-game-reviews_death-stranding.jpg' alt='Screenshot of Death Stranding'>
+
+Due to the success of The Elder Scrolls V: Skyrim, the 2010s saw a glut of open world games. Old series transitioned to the Skyrim formula, and new ones were created to try and be the next Skyrim. Most of these games miss the mark though, not understanding what an open world game should be. Thankfully, Kojima Productions did understand what makes a great open world game, and created Death Stranding as a result.
+
+The design of Death Stranding's open world is what makes the game work. Unlike many modern open world games, it is a sparse world for you to explore. The core gameplay loop is making deliveries from one location to another, with even short routes not being quick affairs. Without a mini-map constantly displaying and pointing you in the right direction, the world is full of visual landmarks and unique vistas to get your bearings right. This review is being written 2 years after I played the game, and I still remember the layout and locations of the world in vivid detail. This is something that very few games can accomplish.
+
+Death Stranding is billed as a singleplayer game, but is actually built around an asynchronous multiplayer system. Within the game, the world has crumbled, leaving important infrastructure destroyed and disconnected. The player is able to devote resources to rebuilding these, but additionally, you will get paired with other players randomly and can contribute to rebuilding in each others world. Once basic things are built, you are then able to share buildings and tools around the rest of the world that can be used. None of these will provide a complete solution for a player, but they cna then fill in the gaps as they desire, or dismantle it within their world. This system was integral to my enjoyment of the game. I tried to help as many other players as possible. By the end of my time with the game, there were two players in particular that contributed greatly to my world and I back at them. These are people I have never talked to before or since, but they are now indelibly tied to my experience and my memories of the game.
+
+As with any Hideo Kojima game, there are some costs to the great gameplay. His stories are well written, but come with many cutscenes that can be overly long. Death Stranding ups the ante in this area by having an ending sequence that is around 2 hours long. And despite improvements, his writing of women still needs some work, although this is one of the less offensive games in that regard from him. The good vastly outweighs the bad for Death Stranding, but these two things in particular are important to keep in mind before playing.
+
+Despite these couple of issues, the game is phenomenal. It is one of the best open world games out there, and provides an experience unlike anything else.
 
 ## Deathloop
 
