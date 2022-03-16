@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2022-03-04T00:25Z
+updated: 2022-03-16T01:05Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -438,6 +438,7 @@ updated: 2022-03-04T00:25Z
 - [Secret of Mana](https://en.wikipedia.org/wiki/Secret_of_Mana)
 - [Serious Sam: The First Encounter](https://en.wikipedia.org/wiki/Serious_Sam_(video_game)#Serious_Sam:_The_First_Encounter)
 - [Serious Sam: The Second Encounter](https://en.wikipedia.org/wiki/Serious_Sam_(video_game)#Serious_Sam:_The_Second_Encounter)
+- [Serious Sam: Siberian Mayhem](https://en.wikipedia.org/wiki/Serious_Sam:_Siberian_Mayhem)
 - [Shadow of the Colossus](https://en.wikipedia.org/wiki/Shadow_of_the_Colossus)
 - [Shadowrun Returns](https://en.wikipedia.org/wiki/Shadowrun_Returns)
 - [Shenzhen I/O](https://en.wikipedia.org/wiki/Shenzhen_I/O)
