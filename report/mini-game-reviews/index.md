@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2022-03-17T09:30Z
+updated: 2022-03-17T09:35Z
 ---
 
 ## Astro's Playroom
@@ -181,7 +181,7 @@ Multiplayer in Diablo was a hit or miss experience, but did show the potential f
 
 Diablo is a classic game that has aged well due to the simplicity of the core game systems. Despite some user interface and control systems that are dated, the rest of the game is still fun to play to this day. And as much fun as Diablo still is, it pales in comparison to its sequel...
 
-## Diablo 3
+## Diablo III
 
 <img src='/images/mini-game-reviews_diablo-3.jpg' alt='Screenshot of Diablo 3'>
 
