@@ -2,8 +2,18 @@
 created: 2018-12-02T17:50Z
 title: Mini Game Reviews
 type: page
-updated: 2022-03-14T12:10Z
+updated: 2022-03-17T09:30Z
 ---
+
+## Astro's Playroom
+
+<img src='/images/mini-game-reviews_astros-playroom.jpg' alt='Screenshot of Astros Playroom'>
+
+Astro's Playroom is a love letter to PlayStation history. The premise of the game is being a platformer where you collect artifacts of Sony's past, from all of the PlayStation consoles to accessories that featured both a global release or limited to just a few countries. It is an exhaustive look at everything PlayStation.
+
+For the game itself, it is a simple platformer. It has both timing challenges as well as puzzles to be figured out. It is not a difficult game overall, and with unlimited lives, most people should complete it within a couple of hours. While the platforming is on the simple side, a fun aspect of the game is finding all of the references to previous games. Throughout the world, different robots will be re-enacting scenes from important and popular games in the past. These includes references to titles such as Demon's Souls, Devil May Cry, Final Fantasy VII, ICO, Monster Hunter, and the originl T-Rex Demo from early PlayStation demo discs.
+
+There is not much else to say on Astro's Playroom. Being a short easy game that comes with the PlayStation 5, it's worth checking out if you have the console. It is a fun trip of nostalgia, even if it veers pretty close to feeling like an ad at times.
 
 ## Beautiful Desolation
 
