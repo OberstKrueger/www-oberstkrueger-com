@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2022-03-16T01:05Z
+updated: 2022-03-20T02:00Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -28,6 +28,7 @@ updated: 2022-03-16T01:05Z
 - [Artifact](https://en.wikipedia.org/wiki/Artifact_(video_game))
 - [Asheron's Call](https://en.wikipedia.org/wiki/Asheron%27s_Call)
 - [Asheron's Call 2: Fallen Kings](https://en.wikipedia.org/wiki/Asheron%27s_Call_2:_Fallen_Kings)
+- [Astro's Playroom](https://en.wikipedia.org/wiki/Astro%27s_Playroom)
 - [Back to the Future: The Game](https://en.wikipedia.org/wiki/Back_to_the_Future:_The_Game)
 - [Baldur's Gate](https://en.wikipedia.org/wiki/Baldur%27s_Gate)
 - [Baldur's Gate: Dark Alliance](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Dark_Alliance)
