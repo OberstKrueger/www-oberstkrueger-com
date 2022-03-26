@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2022-03-20T02:00Z
+updated: 2022-03-26T11:15Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -111,6 +111,7 @@ updated: 2022-03-20T02:00Z
 - [Diablo](https://en.wikipedia.org/wiki/Diablo_(video_game))
 - [Diablo II](https://en.wikipedia.org/wiki/Diablo_II)
 - [Diablo II: Lord of Destruction](https://en.wikipedia.org/wiki/Diablo_II:_Lord_of_Destruction)
+- [Diablo 2: Resurrected](https://en.wikipedia.org/wiki/Diablo_II%3A_Resurrected)
 - [Diablo III](https://en.wikipedia.org/wiki/Diablo_III)
 - [Diablo III: Reaper of Souls](https://en.wikipedia.org/wiki/Diablo_III:_Reaper_of_Souls)
 - [Diddy Kong Racing](https://en.wikipedia.org/wiki/Diddy_Kong_Racing)
