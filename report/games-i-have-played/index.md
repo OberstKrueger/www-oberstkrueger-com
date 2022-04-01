@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00Z
 title: Games I Have Played
 type: page
-updated: 2022-03-26T11:15Z
+updated: 2022-04-01T10:30Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -303,6 +303,7 @@ updated: 2022-03-26T11:15Z
 - [Legend of Mana](https://en.wikipedia.org/wiki/Legend_of_Mana)
 - [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game))
 - [The Legend of Zelda: A Link To The Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)
+- [The Legend of Zelda: Breath of the Wild](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild)
 - [The Legend of Zelda: Link's Awakening](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening)
 - [The Legend of Zelda: Ocarina of Time](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time)
 - [The Legend of Zelda: The Wind Waker HD](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker_HD)
