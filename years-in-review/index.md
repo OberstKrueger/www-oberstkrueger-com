@@ -1,9 +1,33 @@
 ---
-created: 2017-01-01T15:00Z
+created: 2017-01-01T15:00:00Z
 title: Years In Review
 type: page
-updated: 2022-01-18T00:15Z
+updated: 2022-01-18T00:15:00Z
 ---
+
+## 2022
+
+### Favorite Games
+
+- Elden Ring
+- God of War
+- Pokémon Legends: Arceus
+- Serious Sam: Siberian Mayhem
+
+<img src='/images/years-in-review_.jpg' alt=''>
+<img src='/images/years-in-review_.jpg' alt=''>
+<img src='/images/years-in-review_.jpg' alt=''>
+<img src='/images/years-in-review_.jpg' alt=''>
+
+### Favorite Albums
+
+-
+
+<img src='/images/years-in-review_music-2022.jpg' alt='Favorite music of 2022'>
+
+### <Topic>
+
+-
 
 ## 2021
 
