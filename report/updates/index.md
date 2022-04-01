@@ -2,8 +2,27 @@
 created: 2017-02-27T17:00Z
 title: Updates
 type: page
-updated: 2022-03-04T09:20Z
+updated: 2022-04-01T09:00Z
 ---
+
+## 2022.03
+
+### Books Read
+
+- Bartle, Richard - MMOs from the Outside In: The Massively-Multiplayer Online Role-Playing Games of Psychology, Law, Government, and Real Life
+- King, Stephen - Red Screen
+
+### Games Played
+
+- [Diablo 2: Resurrected](https://en.wikipedia.org/wiki/Diablo_II%3A_Resurrected)
+- [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring)
+- [EVE Online](https://en.wikipedia.org/wiki/Eve_Online)
+- [Pokémon Legends: Arceus](https://en.wikipedia.org/wiki/Pokémon_Legends:_Arceus)
+- [Serious Sam: Siberian Mayhem](https://en.wikipedia.org/wiki/Serious_Sam:_Siberian_Mayhem)
+
+### Page Updates
+
+- Mini Game Reviews: Astro's Playroom, Death Stranding, Diablo, Super Mario Odyssey
 
 ## 2022.02
 

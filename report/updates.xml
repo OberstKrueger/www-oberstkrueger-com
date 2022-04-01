@@ -7,7 +7,7 @@
 <link href="https://krueger.report/updates.xml" rel="self" />
 <link href="https://krueger.report" />
 <id>https://krueger.report/</id>
-<updated>2022-03-04T09:20Z</updated>
+<updated>2022-04-01T09:00Z</updated>
 
 <!--
 <entry>
@@ -26,6 +26,39 @@
 </content>
 </entry>
 -->
+
+<entry>
+<title>Updates For March, 2022</title>
+<author>
+<name>Krueger</name>
+</author>
+<link href="https://krueger.report/updates" />
+<id>https://krueger.report/updates/202203</id>
+<published>2022-04-01T09:00Z</published>
+<updated>2022-04-01T09:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2022.03</h2>
+<h3>Books Read</h3>
+<ul>
+<li>Bartle, Richard - MMOs from the Outside In: The Massively-Multiplayer Online Role-Playing Games of Psychology, Law, Government, and Real Life</li>
+<li>King, Stephen - Red Screen</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Diablo_II%3A_Resurrected">Diablo 2: Resurrected</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Elden_Ring">Elden Ring</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Eve_Online">EVE Online</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Pok%C3%A9mon_Legends:_Arceus">Pokémon Legends: Arceus</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Serious_Sam:_Siberian_Mayhem">Serious Sam: Siberian Mayhem</a></li>
+</ul>
+<h3>Page Updates</h3>
+<ul>
+<li>Mini Game Reviews: Astro's Playroom, Death Stranding, Diablo, Super Mario Odyssey</li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For February, 2022</title>
