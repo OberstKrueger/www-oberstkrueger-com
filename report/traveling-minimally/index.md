@@ -1,8 +1,8 @@
 ---
-created: 2018-05-30T01:15Z
+created: 2018-05-30T01:15:00Z
 title: Traveling Minimally
 type: page
-updated: 2021-07-06T23:25Z
+updated: 2021-07-06T23:25:00Z
 ---
 
 Whenever I am out of the house, I try to take as little as possible with me. Whether it is for a day trip someplace or traveling across the country, I take only the absolute minimum necessary for where I am going.

@@ -1,8 +1,8 @@
 ---
-created: 2016-11-17T04:00Z
+created: 2016-11-17T04:00:00Z
 title: Backups
 type: page
-updated: 2020-07-16T21:20Z
+updated: 2020-07-16T21:20:00Z
 ---
 
 It has been 20 years since I experienced a catastrophic data failure on any of my computers. When this happened, I lost many of the files that were important to me. I did not have aa proper [backup](https://en.wikipedia.org/wiki/Backup) plan in place, and managed to recover but a few that happened to be saved on other machines.

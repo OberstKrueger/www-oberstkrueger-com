@@ -1,8 +1,8 @@
 ---
-created: 2016-04-25T00:45Z
+created: 2016-04-25T00:45:00Z
 title: Work Music
 type: page
-updated: 2021-01-21T13:15Z
+updated: 2021-01-21T13:15:00Z
 ---
 
 Music is an integral part of how I work. Whenever I am working on a task, music is playing in the background.

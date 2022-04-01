@@ -1,8 +1,8 @@
 ---
-created: 2016-11-05T13:00Z
+created: 2016-11-05T13:00:00Z
 title: The Krueger Report
 type: index
-updated: 2022-01-21T13:05GZ
+updated: 2022-01-21T13:05Z
 ---
 
 ## Introduction

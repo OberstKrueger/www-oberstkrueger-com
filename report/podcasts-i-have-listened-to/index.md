@@ -1,8 +1,8 @@
 ---
-created: 2017-06-04T19:20Z
+created: 2017-06-04T19:20:00Z
 title: Podcasts I Have Listened To
 type: page
-updated: 2021-01-20T13:00Z
+updated: 2021-01-20T13:00:00Z
 ---
 
 **Accidental Tech Podcast**: [Site](http://atp.fm)<br>

@@ -1,8 +1,8 @@
 ---
-created: 2016-08-17T15:45Z
+created: 2016-08-17T15:45:00Z
 title: Logging Off Facebook
 type: page
-updated: 2021-01-20T13:20Z
+updated: 2021-01-20T13:20:00Z
 ---
 
 Last month, after deliberating on the topic for over a year, I closed my [Facebook](https://www.facebook.com) account. My main objective in doing this was to evaluate how Facebook fit into my life, or if it fit in at all anymore. What I discovered is that after a month of no Facebook, I do not miss it in the slightest.

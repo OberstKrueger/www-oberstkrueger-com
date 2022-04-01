@@ -1,8 +1,8 @@
 ---
-created: 2017-06-20T16:15Z
+created: 2017-06-20T16:15:00Z
 title: Hello, world!
 type: page
-updated: 2021-01-18T00:15Z
+updated: 2021-01-18T00:15:00Z
 ---
 
 Hello, and welcome to The Krueger Report!

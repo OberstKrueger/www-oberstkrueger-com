@@ -1,8 +1,8 @@
 ---
-created: 2017-04-25T21:30Z
+created: 2017-04-25T21:30:00Z
 title: Vitamin B12
 type: page
-updated: 2021-01-20T13:20Z
+updated: 2021-01-20T13:20:00Z
 ---
 
 For over a decade now, I have been a vegetarian. One of the health concerns with being vegetarian is hypocobalaminemia, or vitamin B<sub>12</sub> deficiency. Since [most sources of B<sub>12</sub> is animal-based](https://www.bmj.com/lookup/doi/10.1136/bmj.g5226), it can be difficult for vegans and vegetarians to acquire enough of the vitamin to satisfy the body's needs. Hypocobalaminemia causes anemia and fatigue, but the symptom that bothers me the most is damage to neurological functions.

@@ -1,8 +1,8 @@
 ---
-created: 2017-09-23T05:00Z
+created: 2017-09-23T05:00:00Z
 title: Setting Up Homebrew
 type: page
-updated: 2021-01-18T00:25Z
+updated: 2021-01-18T00:25:00Z
 ---
 
 Any command-line user will know that a robust [package manager](https://en.wikipedia.org/wiki/Package_manager) is not only essential, but something that is a great advantage over your typical GUI. All of the major Linux distributions have package mangers built in: [Arch Linux](https://en.wikipedia.org/wiki/Arch_Linux) has [pacman](https://wiki.archlinux.org/index.php/Pacman), [Debian](https://en.wikipedia.org/wiki/Debian)-based distributions have [APT](https://en.wikipedia.org/wiki/APT_(Debian)), [Fedora](https://en.wikipedia.org/wiki/Fedora_(operating_system)) has [rpm](https://en.wikipedia.org/wiki/Rpm_(software)), and [Gentoo](https://en.wikipedia.org/wiki/Gentoo_Linux) has [Portage](https://en.wikipedia.org/wiki/Portage_(software)). But out of the box, there is no package manager for [macOS](https://en.wikipedia.org/wiki/MacOS).

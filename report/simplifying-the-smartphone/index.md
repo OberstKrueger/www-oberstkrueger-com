@@ -1,8 +1,8 @@
 ---
-created: 2018-08-28T17:30Z
+created: 2018-08-28T17:30:00Z
 title: Simplifying the Smartphone
 type: page
-updated: 2022-01-21T13:15Z
+updated: 2022-01-21T13:15:00Z
 ---
 
 In April of 2017, a startup called [Siempo aimed to create a smartphone designed around not being a distraction](https://www.theverge.com/circuitbreaker/2017/3/14/14908020/siempo-mindful-phone-app-addiction-kickstarter-launch). The idea they presented was intriguing and introduced some features that were unheard of in any smartphone.

@@ -1,8 +1,8 @@
 ---
-created: 2020-06-14T10:00Z
+created: 2020-06-14T10:00:00Z
 title: Past Computing Devices
 type: page
-updated: 2022-02-23T10:55Z
+updated: 2022-02-23T10:55:00Z
 ---
 
 ## Main Timeline

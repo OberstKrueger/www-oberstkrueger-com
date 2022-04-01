@@ -1,8 +1,8 @@
 ---
-created: 2017-07-24T17:00Z
+created: 2017-07-24T17:00:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2020-12-05T11:15Z
+updated: 2020-12-05T11:15:00Z
 ---
 
 ## Trials - A Realm Reborn

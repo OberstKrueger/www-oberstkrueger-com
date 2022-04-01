@@ -2,7 +2,7 @@
 created: 2016-02-10T06:06Z
 title: About The Author
 type: page
-updated: 2022-01-31T01:25Z
+updated: 2022-01-31T01:25:00Z
 ---
 
 ## Current Computing Devices

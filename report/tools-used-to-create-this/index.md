@@ -1,8 +1,8 @@
 ---
-created: 2016-12-10T10:10Z
+created: 2016-12-10T10:10:00Z
 title: Tools Used To Make This
 type: page
-updated: 2018-04-12T00:20Z
+updated: 2018-04-12T00:20:00Z
 ---
 
 There are two major tools used to make everything you read here: [Markdown](http://daringfireball.net/projects/markdown/) for the writing, and [Caddy](https://caddyserver.com) for compiling it.

@@ -1,8 +1,8 @@
 ---
-created: 2016-06-22T07:45Z
+created: 2016-06-22T07:45:00Z
 title: Disabling Gaming Platforms’ Social Features
 type: page
-updated: 2022-01-30T13:10Z
+updated: 2022-01-30T13:10:00Z
 ---
 
 Most modern game platforms include a number of forced social features. They can be difficult to hide, and some platforms do not allow you to disable them at all.

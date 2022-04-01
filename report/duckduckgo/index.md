@@ -1,8 +1,8 @@
 ---
-created: 2016-10-02T16:50Z
+created: 2016-10-02T16:50:00Z
 title: DuckDuckGo
 type: page
-updated: 2017-09-03T10:00Z
+updated: 2017-09-03T10:00:00Z
 ---
 
 In 2014, I was introduced to a new search engine called [DuckDuckGo](https://duckduckgo.com). [Apple](http://www.apple.com) added it as a search engine option alongside their push for improved privacy and security. Since its inclusion in [Safari](https://www.apple.com/safari/) for both [iOS 8](https://en.wikipedia.org/wiki/IOS_8) and [Mac OS X Yosemite](https://en.wikipedia.org/wiki/OS_X_Yosemite), I have been using it as my primary search engine.

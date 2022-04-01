@@ -1,8 +1,8 @@
 ---
-created: 2018-07-21T00:30Z
+created: 2018-07-21T00:30:00Z
 title: Exit Status Codes
 type: page
-updated: 2021-01-18T00:20Z
+updated: 2021-01-18T00:20:00Z
 ---
 
 On all [Unix](https://en.wikipedia.org/wiki/Unix) operating systems, every time a process exits, it returns an [exit status](https://en.wikipedia.org/wiki/Exit_status) that tells the operating system whether the process ran successfully or encountered some sort of failure mode. Implementing these exit statuses is important so that the tool can interact with the rest of the system in an expected way.

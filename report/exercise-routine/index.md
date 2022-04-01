@@ -1,8 +1,8 @@
 ---
-created: 2017-03-18T19:45Z
+created: 2017-03-18T19:45:00Z
 title: Exercise Routine
 type: page
-updated: 2017-09-01T05:45Z
+updated: 2017-09-01T05:45:00Z
 ---
 
 ## Current Schedule

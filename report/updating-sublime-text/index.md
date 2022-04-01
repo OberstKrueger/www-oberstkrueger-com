@@ -1,8 +1,8 @@
 ---
-created: 2018-03-29T02:30Z
+created: 2018-03-29T02:30:00Z
 title: Updating Sublime Text
 type: page
-updated: 2022-03-11T10:10Z
+updated: 2022-03-11T10:10:00Z
 ---
 
 For 7 years, Sublime Text has been my go-to text editor for everything. No other text editor I have used matches the speed of Sublime, and the customization options available rival most other editors out there.

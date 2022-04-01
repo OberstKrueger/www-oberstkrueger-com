@@ -1,8 +1,8 @@
 ---
-created: 2017-07-02T19:15Z
+created: 2017-07-02T19:15:00Z
 title: Helpful Algorithms
 type: page
-updated: 2018-01-25T03:15Z
+updated: 2018-01-25T03:15:00Z
 ---
 
 ## Greatest Common Divisor

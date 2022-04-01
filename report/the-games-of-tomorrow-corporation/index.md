@@ -1,8 +1,8 @@
 ---
-created: 2018-06-30T18:05Z
+created: 2018-06-30T18:05:00Z
 title: The Games of Tomorrow Corporation
 type: page
-updated: 2021-08-12T02:50Z
+updated: 2021-08-12T02:50:00Z
 ---
 
 ## World of Goo
