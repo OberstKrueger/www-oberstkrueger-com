@@ -1,8 +1,8 @@
 ---
-created: 2017-06-11T13:30Z
+created: 2017-06-11T13:30:00Z
 title: Books I Have Read
 type: page
-updated: 2022-03-10T13:40Z
+updated: 2022-03-10T13:40:00Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
