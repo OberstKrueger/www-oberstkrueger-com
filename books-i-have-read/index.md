@@ -2,7 +2,7 @@
 created: 2017-06-11T13:30:00Z
 title: Books I Have Read
 type: page
-updated: 2022-04-02T07:35:00Z
+updated: 2022-04-02T07:50:00Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -176,9 +176,9 @@ This is certainly an incomplete list. There have been many books I have read, pa
 
 - Bartle, Richard - MMOs from the Outside In: The Massively-Multiplayer Online Role-Playing Games of Psychology, Law, Government, and Real Life
 - De Grey, Aubrey - Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime
-- Dodrill, Christine - Musings from Within
 - Huang, Andrew - The Hardware Hacker: Adventures in Making and Breaking Hardware
 - Iaso, Xe - Closed Projects
+- Iaso, Xe - Musings from Within
 - Kaku, Michio - The Future of Humanity: Terraforming Mars, Interstellar Travel, Immortality, and Our Destiny Beyond Earth
 - Kakuzō, Okakura - The Book of Tea
 - Kondo, Marie - The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
