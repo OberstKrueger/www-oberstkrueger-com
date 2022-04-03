@@ -5,25 +5,6 @@ type: page
 updated: 2022-04-01T09:00:00Z
 ---
 
-## 2022.04
-
-### Books Read
-
--
-
-### Games Played
-
-- [Diablo 2: Resurrected](https://en.wikipedia.org/wiki/Diablo_II%3A_Resurrected)
-- [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring)
-- [EVE Online](https://en.wikipedia.org/wiki/Eve_Online)
-- [The Legend of Zelda: Breath of the Wild](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild)
-
-### Movies Watched
-
-### Page Updates
-
-- Mini Game Reviews:
-
 ## 2022.03
 
 ### Books Read
