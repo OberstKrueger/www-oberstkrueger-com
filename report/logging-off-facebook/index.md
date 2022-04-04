@@ -2,7 +2,7 @@
 created: 2016-08-17T15:45:00Z
 title: Logging Off Facebook
 type: page
-updated: 2021-01-20T13:20:00Z
+updated: 2022-04-20T09:35:00Z
 ---
 
 Last month, after deliberating on the topic for over a year, I closed my [Facebook](https://www.facebook.com) account. My main objective in doing this was to evaluate how Facebook fit into my life, or if it fit in at all anymore. What I discovered is that after a month of no Facebook, I do not miss it in the slightest.
@@ -15,7 +15,13 @@ What Facebook has morphed into is a news feed that just shows what people find i
 
 While the thought of closing my Facebook account has been on my mind for a few years now, I went into this thinking of it as an experiment. After [downloading all of the data](https://www.facebook.com/help/131112897028467), I closed my account, and told myself I would re-evaulate the decision at two points in the future: 1 month later, and 6 months later. At both of these points in time, my desire to go back to Facebook was nil, and my account was permanently deleted on March 19, 2017.
 
-The primary thing that is obvious to me was how habitual checking Facebook had become. Part of my morning routine is to go through all of my e-mail, and while I would do that, I would open up Facebook and peruse down the news feed. I would never comment on anything, or have any messages awaiting me on there. All of the people I communicate with I do so by e-mail, [iMessage](https://support.apple.com/en-us/HT201287), [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat), or [Telegram](https://telegram.org).
+The primary thing that is obvious to me was how habitual checking Facebook had become. Part of my morning routine is to go through all of my e-mail, and while I would do that, I would open up Facebook and peruse down the news feed. I would never comment on anything, or have any messages awaiting me on there. Everyone I talk to regularly I do so through one of these methods:
+
+- [iMessage](https://support.apple.com/en-us/HT201287)
+- [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
+- [Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol))
+- [Signal](https://en.wikipedia.org/wiki/Signal_(software))
+- [Telegram](https://telegram.org).
 
 There is a part of me that worries about missing out on important information. When my friend [Reid](https://feldmanmortuary.com/tribute/details/2942/Reid-LEVIN/obituary.html) died last year, I found out through Facebook. Without Facebook, I would have found out later than I had.
 
