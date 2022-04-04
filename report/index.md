@@ -2,28 +2,28 @@
 created: 2016-11-05T13:00:00Z
 title: The Krueger Report
 type: index
-updated: 2022-04-04T09:45:00Z
+updated: 2022-04-04T09:50:00Z
 ---
 
 ## Introduction
 
 - [Hello, world!](/hello-world)
-- [Updates](/updates)
 - [Tools Used To Create This](/tools-used-to-create-this)
+- [Updates](/updates)
 
 ## Gaming
 
 - [Mini Game Reviews](/mini-game-reviews)
 - [Asheron's Call](/asherons-call)
 - [Disabling Gaming Platform's Social Features](/disabling-gaming-platforms-social-features)
-- [The Games of Tomorrow Corporation](/the-games-of-tomorrow-corporation)
 - [Notes On Final Fantasy XIV](/notes-on-final-fantasy-xiv)
+- [The Games of Tomorrow Corporation](/the-games-of-tomorrow-corporation)
 
 ## Health
 
 - [Iced Coffee](/iced-coffee)
-- [Vitamin B<sub>12</sub>](/vitamin-b12)
 - [Tracking Sleep](/tracking-sleep)
+- [Vitamin B<sub>12</sub>](/vitamin-b12)
 
 ## Life
 
@@ -45,15 +45,15 @@ updated: 2022-04-04T09:45:00Z
 
 ## Technology
 
-- [Current Computing Devices](/current-computing-devices)
-- [Software Tools](/software-tools)
+- [Backups](/backups)
 - [CLI Tools](/cli-tools)
+- [Current Computing Devices](/current-computing-devices)
+- [DuckDuckGo](/duckduckgo)
+- [Logging Off Facebook](/logging-off-facebook)
 - [Past Computing Devices](/past-computing-devices)
 - [Setting Up Homebrew](/setting-up-homebrew)
 - [Simplifying the Smartphone](/simplifying-the-smartphone)
-- [Backups](/backups)
-- [DuckDuckGo](/duckduckgo)
-- [Logging Off Facebook](/logging-off-facebook)
+- [Software Tools](/software-tools)
 
 ## Music
 
