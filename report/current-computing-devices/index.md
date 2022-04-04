@@ -1,13 +1,11 @@
 ---
 created: 2016-02-10T06:06Z
-title: About The Author
+title: Current Computing Devices
 type: page
-updated: 2022-01-31T01:25:00Z
+updated: 2022-04-04T02:45:00Z
 ---
 
-## Current Computing Devices
-
-### Gaming PC
+## Gaming PC
 
 CPU: [AMD Ryzen 5 5600X](https://en.wikipedia.org/wiki/Zen_3)<br>
 GPU: [AMD Radeon RX 6800](https://en.wikipedia.org/wiki/Radeon_RX_6000_series)<br>
@@ -19,7 +17,7 @@ Geekbench 5.2 CPU: [1,647 / 7,721](https://browser.geekbench.com/v5/cpu/6576174)
 Geekbench 5.2 Compute (OpenCL): [128,163](https://browser.geekbench.com/v5/compute/2435126)<br>
 Geekbench 5.2 Compute (Vulkan): [85,188](https://browser.geekbench.com/v5/compute/2435130)
 
-### iPad (8th Generation)
+## iPad (8th Generation)
 
 CPU: [Apple A12](https://en.wikipedia.org/wiki/Apple_A12)<br>
 GPU: [Apple A12](https://en.wikipedia.org/wiki/Apple_A12)<br>
@@ -29,7 +27,7 @@ SSD: 32 GB
 Geekbench 5.2 CPU: [1,113 / 2,755](https://browser.geekbench.com/v5/cpu/6191212)<br>
 Geekbench 5.2 Compute (Metal): [5,351](https://browser.geekbench.com/v5/compute/2323357)
 
-### iPhone 12 Mini
+## iPhone 12 Mini
 
 CPU: [Apple A14](https://en.wikipedia.org/wiki/Apple_A14)<br>
 GPU: [Apple A14](https://en.wikipedia.org/wiki/Apple_A14)<br>
@@ -39,7 +37,7 @@ SSD: 256 GB
 Geekbench 5.2 CPU: [1,603 / 3,945](https://browser.geekbench.com/v5/cpu/5167933)<br>
 Geekbench 5.2 Compute (Metal): [9,315](https://browser.geekbench.com/v5/compute/1998970)
 
-### MacBook Pro 14" (2021)
+## MacBook Pro 14" (2021)
 
 CPU: [Apple M1 Max](https://en.wikipedia.org/wiki/Apple_M1_Pro_and_M1_Max)<br>
 GPU: [24-Core Apple M1 Max](https://en.wikipedia.org/wiki/Apple_M1_Pro_and_M1_Max)<br>

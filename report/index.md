@@ -2,14 +2,13 @@
 created: 2016-11-05T13:00:00Z
 title: The Krueger Report
 type: index
-updated: 2022-04-04T09:25:00Z
+updated: 2022-04-04T09:45:00Z
 ---
 
 ## Introduction
 
 - [Hello, world!](/hello-world)
 - [Updates](/updates)
-- [About The Author](/about-the-author)
 - [Tools Used To Create This](/tools-used-to-create-this)
 
 ## Gaming
@@ -46,6 +45,7 @@ updated: 2022-04-04T09:25:00Z
 
 ## Technology
 
+- [Current Computing Devices](/current-computing-devices)
 - [Software Tools](/software-tools)
 - [CLI Tools](/cli-tools)
 - [Past Computing Devices](/past-computing-devices)
