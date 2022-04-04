@@ -2,7 +2,7 @@
 created: 2016-11-05T13:00:00Z
 title: The Krueger Report
 type: index
-updated: 2022-01-21T13:05Z
+updated: 2022-04-04T09:25:00Z
 ---
 
 ## Introduction
@@ -39,7 +39,6 @@ updated: 2022-01-21T13:05Z
 
 ## Programming
 
-- [base-css](/base-css)
 - [Exit Status Codes](/exit-status-codes)
 - [Helpful Algorithms](/helpful-algorithms)
 - [Scripting With Swift](/scripting-with-swift)
