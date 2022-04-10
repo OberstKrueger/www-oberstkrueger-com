@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50:00Z
 title: Mini Game Reviews
 type: page
-updated: 2022-03-17T09:35:00Z
+updated: 2022-04-10T09:10:00Z
 ---
 
 ## Astro's Playroom
@@ -180,6 +180,20 @@ The best aspect of Diablo is its simplicity. There are 3 classes that the player
 Multiplayer in Diablo was a hit or miss experience, but did show the potential for what an online RPG could be. Since the game lacked anti-cheating methods or character verification, many characters found online had items that were more powerful than anything attainable in the normal course of the game. Thankfully, future titles improved on this, as even the broken state of Diablo's multiplayer was a lot of fun to experience.
 
 Diablo is a classic game that has aged well due to the simplicity of the core game systems. Despite some user interface and control systems that are dated, the rest of the game is still fun to play to this day. And as much fun as Diablo still is, it pales in comparison to its sequel...
+
+## Diablo 2
+
+<img src='/images/mini-game-reviews_diablo-2.jpg' alt='Screenshot of Diablo 2'>
+
+Diablo 2 was released during the time where my gaming tastes were going through the large change of being focused on first-person shooters and strategy games and moving towards online RPGs. Asheron's Call, Diablo 2, EverQuest, and the modding scene for Warcraft III changed what I consider my primary gaming focus, smething that has remained to this day. One game sticks out from that group in that more than 20 years after its initial release in that I still regullarly go back and play through the game. That game is Diablo 2.
+
+Diablo 2 builds expertly on what worked well in the original game. It takes the action-RPG designs of Diablo and perfects it into an experience that has not been surpassed since. RPG elements are enhanced, movement is modernized, and the world is fleshed out more with a proper backstory that is told through cinematic cutscenes. Multiplayer was integrated better into the game, with "closed Battle.net" being separate from singleplayer, reducing the cheating that plagued the origina's multiplayer experience.
+
+It's hard to understate how important this game was to the RPG genre. Random loot had already been present in RPGs for decades, but the particular method Diablo 2 used for randomization has become the prominent way to handle loot in RPGs, especially ones of a multiplayer nature. Rarity levels, prefixes, and suffixes are now common. Many RPGs have tried to replicate the tone of Diablo 2, although most fail to do it quite as well. Online-only action-RPGs are now mainstream, after the success of Battle.net on Diablo 2.
+
+Diablo 2's gameplay has aged well, but unfortunately, the graphics have not. The original game was limited to a resolution of 800x600, which was already on the low side at the time of release, and does not look great on modern displays. Thankfully, Vicarious Visions was brought on to remaster the game, and in doing so have set my gold standard for how a remastered game should be. The graphics now look modern at high resolutions while retaining a perfect recreation of the original game's art style. The original recordings of the music and sound effects were used to create new higher quality versions of both, matching the quality of the graphics. Controls have also been modernized, with greater customization of keyboard and mouse commands, and adding the controller as a viable way to play for those who prefer that method or suffer from RSI commonly caused by the original game.
+
+For 20 years, I played through Diablo 2 at least once every year. With the release of Diablo 2 Resurrected, I expect this to remain the case for the next 20 years.
 
 ## Diablo III
 
