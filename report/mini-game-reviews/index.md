@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50:00Z
 title: Mini Game Reviews
 type: page
-updated: 2022-04-10T09:10:00Z
+updated: 2022-04-14T09:25:00Z
 ---
 
 ## Astro's Playroom
@@ -457,6 +457,18 @@ The game is structured as a series of short stories. Each one is about the life 
 What separates this game from others is its visual acumen. The game is the most visually appealing walking simulator that I have played, with a wide range of graphical styles present. From the realistic visuals of the house, to the comic styles of Barbara's story, to the imaginary dream world of Lewis' story, there is much to enjoy in this department. Additionally, Jeff Russo does an amazing job with creating a soundtrack that fits the overall theme of the stories being told.
 
 Like most games in this genre, it is short. The whole game can be experienced in about 2 hours total, and it is best played through in one sitting.
+
+## Wolfenstein: Youngblood
+
+<img src='/images/mini-game-reviews_wolfenstein-youngblood.jpg' alt='Screenshot of Wolfenstein: Youngblood'>
+
+The Wolfenstein series of games have been very successful, with some of the latest entries being quite well regarded. Despite this, my time with the series has been minimal outside of playing Wolfenstein 3D back in the 1990s. Wolfenstein: Youngblood caught my eye due to being an FPS with RPG elements, two genres that go very well together. Unfortunately, the game did not live up to any expectations I had.
+
+The FPS side of the game is a large step back from where other FPS games have gone in recent years. It is not the worst gunplay that I have experienced, but it is on the lower end of things. None of the weapons feel like they have any weight to them. This is made worse by enemies being bullet sponges that take too long to take down. Different categories of weapons are more effective against specific types of enemies, but the options are limited that you switch between two different weapons that do not feel that different in their useage.
+
+The FPS game systems are lacking, but the RPG systems are bad. The skill tree system in the game does not feel consequential outside of the ability to use a few new types of weapons. Otherwise, most abilities can be earned through gameplay with enough time, meaning that there is little choice to be made. This all seems tacked on to the game without any thought being given to how it can improve on the overall experience.
+
+The final nail in the coffin for the game is the narrative. The overall story is a nice flip with the main characters, Jessie and Zofia Blazkowicz, working to free their father, B.J. Blazkowicz, from Nazi capture. The characters are decently written, although their schtick is tiring by the end of the game. The main story is interesting, but most of the side quests in the game add little to the overall narrative. The game feels overly long as a result, with the main story not able to carry the weight of the 10-15 hour experience. By the time the ending credits rolled, I was happy to be done with it.
 
 ## The 7th Guest
 
