@@ -307,6 +307,10 @@ img {
     width: 100%;
 }
 
+p:has(>img) {
+    width: 100%;
+}
+
 video {
     display: block;
     margin: 0 auto calc(var(--lineHeight) * 1rem);
