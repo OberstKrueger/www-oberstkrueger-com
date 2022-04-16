@@ -16,9 +16,7 @@ VARIABLES
     --fontWeight: 400;
     --fontWeightBold: 700;
     --lineHeight: 1.375;
-    --textWidth: 40rem;
-
-    --imgWidth: 40rem;
+    --maxWidth:  40rem;
     --textLongest: 21.5rem;
 }
 
@@ -66,7 +64,7 @@ pre {
     background-color: var(--colorInactive);
     border-radius: var(--borderRadius);
     margin: 0 auto calc(var(--lineHeight) * 1rem);
-    max-width: var(--textWidth);
+    max-width: var(--maxWidth);
     padding: calc(var(--lineHeight) * 1rem) 0;
     width: 90%;
 }
@@ -286,7 +284,7 @@ ol,
 p,
 table,
 ul {
-    max-width: var(--textWidth);
+    max-width: var(--maxWidth);
     width: 90%;
 }
 
@@ -330,7 +328,7 @@ video {
 }
 
 video.half {
-    max-width: var(--textWidth);
+    max-width: var(--maxWidth);
     width: 50%;
 }
 
@@ -342,7 +340,7 @@ CLASSES
 
 .bandcamp {
     margin: 0 auto calc(var(--lineHeight) * 1rem);
-    max-width: var(--textWidth);
+    max-width: var(--maxWidth);
     width: 100%;
 }
 
@@ -387,7 +385,7 @@ CLASSES
 
 .youtube {
     margin: auto;
-    max-width: var(--imgWidth);
+    max-width: var(--maxWidth);
     position: relative;
     padding-bottom: 56.25%;
     overflow: hidden;
