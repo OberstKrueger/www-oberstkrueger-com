@@ -17,7 +17,6 @@ VARIABLES
     --fontWeight: 400;
     --fontWeightBold: 700;
     --lineHeight: 1.375;
-    --textJustify: 32rem;
     --textWidth: 40rem;
 
     --imgWidth: 40rem;
@@ -280,7 +279,7 @@ ul {
     width: 90%;
 }
 
-@media (min-width: var(--textJustify)) {
+@media (min-width: 32rem) {
     h4,
     h5,
     h6,
@@ -344,7 +343,7 @@ CLASSES
     color: var(--colorFG);
 }
 
-@media (min-width: var(--textJustify)) {
+@media (min-width: 32rem) {
     .error p {
         text-align:  center;
     }
@@ -365,7 +364,7 @@ CLASSES
     text-align: center;
 }
 
-@media (min-width:  var(--textJustify)) {
+@media (min-width:  32rem) {
     .index li {
         text-align: center;
     }
