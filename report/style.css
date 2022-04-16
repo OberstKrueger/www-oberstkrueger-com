@@ -11,7 +11,6 @@ VARIABLES
     --colorGreen: rgba(50, 215, 75, 1);
 
     --borderRadius: 0.5rem;
-    --fontSize: 100%;
     --fontStack: "Avenir Next", "Avenir", "Open Sans", "Sego UI", sans-serif;
     --fontStackMono: monospace;
     --fontWeight: 400;
@@ -32,13 +31,25 @@ html {
     background-color: var(--colorBG);
     color: var(--colorFG);
     font-family: var(--fontStack);
-    font-size: var(--fontSize);
+    font-size: 100%;
     line-height: var(--lineHeight);
     margin: 0;
     text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
+}
+
+@media (min-width: 40rem) {
+    html {
+        font-size: 2.5vw;
+    }
+}
+
+@media (min-width: 50rem) {
+    html {
+        font-size: 125%;
+    }
 }
 
 b,
