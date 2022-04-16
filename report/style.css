@@ -322,14 +322,10 @@ p:has(>img) {
 video {
     display: block;
     margin: 0 auto calc(var(--lineHeight) * 1rem);
+    max-width: var(--maxWidth);
     padding: 0;
     page-break-inside: avoid;
     width: 100%;
-}
-
-video.half {
-    max-width: var(--maxWidth);
-    width: 50%;
 }
 
 /*
