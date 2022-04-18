@@ -2,7 +2,7 @@
 created: 2016-03-27T12:30:00Z
 title: Tracking Sleep
 type: page
-updated: 2022-01-21T13:15:00Z
+updated: 2022-04-18T09:55:00Z
 ---
 
 While much of the focus on the [Apple Watch](https://www.apple.com/watch/) has centered around notifications and interactions between it and the phone, what interests me most about the device is using it for new tasks that the [iPhone](https://www.apple.com/iphone/) and my [Mac Mini](https://www.apple.com/mac-mini/) can not do. The big area that the Apple Watch can do that the other devices can not is health tracking.
@@ -13,13 +13,13 @@ The app I use to track my sleep is [AutoSleep](http://autosleep.tantsissa.com). 
 
 The previous apps that I have used, [Sleep++](https://apps.apple.com/us/app/sleep/id1038440371) and [Sleep Cycle](http://www.sleepcycle.com), all required setting the watch into sleep mode every night. This extra step was not only a hassle, but it meant that if I was tired and forgot to turn the mode on, a night's worth of sleep tracking was missed. Additionally, the mode needed to be turned off in the morning, which was occasionally missed until a few hours later.
 
-<img src='/images/tracking-sleep_autosleep.jpg' alt='AutoSleep'>
+<img src='autosleep.jpg' alt='AutoSleep'>
 
 AutoSleep works by using the motion data that the Apple Watch and iPhone regularly record. After telling the app what your sleep schedule is, it combines this data with your movement to see if you were actually asleep. In the morning, it reviews the nights motion data to track how well you slept.
 
 In addition, AutoSleep syncs with [Apple Health](https://www.apple.com/ios/health/), allowing me to add it to the overall picture of my health. This makes it easy to see graphs of how well I have slept throughout the past week, month, or year.
 
-<img src='/images/tracking-sleep_health.png' alt='Summaries for day, month, week, and year provided by Apple Health'>
+<img src='health.png' alt='Summaries for day, month, week, and year provided by Apple Health'>
 
 In the past, I have used [Sleep Cycle](http://www.sleepcycle.com), but this app's method of sleep tracking presented many problems. Having my phone laying on the bed next to me left me nervous that I was going to roll over and knock it off the bed, losing out on the sleep tracking and/or damaging the phone. Sleep Cycle now uses a method that captures the sound in the room to determine restfulness, but since I am not the only one sleeping in the same bed, I worry about inaccuracies in its recording.
 

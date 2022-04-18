@@ -2,7 +2,7 @@
 created: 2017-02-08T07:00:00Z
 title: Asheron's Call
 type: page
-updated: 2022-04-16T09:50:00Z
+updated: 2022-04-18T09:55:00Z
 ---
 
 In the 1990s, [MMORPGs](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game) were a new category of gaming. A few early MMORPGs, such as [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights_(1991_video_game)) and [Meridian 59](https://en.wikipedia.org/wiki/Meridian_59) were successful but still niche. With the release of [Asheron's Call](https://en.wikipedia.org/wiki/Asheron%27s_Call), [EverQuest](https://en.wikipedia.org/wiki/EverQuest), and [Ultima Online](https://en.wikipedia.org/wiki/Ultima_Online), the genre entered the mainstream. Together, these three games were commonly referred to as the "Big Three", and helped introduce the genre to the world.
@@ -35,7 +35,7 @@ Unfortunately, this system was done away with in later years. The spell economy 
 
 ## A Seamless World
 
-<img src='/images/asherons-call_dereth.jpg' alt='Map of Dereth'>
+<img src='dereth.jpg' alt='Map of Dereth'>
 
 One of the first things that you notice when you first arrive in the world of Dereth is how far you can see. This is not unique in today's games, but back in 1999, it was an amazing sight to see. Mountains in the distance were visible. From high vantage points, you could follow the path of a river as it winded in between hills. In EverQuest, every area was surrounded by a range of hills that you could not climb over. This allowed the game to be broken up into smaller zones that were easier for computer systems to handle. Asheron's Call did away with this, showing off a more realistic geography than had been done before.
 
@@ -77,7 +77,7 @@ The ending to the game introduced one final unique element to the game, one I ha
 
 When players logged out of Asheron's Call, there was an animation associated with it. The player character would raise their arms up and become enveloped in a purple portal storm, and then disappear. This signified the character entering a personal portal away, back to Ispar, the world where all player characters originated from.
 
-<video src='/images/asherons-call_logout.mp4' autoplay loop playsinline></video>
+<video src='logout.mp4' autoplay loop playsinline></video>
 
 As the time came for the servers to shut down, every player character went through this animation. It was the final time that humans from Ispar would ever be present in the world of Dereth, and they all left in unison. Turbine itself did not provide any lore for this final reasoning, Ku Saan of the Frostfell server [wrote up his own ending to the game](https://www.reddit.com/r/AsheronsCall/comments/5rbj1b/my_brother_wrote_the_farewell_message_that/).
 
@@ -91,4 +91,4 @@ Unfortunately, there were only a few thousand active players at the end of Asher
 
 Asheron's Call did a lot to shape the modern MMO field, and it [tragically ended  on January 31, 2017](http://massivelyop.com/2016/12/20/asherons-call-and-its-sequel-will-sunset-as-part-of-the-turbinestanding-stone-split/) with a whimper. I am glad I got to experience while I could, and will cherish the memories that the game has given me.
 
-<video src='/images/asherons-call_portal.mp4' autoplay loop playsinline></video>
+<video src='portal.mp4' autoplay loop playsinline></video>
