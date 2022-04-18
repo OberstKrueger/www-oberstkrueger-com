@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<title>{{.Doc.title}}</title>
+
+	<meta name="description" content="The Krueger Report" />
+	<meta name="author" content="Krueger" />
+
+	<link rel="me" href="https://github.com/oberstkrueger" />
+
+	<link rel="stylesheet" href="/style.css" />
+	<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+
+	<link rel="alternate" type="application/rss+xml" title="The Krueger Report" href="/updates.xml" />
+	<link rel="pingback" href="https://webmention.io/krueger.report/xmlrpc" />
+	<link rel="webmention" href="https://webmention.io/krueger.report/webmention" />
+</head>
+<body class="{{.Doc.type}}">
+	{{if eq .URL.Path "/"}}
+	<main>
+		<header>
+			<h1><a href="/">{{.Doc.title}}</a></h1>
+		</header>
+{{.Doc.body}}
+		<footer>
+			<a href="{{.URI}}" class="u-url">published: <time class="dt-published" datetime="{{.Doc.created}}">{{.Doc.created}}</time><br />updated: <time class="dt-updated" datetime="{{.Doc.updated}}">{{.Doc.updated}}</time></a>
+		</footer>
+	{{else}}
+	<main class="h-entry">
+		<header>
+			<h1 class='p-name'><a href="/">{{.Doc.title}}</a></h1>
+		</header>
+		<article class='e-content'>
+{{.Doc.body}}
+		</article>
+		<footer>
+			<a href="{{.URI}}" class="u-url">published: <time class="dt-published" datetime="{{.Doc.created}}">{{.Doc.created}}</time><br />updated: <time class="dt-updated" datetime="{{.Doc.updated}}">{{.Doc.updated}}</time></a>
+		</footer>
+	{{end}}
+	</main>
+</body>
+</html>

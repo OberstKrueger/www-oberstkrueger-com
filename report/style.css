@@ -1,0 +1,399 @@
+/*
+
+VARIABLES
+
+*/
+:root {
+    --colorBG: rgba(28, 28, 28, 1);
+    --colorFG: rgba(255, 255, 255, 1);
+    --colorInactive: rgba(40, 42, 41, 1);
+    --colorBlue: rgba(10, 132, 255, 1);
+    --colorGreen: rgba(50, 215, 75, 1);
+
+    --borderRadius: 0.5rem;
+    --fontStack: "Avenir Next", "Avenir", "Open Sans", "Sego UI", sans-serif;
+    --fontStackMono: monospace;
+    --fontWeight: 400;
+    --fontWeightBold: 700;
+    --lineHeight: 1.375;
+    --maxWidth:  40rem;
+    --textLongest: 21.5rem;
+}
+
+/*
+
+ELEMENTS
+
+*/
+html {
+    background-color: var(--colorBG);
+    color: var(--colorFG);
+    font-family: var(--fontStack);
+    font-size: 100%;
+    line-height: var(--lineHeight);
+    margin: 0;
+    text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+@media (min-width: 40rem) {
+    html {
+        font-size: 2.5vw;
+    }
+}
+
+@media (min-width: 50rem) {
+    html {
+        font-size: 125%;
+    }
+}
+
+b,
+strong {
+    font-weight: var(--fontWeightBold);
+}
+
+body {
+    margin: 0;
+}
+
+blockquote,
+pre {
+    background-color: var(--colorInactive);
+    border-radius: var(--borderRadius);
+    margin: 0 auto calc(var(--lineHeight) * 1rem);
+    max-width: var(--maxWidth);
+    padding: calc(var(--lineHeight) * 1rem) 0;
+    width: 90%;
+}
+
+blockquote:last-child,
+pre:last-child {
+    margin-bottom: 0;
+}
+
+code {
+    display: block;
+    font-family: var(--fontStackMono);
+    font-size: 0.75rem;
+    line-height: calc(var(--lineHeight) / 0.75);
+    margin: auto;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+    width: 90%;
+}
+
+em {
+    font-style: italic;
+}
+
+footer {
+    border-top: 0.0625rem solid -var(-colorFG);
+    margin: 0 auto;
+    max-width: var(--textLongest);
+    text-align: center;
+    width: 90%;
+}
+
+footer a:link,
+footer a:visited,
+footer a:hover,
+footer a:active {
+    color: var(--colorFG);
+    font-size: 0.75rem;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: var(--fontWeightBold);
+    margin: calc(var(--lineHeight) * 4rem) auto;
+    text-align: center;
+}
+
+h1 a:link,
+h1 a:visited,
+h1 a:hover,
+h1 a:active {
+    color: var(--colorFG);
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: var(--fontWeightBold);
+    margin: calc(var(--lineHeight) * 2rem) auto;
+    text-align: center;
+}
+
+h2 a:link,
+h2 a:visited,
+h2 a:hover,
+h2 a:active {
+    color: var(--colorFG);
+    text-decoration: none;
+}
+
+h3 {
+    font-size: 1rem;
+    font-weight: var(--fontWeightBold);
+    margin: calc(calc(var(--lineHeight) / 2) * 1rem) auto;
+    text-align: center;
+}
+
+h3 a:link,
+h3 a:visited,
+h3 a:hover,
+h3 a:active {
+    color: var(--colorFG);
+    text-decoration: none;
+}
+
+h4,
+h5,
+h6 {
+    font-size: 1rem;
+    font-weight: var(--fontWeightBold);
+    margin: 0 auto;
+    text-align: left;
+}
+
+h4 a:link,
+h4 a:visited,
+h4 a:hover,
+h4 a:active,
+h5 a:link,
+h5 a:visited,
+h5 a:hover,
+h5 a:active,
+h6 a:link,
+h6 a:visited,
+h6 a:hover,
+h6 a:active {
+    color: var(--colorFG);
+    text-decoration: none;
+}
+
+li a:link,
+li a:visited,
+li a:hover,
+li a:active {
+    color: var(--colorBlue);
+    font-weight: var(--fontWeightBold);
+    text-decoration: none;
+}
+
+li a:visited {
+    color: var(--colorGreen);
+}
+
+ol {
+    list-style: decimal outside;
+    margin: 0 auto calc(var(--lineHeight) * 1rem);
+    padding: 0;
+}
+
+ol ol,
+ol ul {
+    margin-bottom: 0;
+}
+
+p {
+    font-size:  1rem;
+    font-weight: var(--fontWeight);
+    margin: 0 auto calc(var(--lineHeight) * 1rem);
+    text-align: left;
+}
+
+p a:link,
+p a:visited,
+p a:hover,
+p a:active {
+    color: var(--colorBlue);
+    font-weight: var(--fontWeightBold);
+    text-decoration: none;
+}
+
+p a:visited {
+    color: var(--colorGreen);
+}
+
+sub {
+    font-size: 0.75rem;
+    position: relative;
+    top: 0.25rem;
+    vertical-align: baseline;
+}
+
+sup {
+    font-size: 0.75rem;
+    position: relative;
+    top: -0.375rem;
+    vertical-align: baseline;
+}
+
+table {
+    border: 1px solid var(--colorFG);
+    border-collapse: collapse;
+    margin: 0 auto calc(var(--lineHeight) * 1rem);
+}
+
+table a:link,
+table a:visited,
+table a:hover,
+table a:active {
+    color: var(--colorBlue);
+    font-weight: var(--fontWeightBold);
+    text-decoration: none;
+}
+
+table a:visited {
+    color: var(--colorGreen);
+}
+
+table td {
+    border: 1px solid var(--colorFG);
+    padding: 0.25rem;
+}
+
+table tr {
+    vertical-align: text-top;
+}
+
+ul {
+    list-style: circle outside;
+    margin: 0 auto calc(var(--lineHeight) * 1rem);
+    padding: 0;
+}
+
+ul ol,
+ul ul {
+    margin-bottom: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+p,
+table,
+ul {
+    max-width: var(--maxWidth);
+    width: 90%;
+}
+
+@media (min-width: 32rem) {
+    h4,
+    h5,
+    h6,
+    ol,
+    p,
+    ul {
+            hyphens: auto;
+            -ms-hpyhens: auto;
+            -webkit-hyphens: auto;
+            text-align: justify;
+    }
+}
+
+/*
+
+MEDIA
+
+*/
+
+img {
+    display: block;
+    margin: 0 auto calc(var(--lineHeight) * 1rem);
+    padding: 0;
+    width: 100%;
+}
+
+p:has(>img) {
+    width: 100%;
+}
+
+video {
+    display: block;
+    margin: 0 auto calc(var(--lineHeight) * 1rem);
+    max-width: var(--maxWidth);
+    padding: 0;
+    page-break-inside: avoid;
+    width: 100%;
+}
+
+/*
+
+CLASSES
+
+*/
+
+.bandcamp {
+    margin: 0 auto calc(var(--lineHeight) * 1rem);
+    max-width: var(--maxWidth);
+    width: 100%;
+}
+
+.error p {
+    text-align: center;
+}
+
+.error p a:visited {
+    color: var(--colorFG);
+}
+
+@media (min-width: 32rem) {
+    .error p {
+        text-align:  center;
+    }
+}
+
+.index h2 {
+    border-bottom: 0.0625rem solid var(--colorFG);
+    border-top: 0.0625rem solid var(--colorFG);
+    margin: calc(var(--lineHeight) * 1rem) auto;
+    max-width: var(--textLongest); /* Calculated based on longest item of index */
+}
+
+.index h2:first-of-type {
+    margin-top: calc(var(--lineHeight) * 2rem);
+}
+
+.index li {
+    text-align: center;
+}
+
+@media (min-width:  32rem) {
+    .index li {
+        text-align: center;
+    }
+}
+
+.index ul {
+    list-style: none;
+}
+
+.youtube {
+    margin: auto;
+    max-width: var(--maxWidth);
+    position: relative;
+    padding-bottom: 56.25%;
+    overflow: hidden;
+    height: auto;
+    margin-bottom: 16px;
+}
+
+.youtube iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
