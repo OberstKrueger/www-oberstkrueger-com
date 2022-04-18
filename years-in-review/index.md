@@ -2,26 +2,26 @@
 created: 2017-01-01T15:00:00Z
 title: Years In Review
 type: page
-updated: 2022-01-18T00:15:00Z
+updated: 2022-04-18T09:55:00Z
 ---
 
 ## 2021
 
 ### Favorite Games
 
-<img src='/images/years-in-review_deathloop.jpg' alt='Deathloop'>
+<img src='deathloop.jpg' alt='Deathloop'>
 
 There are only a handful of developers that make games that consistently click with me, and Arkane Studios is one of those developers. Deathloop is their latest outing with a new twist on their traditional immersive sim style. Unlike their previous games, the gameplay has no deep RPG systems in it, instead relying on being an FPS with the other qualities of an immersive sim mixed in. Maintaining their core gameplay and level design competence while stepping up their abilities on world-building has led to Arkane once again producing one of my favorite games of the year.
 
-<img src='/images/years-in-review_halo-infinite.jpg' alt='Halo Infinite'>
+<img src='halo-infinite.jpg' alt='Halo Infinite'>
 
 Since I have never owned an Xbox, the initial hype for the Halo series passed me by. Halo Infinite continued to not be on my radar until the release of its free multiplayer. On a whim, I downloaded it and after but a few matches, the hype for the series all made sense. The multiplayer was a lot of fun, and I put many hours into it. The game will not be one that I stick with long term, mostly due to the fact that my gaming schedule does not have a lot of room for a competitive shooter, but I enjoyed my time with it and consider it one of the highlights of the year.
 
-<img src='/images/years-in-review_metroid-dread.jpg' alt='Metroid Dread'>
+<img src='metroid-dread.jpg' alt='Metroid Dread'>
 
 The last Metroid game that I played was Super Metroid on the SNES. It was a great game, but at the same time, not one that gave me a desire to explore other similar titles. Metroid Dread looked interesting, but I was not expecting how engrossed I would get from the game. Every element of the game is well done, and the gameplay is a wonderful progression over the Metroid games of old. The ambient musical style in the game reminded me of other works like Nine Inch Nail's Ghosts albums, furthering my love for the game.
 
-<img src='/images/years-in-review_subnautica-below-zero.jpg' alt='Subnautica: Below Zero'>
+<img src='subnautica-below-zero.jpg' alt='Subnautica: Below Zero'>
 
 The first Subnautica was not only one of my top 2018 games, but has become one of my top all-time games. Any follow-up to it has a high bar to reach. Subnautica: Below Zero does not quite reach the heights of its predecesor, but it does get close. The game changes focus from being a giant sandbox into a smaller focused sandbox with a heavier emphasis on story. This game has the distinction where I got to experience the game in two forms. When the game launched into early access on Steam, the story was vastly diferent from when the game reached its final version. Being able to experience the game differently twice added to my enjoyment of it. The improved base building elements were the cherry-on-top of the whole experience.
 
@@ -36,7 +36,7 @@ The first Subnautica was not only one of my top 2018 games, but has become one o
 - Kat Von D - Love Made Me Do It
 - Ben Prunty - Subnautica: Below Zero
 
-<img src='/images/years-in-review_music-2021.jpg' alt='Favorite music of 2021'>
+<img src='music-2021.jpg' alt='Favorite music of 2021'>
 
 ### Another Pandemical Year
 
@@ -50,19 +50,19 @@ This will be a long journey. After the last year spent feeling idle, my hope is 
 
 ### Favorite Games
 
-<img src='/images/years-in-review_death-stranding.jpg' alt='Death Stranding'>
+<img src='death-stranding.jpg' alt='Death Stranding'>
 
 Few games can be described as having a unique experience the way that Death Stranding does. The game does a fantastic job of creating the feel of a desolate world that is crumbling, and you the player are fighting against that by rebuilding it and connecting people. I am a sucker for any Hideo Kojima game, and Death Stranding is his best game yet.
 
-<img src='/images/years-in-review_half-life-alyx.jpg' alt='Half-Life: Alyx'>
+<img src='half-life-alyx.jpg' alt='Half-Life: Alyx'>
 
 When the original Half-Life came out in 1998, it revolutionized both the first-person shooter genre and PC gaming as a whole. Valve managed to repeat this in 2020, with a new Half-Life game that revolutionizes virtual reality gaming. Half-Life: Alyx is the gold standard for immersive games, which is problematic in that it makes any non-virtual reality game pale in comparison.
 
-<img src='/images/years-in-review_kentucky-route-zero.jpg' alt='Kentucky Route Zero'>
+<img src='kentucky-route-zero.jpg' alt='Kentucky Route Zero'>
 
 Kentucky Route Zero is a game that I have known about for almost a decade since its announcement, but I did not play until this year when the final chapter was released. I have a hard time deciding whether waiting was a good decision, but playing all five chapters back-to-back enhanced the experience for me. Even 10 months later, many of the game's scenes are vivid in my mind, and the music is a regular listen for me.
 
-<img src='/images/years-in-review_black-mesa.jpg' alt='Black Mesa'>
+<img src='black-mesa.jpg' alt='Black Mesa'>
 
 Before playing Half-Life: Alyx, I played Black Mesa, a recreation of the original Half-Life. Similar to how I consider Half-Life: Alyx to be the current gold standard in virtual reality games, Black Mesa is the benchmark that should be followed for recreations of older games. It sticks close to the original design of Half-Life, keeping the elements that worked in the original game intact, but it is willing to change up the parts that didn't work. With 22 years of game development knowledge, this has turned Black Mesa into the true version of Half-Life for me.
 
@@ -77,7 +77,7 @@ Before playing Half-Life: Alyx, I played Black Mesa, a recreation of the origina
 7. Static-X - Project: Regeneration Vol. 1
 8. Westworld - Season 3
 
-<img src='/images/years-in-review_music-2020.jpg' alt='Favorite music of 2020'>
+<img src='music-2020.jpg' alt='Favorite music of 2020'>
 
 ### A Pandemical Year
 
@@ -99,19 +99,19 @@ This year has been an odd one. The COVID-19 pandemic has put much of the country
 
 ### Favorite Games
 
-<img src='/images/years-in-review_final-fantasy-xiv-shadowbringers.jpg' alt='Final Fantasy XIV: Shadowbringers'>
+<img src='final-fantasy-xiv-shadowbringers.jpg' alt='Final Fantasy XIV: Shadowbringers'>
 
 Describing Shadowbringers as a crowning achievement for Final Fantasy XIV is not an understatement. This expansion has been everything a fan of the game could ask for. Much of this is thanks to main scenario writer Natsuko Ishikawa, who has previously written some of the best quest lines in the game. In particular, the end of Shadowbringer's story is one of the most bittersweet endings in a Final Fantasy since Final Fantasy X.
 
-<img src='/images/years-in-review_resident-evil-2-2019.jpg' alt='Resident Evil 2'>
+<img src='resident-evil-2-2019.jpg' alt='Resident Evil 2'>
 
 When I played the original Resident Evil back in high school, I was not a fan of the game due to being heavily invested in MMORPGs at the time. The remake of this game looked interesting, but it was not until the 30-minute demo was released that I became hooked on it. Some of this could be thanks to my increased interest in survival games due to last year's Subnautica, but Resident Evil 2 has a great mix of survival and puzzle-solving that feels great to play. I'm glad I gave the series a second chance, and am now interested in future remakes that Capcom might release.
 
-<img src='/images/years-in-review_nier-automata.jpg' alt='NieR:Automata'>
+<img src='nier-automata.jpg' alt='NieR:Automata'>
 
 This game originally came out in 2017, but I did not get to experience it until the Game of the YoRHa Edition this year. While it is unfortunate it took me a couple of years to get it, I am glad to have played it. It is the perfect blend of action with a philosophical story, and a dash of wonderful design. The repeat playthrough idea is not as great in practice as it is in theory, but the initial playthrough of the game will remain memorable for a long time.
 
-<img src='/images/years-in-review_apex-legends.jpg' alt='Apex Legends'>
+<img src='apex-legends.jpg' alt='Apex Legends'>
 
 The battle royale genre has been overtaking video games since the release of Fornite and PlayerUnknown's Battlegrounds in 2017. This genre of game is one I was intrigued by the idea of, but could not get into until Apex Legends. Apex Legends hits all of the right notes for the game, from a stronger and required focus on teamplay, to solid first-person controls, and a great art design. I enjoyed spending time playing the game, and although the constant rolling seasons of the genre do not appeal to me, I now understand why so many people enjoy it so much.
 
@@ -126,7 +126,7 @@ The battle royale genre has been overtaking video games since the release of For
 - Serpentines & Valleys, by Eskostatic
 - We Are Not Your Kind, by Slipknot
 
-<img src='/images/years-in-review_music-2019.jpg' alt='Favorite music of 2019'>
+<img src='music-2019.jpg' alt='Favorite music of 2019'>
 
 ### An Uneventful Year; or Falling Down A Rabbit Hole
 
@@ -146,21 +146,21 @@ I am not one to go all in on New Year's Resolutions, but given how little I have
 
 One of the central themes for gaming this year has been games with strong soundtracks. All four of my favorite games have soundtracks that I regularly listen to. They are also games that are very deep, and ones I plan to revisit very soon to invest more time in.
 
-<img src='/images/years-in-review_final-fantasy-xv.jpg' alt='Final Fantasy XV'>
+<img src='final-fantasy-xv.jpg' alt='Final Fantasy XV'>
 
 For a game that had such a troubled history, Final Fantasy XV turned out to be one of my favorite Final Fantasy games in the whole series. It is a flawed game, but it hits more high points than low. Yoko Shimomura's soundtrack is the biggest element that kept me reeled in. Her music stands up with the best of Uematsu's, and without it, I don't think I would have enjoyed the game quite as much as I did.
 
-<img src='/images/years-in-review_subnautica.jpg' alt='Subnautica'>
+<img src='subnautica.jpg' alt='Subnautica'>
 
 The survival genre is one I have passed on previously. Most survival games look more tedious than fun, and not focused on the action. The only reason I gave Subnautica a chance is that it is made by Unknown Worlds, the creators of one of my favorite multiplayer games, Natural Selection. As great of a game as Natural Selection was, Subnautica was even better. Everything design-wise in the game is perfect, from the story, survival mechanics, base building, and sound and visual design.
 
 The experience moved me so much that while I want to play it again, I am afraid that the second time around will not feel as magical due to the lack of discovery. But I am looking forward to the stand-alone expansion being released next year, and hope it can meet the greatness of this first game.
 
-<img src='/images/years-in-review_exapunks.jpg' alt='EXAPUNKS'>
+<img src='exapunks.jpg' alt='EXAPUNKS'>
 
 Zachtronics games have a certain quality that no other "programming game" has matched. Most of their games are based around an artificial programming language or platform that ends up looking like programming on the surface but is really a puzzle game. All of their games are fun, but Exapunks takes things to the next level. The soundtrack and graphics are better than anything Zachtronics has put out before. The game has a distinctive 1980's cyberpunk vibe to it, which fits with the William Gibson and Neal Stephenson novels I have been reading this year. Like Shenzhen I/O before it, I expect to come back to this game again in a few years.
 
-<img src='/images/years-in-review_pillars-of-eternity-ii-deadfire.jpg' alt='Pillars of Eternity II: Deadfire'>
+<img src='pillars-of-eternity-ii-deadfire.jpg' alt='Pillars of Eternity II: Deadfire'>
 
 Games from Obsidian Entertainment rarely disappoint, and Pillars of Eternity II is no except to this. The first game was a great return to form for the CRPG genre, and the sequel takes it to all new heights. Everything in the game was done well, from the story to the combat to the music. With Obsidian's buy-out by Microsoft, its unclear whether another Pillars of Eternity game will come out. As it stands, the series stands amongst the best of the CRPG genre.
 
@@ -175,7 +175,7 @@ Games from Obsidian Entertainment rarely disappoint, and Pillars of Eternity II 
 - Octopath Traveler, by Yasunori Nishiki
 - 7 Billion Humans, by Kyle Gabler
 
-<img src='/images/years-in-review_music-2018.jpg' alt='Favorite music of 2018'>
+<img src='music-2018.jpg' alt='Favorite music of 2018'>
 
 ### A Multitude of Interfaces
 
@@ -193,21 +193,21 @@ At the end of this experimentation, I am much happier with how I use my Mac. I k
 
 When I looked at the upcoming titles of 2017 back in January, I thought this year was going to be a boring year for games. Last year saw some instant classics for myself, and 2017 seemed like it would underperform in comparison. Thankfully, there were some great games this year that I look forward to playing through again in the future.
 
-<img src='/images/years-in-review_prey-2017.jpg' alt='Prey'>
+<img src='prey-2017.jpg' alt='Prey'>
 
 Earlier this year, I played [System Shock 2](https://en.wikipedia.org/wiki/System_Shock_2) from beginning to end for the first time. It is an older game, but considered a classic of the FPS/RPG hybrid genre. The initial reviews for [Prey](https://en.wikipedia.org/wiki/Prey_(2017_video_game)) kept saying it was the spiritual successor to System Shock 2, and as close as we'll get to a System Shock 3 anytime in the near future.
 
 These reviews were not exaggerations either. Prey is every bit the same as System Shock 2, including in quality. The gameplay is the perfect blend of FPS and RPG, and it has the same overall game structure as System Shock 2. The open-ended nature of the game is why I love the Deus Ex games so much. Prey is a game that I have already slotted in to play again in the future, and much like with any Deus Ex game, I plan to approach it in a new manner on the second playthrough.
 
-<img src='/images/years-in-review_final-fantasy-xiv-stormblood.jpg' alt='Final Fantasy XIV: Stormblood'>
+<img src='final-fantasy-xiv-stormblood.jpg' alt='Final Fantasy XIV: Stormblood'>
 
 This year saw the release of Stormblood, the second expansion for [Final Fantasy XIV](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_A_Realm_Reborn). Final Fantasy XIV is one of my top MMORPGs of all time, and Stormblood keeps going with the same formula that has made the original game amazing. The story has been wonderful to follow along with, the dungeons and raids fun, and the new mechanics add some more depth to the already spectacular combat.
 
-<img src='/images/years-in-review_what-remains-of-edith-finch.jpg' alt='What Remains of Edith Finch'>
+<img src='what-remains-of-edith-finch.jpg' alt='What Remains of Edith Finch'>
 
 My year would not be complete without a new [walking simulator](https://en.wikipedia.org/wiki/Adventure_game#Walking_simulators) to play through. [What Remains of Edith Finch](https://en.wikipedia.org/wiki/What_Remains_of_Edith_Finch) is my walking simulator of choice for 2017, and what an amazing game it is. It surpasses every other in the genre, including the perennial [Dear Esther](https://en.wikipedia.org/wiki/Dear_Esther).
 
-<img src='/images/years-in-review_life-is-strange-before-the-storm.jpg' alt='Life is Strange: Before the Storm'>
+<img src='life-is-strange-before-the-storm.jpg' alt='Life is Strange: Before the Storm'>
 
 [Life Is Strange: Before the Storm](https://en.wikipedia.org/wiki/Life_Is_Strange:_Before_the_Storm) is how prequels should be done. [Life Is Strange](https://en.wikipedia.org/wiki/Life_Is_Strange) is a good but flawed game, and Before the Storm improves on it in most categories. The dialogue between the characters runs the emotional gamut, and the art style of the game makes it quite visually pleasing. There are so many memorable scenes in the game, from Episode 1's Dungeons and Dragons session, to the high school play in Episode 2. The first game is one I have no plans to revisit again, but Before The Storm is one I know I'll play again in the future.
 
@@ -222,7 +222,7 @@ My year would not be complete without a new [walking simulator](https://en.wikip
 - The Vietnam War, by Trent Reznor
 - What Remains of Edith Finch, by Jeff Russo
 
-<img src='/images/years-in-review_music-2017.jpg' alt='Favorite music of 2017'>
+<img src='music-2017.jpg' alt='Favorite music of 2017'>
 
 ### Using Swift to run my life
 
@@ -260,7 +260,7 @@ For many reasons, 2016 has been a rollercoaster of a year. While keeping any pol
 
 2016 was a phenomenal year for games. Here are a few of my favorites.
 
-<img src='/images/years-in-review_deus-ex-mankind-divided.jpg' alt='Deus Ex: Mankind Divided'>
+<img src='deus-ex-mankind-divided.jpg' alt='Deus Ex: Mankind Divided'>
 
 The original [Deus Ex](https://en.wikipedia.org/wiki/Deus_Ex_(video_game)) was an amazing game for its time. It opened my eyes to the idea that there could be more to a first-person shooter. [Deus Ex: Human Revolution](https://en.wikipedia.org/wiki/Deus_Ex:_Human_Revolution), is as good of a sequel as one could ask for, and is now one of my favorite all-time games, having played through multiple times.
 
@@ -268,7 +268,7 @@ This year's direct sequel to the series, [Deus Ex: Mankind Divided](https://en.w
 
 Outside of those two minor quips, Mankind Divided is a game that I am happy is more of the same. It does not veer far from what Human Revolution did, with a similar game structure and ability system. The new characters are well-written, and the missions and side-quests are a lot of fun. This is another game which I plan to play through again in the near future.
 
-<img src='/images/years-in-review_doom.jpg' alt='DOOM'>
+<img src='doom.jpg' alt='DOOM'>
 
 The last game from [id Software](https://en.wikipedia.org/wiki/Id_Software) that I enjoyed was [Quake III: Arena](https://en.wikipedia.org/wiki/Quake_III_Arena), released 17 years ago. [DOOM 3](https://en.wikipedia.org/wiki/Doom_3) and [Rage](https://en.wikipedia.org/wiki/Rage_(video_game)) were decent games in their own right, but while they continued to show [John Carmack's](https://en.wikipedia.org/wiki/John_Carmack) excellence in graphic engine design, they lacked the magic that id's previous games held.
 
@@ -278,11 +278,11 @@ And then I played it.
 
 Ranking DOOM as my game of the year is an easy decision. While not as revolutionary as the original, this DOOM is every bit as good of a game. Every aspect of this game is near perfect: beautiful graphics that runs smooth, an amazing soundtrack by [Mick Gordon](https://en.wikipedia.org/wiki/Mick_Gordon), memorable level design, and fun gameplay that kept me coming back for me. It is a game that I look forward to playing again in the future.
 
-<img src='/images/years-in-review_overwatch.jpg' alt='Overwatch'>
+<img src='overwatch.jpg' alt='Overwatch'>
 
 There is little that I can say about [Overwatch](https://en.wikipedia.org/wiki/Overwatch) that has not been said elsewhere. Suffice it to say, this game took the FPS world by storm this year. From interesting and well thought out characters to the tight gameplay, it is easy to see why most love this game. It is the one game I have [logged in the most hours on](https://playoverwatch.com/en-us/career/pc/us/Krueger-1750), and still continue to love playing 7 months later.
 
-<img src='/images/years-in-review_the-witness.jpg' alt='The Witness'>
+<img src='the-witness.jpg' alt='The Witness'>
 
 [Jonathan Blow's](https://en.wikipedia.org/wiki/Jonathan_Blow) previous game, [Braid](https://en.wikipedia.org/wiki/Braid_(video_game)), did little for me. It was an interesting concept, but platformers in that style are hard for me to get into. Consequently, I did not take a close look at [The Witness](https://en.wikipedia.org/wiki/The_Witness_(2016_video_game)) until it was near release. And I was enthralled by what I saw.
 
@@ -292,7 +292,7 @@ It is a hard game to describe without spoiling the experience. Needless to say, 
 
 ### Favorite Music
 
-<img src='/images/years-in-review_music-2016.jpg' alt='Favorite music of 2016'>
+<img src='music-2016.jpg' alt='Favorite music of 2016'>
 
 ### Cipher, by Ben Prunty
 
