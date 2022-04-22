@@ -1,40 +1,25 @@
-html {
-    background-color: rgba(28, 28, 28, 1);
-}
+/*
 
-body {
-    margin: 0;
-    padding: 0;
-}
+VARIABLES
 
-main {
-    align-items: center;
-    display: flex;
-    flex-direction: column;
-    height: 100vh;
-        height: -webkit-fill-available;
-    justify-content: center;
-    margin: 0 auto;
-    padding: 0;
-    width: 85%;
-}
+*/
 
-nav {
-    margin:  2rem auto;
-    text-align: center;
-}
+:root {
+    --colorBG: rgba(28, 28, 28, 1);
+    --colorFG: rgba(255, 255, 255, 1);
+    --colorInactive: rgba(40, 42, 41, 1);
+    --colorBlue: rgba(10, 132, 255, 1);
+    --colorGreen: rgba(50, 215, 75, 1);
+    --colorRed: rgba(255, 69, 58);
 
-nav img {
-    height:  2.5rem;
-    margin:  0 1rem;
-}
-
-h1 {
-    color:  white;
-    font-family: "sansation-light", sans-serif;
-    font-size: 10vw;
-    margin: 0;
-    text-align: center;
+    --borderRadius: 0.5rem;
+    --fontStack: "Avenir Next", "Avenir", "Open Sans", "Sego UI", sans-serif;
+    --fontStackMono: monospace;
+    --fontWeight: 400;
+    --fontWeightBold: 700;
+    --lineHeight: 1.375;
+    --maxWidth: 40rem;
+    --textLongest: 21.5rem;
 }
 
 @font-face {
@@ -44,8 +29,186 @@ h1 {
 
 }
 
-@media (min-width: 50rem) {
-    h1 {
-        font-size: 5rem;
+/*
+
+ELEMENTS
+
+*/
+
+html {
+    background-color: var(--colorBG);
+    color: var(--colorFG);
+    font-family: var(--fontStack);
+    line-height: var(--lineHeight);
+    margin: 0;
+    text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+@media (min-width: 40rem) {
+    html {
+        font-size: 2.5vw;
     }
+}
+
+@media (min-width: 50rem) {
+    html {
+        font-size: 125%;
+    }
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+
+}
+
+/*
+
+TYPOGRAPHY
+
+*/
+
+h1 {
+    font-size: 2rem;
+    font-weight: var(--fontWeightBold);
+    margin: calc(var(--lineHeight) * 4rem) auto;
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+p,
+table,
+ul {
+    max-width: var(--maxWidth);
+    width: 90%;
+}
+
+@media (min-width: 32rem) {
+    h4,
+    h5,
+    h6,
+    ol,
+    p,
+    ul {
+            hyphens: auto;
+            -ms-hpyhens: auto;
+            -webkit-hyphens: auto;
+            text-align: justify;
+    }
+}
+
+/*
+
+TITLE PAGE
+
+*/
+
+
+body.title-page main {
+    margin: 2rem auto;
+    padding: 0;
+    width: 85%;
+}
+
+/* Currently set for small iPhone size, will apply to about any viewport. */
+/* When additional internal links added, will need to be adjusted upward. */
+@media (min-height: 20rem) {
+    body.title-page main {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+            -height: -webkit-fill-available;
+        justify-content: center;
+        margin: 0 auto;
+    }
+}
+
+body.title-page h1 {
+    font-family: "sansation-light", sans-serif;
+    font-size: 10vw;
+    font-weight: normal;
+    margin: 0;
+}
+
+@media (min-width: 50rem) {
+    body.title-page h1 {
+        font-size: 4rem;
+    }
+}
+
+nav.external-links {
+    align-items: center;
+    display: flex;
+    height: 3rem;
+    margin: 2rem auto;
+    justify-content: center;
+    text-align: center;
+}
+
+nav.external-links img {
+    height: 2rem; /* Height used due to varying widths of each logo SVG */
+    margin: 0 1rem;
+    transition: height 1s 0s;
+    width: 3rem;
+}
+
+nav.external-links img:hover {
+    height: 3rem;
+}
+
+nav.internal-links {
+    text-align: center;
+    width: 100%;
+}
+
+nav.internal-links a:link,
+nav.internal-links a:visited {
+    border: 2px solid var(--colorFG);
+    border-radius: 0.25rem;
+    color: var(--colorFG);
+    display: block;
+    line-height: 2;
+    margin: 0 auto 1rem;
+    max-width: 20rem;
+    text-decoration: none;
+    transition: all 1s 0s;
+    width: 90%;
+}
+
+nav.internal-links a:hover,
+nav.internal-links a:active {
+    border-radius: 1rem;
+    color: var(--colorBG);
+    transition: all 0.5s 0s;
+}
+
+nav.internal-links a:nth-of-type(3n+1):hover,
+nav.internal-links a:nth-of-type(3n+1):active {
+    background-color: var(--colorBlue);
+    border: 2px solid var(--colorBlue);
+}
+
+nav.internal-links a:nth-of-type(3n+2):hover,
+nav.internal-links a:nth-of-type(3n+2):active {
+    background-color: var(--colorGreen);
+    border: 2px solid var(--colorGreen);
+}
+
+nav.internal-links a:nth-of-type(3n):hover,
+nav.internal-links a:nth-of-type(3n):active {
+    background-color: var(--colorRed);
+    border: 2px solid var(--colorRed);
 }
