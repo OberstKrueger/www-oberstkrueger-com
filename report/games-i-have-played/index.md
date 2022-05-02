@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00:00Z
 title: Games I Have Played
 type: page
-updated: 2022-04-10T09:20:00Z
+updated: 2022-05-01T06:05:00Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -467,6 +467,7 @@ EverQuest_expansions#The_Shadows_of_Luclin)
 - [Spy Mouse](https://en.wikipedia.org/wiki/Spy_Mouse)
 - [Spyro the Dragon](https://en.wikipedia.org/wiki/Spyro_the_Dragon_(video_game))
 - [The Stanley Parable](https://en.wikipedia.org/wiki/The_Stanley_Parable)
+- [The Stanley Parable: Ultra Deluxe](https://en.wikipedia.org/wiki/The_Stanley_Parable#Ultra_Deluxe)
 - [Star Fox](https://en.wikipedia.org/wiki/Star_Fox_(video_game))
 - [Star Fox 64](https://en.wikipedia.org/wiki/Star_Fox_64)
 - [Star Wars](https://en.wikipedia.org/wiki/Star_Wars_(1983_video_game))
