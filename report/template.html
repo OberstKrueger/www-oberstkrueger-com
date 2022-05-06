@@ -16,29 +16,27 @@
 	<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
 
 	<link rel="alternate" type="application/rss+xml" title="The Krueger Report" href="/updates.xml" />
-	<link rel="pingback" href="https://webmention.io/krueger.report/xmlrpc" />
-	<link rel="webmention" href="https://webmention.io/krueger.report/webmention" />
 </head>
 <body class="{{.Doc.type}}">
-	{{if eq .URL.Path "/"}}
+	{{if eq .URL.Path "/report/"}}
 	<main>
 		<header>
 			<h1><a href="/">{{.Doc.title}}</a></h1>
 		</header>
 {{.Doc.body}}
 		<footer>
-			<a href="{{.URI}}" class="u-url">published: <time class="dt-published" datetime="{{.Doc.created}}">{{.Doc.created}}</time><br />updated: <time class="dt-updated" datetime="{{.Doc.updated}}">{{.Doc.updated}}</time></a>
+			<a href="{{.URI}}">published: <time datetime="{{.Doc.created}}">{{.Doc.created}}</time><br />updated: <time datetime="{{.Doc.updated}}">{{.Doc.updated}}</time></a>
 		</footer>
 	{{else}}
-	<main class="h-entry">
+	<main>
 		<header>
-			<h1 class='p-name'><a href="/">{{.Doc.title}}</a></h1>
+			<h1><a href="/">{{.Doc.title}}</a></h1>
 		</header>
-		<article class='e-content'>
+		<article>
 {{.Doc.body}}
 		</article>
 		<footer>
-			<a href="{{.URI}}" class="u-url">published: <time class="dt-published" datetime="{{.Doc.created}}">{{.Doc.created}}</time><br />updated: <time class="dt-updated" datetime="{{.Doc.updated}}">{{.Doc.updated}}</time></a>
+			<a href="{{.URI}}">published: <time datetime="{{.Doc.created}}">{{.Doc.created}}</time><br />updated: <time datetime="{{.Doc.updated}}">{{.Doc.updated}}</time></a>
 		</footer>
 	{{end}}
 	</main>
