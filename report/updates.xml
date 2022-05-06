@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>The Krueger Report</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates.xml" rel="self" />
-<link href="https://krueger.report" />
-<id>https://krueger.report/</id>
+<link href="https://oberstkrueger.com/report/updates.xml" rel="self" />
+<link href="https://oberstkrueger.com/report" />
+<id>https://oberstkrueger.com/report/</id>
 <updated>2022-05-01T05:35:00Z</updated>
 
 <!--
 <entry>
 <title>Updates For !!!!</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/!!!!</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/!!!!</id>
 <published>!!!!</published>
 <updated>!!!!</updated>
 <content type="html">
@@ -30,10 +30,10 @@
 <entry>
 <title>Updates For April, 2022</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202204</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202204</id>
 <published>2022-05-01T05:35:00Z</published>
 <updated>2022-05-01T05:35:00Z</updated>
 <content type="html">
@@ -61,10 +61,10 @@
 <entry>
 <title>Updates For March, 2022</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202203</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202203</id>
 <published>2022-04-01T09:00:00Z</published>
 <updated>2022-04-01T09:00:00Z</updated>
 <content type="html">
@@ -94,10 +94,10 @@
 <entry>
 <title>Updates For February, 2022</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202202</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202202</id>
 <published>2022-03-04T09:20:00Z</published>
 <updated>2022-03-04T09:20:00Z</updated>
 <content type="html">
@@ -112,7 +112,7 @@
 </ul>
 <h3>Page Updates</h3>
 <ul>
-<li><a href="https://krueger.report/mini-game-reviews">Mini Game Reviews</a>: God of War, StarCraft II</li>
+<li><a href="https://oberstkrueger.com/report/mini-game-reviews">Mini Game Reviews</a>: God of War, StarCraft II</li>
 </ul>
 ]]>
 </content>
@@ -121,10 +121,10 @@
 <entry>
 <title>Updates For January, 2022</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/2201</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/2201</id>
 <published>2022-02-02T03:25:00Z</published>
 <updated>2022-02-02T03:25:00Z</updated>
 <content type="html">
@@ -142,7 +142,7 @@
 </ul>
 <h3>Page Updates</h3>
 <ul>
-<li><a href="https://krueger.report/years-in-review">Years in Review</a>: Updated for 2021.</li>
+<li><a href="https://oberstkrueger.com/report/years-in-review">Years in Review</a>: Updated for 2021.</li>
 </ul>
 ]]>
 </content>
@@ -151,10 +151,10 @@
 <entry>
 <title>Updates For December, 2021</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/2112</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/2112</id>
 <published>2022-01-03T03:40:00Z</published>
 <updated>2022-01-03T03:40:00Z</updated>
 <content type="html">
@@ -182,7 +182,7 @@
 </ul>
 <h3>Page Updates</h3>
 <ul>
-<li><a href="https://krueger.report/software-tools/">Software Tools</a>: Changed RSS reader to Reeder.</li>
+<li><a href="https://oberstkrueger.com/report/software-tools/">Software Tools</a>: Changed RSS reader to Reeder.</li>
 </ul>
 ]]>
 </content>
@@ -191,10 +191,10 @@
 <entry>
 <title>Updates For November, 2021</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/2111</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/2111</id>
 <published>2021-12-02T03:50:00Z</published>
 <updated>2021-12-02T03:50:00Z</updated>
 <content type="html">
@@ -218,7 +218,7 @@
 </ul>
 <h3>Page Updates</h3>
 <ul>
-<li><a href="https://krueger.report/mini-game-reviews">Mini Game Reviews</a>: Cyberpunk 2077, Deathloop</li>
+<li><a href="https://oberstkrueger.com/report/mini-game-reviews">Mini Game Reviews</a>: Cyberpunk 2077, Deathloop</li>
 </ul>
 ]]>
 </content>
@@ -227,10 +227,10 @@
 <entry>
 <title>Updates For October, 2021</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/2110</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/2110</id>
 <published>2021-11-05T11:50:00Z</published>
 <updated>2021-11-05T11:50:00Z</updated>
 <content type="html">
@@ -259,7 +259,7 @@
 </ul>
 <h3>Page Updates</h3>
 <ul>
-<li><a href="https://krueger.report/mini-game-reviews">Mini Game Reviews</a>: The 7th Guest, The 11th Hour, The 13th Doll</li>
+<li><a href="https://oberstkrueger.com/report/mini-game-reviews">Mini Game Reviews</a>: The 7th Guest, The 11th Hour, The 13th Doll</li>
 </ul>
 ]]>
 </content>
@@ -268,10 +268,10 @@
 <entry>
 <title>Updates For September, 2021</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/2109</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/2109</id>
 <published>2021-10-01T11:55:00Z</published>
 <updated>2021-10-01T11:55:00Z</updated>
 <content type="html">
@@ -295,10 +295,10 @@
 <entry>
 <title>Updates For August, 2021</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202108</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202108</id>
 <published>2021-09-02T01:30:00Z</published>
 <updated>2021-09-02T01:30:00Z</updated>
 <content type="html">
@@ -319,7 +319,7 @@
 </ul>
 <h3>Page Updates</h3>
 <ul>
-<li><a href="https://krueger.report/mini-game-reviews">Mini Game Reviews</a>: Added Darks Souls II and Subnautica: Below Zero.</li>
+<li><a href="https://oberstkrueger.com/report/mini-game-reviews">Mini Game Reviews</a>: Added Darks Souls II and Subnautica: Below Zero.</li>
 </ul>
 ]]>
 </content>
@@ -328,17 +328,17 @@
 <entry>
 <title>Updates For July, 2021</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202107</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202107</id>
 <published>2021-08-01T13:50:00Z</published>
 <updated>2021-08-01T13:50:00Z</updated>
 <content type="html">
 <![CDATA[
 <h2>2021.07</h2>
-<p><a href="https://krueger.report/mini-game-reviews">Mini Game Reviews</a> was updated to include reviews of Demon's Souls and Dark Souls III. Both of these games I enjoyed greatly, with Dark Souls III becoming an instant favorite of mine that I know I will be replaying a lot in the future.</p>
-<p><a href="https://krueger.report/past-computing-devices">Past Computing Devices</a> now includes details about my current gaming PC. This machine took a lot of effort to acquire the components for due to the COVID-19 pandemic, and I was lucky to get exactly what I was looking for.</p>
+<p><a href="https://oberstkrueger.com/report/mini-game-reviews">Mini Game Reviews</a> was updated to include reviews of Demon's Souls and Dark Souls III. Both of these games I enjoyed greatly, with Dark Souls III becoming an instant favorite of mine that I know I will be replaying a lot in the future.</p>
+<p><a href="https://oberstkrueger.com/report/past-computing-devices">Past Computing Devices</a> now includes details about my current gaming PC. This machine took a lot of effort to acquire the components for due to the COVID-19 pandemic, and I was lucky to get exactly what I was looking for.</p>
 <h3>Books Read</h3>
 <ul>
 <li>Bellum, Rekka and Lu Linvega, Devine - Busy Doing Nothing</li>
@@ -358,10 +358,10 @@
 <entry>
 <title>Updates For June, 2021</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202106</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202106</id>
 <published>2021-07-05T01:15:00Z</published>
 <updated>2021-07-05T01:15:00Z</updated>
 <content type="html">
@@ -369,7 +369,7 @@
 <h2>2021.06</h2>
 <h3>Page Updates</h3>
 <ul>
-<li><a href="https://krueger.report/software-tools">Software Tools</a> was updated to include new software that I am using. There is not a lot of changes, just a few new tools and some shifting of specific tools across the different operating systems. Despite not evaluating the page in nearly one year, I have not made many changes to what I use on a day-to-day basis.</li>
+<li><a href="https://oberstkrueger.com/report/software-tools">Software Tools</a> was updated to include new software that I am using. There is not a lot of changes, just a few new tools and some shifting of specific tools across the different operating systems. Despite not evaluating the page in nearly one year, I have not made many changes to what I use on a day-to-day basis.</li>
 </ul>
 <h3>Books Read</h3>
 <ul>
@@ -393,10 +393,10 @@
 <entry>
 <title>Updates For May, 2021</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202105</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202105</id>
 <published>2021-06-02T00:45:00Z</published>
 <updated>2021-06-02T00:45:00Z</updated>
 <content type="html">
@@ -426,10 +426,10 @@
 <entry>
 <title>Updates For April, 2021</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202104</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202104</id>
 <published>2021-05-03T12:05:00Z</published>
 <updated>2021-05-03T12:05:00Z</updated>
 <content type="html">
@@ -454,17 +454,17 @@
 <entry>
 <title>Updates For March, 2021</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202103</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202103</id>
 <published>2021-04-01T09:20:00Z</published>
 <updated>2021-04-01T09:20:00Z</updated>
 <content type="html">
 <![CDATA[
 <h2>2021.03</h2>
 <h3>Page Updates</h3>
-<p><a href="https://krueger.report">Mini Game Reviews</a> received its first update in half a year with the addition of Kentucky Route Zero. Writing my thoughts on the game was difficult, as it was a phenomenal game, and a mini review does not do it full justice. In time, a more complete review will be written to put down my complete thoughts on the game.</p>
+<p><a href="https://oberstkrueger.com/report">Mini Game Reviews</a> received its first update in half a year with the addition of Kentucky Route Zero. Writing my thoughts on the game was difficult, as it was a phenomenal game, and a mini review does not do it full justice. In time, a more complete review will be written to put down my complete thoughts on the game.</p>
 <h3>Articles Read</h3>
 <ul>
 <li>Cousins, J.N., Leon, R.L.F., Jamaluddin, S.A., Ng., A.S.C., Ong, J.L, Chee, M.W.L. (2021). Splitting sleep between the night and a daytime nap reduces homeostatic sleep pressure and enhances long-term memory. <em>Scientific Reports</em>, 11, Articler 5275. https://doi.org/10.1038/s41598-021-84625-8</li>
@@ -496,10 +496,10 @@
 <entry>
 <title>Updates For February, 2021</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202102</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202102</id>
 <published>2021-03-02T16:30:00Z</published>
 <updated>2021-03-02T16:30:00Z</updated>
 <content type="html">
@@ -540,10 +540,10 @@
 <entry>
 <title>Updates For January, 2021</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202101</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202101</id>
 <published>2021-02-03T23:30:00Z</published>
 <updated>2021-02-03T23:30:00Z</updated>
 <content type="html">
@@ -583,17 +583,17 @@
 <entry>
 <title>Updates For December, 2020</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202012</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202012</id>
 <published>2021-01-01T12:10:00Z</published>
 <updated>2021-01-01T12:10:00Z</updated>
 <content type="html">
 <![CDATA[
 <h2>2020.12</h2>
 <h3>Page Updates</h3>
-<p>2020 has been a strange year. Despite all of the challenges brought about by the COVID-19 pandemic, I managed to keep on track for many of my projects, which I highlighted in a new entry in <a href="https://krueger.report/years-in-review">Years In Review</a>.</p>
+<p>2020 has been a strange year. Despite all of the challenges brought about by the COVID-19 pandemic, I managed to keep on track for many of my projects, which I highlighted in a new entry in <a href="https://oberstkrueger.com/report/years-in-review">Years In Review</a>.</p>
 <h3>Articles Read</h3>
 <ul>
 <li>Ellis, R. (2020). Redemption and reproach: Religion and carceral control in action among women in prison. <em>Criminology</em>, 58(4). 747-772. https://doi.org/10.1111/1745-9125.12258</li>
@@ -623,10 +623,10 @@
 <entry>
 <title>Updates For November, 2020</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202011</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202011</id>
 <published>2020-12-01T10:10:00Z</published>
 <updated>2020-12-01T10:10:00Z</updated>
 <content type="html">
@@ -660,10 +660,10 @@
 <entry>
 <title>Updates For October, 2020</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202010</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202010</id>
 <published>2020-11-01T10:25:00Z</published>
 <updated>2020-11-01T10:25:00Z</updated>
 <content type="html">
@@ -699,10 +699,10 @@
 <entry>
 <title>Updates For September, 2020</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202009</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202009</id>
 <published>2020-10-02T19:35:00Z</published>
 <updated>2020-10-02T19:35:00Z</updated>
 <content type="html">
@@ -732,10 +732,10 @@
 <entry>
 <title>Updates For August, 2020</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202008</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202008</id>
 <published>2020-09-01T11:00:00Z</published>
 <updated>2020-09-01T11:00:00Z</updated>
 <content type="html">
@@ -743,7 +743,7 @@
 <h2>2020.08</h2>
 <h3>Page Updates</h3>
 <ul>
-<li><a href="https://krueger.report/software-tools/">Software Tools</a> has been updated significantly with newer tools that I use. I have also dropped the exact date that I started using an application, as it was based on purchased date and not likely accurate.</li>
+<li><a href="https://oberstkrueger.com/report/software-tools/">Software Tools</a> has been updated significantly with newer tools that I use. I have also dropped the exact date that I started using an application, as it was based on purchased date and not likely accurate.</li>
 </ul>
 <h3>Favorite Articles</h3>
 <ul>
@@ -773,17 +773,17 @@
 <entry>
 <title>Updates For July, 2020</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202007</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202007</id>
 <published>2020-08-01T08:30:00Z</published>
 <updated>2020-08-01T08:30:00Z</updated>
 <content type="html">
 <![CDATA[
 <h2>2020.07</h2>
 <h3>Page Updates</h3>
-<p>For the first time in 4 years, I have made a significant change to my <a href="https://krueger.report/backups/">data backup strategy</a>. New features of Arq have allowed me to transition to an online-only backup. My monthly cost has not gone up substantially, despite my backups now being in three online locations instead of just one. It is hard to say how long this current scheme will last, but I intend for it to be a ten or more year plan.</p>
+<p>For the first time in 4 years, I have made a significant change to my <a href="https://oberstkrueger.com/report/backups/">data backup strategy</a>. New features of Arq have allowed me to transition to an online-only backup. My monthly cost has not gone up substantially, despite my backups now being in three online locations instead of just one. It is hard to say how long this current scheme will last, but I intend for it to be a ten or more year plan.</p>
 <h3>Favorite Articles</h3>
 <ul>
 <li>Allcott, H., Braghieri, L., Eichmeyer, S., Gentzkow, M. (2020). The welfare effects of social media. <em>American Economic Association</em>, 11(3). 629-676.</li>
@@ -819,21 +819,21 @@
 <entry>
 <title>Updates For June, 2020</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202006</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202006</id>
 <published>2020-07-01T16:45:00Z</published>
 <updated>2020-07-01T16:45:00Z</updated>
 <content type="html">
 <![CDATA[
 <h2>2020.06</h2>
 <h3>Past Computing Devices</h3>
-<p>For the past month, I have been going researching as much as I can about all of the <a href="https://krueger.report/past-computing-devices/">past computing devices</a> that I have used throughout my life. This includes as desktop and laptop computers, smartphones, smartwatches, and tablets. It was interesting figuring out what I have used in the past. The specific models of my first two computers were impossible to locate, although I think I did get close on the second computer, and the timeline for my GPU upgrades might be missing an entry, but overall, I think I found everything else that I have used in my life. Video game consoles are not currently included, but I do plan to go back and add them at some point.</p>
+<p>For the past month, I have been going researching as much as I can about all of the <a href="https://oberstkrueger.com/report/past-computing-devices/">past computing devices</a> that I have used throughout my life. This includes as desktop and laptop computers, smartphones, smartwatches, and tablets. It was interesting figuring out what I have used in the past. The specific models of my first two computers were impossible to locate, although I think I did get close on the second computer, and the timeline for my GPU upgrades might be missing an entry, but overall, I think I found everything else that I have used in my life. Video game consoles are not currently included, but I do plan to go back and add them at some point.</p>
 <h3>WWDC 2020</h3>
-<p><a href="https://krueger.report/wwdc-2020/">WWDC 2020</a> is one of the most important computer events for me each year. I have never published any thoughts about it before, reserving that for conversations with friends. This year, marking the new big platform transition announced, I decided to expand my thoughts into a piece so I can later refer back to what excited me and what concerned me about this year's events.</p>
+<p><a href="https://oberstkrueger.com/report/wwdc-2020/">WWDC 2020</a> is one of the most important computer events for me each year. I have never published any thoughts about it before, reserving that for conversations with friends. This year, marking the new big platform transition announced, I decided to expand my thoughts into a piece so I can later refer back to what excited me and what concerned me about this year's events.</p>
 <h3>Page Updates</h3>
-<p><a href="https://krueger.report/notes-on-final-fantasy-xiv/">Notes on Final Fantasy XIV</a> was updated to list all of the entries in chronological order. Initially, all of the raids and trials were in alphabetical order, but due there now being so many entries, search is required anyways to find a specific one quickly. Therefore, having it in chronological order is helpful for knowing what is missing and what is not.</p>
+<p><a href="https://oberstkrueger.com/report/notes-on-final-fantasy-xiv/">Notes on Final Fantasy XIV</a> was updated to list all of the entries in chronological order. Initially, all of the raids and trials were in alphabetical order, but due there now being so many entries, search is required anyways to find a specific one quickly. Therefore, having it in chronological order is helpful for knowing what is missing and what is not.</p>
 <h3>Favorite Articles</h3>
 <ul>
 <li>Gothe, N.P., Khan, I., Hayes, J., Erlenbach, E., Damoiseaux, J.S. (2019). Yoga effects on brain health: a systematic review of the current literature. <em>Brain Plasticity</em>, 5, 1. 105-122.</li>
@@ -856,10 +856,10 @@
 <entry>
 <title>Updates For May, 2020</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202005</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202005</id>
 <published>2020-06-01T10:40:00Z</published>
 <updated>2020-06-01T10:40:00Z</updated>
 <content type="html">
@@ -883,18 +883,18 @@
 <entry>
 <title>Updates For April, 2020</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202004</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202004</id>
 <published>2020-05-01T16:45:00Z</published>
 <updated>2020-05-01T16:45:00Z</updated>
 <content type="html">
 <![CDATA[
 <h2>2020.04</h2>
 <h3>Page Updates</h3>
-<p>When I rebooted my then iTunes library, I created a list of every band that I had in the library. My intent was to go back through this list slowly, listen to bands again, and as I did, add them to <a href="https://krueger.report/bands-i-have-listened-to/">Bands I Have Listened To</a>. This was an incredibly slow process. To rectify this, I went down the list and added all of the bands I have listened to in some form to their appropriate spot. There are some bands that I am sure I have missed, but it is a much more accurate list now.</p>
-<p>My <a href="https://krueger.report/books-i-have-read/">running list of books</a> that I have read was updated to be categorized instead of a straight list. The overarching classes are based on the Dewey Decimal System, although I split Philosophy and Psychology into their own categories. With the intent of trying to stay well-rounded, knowing which categories I read heavy in and which I don't will be helpful.</p>
+<p>When I rebooted my then iTunes library, I created a list of every band that I had in the library. My intent was to go back through this list slowly, listen to bands again, and as I did, add them to <a href="https://oberstkrueger.com/report/bands-i-have-listened-to/">Bands I Have Listened To</a>. This was an incredibly slow process. To rectify this, I went down the list and added all of the bands I have listened to in some form to their appropriate spot. There are some bands that I am sure I have missed, but it is a much more accurate list now.</p>
+<p>My <a href="https://oberstkrueger.com/report/books-i-have-read/">running list of books</a> that I have read was updated to be categorized instead of a straight list. The overarching classes are based on the Dewey Decimal System, although I split Philosophy and Psychology into their own categories. With the intent of trying to stay well-rounded, knowing which categories I read heavy in and which I don't will be helpful.</p>
 <h3>Favorite Articles</h3>
 <ul>
 <li>Ahuja, N.K. (2013). "It feels good to be measured": Clinical role-play, Walker Percy, and the tingles. <em>Perspectives in Biology and Medicine</em>, 56(3). 442-451.</li>
@@ -923,17 +923,17 @@
 <entry>
 <title>Updates For March, 2020</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202003</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202003</id>
 <published>2020-04-01T13:45:00Z</published>
 <updated>2020-04-01T13:45:00Z</updated>
 <content type="html">
 <![CDATA[
 <h2>2020.03</h2>
 <h3>Mini Game Reviews</h3>
-<p>In an effort to get back into writing again, I wrote two <a href="https://krueger.report/mini-game-reviews/">mini reviews</a> for Black Mesa and Dear Esther. Both are games that I enjoyed quite a bit.</p>
+<p>In an effort to get back into writing again, I wrote two <a href="https://oberstkrueger.com/report/mini-game-reviews/">mini reviews</a> for Black Mesa and Dear Esther. Both are games that I enjoyed quite a bit.</p>
 <h3>Favorite Articles</h3>
 <ul>
 <li>Brailovskaia, J., Ströse, F., Schillack, H, Margraf, J. (2020). Less Facebook use – more well-being and a healthier lifestyle? An experimental intervention study. <em>Computers in Human Behavior</em>, 108.</li>
@@ -967,10 +967,10 @@
 <entry>
 <title>Updates For February, 2020</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202002</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202002</id>
 <published>2020-03-01T19:50:00Z</published>
 <updated>2020-03-01T19:50:00Z</updated>
 <content type="html">
@@ -1005,10 +1005,10 @@
 <entry>
 <title>Updates For January, 2020</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/202001</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/202001</id>
 <published>2020-02-01T22:25:00Z</published>
 <updated>2020-02-01T22:25:00Z</updated>
 <content type="html">
@@ -1043,10 +1043,10 @@
 <entry>
 <title>Updates For December, 2019</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201912</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201912</id>
 <published>2020-01-01T15:00:00Z</published>
 <updated>2020-01-01T15:00:00Z</updated>
 <content type="html">
@@ -1080,10 +1080,10 @@
 <entry>
 <title>Updates For November, 2019</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201911</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201911</id>
 <published>2019-12-01T12:15:00Z</published>
 <updated>2019-12-01T12:15:00Z</updated>
 <content type="html">
@@ -1135,10 +1135,10 @@
 <entry>
 <title>Updates For October, 2019</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201910</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201910</id>
 <published>2019-11-01T12:15:00Z</published>
 <updated>2019-11-01T12:15:00Z</updated>
 <content type="html">
@@ -1182,10 +1182,10 @@
 <entry>
 <title>Updates For September, 2019</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201909</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201909</id>
 <published>2019-10-01T20:10:00Z</published>
 <updated>2019-10-01T20:10:00Z</updated>
 <content type="html">
@@ -1228,10 +1228,10 @@
 <entry>
 <title>Updates For August, 2019</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201908</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201908</id>
 <published>2019-09-01T10:50:00Z</published>
 <updated>2019-09-01T10:50:00Z</updated>
 <content type="html">
@@ -1273,10 +1273,10 @@
 <entry>
 <title>Updates For July, 2019</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201907</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201907</id>
 <published>2019-08-01T17:00:00Z</published>
 <updated>2019-08-01T17:00:00Z</updated>
 <content type="html">
@@ -1309,10 +1309,10 @@
 <entry>
 <title>Updates For June, 2019</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201906</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201906</id>
 <published>2019-07-01T17:30:00Z</published>
 <updated>2019-07-01T17:30:00Z</updated>
 <content type="html">
@@ -1361,10 +1361,10 @@
 <entry>
 <title>Updates For May, 2019</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201905</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201905</id>
 <published>2019-06-01T16:10:00Z</published>
 <updated>2019-06-01T16:10:00Z</updated>
 <content type="html">
@@ -1424,10 +1424,10 @@
 <entry>
 <title>Updates For April, 2019</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201904</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201904</id>
 <published>2019-05-01T10:00:00Z</published>
 <updated>2019-05-01T10:00:00Z</updated>
 <content type="html">
@@ -1470,10 +1470,10 @@
 <entry>
 <title>Updates For March, 2019</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201903</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201903</id>
 <published>2019-04-01T12:35:00Z</published>
 <updated>2019-04-01T12:35:00Z</updated>
 <content type="html">
@@ -1523,10 +1523,10 @@
 <entry>
 <title>Updates For February, 2019</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201902</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201902</id>
 <published>2019-03-01T13:45:00Z</published>
 <updated>2019-03-01T13:45:00Z</updated>
 <content type="html">
@@ -1575,10 +1575,10 @@
 <entry>
 <title>Updates For January, 2019</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201901</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201901</id>
 <published>2019-01-31T23:55:00Z</published>
 <updated>2019-01-31T23:55:00Z</updated>
 <content type="html">
@@ -1633,19 +1633,19 @@
 <entry>
 <title>Updates For December, 2018</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201812</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201812</id>
 <published>2018-12-31T22:30:00Z</published>
 <updated>2018-12-31T22:30:00Z</updated>
 <content type="html">
 <![CDATA[
 <h2>2018.12</h2>
 <h3>Year In Review</h3>
-<p><a href="https://krueger.report/years-in-review/">Years In Review</a> now includes some of my favorites from 2018.</p>
+<p><a href="https://oberstkrueger.com/report/years-in-review/">Years In Review</a> now includes some of my favorites from 2018.</p>
 <h3>Mini Game Reviews</h3>
-<p>I have always enjoyed writing about the games that I play, highlighting my favorite aspects of the work. One problem I have when doing this is that I constantly find new rabbit holes to go down. The game review slowly turns into a whole article about every aspect of the game, what the developers intentions were, what worked and didn't work, etc. To counter this, I created <a href="https://krueger.report/mini-game/reviews">Mini Game Reviews</a> with the intent of writing a short review for every game I play. My target is to have a 3-5 paragraph goal for each review, so I can talk about what I liked and didn't like, and my overall impression of the game. Some games I plan to write more about, but these in-depth articles can be reserved for specific games, not every one that I play.</p>
+<p>I have always enjoyed writing about the games that I play, highlighting my favorite aspects of the work. One problem I have when doing this is that I constantly find new rabbit holes to go down. The game review slowly turns into a whole article about every aspect of the game, what the developers intentions were, what worked and didn't work, etc. To counter this, I created <a href="https://oberstkrueger.com/report/mini-game/reviews">Mini Game Reviews</a> with the intent of writing a short review for every game I play. My target is to have a 3-5 paragraph goal for each review, so I can talk about what I liked and didn't like, and my overall impression of the game. Some games I plan to write more about, but these in-depth articles can be reserved for specific games, not every one that I play.</p>
 <h3>Favorite Articles</h3>
 <p>Epic Games launched a new digital game store and launcher for the PC. On one hand, the store looks like a good deal for developers, as they receive 88% of the sale price for selling their games there. But on the other hand, Epic seems to have already landed a bunch of exclusives that are being pulled from Steam before launch. It is unknown right now if these games will remain solely on the Epic Games Store, or if it is a timed exclusive and will later be released on Steam. I am not a fan of every game publisher having their own launcher that needs to be downloaded, so I will be holding off on this for now until the market shakes out.</p>
 <ul>
@@ -1737,10 +1737,10 @@
 <entry>
 <title>Updates For November, 2018</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201811</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201811</id>
 <published>2018-11-30T22:45:00Z</published>
 <updated>2018-11-30T22:45:00Z</updated>
 <content type="html">
@@ -1813,19 +1813,19 @@
 <entry>
 <title>Updates For October, 2018</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201810</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201810</id>
 <published>2018-10-31T16:15:00Z</published>
 <updated>2018-10-31T16:15:00Z</updated>
 <content type="html">
 <![CDATA[
 <h2>2018.10</h2>
 <h3>Why Automate</h3>
-<p>One of the fundamental uses of computer devices is to automate my life. I try to run my life based on the principles set forth by David Allen in his GTD book, and a large part of his work relies on offloading tasks to something else that can properly handle it. For me, this is a mixture of computer scripts, applications, and workflows to make better use of my time. <a href="https://krueger.report/why-automate/">Why Automate?</a> goes into specifics of how and why I love doing this.</p>
+<p>One of the fundamental uses of computer devices is to automate my life. I try to run my life based on the principles set forth by David Allen in his GTD book, and a large part of his work relies on offloading tasks to something else that can properly handle it. For me, this is a mixture of computer scripts, applications, and workflows to make better use of my time. <a href="https://oberstkrueger.com/report/why-automate/">Why Automate?</a> goes into specifics of how and why I love doing this.</p>
 <h3>Automating Podcasts</h3>
-<p>There are many ways to automate computer usage, but one of the less talked about ways is to make GUI tools function on there own. <a href="https://krueger.report/automating-podcasts/">Automating Podcasts</a> highlights how I use the iOS app Overcast to operate on its own other than needing to hit the play and stop buttons.</p>
+<p>There are many ways to automate computer usage, but one of the less talked about ways is to make GUI tools function on there own. <a href="https://oberstkrueger.com/report/automating-podcasts/">Automating Podcasts</a> highlights how I use the iOS app Overcast to operate on its own other than needing to hit the play and stop buttons.</p>
 <h3>Favorite Articles</h3>
 <p>California has been working on a new net neutrality bill this year, and it has now been signed into law. There will be a huge legal fight over this law as well as those passed in the state of Washington, but it is an important fight. The openness of the internet helped give us the technological boon of the last couple of decades. Without it, innovation will be stifled, and current services will be more dificult to use.</p>
 <ul>
@@ -1899,10 +1899,10 @@
 <entry>
 <title>Updates For September, 2018</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201809</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201809</id>
 <published>2018-09-30T16:50:00Z</published>
 <updated>2018-09-30T16:50:00Z</updated>
 <content type="html">
@@ -1996,17 +1996,17 @@
 <entry>
 <title>Updates For August, 2018</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201808</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201808</id>
 <published>2018-08-31T19:05:00Z</published>
 <updated>2018-08-31T19:05:00Z</updated>
 <content type="html">
 <![CDATA[
 <h2>2018.08</h2>
 <h3>Simplifying the Smartphone</h3>
-<p><a href="https://krueger.report/simplifying-the-smartphone">Simplifying the Smartphone</a> documents my attempt to break my smartphone addiction. I modeled my iPhone setup on the Siempo phone, an unreleased smartphone that aimed to provide the bare necessities without all of the negatives. I have had my iPhone setup like this for roughly 6 months now, and consider the experiment a success, albeit with some small app consolidations to make in the future.</p>
+<p><a href="https://oberstkrueger.com/report/simplifying-the-smartphone">Simplifying the Smartphone</a> documents my attempt to break my smartphone addiction. I modeled my iPhone setup on the Siempo phone, an unreleased smartphone that aimed to provide the bare necessities without all of the negatives. I have had my iPhone setup like this for roughly 6 months now, and consider the experiment a success, albeit with some small app consolidations to make in the future.</p>
 <h3>Favorite Articles</h3>
 <p>During the early 2000s, Amazon was a company that I frequently shopped on. My purchase history goes back quite far, with thousands of dollars spend over the years. In recent years, that has changed. Amazon is no longer the reliable seller that they used to be, with fake products and paid reviews becoming normalized. When I purchase something from then, I no longer can trust that I will receive what I am expecting. If there is something that I must purchase online, Amazon is the last resort for me, even if it means spending more money elsewhere. The final s</p>
 <ul>
@@ -2082,20 +2082,20 @@
 <entry>
 <title>Updates For July, 2018</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201807</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201807</id>
 <published>2018-07-31T23:45:00Z</published>
 <updated>2018-07-31T23:45:00Z</updated>
 <content type="html">
 <![CDATA[
 <h2>2018.07</h2>
 <h3>Exit Status Codes</h3>
-<p>An important part of building any CLI tool on a Unix system is to have it interact with the rest of the system in a Unix-y way. One way this manifests is by providing the proper exit status upon termination of the executable. Outside of the most basic response of success or error, this means assigning meaning to numbers that do not have any standard meaning. <a href="https://krueger.report/exit-status-codes">Exit Status Codes</a> highlights what I found as the best practices for implementing these codes beyond the basics provided by individual programming languages.</p>
+<p>An important part of building any CLI tool on a Unix system is to have it interact with the rest of the system in a Unix-y way. One way this manifests is by providing the proper exit status upon termination of the executable. Outside of the most basic response of success or error, this means assigning meaning to numbers that do not have any standard meaning. <a href="https://oberstkrueger.com/report/exit-status-codes">Exit Status Codes</a> highlights what I found as the best practices for implementing these codes beyond the basics provided by individual programming languages.</p>
 <h3>Updates</h3>
-<p><a href="https://krueger.report/software-tools/">Software Tools</a>: Over the past few months, I have been using git more from the command-line and relying less on Tower. Having a GUI front-end was useful while learning the intricacies of git, but as time went on, it turned into a crutch. Tower is still my recommendation for a GUI git client for anyone who asks, but I myself no longer use it.</p>
-<p><a href="https://krueger.report/tracking-sleep/">Tracking Sleep</a>: iOS's Do Not Disturb mode is an important part of sleep tracking, as without it, it would be precarious to sleep with both my iPhone and Watch nearby. I have updated the importance of using this 6 year old feature.</p>
+<p><a href="https://oberstkrueger.com/report/software-tools/">Software Tools</a>: Over the past few months, I have been using git more from the command-line and relying less on Tower. Having a GUI front-end was useful while learning the intricacies of git, but as time went on, it turned into a crutch. Tower is still my recommendation for a GUI git client for anyone who asks, but I myself no longer use it.</p>
+<p><a href="https://oberstkrueger.com/report/tracking-sleep/">Tracking Sleep</a>: iOS's Do Not Disturb mode is an important part of sleep tracking, as without it, it would be precarious to sleep with both my iPhone and Watch nearby. I have updated the importance of using this 6 year old feature.</p>
 <h3>Favorite Articles</h3>
 <ul>
 <li><a href="https://www.macstories.net/stories/app-preservation-saving-the-app-stores-history/">App preservation: saving the App Store's history</a></li>
@@ -2142,17 +2142,17 @@
 <entry>
 <title>Updates For June, 2018</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201806</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201806</id>
 <published>2018-06-30T21:55:00Z</published>
 <updated>2018-06-30T21:55:00Z</updated>
 <content type="html">
 <![CDATA[
 <h2>2018.06</h2>
 <h3>The Games of Tomorrow Corporation</h3>
-<p>Tomorrow Corporation makes some of my all-time favorite games. Each of their games have impacted me deeply, from the story and music to the fun gameplay. In <a href="https://krueger.report/the-games-of-tomorrow-corporation">The Games of Tomorrow Corporation</a>, I talk a little about why I love these games so much.</p>
+<p>Tomorrow Corporation makes some of my all-time favorite games. Each of their games have impacted me deeply, from the story and music to the fun gameplay. In <a href="https://oberstkrueger.com/report/the-games-of-tomorrow-corporation">The Games of Tomorrow Corporation</a>, I talk a little about why I love these games so much.</p>
 <h3>Favorite Articles</h3>
 <ul>
 <li><a href="https://techcrunch.com/2018/06/28/amazon-buys-pillpack-an-online-pharmacy-that-was-rumored-to-be-talking-to-walmart/">Amazon buys PillPack, an online pharmacy, for just under $1B</a></li>
@@ -2203,18 +2203,18 @@
 <entry>
 <title>Updates For May, 2018</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201805</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201805</id>
 <published>2018-05-31T14:50:00Z</published>
 <updated>2018-05-31T14:50:00Z</updated>
 <content type="html">
 <![CDATA[
 <h3>Traveling Minimally</h3>
-<p>One of my least favorite parts of traveling is packing. Going down a long checklist of necessary items before hand and then double checking to make sure everything is packed before returning takes away from the joy of visiting other parts of the world. To help with this, I keep a simple philosophy of <a href="https://krueger.report/traveling-minimally">Traveling Minimally</a> that helps make my daily travels and vacations much easier to handle.</p>
+<p>One of my least favorite parts of traveling is packing. Going down a long checklist of necessary items before hand and then double checking to make sure everything is packed before returning takes away from the joy of visiting other parts of the world. To help with this, I keep a simple philosophy of <a href="https://oberstkrueger.com/report/traveling-minimally">Traveling Minimally</a> that helps make my daily travels and vacations much easier to handle.</p>
 <h3>Updates</h3>
-<p>With the recreation of my iTunes library earlier this year, my collection of <a href="https://krueger.report/work-music">Work Music</a> has been updated. A number of genres have been dropped entirely, and the back to basics approach that I have taken with music as a whole has changed what I listen to while I work.</p>
+<p>With the recreation of my iTunes library earlier this year, my collection of <a href="https://oberstkrueger.com/report/work-music">Work Music</a> has been updated. A number of genres have been dropped entirely, and the back to basics approach that I have taken with music as a whole has changed what I listen to while I work.</p>
 <h3>Favorite Articles</h3>
 <ul>
 <li><a href="https://blog.ghost.org/5/">After 5 years and $3M, here’s everything we’ve learned from building Ghost</a></li>
@@ -2273,19 +2273,19 @@
 <entry>
 <title>Updates For April, 2018</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201804</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201804</id>
 <published>2018-04-30T14:20:00Z</published>
 <updated>2018-04-30T14:20:00Z</updated>
 <content type="html">
 <![CDATA[
 <h3>CLI Tools</h3>
-<p>One of the big reasons that I continue to keep macOS as my primary operating system is the first-class terminal access that it provides. Much of my work is done in GUI applications, but a command-line is always present on my screen. <a href="https://krueger.report/cli-tools">CLI Tools</a> is a list of all of my currently used tools, with a quick reference for the most commonly used commands.</p>
+<p>One of the big reasons that I continue to keep macOS as my primary operating system is the first-class terminal access that it provides. Much of my work is done in GUI applications, but a command-line is always present on my screen. <a href="https://oberstkrueger.com/report/cli-tools">CLI Tools</a> is a list of all of my currently used tools, with a quick reference for the most commonly used commands.</p>
 <h3>Updates</h3>
-<p><a href="https://krueger.report/disabling-gaming-platforms-social-features/">Disabling Gaming Platforms' Social Features</a> now includes information about disabling certain features of Xbox Live on Windows. This is largely not a concern as there is little functionality within Xbox Live on Windows, but being able to control it some is still a plus.</p>
-<p><a href="https://krueger.report/scripting-with-swift">Scripting with Swift</a> has been updated to include more guidance on how to use Swift for command-line scripting purposes. One of my favorite aspects of Swift is how well it works for scripting, so I have expanded on why it is so great.</p>
+<p><a href="https://oberstkrueger.com/report/disabling-gaming-platforms-social-features/">Disabling Gaming Platforms' Social Features</a> now includes information about disabling certain features of Xbox Live on Windows. This is largely not a concern as there is little functionality within Xbox Live on Windows, but being able to control it some is still a plus.</p>
+<p><a href="https://oberstkrueger.com/report/scripting-with-swift">Scripting with Swift</a> has been updated to include more guidance on how to use Swift for command-line scripting purposes. One of my favorite aspects of Swift is how well it works for scripting, so I have expanded on why it is so great.</p>
 <h3>Favorite Articles</h3>
 <ul>
 <li><a href="https://medium.com/@ReThinkReviews/airpods-and-the-three-stages-of-apple-criticism-fed70b84e435">AirPods and the three stages of Apple criticism</a></li>
@@ -2345,18 +2345,18 @@
 <entry>
 <title>Updates For March, 2018</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201803</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201803</id>
 <published>2018-03-31T17:15:00Z</published>
 <updated>2018-03-31T17:15:00Z</updated>
 <content type="html">
 <![CDATA[
 <h3>Updating Sublime</h3>
-<p>When it comes to programming tools, I am always looking at what is available that might replace what I currently have. Last year, I wanted to give all of the major text editors a go to see if it was worth considering replacing Sublime Text as my main text editor after many years of use. The experiments were fruitful, and while I am back using Sublime for the foreseeable future, I took away a lot of useful information from how the other editors functioned that I have included in <a href="https://krueger.report/updating-sublime-text">Updating Sublime Text</a>.</p>
+<p>When it comes to programming tools, I am always looking at what is available that might replace what I currently have. Last year, I wanted to give all of the major text editors a go to see if it was worth considering replacing Sublime Text as my main text editor after many years of use. The experiments were fruitful, and while I am back using Sublime for the foreseeable future, I took away a lot of useful information from how the other editors functioned that I have included in <a href="https://oberstkrueger.com/report/updating-sublime-text">Updating Sublime Text</a>.</p>
 <h3>Updates</h3>
-<p><a href="https://krueger.report/software-tools/">Software Tools</a> has been updated with many new categories of tools, as well as updates to old tools that I no longer use.</p>
+<p><a href="https://oberstkrueger.com/report/software-tools/">Software Tools</a> has been updated with many new categories of tools, as well as updates to old tools that I no longer use.</p>
 <h3>Favorite Articles</h3>
 <ul>
 <li><a href="https://techcrunch.com/2018/03/07/all-of-oculuss-rift-headsets-have-stopped-working-due-to-an-expired-certificate/">All of Oculus’s Rift headsets have stopped working due to an expired certificate</a></li>
@@ -2417,16 +2417,16 @@
 <entry>
 <title>Updates For February, 2018</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201802</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201802</id>
 <published>2018-02-28T12:45:00Z</published>
 <updated>2018-02-28T12:45:00Z</updated>
 <content type="html">
 <![CDATA[
 <h3>Updates</h3>
-<p>This month, I finished up the notes I took for <a href="https://krueger.report/notes-on-books/the-half-life-of-facts">The Half-Life of Facts</a>. This book looks as how knowledge changes over time, and particularly how different fields are affected. It also highlights some of the issues that modern research has, particularly with regards to how incorrect facts can persist no matter what other research shows.</p>
+<p>This month, I finished up the notes I took for <a href="https://oberstkrueger.com/report/notes-on-books/the-half-life-of-facts">The Half-Life of Facts</a>. This book looks as how knowledge changes over time, and particularly how different fields are affected. It also highlights some of the issues that modern research has, particularly with regards to how incorrect facts can persist no matter what other research shows.</p>
 <h3>Favorite Articles</h3>
 <ul>
 <li><a href="https://techcrunch.com/2018/02/13/amp-for-email-is-a-terrible-idea/">AMP for email is a terrible idea</a></li>
@@ -2472,16 +2472,16 @@
 <entry>
 <title>Updates For January, 2018</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/201801</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/201801</id>
 <published>2018-01-31T23:35:00Z</published>
 <updated>2018-01-31T23:35:00Z</updated>
 <content type="html">
 <![CDATA[
 <h3>Updates</h3>
-<p><a href="https://krueger.report/notes-on-books/moonwalking-with-einstein">Moonwalking With Einstein</a> is a great read about the techniques used by master memory competition champions. This has been one of the more fun books I have read recently, especially since I sometimes worry that my memory is going bad. It isn't, necessarily, but I still plan to incorporate some of the techniques mentioned in this book to try and remember more things, instead of simply relying on technology to do it for me.</p>
+<p><a href="https://oberstkrueger.com/report/notes-on-books/moonwalking-with-einstein">Moonwalking With Einstein</a> is a great read about the techniques used by master memory competition champions. This has been one of the more fun books I have read recently, especially since I sometimes worry that my memory is going bad. It isn't, necessarily, but I still plan to incorporate some of the techniques mentioned in this book to try and remember more things, instead of simply relying on technology to do it for me.</p>
 <h3>Favorite Articles</h3>
 <ul>
 <li><a href="https://www.raphkoster.com/2018/01/17/the-cost-of-games/">The cost of games</a></li>
@@ -2541,16 +2541,16 @@
 <entry>
 <title>Updates For December 31, 2017</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/20171231</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/20171231</id>
 <published>2017-12-31T05:45:00Z</published>
 <updated>2017-12-31T05:45:00Z</updated>
 <content type="html">
 <![CDATA[
 <h3>Year In Review</h3>
-<p>2017 has come and gone. <a href="https://krueger.report/years-in-review/">Years In Review</a> has been updated with some of my favorite games, music, and thoughts about the year.</p>
+<p>2017 has come and gone. <a href="https://oberstkrueger.com/report/years-in-review/">Years In Review</a> has been updated with some of my favorite games, music, and thoughts about the year.</p>
 <h3>Favorite Articles</h3>
 <ul>
 <li><a href="http://slatestarcodex.com/2017/12/28/adderall-risks-much-more-than-you-wanted-to-know/">Adderall risks: Much more than you wanted to know</a></li>
@@ -2601,18 +2601,18 @@
 <entry>
 <title>Updates For November 30, 2017</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/20171130</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/20171130</id>
 <published>2017-11-30T02:55:00Z</published>
 <updated>2017-11-30T02:55:00Z</updated>
 <content type="html">
 <![CDATA[
 <h3>Rebooting iTunes</h3>
-<p>Nearly 10 years ago, I created the iTunes library that I had been using consistently up until 6 months ago. This library was bloated and hard to reason around, as it had more songs in it than I could listen to. To fix this problem, I decided to <a href="https://krueger.report/rebooting-itunes">reboot iTunes</a>, to purge everything out of it and start fresh. This has been a huge task and one that I was unsure would work out, but in the end, it has helped revitalize my music listening and helped solidify what I actually enjoy listening to.</p>
+<p>Nearly 10 years ago, I created the iTunes library that I had been using consistently up until 6 months ago. This library was bloated and hard to reason around, as it had more songs in it than I could listen to. To fix this problem, I decided to <a href="https://oberstkrueger.com/report/rebooting-itunes">reboot iTunes</a>, to purge everything out of it and start fresh. This has been a huge task and one that I was unsure would work out, but in the end, it has helped revitalize my music listening and helped solidify what I actually enjoy listening to.</p>
 <h3>Selecting Movies</h3>
-<p>On an old version of The Krueger Report, I wrote about how the amount of new movies I was watching had gone down. At the time, I resolved to watch at least a couple new movies every month, working down the list of what is considered the best movies of all time as well as any personal preferences that I have. I kept up this habit for about about a year, but then it again fell by the wayside. Getting back in the habit of <a href="https://krueger.report/selecting-movies">selecting movies</a> to watch and keeping up with it is a goal of mine for the upcoming year.</p>
+<p>On an old version of The Krueger Report, I wrote about how the amount of new movies I was watching had gone down. At the time, I resolved to watch at least a couple new movies every month, working down the list of what is considered the best movies of all time as well as any personal preferences that I have. I kept up this habit for about about a year, but then it again fell by the wayside. Getting back in the habit of <a href="https://oberstkrueger.com/report/selecting-movies">selecting movies</a> to watch and keeping up with it is a goal of mine for the upcoming year.</p>
 <h3>Favorite Articles</h3>
 <ul>
 <li><a href="https://www.theatlantic.com/archive/2017/11/are-facebook-twitter-and-google-american-companies/544670/">Are Facebook, Twitter, and Google American Companies?</a></li>
@@ -2668,16 +2668,16 @@
 <entry>
 <title>Updates For October 31, 2017</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/20171031</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/20171031</id>
 <published>2017-10-31T08:45:00Z</published>
 <updated>2017-08-31T08:45:00Z</updated>
 <content type="html">
 <![CDATA[
 <h3>Notes On Books</h3>
-<p>A new habit that I have picked up recently is taking notes on non-fiction books that I can reference later. Taking notes has forced me to slow down my reading speed while also reinforcing my comprehension of the work. Since The Krueger Report is as much a reference for myself as anyone else, adding those notes here makes sense. My initial entries into this category are for a pair of books: <a href="https://krueger.report/notes-on-books/crashoverride">Crash Override</a> and <a href="https://krueger.report/notes-on-books/resilient-web-design">Resilient Web Design</a>.</p>
+<p>A new habit that I have picked up recently is taking notes on non-fiction books that I can reference later. Taking notes has forced me to slow down my reading speed while also reinforcing my comprehension of the work. Since The Krueger Report is as much a reference for myself as anyone else, adding those notes here makes sense. My initial entries into this category are for a pair of books: <a href="https://oberstkrueger.com/report/notes-on-books/crashoverride">Crash Override</a> and <a href="https://oberstkrueger.com/report/notes-on-books/resilient-web-design">Resilient Web Design</a>.</p>
 <h3>Favorite Articles</h3>
 <ul>
 <li><a href="https://kotaku.com/activision-patents-matchmaking-that-encourages-players-1819630937">Activision patents matchmaking that encourages players to buy microtransactions</a></li>
@@ -2737,18 +2737,18 @@
 <entry>
 <title>Updates For September 30, 2017</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/20170930</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/20170930</id>
 <published>2017-09-30T11:55:00Z</published>
 <updated>2017-09-30T11:55:00Z</updated>
 <content type="html">
 <![CDATA[
 <h3>Setting Up Homebrew</h3>
-<p>Homebrew is one of my most used utilities on macOS. <a href="https://krueger.report/setting-up-homebrew">Setting Up Homebrew</a> is both a quick guide for setting up Homebrew from scratch and a reference for its most used commands.</p>
+<p>Homebrew is one of my most used utilities on macOS. <a href="https://oberstkrueger.com/report/setting-up-homebrew">Setting Up Homebrew</a> is both a quick guide for setting up Homebrew from scratch and a reference for its most used commands.</p>
 <h3>Updates</h3>
-<p>I have added current screenshots of both my iOS and macOS workspaces to <a href="https://krueger.report/about-the-author/">About The Author</a>. Monthly updates to this are my intention, so that I can see how my workspaces change with time.</p>
+<p>I have added current screenshots of both my iOS and macOS workspaces to <a href="https://oberstkrueger.com/report/about-the-author/">About The Author</a>. Monthly updates to this are my intention, so that I can see how my workspaces change with time.</p>
 <h3>Books Read</h3>
 <ul>
 <li>Amariei, Cornel - Arduino Development Cookbook</li>
@@ -2800,23 +2800,23 @@
 <entry>
 <title>Updates For September 4, 2017</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/20170904</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/20170904</id>
 <published>2017-09-04T07:15:00Z</published>
 <updated>2017-09-04T07:15:00Z</updated>
 <content type="html">
 <![CDATA[
 <h3>Scripting With Swift</h3>
-<p>One of my favorite parts of macOS is the scripting capabilities of it. GUI applications can be scripted with AppleScript, and terminal applications and OS-level features can be scripted using Bash, Python, and now Swift. I've been experimenting with <a href="https://krueger.report/scripting-with-swift/">creating scripts using Swift</a>, and while the results are still early, it's turning out to be a capable language for this usage.</p>
+<p>One of my favorite parts of macOS is the scripting capabilities of it. GUI applications can be scripted with AppleScript, and terminal applications and OS-level features can be scripted using Bash, Python, and now Swift. I've been experimenting with <a href="https://oberstkrueger.com/report/scripting-with-swift/">creating scripts using Swift</a>, and while the results are still early, it's turning out to be a capable language for this usage.</p>
 <h3>Walt Disney World - 2016</h3>
-<p>Last year, Whitney and I went to <a href="https://krueger.report/trips/walt-disney-world-2016">Walt Disney World</a>. This was my third trip there, but the first for Whitney. I did not take as many photographs as I would have liked, some of the highlights are included here.</p>
+<p>Last year, Whitney and I went to <a href="https://oberstkrueger.com/report/trips/walt-disney-world-2016">Walt Disney World</a>. This was my third trip there, but the first for Whitney. I did not take as many photographs as I would have liked, some of the highlights are included here.</p>
 <h3>Solar Eclipse - 2017</h3>
-<p>This month saw a total eclipse pass over the United States. While it did not pass with 100% coverage over Portland, it was close enough to make it worth a <a href="https://krueger.report/trips/solar-eclipse-2017">short trip out to see it</a>.</p>
+<p>This month saw a total eclipse pass over the United States. While it did not pass with 100% coverage over Portland, it was close enough to make it worth a <a href="https://oberstkrueger.com/report/trips/solar-eclipse-2017">short trip out to see it</a>.</p>
 <h3>Updates</h3>
-<p>Since I have now been <a href="https://krueger.report/tracking-sleep/">tracking my sleep for over a year</a>, I am able to include an example of the graphical representation from health of that sleep data.</p>
-<p>I categorized all of the tools I have listed on <a href="https://krueger.report/software-tools/">Software Tools</a>. By breaking it up into operating system and task categories, I am better able to see my reliance on any single operating system. macOS remains the more important operating system for my uses, particularly with more power user functions, but iOS is catching up. I will continue my goal of staying as cross-platform as possible, should the day ever arrive where removing macOS from the equation is a possibility.</p>
+<p>Since I have now been <a href="https://oberstkrueger.com/report/tracking-sleep/">tracking my sleep for over a year</a>, I am able to include an example of the graphical representation from health of that sleep data.</p>
+<p>I categorized all of the tools I have listed on <a href="https://oberstkrueger.com/report/software-tools/">Software Tools</a>. By breaking it up into operating system and task categories, I am better able to see my reliance on any single operating system. macOS remains the more important operating system for my uses, particularly with more power user functions, but iOS is catching up. I will continue my goal of staying as cross-platform as possible, should the day ever arrive where removing macOS from the equation is a possibility.</p>
 <h3>Books Read</h3>
 <ul>
 <li>Nayebi, Fatih - Swift Functional Programming</li>
@@ -2857,22 +2857,22 @@
 <entry>
 <title>Updates For August 12, 2017</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/20170812</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/20170812</id>
 <published>2017-08-12T22:15:00Z</published>
 <updated>2017-08-12T22:15:00Z</updated>
 <content type="html">
 <![CDATA[
 <h3>base-css</h3>
-<p>Last month as I was working on revamping this site's theme, I decided to create a small set of boilerplate CSS that I can use on future projects. What I have called <a href="http://krueger.report/base-css">base-css</a> is my new set of CSS that I used as the core of the new theme. Going forward, I plan to use base-css for all projects just so that some essential values can be set without having to spend time rebuilding it from scratch.</p>
+<p>Last month as I was working on revamping this site's theme, I decided to create a small set of boilerplate CSS that I can use on future projects. What I have called <a href="http://oberstkrueger.com/report/base-css">base-css</a> is my new set of CSS that I used as the core of the new theme. Going forward, I plan to use base-css for all projects just so that some essential values can be set without having to spend time rebuilding it from scratch.</p>
 <h3>Movies I Have Watched</h3>
-<p><a href="https://krueger.report/movies-i-have-watched">Movies I Have Watched</a> is a new appendix with a list of all of the movies I have watched. There are some that will be missing from that list as of right now, but after having spent a few hours working on this, I know the vast majority are already listed.</p>
+<p><a href="https://oberstkrueger.com/report/movies-i-have-watched">Movies I Have Watched</a> is a new appendix with a list of all of the movies I have watched. There are some that will be missing from that list as of right now, but after having spent a few hours working on this, I know the vast majority are already listed.</p>
 <h3>Notes On Final Fantasy XIV</h3>
-<p>Final Fantasy XIV has been my main MMORPG since it's relaunch in August, 2013. One of my favorite aspects of the game is the focus on Trials, which are essentially boss fights without a corresponding dungeon to clear through beforehand. <a href="https://krueger.report/notes-on-final-fantasy-xiv">Notes On Final Fantasy XIV</a> is mostly notes to myself on what to watch for during each Trial, from the perspective of a main-tank or off-tank.</p>
+<p>Final Fantasy XIV has been my main MMORPG since it's relaunch in August, 2013. One of my favorite aspects of the game is the focus on Trials, which are essentially boss fights without a corresponding dungeon to clear through beforehand. <a href="https://oberstkrueger.com/report/notes-on-final-fantasy-xiv">Notes On Final Fantasy XIV</a> is mostly notes to myself on what to watch for during each Trial, from the perspective of a main-tank or off-tank.</p>
 <h3>Updates</h3>
-<p>A few months back, Amazon Drive pricing changed from being $5/month for unlimited storage to $5/month per terabyte of storage. At the time of the change, I did not feel the need to change my backup plan, but at the back of my mind was the fleeting thought that Amazon might change their offerings again. After surveying the backup field again, I have since moved my <a href="https://krueger.report/backups">backups</a> off of Amazon to B2.</p>
+<p>A few months back, Amazon Drive pricing changed from being $5/month for unlimited storage to $5/month per terabyte of storage. At the time of the change, I did not feel the need to change my backup plan, but at the back of my mind was the fleeting thought that Amazon might change their offerings again. After surveying the backup field again, I have since moved my <a href="https://oberstkrueger.com/report/backups">backups</a> off of Amazon to B2.</p>
 <h3>Books Read</h3>
 <ul>
 <li>Emacs Field Guide, by Harley Hahn</li>
@@ -2919,10 +2919,10 @@
 <entry>
 <title>Updates For July 20, 2017</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/20170720</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/20170720</id>
 <published>2017-07-20T23:00:00Z</published>
 <updated>2017-07-20T23:00:00Z</updated>
 <content type="html">
@@ -2931,7 +2931,7 @@
 <p>I updated the overall theme this month to a darker theme. Lately, I have found myself living inside of dark themed code editors and terminal windows, and wanted my website to match this overall aesthetic. Other sections of the CSS were simplified and cleaned up. Swapping color palettes in the future should be easy, as there are 6 Sass variables that control the entire scheme.</p>
 <p>Most blogs are lighter in color, with common thinking being that dark text on a light background is most legible. This might be the case, but I still wanted to try to do the opposite, to see where it would lead me. I am happy with the results so far, especially because it did not take too much time to rework the code to accommodate this look.</p>
 <h3>Helpful Algorithms</h3>
-<p>In programming, algorithms and functions are one of the main tools at your disposal. Many functions can be re-used in later projects. <a href="https://krueger.report/helpful-algorithms">Helpful Algorithms</a> is a resource for common algorithms that I use. Starting out, a lot of them are math functions that I created for Project Euler, but I also plan to go back and learn more fundamental programming algorithms and create my own implementations of them.</p>
+<p>In programming, algorithms and functions are one of the main tools at your disposal. Many functions can be re-used in later projects. <a href="https://oberstkrueger.com/report/helpful-algorithms">Helpful Algorithms</a> is a resource for common algorithms that I use. Starting out, a lot of them are math functions that I created for Project Euler, but I also plan to go back and learn more fundamental programming algorithms and create my own implementations of them.</p>
 <h3>Updates</h3>
 <p>I did not make any substantial updates to any pages this month, due to focusing on updating the theme of the site. Additionally, as can be seen below, I spent a lot of time this month both playing new games and reading, which left less time for writing than normal.</p>
 <h3>Books Read</h3>
@@ -2976,18 +2976,18 @@
 <entry>
 <title>Updates For June 27, 2017</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/20170627</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/20170627</id>
 <published>2017-06-27T15:00:00Z</published>
 <updated>2017-06-27T15:00:00Z</updated>
 <content type="html">
 <![CDATA[
 <h3>Hello, World!</h3>
-<p>I have never written a proper introduction for The Krueger Report. This has now been corrected with <a href="https://krueger.report/hello-world">Hello, World!</a>, with my objectives of this site as well as how I am accomplishing that.</p>
+<p>I have never written a proper introduction for The Krueger Report. This has now been corrected with <a href="https://oberstkrueger.com/report/hello-world">Hello, World!</a>, with my objectives of this site as well as how I am accomplishing that.</p>
 <h3>Updates</h3>
-<p>With Amazon Cloud Drive's removal of unlimited storage, I needed to review my <a href="https://krueger.report/backups/">Backup</a> plan. Even at a price of $5/month per terabyte instead of $5/month for unlimited, Amazon Cloud Drive remains one of the best deals available For now, I am not changing what service I am backing up to, although Amazon's penchant for changing their offerings with little notice outside of core AWS services leaves me wary of continuing to use them into the future.</p>
+<p>With Amazon Cloud Drive's removal of unlimited storage, I needed to review my <a href="https://oberstkrueger.com/report/backups/">Backup</a> plan. Even at a price of $5/month per terabyte instead of $5/month for unlimited, Amazon Cloud Drive remains one of the best deals available For now, I am not changing what service I am backing up to, although Amazon's penchant for changing their offerings with little notice outside of core AWS services leaves me wary of continuing to use them into the future.</p>
 <h3>Books Read</h3>
 <ul>
 <li>Book: A Futurist's Manifesto, by Hugh McGuire and Brian O'Leary</li>
@@ -3027,16 +3027,16 @@
 <entry>
 <title>Updates For June 12, 2017</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/20170612</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/20170612</id>
 <published>2017-06-12T18:15:00Z</published>
 <updated>2017-06-12T18:15:00Z</updated>
 <content type="html">
 <![CDATA[
 <h3>Appendices</h3>
-<p>One of the (largely less interesting?) parts of this project is documenting all of the types of media that I have experienced. The first page of this was <a href="https://krueger.report/games-i-have-played">Games I Have Played</a>, and with the addition of <a href="https://krueger.report/podcasts-i-have-listened-to/">Podcasts I Have Listened To</a>, I decided to move this information to a new section. Since I am mimicking the structure of a book, I thought that putting these in as Appendices made sense, since it's less important information and can sit at the end of the whole project. It also opens up the possibility of me adding other appendices as time goes on without it diluting the worth of other content.</p>
+<p>One of the (largely less interesting?) parts of this project is documenting all of the types of media that I have experienced. The first page of this was <a href="https://oberstkrueger.com/report/games-i-have-played">Games I Have Played</a>, and with the addition of <a href="https://oberstkrueger.com/report/podcasts-i-have-listened-to/">Podcasts I Have Listened To</a>, I decided to move this information to a new section. Since I am mimicking the structure of a book, I thought that putting these in as Appendices made sense, since it's less important information and can sit at the end of the whole project. It also opens up the possibility of me adding other appendices as time goes on without it diluting the worth of other content.</p>
 <h3>Books Read</h3>
 <ul>
 <li>The Body Has a Mind of Its Own: How Body Maps in Your Brain Help You Do (Almost) Everything Better, by Sandra Blakeslee and Matthew Blakeslee</li>
@@ -3079,9 +3079,9 @@
 <li><a href="https://en.wikipedia.org/wiki/Tron_2.0">Tron 2.0</a></li>
 </ul>
 <h3>Updates</h3>
-<p>In the past month, I have revamped my <a href="https://krueger.report/exercise-routine/">Exercise Routine</a>. The activities are largely the same, but I have moved away from certain exercises being done only on certain days. The scripts for calculating my exercise build-ups has also been updated to Python due to the simplicity of the used code.</p>
-<p>In March, GOG updated GOG Galaxy to include more typical gaming platform features: achievement tracking and playtime tracking. Since these are features that I do not wish to take part in, I explored if GOG allowed these features to be disabled. Thankfully, they are, and I have updated <a href="https://krueger.report/disabling-gaming-platforms-social-features/">Disabling Gaming Platforms' Social Features</a> with that information.</p>
-<p>I added a few more problems to <a href="https://krueger.report/project-euler-in-swift/">Project Euler In Swift</a>, but not as many as I would have liked. The past few months, I have been experimenting with the tools I use to program, and going through a philosophical debate between the lean Sublime Text and heavier Xcode. With the addition of a solid-state drive in my Mac Mini and all of the recent announcements at WWDC 2017, I have decided to double down not only on Xcode but GUI application development as well. Project Euler will continue to be my weekly programming puzzle to solve, but I will first be reworking it to fit better into Xcode.</p>
+<p>In the past month, I have revamped my <a href="https://oberstkrueger.com/report/exercise-routine/">Exercise Routine</a>. The activities are largely the same, but I have moved away from certain exercises being done only on certain days. The scripts for calculating my exercise build-ups has also been updated to Python due to the simplicity of the used code.</p>
+<p>In March, GOG updated GOG Galaxy to include more typical gaming platform features: achievement tracking and playtime tracking. Since these are features that I do not wish to take part in, I explored if GOG allowed these features to be disabled. Thankfully, they are, and I have updated <a href="https://oberstkrueger.com/report/disabling-gaming-platforms-social-features/">Disabling Gaming Platforms' Social Features</a> with that information.</p>
+<p>I added a few more problems to <a href="https://oberstkrueger.com/report/project-euler-in-swift/">Project Euler In Swift</a>, but not as many as I would have liked. The past few months, I have been experimenting with the tools I use to program, and going through a philosophical debate between the lean Sublime Text and heavier Xcode. With the addition of a solid-state drive in my Mac Mini and all of the recent announcements at WWDC 2017, I have decided to double down not only on Xcode but GUI application development as well. Project Euler will continue to be my weekly programming puzzle to solve, but I will first be reworking it to fit better into Xcode.</p>
 ]]>
 </content>
 </entry>
@@ -3089,16 +3089,16 @@
 <entry>
 <title>Updates For May 14, 2017</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/20170514</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/20170514</id>
 <published>2017-05-14T08:45:00Z</published>
 <updated>2017-05-14T08:45:00Z</updated>
 <content type="html">
 <![CDATA[
 <h3>Iced Coffee</h3>
-<p>One of the first things I do every morning is start drinking a nice cool cup of coffee. It helps start my day quicker and jump right into the tasks that I have for the day. Over the last few years, I have worked on perfecting my <a href="https://krueger.report/iced-coffee">Iced Coffee</a> recipe, and have found an easy and consistent way to make it exactly to my liking.</p>
+<p>One of the first things I do every morning is start drinking a nice cool cup of coffee. It helps start my day quicker and jump right into the tasks that I have for the day. Over the last few years, I have worked on perfecting my <a href="https://oberstkrueger.com/report/iced-coffee">Iced Coffee</a> recipe, and have found an easy and consistent way to make it exactly to my liking.</p>
 <h3>Favorite Readings</h3>
 <ol>
 <li><a href="https://arstechnica.com/gadgets/2017/05/amazon-alexa-ads-voicelabs/">15-second ads coming to Amazon’s Alexa</a></li>
@@ -3145,16 +3145,16 @@
 <entry>
 <title>Updates For April 25, 2017</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/20170425</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/20170425</id>
 <published>2017-04-25T21:30:00Z</published>
 <updated>2017-04-25T21:30:00Z</updated>
 <content type="html">
 <![CDATA[
 <h3>Vitamin B12</h3>
-<p>In continuing my goal of understanding the ways I can become more healthy, I spent this past month researching <a href="https://krueger.report/vitamin-b12">Vitamin B<sub>12</sub></a>. This vitamin is important for vegetarians like myself to stay on top of, as it is easy to become deficient in it. </p>
+<p>In continuing my goal of understanding the ways I can become more healthy, I spent this past month researching <a href="https://oberstkrueger.com/report/vitamin-b12">Vitamin B<sub>12</sub></a>. This vitamin is important for vegetarians like myself to stay on top of, as it is easy to become deficient in it. </p>
 <h3>Favorite Readings</h3>
 <ol>
 <li><a href="http://www.theverge.com/2017/4/12/15265530/walt-mossberg-internet-plan-privacy-freedom">A plan to preserve the internet</a></li>
@@ -3176,8 +3176,8 @@
 </ol>
 
 <h3>Updates</h3>
-<p>I added a few more problems to <a href="https://krueger.report/project-euler-in-swift/">Project Euler In Swift</a>. Since completing these, I have experimented briefly with Python and Rust, and have started to plan out doing a comparison of all these languages using Project Euler. But getting a more in-depth grasp of Swift is important before doing so.</p>
-<p>AutoSleep 4.0 brought about a slight update to <a href="https://krueger.report/tracking-sleep/">Tracking Sleep</a>. Functionality remains the same, but the graphics of the app have been refreshed to provide for a nicer experience.</p>
+<p>I added a few more problems to <a href="https://oberstkrueger.com/report/project-euler-in-swift/">Project Euler In Swift</a>. Since completing these, I have experimented briefly with Python and Rust, and have started to plan out doing a comparison of all these languages using Project Euler. But getting a more in-depth grasp of Swift is important before doing so.</p>
+<p>AutoSleep 4.0 brought about a slight update to <a href="https://oberstkrueger.com/report/tracking-sleep/">Tracking Sleep</a>. Functionality remains the same, but the graphics of the app have been refreshed to provide for a nicer experience.</p>
 ]]>
 </content>
 </entry>
@@ -3185,10 +3185,10 @@
 <entry>
 <title>Updates For April 6, 2017</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/20170406</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/20170406</id>
 <published>2017-04-06T08:45:00Z</published>
 <updated>2017-04-06T08:45:00Z</updated>
 <content type="html">
@@ -3196,12 +3196,12 @@
 <h3>Project Euler In Swift</h3>
 <p>Since I am not a full-time professional programmer, a lot of the code work that I do is just for fun. A lot of this consists of small projects and solving challenges and puzzles that other people release.</p>
 <p>Project Euler is my main source of these types of puzzles. All of them are math problems of varying difficulty. As of right now, there are currently 585 problems to solve on there.</p>
-<p>My language of choice when it comes to non-web programming is constantly changing. I enjoy seeing what is available and playing around with the different paradigms. Since it's release, Swift is a language I keep coming back to. It hits all of the right marks for me, ones that a lot of other popular languages like Python do not. For that reason, I have decided to work through all of the problems in <a href="https://krueger.report/project-euler-in-swift">Project Euler In Swift</a>. One new problem a week is my current goal, which given that there are 585 problems, with more periodically being added, it will take me over 11 years to complete this exercise.</p>
+<p>My language of choice when it comes to non-web programming is constantly changing. I enjoy seeing what is available and playing around with the different paradigms. Since it's release, Swift is a language I keep coming back to. It hits all of the right marks for me, ones that a lot of other popular languages like Python do not. For that reason, I have decided to work through all of the problems in <a href="https://oberstkrueger.com/report/project-euler-in-swift">Project Euler In Swift</a>. One new problem a week is my current goal, which given that there are 585 problems, with more periodically being added, it will take me over 11 years to complete this exercise.</p>
 <h3>Updates</h3>
-<p><a href="https://krueger.report/about-the-author/">About The Author</a> was updated to include detailed information about all of my current computer systems. During this process, I did a basic benchmark of all of the systems using GeekBench 4. Seeing how all of my computing devices stack up on performance was interesting, particularly the part where my phone is now faster than my laptop.</p>
-<p><a href="https://krueger.report/software-tools">Software Tools</a> now displays the first selection of applications that I regularly use. Every application on there follows the principles I listed, when it is relevant.</p>
-<p>This month, <a href="https://krueger.report/games-i-have-played/">my game of choice</a> was the original System Shock. I missed out on this game when it first came out in 1994, and unfortunately, it is a hard game to go back and play. It is an old school game, particularly with regards to complexity. The interface is cluttered and controls are obtuse, even by the standards of the time. Still, it was an enlightening experience, particularly to see an earlier work of Warren Spector.</p>
-<p><a href="https://krueger.report/tools-used-to-create-this/">Tools Used To Make This</a> has been updated with more information about how this site functions automatically, as well as information about how I test the performance of the site.</p>
+<p><a href="https://oberstkrueger.com/report/about-the-author/">About The Author</a> was updated to include detailed information about all of my current computer systems. During this process, I did a basic benchmark of all of the systems using GeekBench 4. Seeing how all of my computing devices stack up on performance was interesting, particularly the part where my phone is now faster than my laptop.</p>
+<p><a href="https://oberstkrueger.com/report/software-tools">Software Tools</a> now displays the first selection of applications that I regularly use. Every application on there follows the principles I listed, when it is relevant.</p>
+<p>This month, <a href="https://oberstkrueger.com/report/games-i-have-played/">my game of choice</a> was the original System Shock. I missed out on this game when it first came out in 1994, and unfortunately, it is a hard game to go back and play. It is an old school game, particularly with regards to complexity. The interface is cluttered and controls are obtuse, even by the standards of the time. Still, it was an enlightening experience, particularly to see an earlier work of Warren Spector.</p>
+<p><a href="https://oberstkrueger.com/report/tools-used-to-create-this/">Tools Used To Make This</a> has been updated with more information about how this site functions automatically, as well as information about how I test the performance of the site.</p>
 ]]>
 </content>
 </entry>
@@ -3209,21 +3209,21 @@
 <entry>
 <title>Updates For March 18, 2017</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/20170318</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/20170318</id>
 <published>2017-03-18T19:45:00Z</published>
 <updated>2017-03-18T19:45:00Z</updated>
 <content type="html">
 <![CDATA[
 <h3>Exercise</h3>
 <p>In recent years, the amount of time I spend exercising has lessened. I would occasionally exercise, but it kept becoming more sporadic. Weight gain has been steady since I left college, and especially since we moved up here to Oregon.</p>
-<p>In an attempt to help alleviate these problems, I looked back at how I exercised in college and recreated a similar routine. I have been following this <a href="https://krueger.report/exercise-routine">exercise routine</a> for a few months now, and while I am still perfectin certain aspects of it, I have found it easy to keep up with and it is helping my weight and overall health.</p>
+<p>In an attempt to help alleviate these problems, I looked back at how I exercised in college and recreated a similar routine. I have been following this <a href="https://oberstkrueger.com/report/exercise-routine">exercise routine</a> for a few months now, and while I am still perfectin certain aspects of it, I have found it easy to keep up with and it is helping my weight and overall health.</p>
 <h3>Updates</h3>
-<p>AutoSleep is now the app I use for <a href="https://krueger.report/tracking-sleep">tracking my sleep</a>. There are a number of improvements that it has over Sleep++, with the main one being that I no longer have to manually enable it every night and disable it every morning. It just works™. </p>
-<p>6 months ago, I wrote my first steps to completely <a href="https://krueger.report/logging-off-facebook">logging off Facebook</a>. Since then, I have missed Facebook not in the slightest. The other night, I reopened my account just so I can go in and initiate the full deletion of the account. Before doing that, I looked around at the news feed and the walls of a few of my friends. My decision to cut back on social media has been solidified. Facebook has not changed in the 6 months since I stopped using it, and it probably never will. My life is better without it.</p>
-<p>I am at the end of building the list of <a href="https://krueger.report/games-i-have-played">Games I Have Played</a>. All major systems have their games entered and linked up to further information about the game. I know there are going to be random games here and there that I have not entered due to not remembering them. But as now, this is the most complete list of every game I have played. And it is much bigger than I anticipated.</p>
+<p>AutoSleep is now the app I use for <a href="https://oberstkrueger.com/report/tracking-sleep">tracking my sleep</a>. There are a number of improvements that it has over Sleep++, with the main one being that I no longer have to manually enable it every night and disable it every morning. It just works™. </p>
+<p>6 months ago, I wrote my first steps to completely <a href="https://oberstkrueger.com/report/logging-off-facebook">logging off Facebook</a>. Since then, I have missed Facebook not in the slightest. The other night, I reopened my account just so I can go in and initiate the full deletion of the account. Before doing that, I looked around at the news feed and the walls of a few of my friends. My decision to cut back on social media has been solidified. Facebook has not changed in the 6 months since I stopped using it, and it probably never will. My life is better without it.</p>
+<p>I am at the end of building the list of <a href="https://oberstkrueger.com/report/games-i-have-played">Games I Have Played</a>. All major systems have their games entered and linked up to further information about the game. I know there are going to be random games here and there that I have not entered due to not remembering them. But as now, this is the most complete list of every game I have played. And it is much bigger than I anticipated.</p>
 <p>And finally, this month's new game was <a href="https://en.wikipedia.org/wiki/Grim_Fandango#Remastered_version">Grim Fandango Remastered</a>. Overall, it was an enjoyable game, and a fun revisit to one of my favorite adventure games of all time. But as much as I enjoyed playing through it, adventure games of this style do not hold me the way that they used to. I love everything about this game, except for the gameplay. Too bad it's not a movie, or a TV miniseries, or something else along those lines.</p>
 ]]>
 </content>
@@ -3232,10 +3232,10 @@
 <entry>
 <title>Updates For February 27, 2017</title>
 <author>
-<name>Krueger</name>
+<name>OberstKrueger</name>
 </author>
-<link href="https://krueger.report/updates" />
-<id>https://krueger.report/updates/20170227</id>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/20170227</id>
 <published>2017-02-27T17:00:00Z</published>
 <updated>2017-02-27T17:00:00Z</updated>
 <content type="html">
@@ -3248,9 +3248,9 @@
 <h3>Software Tools</h3>
 <p>Anyone who knows me knows that I am incredibly picky about what software I use. I will painstakingly research as many possibilities as I can for any application type that I use.</p>
 <p>There has always been a set of criteria that I follow, but I wanted to write down exactly what they were, instead of just leaving it a bit nebulous in my head. The last few months, I made notes about my thinking as I evaluated new applications. When reviewing these notes, I found that they were all related to five specific criteria.</p>
-<p>In <a href="https://krueger.report/software-tools">Software Tools</a>, I wrote up what these five criteria are. In the future, this will also be where I delve into specific examples of applications that I currently use, and how they make use of all of the rules set forth.</p>
+<p>In <a href="https://oberstkrueger.com/report/software-tools">Software Tools</a>, I wrote up what these five criteria are. In the future, this will also be where I delve into specific examples of applications that I currently use, and how they make use of all of the rules set forth.</p>
 <h3>Updates</h3>
-<p><a href="https://krueger.report/games-i-have-played/">Games I Have Played</a> saw the biggest change this month. I began to add console systems and mobile games to the list, as well as breaking out the list into different sections based on the platform the game was played on. This page is time consuming, as I have played a lot of games in my life, but it is one of my favorite to go back and research, just to remember again the many games I have played but since forgotten. There is a lot of work to do yet on this list, but it is shaping up to being closer to where I want it to be.</p>
+<p><a href="https://oberstkrueger.com/report/games-i-have-played/">Games I Have Played</a> saw the biggest change this month. I began to add console systems and mobile games to the list, as well as breaking out the list into different sections based on the platform the game was played on. This page is time consuming, as I have played a lot of games in my life, but it is one of my favorite to go back and research, just to remember again the many games I have played but since forgotten. There is a lot of work to do yet on this list, but it is shaping up to being closer to where I want it to be.</p>
 ]]>
 </content>
 </entry>
