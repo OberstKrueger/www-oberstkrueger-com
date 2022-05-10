@@ -2,12 +2,12 @@
 created: 2018-12-02T17:50:00Z
 title: Mini Game Reviews
 type: page
-updated: 2022-04-18T09:55:00Z
+updated: 2022-05-10T09:00:00Z
 ---
 
 ## Astro's Playroom
 
-<img src='astros-playroom.jpg' alt='Screenshot of Astros Playroom'>
+<img src='astros-playroom.webp' alt='Screenshot of Astros Playroom'>
 
 Astro's Playroom is a love letter to PlayStation history. The premise of the game is being a platformer where you collect artifacts of Sony's past, from all of the PlayStation consoles to accessories that featured both a global release or limited to just a few countries. It is an exhaustive look at everything PlayStation.
 
@@ -17,7 +17,7 @@ There is not much else to say on Astro's Playroom. Being a short easy game that 
 
 ## Beautiful Desolation
 
-<img src='beautiful-desolation.jpg' alt='Screenshot of Beautiful Desolation'>
+<img src='beautiful-desolation.webp' alt='Screenshot of Beautiful Desolation'>
 
 Some of the earliest games that I played while growing up was the graphical adventure game series King's Quest. These games are top-down games where you control a single character as they adventure through the world, solving puzzles and advancing the story. King's Quest V and VI in particular were games that I played through multiple times, and greatly enjoyed back then for the challenge and wonderful stories they told. As time went on, these types of games became less popular, and my own habits moved on to other genres that had many of the same elements while still providing a completely different experience.
 
@@ -27,7 +27,7 @@ The one element of the game that I do enjoy is the music. In fact, Beautiful Des
 
 ## Black Mesa
 
-<img src='black-mesa.jpg' alt='Screenshot of Black Mesa'>
+<img src='black-mesa.webp' alt='Screenshot of Black Mesa'>
 
 Black Mesa is a game that I waited 15 years for. When it was announced in 2005, I was excited to play it, due to Half-Life being one of my favorite first-person shooters. As time went on, it seemed like the game would never be released. When Crowbar Collective released a version of the game up to but not including the last act of the game (when you explore the planet Xen), I decided to wait until the final version. I wanted to experience the game whole, and not wait years more to finish it.
 
@@ -41,7 +41,7 @@ Overall, Black Mesa is a prime example of how to do a remake properly. It is so 
 
 ## Bloodborne
 
-<img src='bloodborne.jpg' alt='Screenshot of Bloodborne'>
+<img src='bloodborne.webp' alt='Screenshot of Bloodborne'>
 
 For too long, I have stayed away from the Souls-like genre. I had a passing familiarity with Demon's Souls when it came out in 2009. It was hard to avoid the discussion around Dark Souls after its release, and despite giving it a try back in 2013, it was as game that I did not get far in. Dark Souls 3 also failed to hook me when I tried it in 2018, although I only gave it a 15 minute shot before putting it down. But 2021 was the year where it all changed.
 
@@ -55,7 +55,7 @@ Bloodborne was a great jumping in for the Souls-like games. It has kindled an ob
 
 ## Counter-Strike: Global Offensive
 
-<img src='counter-strike-global-offensive.jpg' alt='Screenshot of Counter-Strike: Global Offensive'>
+<img src='counter-strike-global-offensive.webp' alt='Screenshot of Counter-Strike: Global Offensive'>
 
 The first beta of the original Counter-Strike was released back in 1999. I did not play this first version, instead hopping in a few betas later. The original Counter-Strike is a great game, and was a core game that I played throughout most of high school years and into college.
 
@@ -67,7 +67,7 @@ Counter-Strike is a game that I still enjoy, although I am nowhere near as good 
 
 ## Cyberpunk 2077
 
-<img src='cyberpunk-2077.jpg' alt='Screenshot of Cyberpunk 2077'>
+<img src='cyberpunk-2077.webp' alt='Screenshot of Cyberpunk 2077'>
 
 There has been a lot of things said about Cyberpunk 2077 since its release. The reviews written at the time of release are still relevant, as the game still has many bugs, the gameplay mechanics are unbalanced, and the story feels either incomplete or only partially implemented. I won't relitigate these specific criticisms, as it has been done better elsewhere.
 
@@ -79,7 +79,7 @@ Since release, employees of CD Projekt Red have confirmed that development on th
 
 ## Dark Souls
 
-<img src='dark-souls.jpg' alt='Screenshot of Dark Souls'>
+<img src='dark-souls.webp' alt='Screenshot of Dark Souls'>
 
 After playing Bloodborne, the completionist in me wanted to play the rest of the Soulsborne games in as close to order of release as possible. I went into the game knowing it would be a step back in many ways, but I did not expect how much of a mixed bag it would be overall.
 
@@ -91,7 +91,7 @@ Overall, Dark Souls was disappointing. It's the first game in a long time where 
 
 ## Dark Souls II
 
-<img src='dark-souls-ii.jpg' alt='Screenshot of Dark Souls II'>
+<img src='dark-souls-ii.webp' alt='Screenshot of Dark Souls II'>
 
 Due to its reputation, Dark Souls II is the last of the Souls games that I decided to play. The reputation of the game is of being the worst game in the series, something divisive due to how far it strayed from the setup of the rest of the games. Hearing all of this made me hesitant to try it. But when I am glad that I decided to give the game a go, as to me, it almost meets the greatness of Dark Souls III.
 
@@ -105,7 +105,7 @@ Dark Souls II was quite a wonderful surprise after hearing all of negativity sur
 
 ## Dark Souls III
 
-<img src='dark-souls-iii.jpg' alt='Screenshot of Dark Souls III'>
+<img src='dark-souls-iii.webp' alt='Screenshot of Dark Souls III'>
 
 The old saying goes "third time is the charm", and this is true both for the Dark Souls series and Soulsborne games for me. Dark Souls III is the third game I played, after initially skipping Dark Souls II, but it is my favorite of the Soulsborne genre up to this point.
 
@@ -117,7 +117,7 @@ Most games that I play are one and done. Dark Souls III is the first game in a l
 
 ## Dear Esther
 
-<img src='dear-esther.jpg' alt='Screenshot of Dear Esther'>
+<img src='dear-esther.webp' alt='Screenshot of Dear Esther'>
 
 Dear Esther is one of the first "walking simulators", and still one of the best. Everything about it is beautifully done, with a wonderful art design, somber haunting music, and a perfect narrator throughout. The underground caves that appear midway through the game are an especially memorable section of the game, with a wonderful dance between the music and the visuals creating an experience unlike most games.
 
@@ -125,7 +125,7 @@ For those who do not like ambiguous artsy stories, Dear Esther might be found la
 
 ## Death Stranding
 
-<img src='death-stranding.jpg' alt='Screenshot of Death Stranding'>
+<img src='death-stranding.webp' alt='Screenshot of Death Stranding'>
 
 Due to the success of The Elder Scrolls V: Skyrim, the 2010s saw a glut of open world games. Old series transitioned to the Skyrim formula, and new ones were created to try and be the next Skyrim. Most of these games miss the mark though, not understanding what an open world game should be. Thankfully, Kojima Productions did understand what makes a great open world game, and created Death Stranding as a result.
 
@@ -139,7 +139,7 @@ Despite these couple of issues, the game is phenomenal. It is one of the best op
 
 ## Deathloop
 
-<img src='deathloop.jpg' alt='Screenshot of Deathloop'>
+<img src='deathloop.webp' alt='Screenshot of Deathloop'>
 
 My love for immersive sims began in 2000 with the release of the demo for Deus
 Ex. In the years since its release, Arkane Studios has come out as the modern
@@ -157,7 +157,7 @@ Unlike other Arkane games, the pre-determined story takes the reins for how the 
 
 ## Demon's Souls (2020)
 
-<img src='demons-souls.jpg' alt="Screenshot of Demon's Souls">
+<img src='demons-souls.webp' alt="Screenshot of Demon's Souls">
 
 The PlayStation 5 remake of Demon's Souls is the fourth Soulsborne game on my adventure through FromSoftware's catalog. The original PlayStation 3 game completely passed under my radar back in 2009. In retrospect, I don't think I would have enjoyed it as much back then, as my gaming priorities were very different. But due to the original being on a console I don't play anymore and the original multiplayer servers being shut down, I am glad that this PlayStation 5 version exists.
 
@@ -183,7 +183,7 @@ Diablo is a classic game that has aged well due to the simplicity of the core ga
 
 ## Diablo 2
 
-<img src='diablo-2.jpg' alt='Screenshot of Diablo 2'>
+<img src='diablo-2.webp' alt='Screenshot of Diablo 2'>
 
 Diablo 2 was released during the time where my gaming tastes were going through the large change of being focused on first-person shooters and strategy games and moving towards online RPGs. Asheron's Call, Diablo 2, EverQuest, and the modding scene for Warcraft III changed what I consider my primary gaming focus, smething that has remained to this day. One game sticks out from that group in that more than 20 years after its initial release in that I still regullarly go back and play through the game. That game is Diablo 2.
 
@@ -197,7 +197,7 @@ For 20 years, I played through Diablo 2 at least once every year. With the relea
 
 ## Diablo III
 
-<img src='diablo-3.jpg' alt='Screenshot of Diablo 3'>
+<img src='diablo-3.webp' alt='Screenshot of Diablo 3'>
 
 Diablo 2 is the quintessential action RPG. Many other games are modeled after what Diablo 2 did well. Of Blizzard's catalog of games, Diablo 2 is the one that I think holds up the best and has few weak points to it. So naturally, Blizzard approached creating a sequel to the game by changing the gameplay, music, and visual style that Diablo 2 had perfected.
 
@@ -207,7 +207,7 @@ Despite improvements and new content that Blizzard has added to the game since l
 
 ## Doom (2016)
 
-<img src='doom-2016.jpg' alt='Screenshot of Doom (2016)'>
+<img src='doom-2016.webp' alt='Screenshot of Doom (2016)'>
 
 Very few games surprise me to the extent that this reboot of Doom has. The last id Software game that I would consider great all the way through was Quake III Arena, and that was released in 1999. Doom 3 was a decent shooter, although such a departure from the original series that it felt like another series, and Rage had great technology and good action, but average everything else. Doom's development history did not help with expectations, as it had been in development since 2007 and had gone through a few reboots before release.
 
@@ -219,7 +219,7 @@ This game is one of the finest first-person shooters I've played in a long time.
 
 ## Doom Eternal
 
-<img src='doom-eternal.jpg' alt='Screenshot of Doom Eternal'>
+<img src='doom-eternal.webp' alt='Screenshot of Doom Eternal'>
 
 Doom Eternal is a game where I have two opinions of it. The first is grading it as a general first-person shooter, in which case it plays well. The combat is fast-paced and tight, the controls are responsive, and there is a lot to do from level to level that it makes for a fun ride. But my second opinion is that it is not a good Doom game, as it deviates from most things that made the previous games so timeless.
 
@@ -231,7 +231,7 @@ At least Mick Gordon's soundtrack for this game is just as good as the previous 
 
 ## Edge of Eternity
 
-<img src='edge-of-eternity.jpg' alt='Screenshot of Edge of Eternity'>
+<img src='edge-of-eternity.webp' alt='Screenshot of Edge of Eternity'>
 
 Tactical roleplaying games are an underplayed genre for me. Edge of Eternity is the first one I have played in many decades.
 
@@ -244,7 +244,7 @@ Edge of Eternity is not a bad game, but it is not a great game either. The artis
 
 ## Florence
 
-<img src='florence.jpg' alt='Screenshot of Florence'>
+<img src='florence.webp' alt='Screenshot of Florence'>
 
 Florence is a very different game from most of what else is written on this page. It is a game with little gameplay, instead being focused on the story. It can be completed in about half an hour, with little reason to replay it. Even the story is about a normal relationship that many people will have experienced in their own lives. No epic tale, no huge moral to the story.
 
@@ -254,7 +254,7 @@ Beyond that, there is not much to say about the game. A short review for a short
 
 ## God of War (2018)
 
-<img src='god-of-war.jpg' alt='Screenshot of God of War'>
+<img src='god-of-war.webp' alt='Screenshot of God of War'>
 
 The 2018 entry into the God of War series, simply titled God of War, is the 8th game in the seris, and the first one that I have played through entirely. The previous entries in the series are a style of action game that I am not fond of, with the blatant sexism present in the games making the decision to pass on them an easy decision. After a few friends recommended this newest entry and said that it fixed a lot of the problems of the previous games, I picked it up and started playing.
 
@@ -268,7 +268,7 @@ Despite the issues with the game, I enjoyed my time with it. Even when the gamep
 
 ## Gris
 
-<img src='gris.jpg' alt='Screenshot of Gris'>
+<img src='gris.webp' alt='Screenshot of Gris'>
 
 When I was playing through Gris, I was reminded of my first playthrough of Journey. The sense of wonder that the world had combined with the emotional experience of the game to create an unforgettable experience. The game's theme is presented in an abstract manner, but my take on it is dealing with the loss of a loved one. As the main character progresses through the game, she explores the depths of her own depression. Hints of this are seen in the game's achievements, which are named after various stages of grief.
 
@@ -278,7 +278,7 @@ The gameplay of Gris is satisfying, albeit not the highlight of the game. The pl
 
 ## Half-Life: Alyx
 
-<img src='half-life-alyx.jpg' alt='Compilation of Half-Life: Alyx screenshots'>
+<img src='half-life-alyx.webp' alt='Compilation of Half-Life: Alyx screenshots'>
 
 This game breaks the 13 years of waiting since the last Half-Life game, and 9 years since the last game to take place in the same universe with Portal 2. The summation of the game is that the wait was worth it. Half-Life: Alyx is a phenomenal game, one any Half-Life fan should play.
 
@@ -292,7 +292,7 @@ This game is a landmark game. Every aspect of it was great, and particular eleme
 
 ## Heroes of the Storm
 
-<img src='heroes-of-the-storm.jpg' alt='Screenshot of Heroes of the Storm'>
+<img src='heroes-of-the-storm.webp' alt='Screenshot of Heroes of the Storm'>
 
 The MOBA genre is one that I have always liked more in theory than in practice. The original Defense of the Ancients was a regular entry on my list of custom Warcraft 3 maps, and Heroes of Newerth was a favorite at some old-school LAN parties I went to, but the genre has a number of gameplay mechanics that I find more tedious than fun. Last-hitting is the worst of these, but also the concept of carry characters that require protection early in the game to turn around and act as uber strong destroyers late in the game.
 
@@ -306,7 +306,7 @@ Out of all of the MOBA games available, Heroes of the Storm resonated with me th
 
 ## Journey
 
-<img src='journey.jpg' alt='Screenshot of Journey'>
+<img src='journey.webp' alt='Screenshot of Journey'>
 
 I originally played this game back in 2012, when it launched near the end of the PlayStation 3's life. What made the game unique at the time was how the player was paired up with another random player. The only communication between the two players were through songs that you could sing using the controller. The identity of your partner(s) were not revealed until after the game was complete.
 
@@ -320,7 +320,7 @@ This difference has solidified my decision to not play through Journey again, de
 
 ## Kentucky Route Zero
 
-<img src='kentucky-route-zero.jpg' alt='Screenshot of Kentucky Route Zero'>
+<img src='kentucky-route-zero.webp' alt='Screenshot of Kentucky Route Zero'>
 
 Kentucky Route Zero is an adventure game that follows the last journey of Conway, a delivery truck driver who has been tasked with the final delivery for the shop Lysette's Antiques. His journey to 5 Dogwood Drive to make his final delivery takes him on a journey first through Kentucky and then Route Zero, a surreal highway that bends space and time. Along the way, he meets many people who become his companions on his journey.
 
@@ -332,7 +332,7 @@ My journey along Route Zero was extraordinary, and one of the best adventure gam
 
 ## Quake Champions
 
-<img src='quake-champions.jpg' alt='Screenshot of Quake Champions'>
+<img src='quake-champions.webp' alt='Screenshot of Quake Champions'>
 
 The Quake series has always been one of my favorite series of games. Quake 1 and 2 are masterful singleplayer experiences, and Quake 3: Arena is the first PC game that I upgraded my graphics card for. With this background, I was looking forward to playing Quake Champions, despite some reticence over the decision for heroes to have timed special abilities.
 
@@ -344,7 +344,7 @@ Unseating Quake 3: Arena as the king of arena shooters is a difficult task, and 
 
 ## Resident Evil 2 (2019)
 
-<img src='resident-evil-2-2019.jpg' alt='Screenshot of Resident Evil 2 (2019)'>
+<img src='resident-evil-2-2019.webp' alt='Screenshot of Resident Evil 2 (2019)'>
 
 Up until this game, the Resident Evil series is one that I have not given a serious try. I briefly played the original Resident Evil 2 back in high school, but I did not get very far with. The remake was not on my radar until I tried the demo due to the rave reviews it was receiving. I was hooked instantly. Since I do not have much experience with the original game, I can only judge it based on what I am experiencing as a new player.
 
@@ -356,7 +356,7 @@ The best part about this remake is that a lot of care was given to every detail 
 
 ## StarCraft & StarCraft: Brood War
 
-<img src='starcraft.jpg' alt='Screenshot of StarCraft'>
+<img src='starcraft.webp' alt='Screenshot of StarCraft'>
 
 StarCraft is a difficult game to talk about while completely ignoring its legacy. This is the game that showed that e-sports can be successful, that competitions and tournaments can have hundreds of thousands of people watching. But my relationship with the game exists outside of this area, as it is a game that I only played singleplayer or with my closest friends.
 
@@ -368,7 +368,7 @@ Going back to this game after so many years has been difficult. The lack of cust
 
 ## StarCraft II
 
-<img src='starcraft-ii.jpg' alt='Screenshot of StarCraft II'>
+<img src='starcraft-ii.webp' alt='Screenshot of StarCraft II'>
 
 Strategy and tactical games have remained a genre of games that I have long wished I was more dedicated to. Despite having many friends who played Command and Conquer, my first real introduction to the genre was Age of Empires. I played through a few other strategy games over the years, but it always fell out of favor quickly. It was not until StarCraft II was released that I found a strategy game that I both loved and felt like I could play well.
 
@@ -382,7 +382,7 @@ Despite this announcement, StarCraft II is a game that I can wholeheartedly reco
 
 ## Subnautica
 
-<img src='subnautica.jpg' alt='Screenshot of Subnautica'>
+<img src='subnautica.webp' alt='Screenshot of Subnautica'>
 
 This is a game that surpassed my expectations in every way possible. Before Subnautica, the closest thing to a survival game that I played was Metal Gear Solid 3, which was more stealth-action with some light survival elements. The idea of having to "waste time" gathering resources to eat and heal took away from the action, which was more to my liking. The main reason I decided to give Subnautica a chance at all was due to Unknown Worlds Entertainment creating it. They created Natural Selection, one of my all-time favorite online games, so knowing the quality they are capable of pushed me to purchase the game and give it a shot.
 
@@ -394,7 +394,7 @@ Unknown Worlds Entertainment created an amazing experience in this game. By the 
 
 ## Subnautica: Below Zero
 
-<img src='subnautica-below-zero.jpg' alt='Screenshot of Subnautica: Below Zero'>
+<img src='subnautica-below-zero.webp' alt='Screenshot of Subnautica: Below Zero'>
 
 As the sequel to one of the few survival games to click with me, Subnautica: Below Zero was instantly on my radar since the first announcement. Unknown Worlds is a developer that I trust to purchase everything from, as every work of theirs has been something that I enjoyed. The original Subnautica had a long Steam Early Access period that I missed out on, so I decided to jump in as soon as I could, making this game the first one that I played for an extended beta.
 
@@ -406,7 +406,7 @@ Despite being a relatively short game, my journey with Subnautica: Below Zero wa
 
 ## Super Mario Odyssey
 
-<img src='super-mario-odyssey.jpg' alt='Screenshot of Super Mario Odyssey'>
+<img src='super-mario-odyssey.webp' alt='Screenshot of Super Mario Odyssey'>
 
 2017 was the year Nintendo transitioned their two biggest series into a more open world format. The Legend of Zelda: Breath of the Wild took the world by storm, whereas Super Mario Odyssey, has been less influential. While the game has been critically acclaimed, Super Mario Odyssey is a game that does not take advantage of its open world design as well as games that came before it,
 
@@ -420,7 +420,7 @@ All of these criticisms of the the game lead it to being my least favorite game 
 
 ## Tyranny
 
-<img src='tyranny.jpg' alt='Screenshot of Tyranny'>
+<img src='tyranny.webp' alt='Screenshot of Tyranny'>
 
 Tyranny concludes a trilogy of CRPGs that for me started with the Pillar's of Eternity duet and continued through Torment: Tides of Numenera. I am glad to have played the game, but have come to the conclusion that I am ready to be done with this breed of CRPG for a while.
 
@@ -434,7 +434,7 @@ Tyranny feels like a budget Obsidian title. It has all the hallmarks of a great 
 
 ## Unreal
 
-<img src='unreal.jpg' alt='Screenshot of Unreal'>
+<img src='unreal.webp' alt='Screenshot of Unreal'>
 
 There are three first-person shooters from the 1990s that I consider essential: Doom, Half-Life, and Unreal. All three influenced the genre in ways, while each being their own unique game.
 
@@ -448,7 +448,7 @@ Doom and Half-Life get a lot of the glory for 1990s first-person shooters, but U
 
 ## What Remains of Edith Finch
 
-<img src='what-remains-of-edith-finch.jpg' alt='Screenshot of What Remains of Edith Finch'>
+<img src='what-remains-of-edith-finch.webp' alt='Screenshot of What Remains of Edith Finch'>
 
 What Remains of Edith Finch is the best narrative walking simulator that I have played.
 
@@ -460,7 +460,7 @@ Like most games in this genre, it is short. The whole game can be experienced in
 
 ## Wolfenstein: Youngblood
 
-<img src='wolfenstein-youngblood.jpg' alt='Screenshot of Wolfenstein: Youngblood'>
+<img src='wolfenstein-youngblood.webp' alt='Screenshot of Wolfenstein: Youngblood'>
 
 The Wolfenstein series of games have been very successful, with some of the latest entries being quite well regarded. Despite this, my time with the series has been minimal outside of playing Wolfenstein 3D back in the 1990s. Wolfenstein: Youngblood caught my eye due to being an FPS with RPG elements, two genres that go very well together. Unfortunately, the game did not live up to any expectations I had.
 
@@ -472,7 +472,7 @@ The final nail in the coffin for the game is the narrative. The overall story is
 
 ## The 7th Guest
 
-<img src='the-7th-guest.jpg' alt='Screenshot of The 7th Guest'>
+<img src='the-7th-guest.webp' alt='Screenshot of The 7th Guest'>
 
 The 7th Guest was a technological marvel for its time. All of the games that I
 had played previously were simpler 2D sprites or basic 3D polygons with no
@@ -504,7 +504,7 @@ Halloweens for a quick jaunt into the creepy halls of Stauf's mansion.
 
 ## The 11th Hour
 
-<img src='the-11th-hour.jpg' alt='Screenshot of The 11th Hour'>
+<img src='the-11th-hour.webp' alt='Screenshot of The 11th Hour'>
 
 As the sequel to The 7th Guest, The 11th Hour has a lot to live up to. Unfortunately, it did a poor job of living up to its predecessor.
 
@@ -518,7 +518,7 @@ I’m glad I finally played it through to the end. It’s not a horrible game, b
 
 ## The 13th Doll
 
-<img src='the-13th-doll.jpg' alt='Screenshot of The 13th Doll'>
+<img src='the-13th-doll.webp' alt='Screenshot of The 13th Doll'>
 
 This game was an absolute delight. As a huge fan of The 7th Guest since it was brand new, I was wary going into this, expecting it to very much feel like a fan project that was a let-down compared to what came before it. But what I found was a game that kept all of the elements that worked well in the original, polished the ones that didn't, and then took better versions of the new elements from The 11th Hour. All around, it feels like the sequel that The 11th Hour should have been from the beginning.
 

@@ -2,7 +2,7 @@
 created: 2017-02-08T07:00:00Z
 title: Asheron's Call
 type: page
-updated: 2022-04-18T09:55:00Z
+updated: 2022-05-10T09:00:00Z
 ---
 
 In the 1990s, [MMORPGs](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game) were a new category of gaming. A few early MMORPGs, such as [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights_(1991_video_game)) and [Meridian 59](https://en.wikipedia.org/wiki/Meridian_59) were successful but still niche. With the release of [Asheron's Call](https://en.wikipedia.org/wiki/Asheron%27s_Call), [EverQuest](https://en.wikipedia.org/wiki/EverQuest), and [Ultima Online](https://en.wikipedia.org/wiki/Ultima_Online), the genre entered the mainstream. Together, these three games were commonly referred to as the "Big Three", and helped introduce the genre to the world.
@@ -35,7 +35,7 @@ Unfortunately, this system was done away with in later years. The spell economy 
 
 ## A Seamless World
 
-<img src='dereth.jpg' alt='Map of Dereth'>
+<img src='dereth.webp' alt='Map of Dereth'>
 
 One of the first things that you notice when you first arrive in the world of Dereth is how far you can see. This is not unique in today's games, but back in 1999, it was an amazing sight to see. Mountains in the distance were visible. From high vantage points, you could follow the path of a river as it winded in between hills. In EverQuest, every area was surrounded by a range of hills that you could not climb over. This allowed the game to be broken up into smaller zones that were easier for computer systems to handle. Asheron's Call did away with this, showing off a more realistic geography than had been done before.
 

@@ -2,7 +2,7 @@
 created: 2016-06-22T07:45:00Z
 title: Disabling Gaming Platforms’ Social Features
 type: page
-updated: 2022-04-18T09:55:00Z
+updated: 2022-05-10T09:00:00Z
 ---
 
 Most modern game platforms include a number of forced social features. They can be difficult to hide, and some platforms do not allow you to disable them at all.
@@ -17,7 +17,7 @@ The only games that do not require the Desktop app are Blizzard's repetoire of c
 
 The key problem with the Blizzard Desktop App is that it does not allow you to disable any of the social features. When logged in, there are three options available for the friends list: Online, Away, and Busy. All of these options will have you show up one way or another to everyone on your friends list. The only way to not show up as online in some form is to log out or close the application.
 
-<img src='blizzard.jpg' alt='Blizzard Launcher'>
+<img src='blizzard.webp' alt='Blizzard Launcher'>
 
 It is possible to not have the Blizzard Desktop App running while playing some of the games, but there is no practical purpose to doing so. The game itself will log you into the same social features as the Desktop App, and the Desktop App is still required to update the games.
 
