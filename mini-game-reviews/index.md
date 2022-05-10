@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50:00Z
 title: Mini Game Reviews
 type: page
-updated: 2022-05-10T09:00:00Z
+updated: 2022-05-10T09:05:00Z
 ---
 
 ## Astro's Playroom
@@ -231,7 +231,7 @@ At least Mick Gordon's soundtrack for this game is just as good as the previous 
 
 ## Edge of Eternity
 
-<img src='edge-of-eternity.webp' alt='Screenshot of Edge of Eternity'>
+<img src='edge-of-eternity.jpg' alt='Screenshot of Edge of Eternity'>
 
 Tactical roleplaying games are an underplayed genre for me. Edge of Eternity is the first one I have played in many decades.
 
@@ -406,7 +406,7 @@ Despite being a relatively short game, my journey with Subnautica: Below Zero wa
 
 ## Super Mario Odyssey
 
-<img src='super-mario-odyssey.webp' alt='Screenshot of Super Mario Odyssey'>
+<img src='super-mario-odyssey.jpg' alt='Screenshot of Super Mario Odyssey'>
 
 2017 was the year Nintendo transitioned their two biggest series into a more open world format. The Legend of Zelda: Breath of the Wild took the world by storm, whereas Super Mario Odyssey, has been less influential. While the game has been critically acclaimed, Super Mario Odyssey is a game that does not take advantage of its open world design as well as games that came before it,
 
