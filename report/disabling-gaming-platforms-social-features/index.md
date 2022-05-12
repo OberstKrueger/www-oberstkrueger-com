@@ -2,7 +2,7 @@
 created: 2016-06-22T07:45:00Z
 title: Disabling Gaming Platforms’ Social Features
 type: page
-updated: 2022-05-10T09:00:00Z
+updated: 2022-05-12T08:20:00Z
 ---
 
 Most modern game platforms include a number of forced social features. They can be difficult to hide, and some platforms do not allow you to disable them at all.
@@ -17,7 +17,7 @@ The only games that do not require the Desktop app are Blizzard's repetoire of c
 
 The key problem with the Blizzard Desktop App is that it does not allow you to disable any of the social features. When logged in, there are three options available for the friends list: Online, Away, and Busy. All of these options will have you show up one way or another to everyone on your friends list. The only way to not show up as online in some form is to log out or close the application.
 
-<img src='blizzard.webp' alt='Blizzard Launcher'>
+<img src='blizzard.webp' alt='Blizzard Launcher' loading='lazy'>
 
 It is possible to not have the Blizzard Desktop App running while playing some of the games, but there is no practical purpose to doing so. The game itself will log you into the same social features as the Desktop App, and the Desktop App is still required to update the games.
 
@@ -39,7 +39,7 @@ The only feature that can not be fully disabled is the friends list. If you wish
 
 For those who do not wish to disable every feature, GOG offers granular control over every option. Certain features can be left on, and all notifications by GOG Galaxy allow you to be notified by a desktop pop-up, a sound, or both. 
 
-<img src='gog.png' alt='GOG launcher'>
+<img src='gog.png' alt='GOG launcher' loading='lazy'>
 
 ## Steam
 
@@ -47,11 +47,11 @@ For those who do not wish to disable every feature, GOG offers granular control 
 
 The first is to disable the setting for the in-game Steam Overlay. This prevents any notifications from appearing in-game. The side effect of this is the Steam browser is no longer accessible. I rarely used the browser, and alt-tab still works, so this was a non-issue for me. This is required to turn off achievement notifications, as Steam does not allow you to disable just those notifications.
 
-<img src='steam-ingame.png' alt='Steam in-game overlay'>
+<img src='steam-ingame.png' alt='Steam in-game overlay' loading='lazy'>
 
 The second setting is to either log out of Steam Friends, or set it so that it does not log you in at all. Since I have little to no communication with people through this list, keeping it turned off provides no downsides.
 
-<img src='steam-friends.png' alt='Steam friends'>
+<img src='steam-friends.png' alt='Steam friends' loading='lazy'>
 
 Achievement tracking as a whole can not be disabled. While they can not be seen in-game with the Steam overlay off, they will still display in your profile and on your library screen. It is possible to make your player profile hidden from everyone, including friends, but this can break functionality of outside services, such as [GOG Connect](https://www.gog.com/connect).
 
@@ -61,6 +61,6 @@ Achievement tracking as a whole can not be disabled. While they can not be seen 
 
 The most important of these features is making minimizing messaging. From the main profile screen, there is a button titled "Appear Offline". Clicking this will do exactly as it says: you will appear offline to those on your friends list while still remaining logged into Xbox Live. Additionally, there are settings in the application for fine-grained control over what notifications will be displayed. Different types of notifications can be disabled or enabled at will.
 
-<img src='xbox.png' alt='Xbox Windows 10 application'>
+<img src='xbox.png' alt='Xbox Windows 10 application' loading='lazy'>
 
 Achievement tracking can not be disabled entirely, but this rarely seems to be an issue on a PC. Most games that Xbox Live recognizes do not include achievements, even cross-platform games that are also available on Xbox Live.
