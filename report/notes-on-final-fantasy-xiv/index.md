@@ -2,8 +2,12 @@
 created: 2017-07-24T17:00:00Z
 title: Notes On Final Fantasy XIV
 type: page
-updated: 2020-12-05T11:15:00Z
+updated: 2022-05-12T08:25:00Z
 ---
+
+The following are the notes I used for completing trials and raids in Final Fantasy XIV. The strategies are from the perspective of a tank, which is what I played as for the majority of my time within the game. The notes include most of the trials and raids for the game up through the Shadowbringers expansion.
+
+My time with Final Fantasy XIV concluded upon completing the Endwalker expansion, so no further notes will be added.
 
 ## Trials - A Realm Reborn
 
