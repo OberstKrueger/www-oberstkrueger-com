@@ -91,7 +91,7 @@ em {
 
 footer {
     border-top: 0.0625rem solid -var(-colorFG);
-    margin: 0 auto;
+    margin: 0 auto calc(var(--lineHeight) * 1rem);
     max-width: var(--textLongest);
     text-align: center;
     width: 90%;
