@@ -2,7 +2,7 @@
 created: 2016-11-05T13:00:00Z
 title: The Krueger Report
 type: index
-updated: 2022-04-22T09:55:00Z
+updated: 2022-05-14T10:10:00Z
 ---
 
 ## Introduction
@@ -67,3 +67,4 @@ updated: 2022-04-22T09:55:00Z
 - [Games I Have Played](/report/games-i-have-played)
 - [Movies I Have Watched](/report/movies-i-have-watched)
 - [Podcasts I Have Listened To](/report/podcasts-i-have-listened-to)
+- [Top Tens](/report/top-tens)
