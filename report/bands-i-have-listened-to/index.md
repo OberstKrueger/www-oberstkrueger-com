@@ -2,7 +2,7 @@
 created: 2019-05-16T15:35:00Z
 title: Bands I Have Listened To
 type: page
-updated: 2022-05-09T09:40:00Z
+updated: 2022-05-18T08:50:00Z
 ---
 
 - 311
@@ -204,6 +204,7 @@ updated: 2022-05-09T09:40:00Z
 - Kill Hannah
 - Killswitch Engage
 - Kingfisher Sky
+- Kirk Hammett
 - Kiske/Somerville
 - Kittie
 - KMFDM
