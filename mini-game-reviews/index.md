@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50:00Z
 title: Mini Game Reviews
 type: page
-updated: 2022-05-12T08:20:00Z
+updated: 2022-05-18T09:45:00Z
 ---
 
 ## Astro's Playroom
@@ -241,6 +241,20 @@ Despite the okay to great job with the art-side of the game, the gameplay did no
 in investing in anyone but the main two.
 
 Edge of Eternity is not a bad game, but it is not a great game either. The artists at Midgar Studios did an excellent job, but the gameplay systems needed more time to be developed. There are a lot of great ideas present in the game, but they were not fleshed out enough to turn into a great game.
+
+## Elden Ring
+
+<img src='elden-ring.webp' alt='Screenshot of Elden Ring' loading='lazy'>
+
+What started as a journey that began with Bloodborne, weaved through all 3 Dark Souls and Demon's Souls, has now come to Elden Ring. The previous games were all some of the most fun I have had with games in years, introducing me to something so new and exciting that it reminded me of the initial months after discovering EverQuest. Elden Ring managed to shatter my expectations, turning it into only the second singleplayer game I have dedicated over 100 hours to, with no end in sight.
+
+The world of the Lands Between is incredibly well designed, belying the fact that this is FromSoftware's first open world game. The world harkens back to older open-world games that did not place markers to point you in the right direction, instead relying on dialogue and texts to guide you. All throughout the world is the typical storytelling that FromSoftware does best, with characters that do not share their intentions openly. The world itself is a mystery to unwrap, the stories of its inhabitants something to puzzle about with multiple playthroughs of the game. Despite uncovering most of the main plot-points of the game, I continue to find new ways that they are connected.
+
+Elden Ring's gameplay takes the best elements of the previous games and combines them together. The tight combat system of Dark Souls III is melded with the non-linear journey of Dark Souls, then takes the character customizability from Dark Souls II, and adds a heaping dose of an improved dungeon system from Bloodborne. Just about element is done better than the previous games, with the moment-to-moment gameplay being the best that FromSoftware has done.
+
+In an attempt to not only gush about the game, the one element that FromSoftware took a step back on was boss design. Most of the bosses in the dungeons are acceptable, if a bit simplified from what From has done before. The real problem comes from the demi-gods and other major bosses, many of which break the traditional designs of previous games. Combat in Bloodborne and Dark Souls III especially felt like a dance, a give and take with the boss, where reading the opponent and learning its patterns was a requirement for success. In Elden Ring, the same strategies apply, but there is no rhythm to the fights. Many of the bosses are overly aggressive with long relenting combo attacks, and moves that are clearly designed just to counter player tactics, instead of providing a fun experience.
+
+Unlike many players, the challenging bosses have never been the main appeal of FromSoftware's catalog. The elements I enjoy most is their world design and storytelling, both of which are perfect in this game. There are many more NPCs in Elden Ring than there are in previous games, allowing a lot of insight into the world. I have not had this much fun with a game in such a long time, and do not see my playtime with the game waning for many more months, if not years.
 
 ## Florence
 
