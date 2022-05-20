@@ -2,7 +2,7 @@
 created: 2020-06-14T10:00:00Z
 title: Past Computing Devices
 type: page
-updated: 2022-05-12T08:20:00Z
+updated: 2022-05-20T08:30:00Z
 ---
 
 ## Main Timeline
@@ -33,15 +33,11 @@ updated: 2022-05-12T08:20:00Z
 
 ### Intel 80486 (1993)
 
-<img src='486.jpg' alt='Packward Bell Multi-Media 486, picture by /u/fwork on reddit' loading='lazy'>
-
 The [Intel 80486](https://en.wikipedia.org/wiki/Intel_80486) was my first PC. This machine was given to me by my grandfather who had an interest in computers for quite some time. This computer existed during a time before computer usage was required for school, so I spent most of my time playing games on it. There was also some light usage of [Prodigy](https://en.wikipedia.org/wiki/Prodigy_(online_service)) during this time, my first experience to the online world.
 
 Unfortunately, due to my young age and having little experience with computers, I do not know the exact model or the rest of the specs. My best recollection is that it was a Packard Bell with a look similar to the provided image. The operating system was a version of MS-DOS and Windows 3.1, although I spent most of my time in MS-DOS as the games I played ran through there and not Windows.
 
 ### Pentium (1996)
-
-<img src='pentium.jpg' alt='HP Pavilion' loading='lazy'>
 
 The next PC I had was a Hewlett Packard. The exact model has been difficult to track down, but as I was learning more about computers and how they work, the specs have stuck in my head. While I had been an avid computer game player since the 486, this was the machine that started the passion of online multiplayer for me. I discovered IRC and gaming clans on this machine, and played both cooperatively and competitively on it. One could argue this online aspect makes it the most influential machine in my life, as the foundation of online-focused games remains to this day, as well as a friendship gained during this time.
 
@@ -82,8 +78,6 @@ Shortly after building this machine, [World of Warcraft](https://en.wikipedia.or
 
 ### PowerBook G4 (2005)
 
-<img src='powerbook-g4.jpg' alt='PowerBook G4' loading='lazy'>
-
 The PowerBook G4 marks my first non-[Wintel](https://en.wikipedia.org/wiki/Wintel) machine, although it was not my first exposure to Apple computers. A friend of mine growing always had Macintosh computers for as long as I knew him, and while this was during the time period where Windows began to overshadow them, they still intrigued me in their differences.
 
 This machine marks a lot of firsts for me. It was my first laptop. It was my first Mac. It was my first WiFi-enabled device. It was my first exposure to a trackpad. All-in-all, a rather memorable device for me, that changed how I approached computing.
@@ -108,8 +102,6 @@ This machine was later upgraded to 4 gigabytes of RAM. While this machine would 
 
 ### MacBook 13" (2007)
 
-<img src='macbook.jpg' alt='MacBook' loading='lazy'>
-
 The late 2007 MacBook was a fairly quick upgrade over the PowerBook G4 due to the Intel transition. While I am glad to have been exposed to a non-Intel platform, it was a bad time to get into Apple computers due to the impending transition to Intel CPUs. It was during this time that I learned that developers on Mac OS X were rather quick to upgrade their software to match Apple's requirements, as everything that I used already was or would soon be a universal binary, allowing non-emulated use on the new machines.
 
 - CPU: [Intel Core 2 Duo T7300](https://en.wikipedia.org/wiki/Merom_(microprocessor))
@@ -122,8 +114,6 @@ This was not my first Mac, but this machine marks the beginning of when my minds
 
 ### iPhone (2007)
 
-<img src='iphone.jpg' alt='iPhone' loading='lazy'>
-
 The iPhone. One of the most revolutionary computing devices released in my early life, and one that I underestimated the impact of. When Steve Jobs first showed it off, it was a cool device but one that I was not interested in getting right away. At the time, my logic was that I had my laptop which would fulfill most of my mobile computing needs. This was quite misguided, but I would not know until after having the device for a few years.
 
 There is a lot to say about how the iPhone changed not only my life but the lives of others who owned an iPhone or one of the competing smartphone platforms that launched in response to the iPhone, but I'll refrain here as it has been said better elsewhere.
@@ -135,8 +125,6 @@ There is a lot to say about how the iPhone changed not only my life but the live
 - OS: [iPhone OS 1](https://en.wikipedia.org/wiki/IPhone_OS_1)-[iPhone OS 3](https://en.wikipedia.org/wiki/IPhone_OS_3)
 
 ### Mac Mini (2009)
-
-<img src='mac-mini.jpg' alt='Mac Mini' loading='lazy'>
 
 The early 2009 Mac Mini was my third Apple computer and my first Apple desktop. This device started out as an experiment in having a centralized media server. A few years prior I had begun converting my music library into being lossless where possible, instead of mp3 and AAC files. This required connecting external hard drives, as the laptop drives used in my MacBook was not large enough to hold the music. Regularly disconnecting the drives was an extra burden every time I took the machine to school, so having a desktop that those drives could attach to helped.
 
@@ -152,8 +140,6 @@ The HDD was upgraded to a 500 gigabyte HDD later on its life just to give me mor
 
 ### MacBook Air (2010)
 
-<img src='macbook-air.jpg' alt='MacBook Air' loading='lazy'>
-
 The replacement for my MacBook, and the last Mac laptop that I owned. This machine is the epitome of what makes Apple's hardware great. It makes a lot of compromises in the name of mobility, but what it has left is perfect for the use and form factor. This was also the laptop that I kept running for the longest time, with it being used up until it was no longer supported.
 
 - CPU: [Intel Core 2 Duo SL9400](https://en.wikipedia.org/wiki/Penryn_(microprocessor))
@@ -163,8 +149,6 @@ The replacement for my MacBook, and the last Mac laptop that I owned. This machi
 - OS: [Mac OS X Snow Leopard 10.6](https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard)-[macOS High Sierra 10.13](https://en.wikipedia.org/wiki/MacOS_High_Sierra)
 
 ### iPhone 4 (2010)
-
-<img src='iphone-4.jpg' alt='iPhone 4' loading='lazy'>
 
 The iPhone 4 was my second iPhone. It was a solid upgrade to the original iPhone, and it was around this time that the App store was coming into its own. The original iPhone functioned well with just base apps, but expectations changed quickly as third-party apps expanded the platform into something else. While it would not be as notable at the time, this was the first iPhone to run with an Apple-designed CPU, which they have stuck to doing for every iPhone since.
 
@@ -178,8 +162,6 @@ This phone is infamous for being leaked so heavily ahead of time, as well as the
 
 ### iPhone 5S (2013)
 
-<img src='iphone-5s.png' alt='iPhone 5S' loading='lazy'>
-
 To this day, the iPhone 5S remains my favorite iPhone ever released. The design of the device is peak Jony Ives, with a beautiful exterior, flawless functionality, and a classic look that made no compromises. It was the last iPhone to not have a camera bump, which is a design compromise that I dislike.
 
 If Apple ever released another phone with this exact design but modern internals, I would buy it in a heart-beat.
@@ -191,8 +173,6 @@ If Apple ever released another phone with this exact design but modern internals
 - OS: [iOS 7](https://en.wikipedia.org/wiki/IOS_7)-[iOS 8](https://en.wikipedia.org/wiki/IOS_8)
 
 ### Mac Mini (2014)
-
-<img src='mac-mini-2014.png' alt='Mac Mini' loading='lazy'>
 
 My second Mac desktop, and the first time that all of my Apple devices did not have an optical drive. This Mac Mini was a nice step up from the previous one in all but one way: the hard drive. My previous Mac Mini had its hard drive upgraded to something that was both higher capacity and speed. This Mac Mini was a stock 5400 RPM hard disk, which after having both my gaming PC and my MacBook Air running on an SSD, loading speeds are back to being a bottleneck. This Mac Mini was difficult to upgrade, so I left it as is.
 
@@ -206,8 +186,6 @@ Despite my love for the Mac Mini form-factor, this particular machine is pretty 
 
 ### iPhone 6 Plus (2014)
 
-<img src='iphone-6-plus.png' alt='iPhone 6 Plus' loading='lazy'>
-
 As much as I loved the iPhone 5S, I replaced it rather quickly when Apple announced significantly larger iPhones. My job at the time had me taking the train into work, and I wanted a device that was easier to read on while riding the train each day. I was not yet looking to purchase an iPad, so a larger phone helped fill that role. The iPhone 6 Plus was generally a good iPhone, although I disliked the camera bump that it added, and it did occasionally exhibit from what tech commentators have called "touch disease", wherein the touchscreen will not respond to touch until the phone has been locked and then unlocked again. Beyond this issue, I had no other issues, and the phone ended up lasting me 5 years, even without replacing the battery.
 
 - CPU: [Apple A8](https://en.wikipedia.org/wiki/Apple_A8)
@@ -217,8 +195,6 @@ As much as I loved the iPhone 5S, I replaced it rather quickly when Apple announ
 - OS: [iOS 8](https://en.wikipedia.org/wiki/IOS_8)-[iOS 12](https://en.wikipedia.org/wiki/IOS_12)
 
 ### Intel Skylake (2015)
-
-<img src='skylake.png' alt='Skylake' loading='lazy'>
 
 It took 8 years, but 2015 was the time to replace the venerable Intel Q6600. I had been keeping an eye on benchmarks, and the previous desktop CPU line, Haswell, was starting to surpass the Q6600 significantly. Games that I played were starting to become CPU limited, as performance metrics were showing. The i7-6700 was still quad-core, but a true quad-core that reduced the overhead of running multithreaded programs. Games were still having issues taking advantage of all the cores when I purchased this machine, but like with the Q6600, I wanted to try and make this machine last as long as possible.
 
@@ -231,8 +207,6 @@ It took 8 years, but 2015 was the time to replace the venerable Intel Q6600. I h
 This machine has seen many GPUs pass through it. The first upgrade was to an [NVIDIa GeForce 780 Ti](https://en.wikipedia.org/wiki/GeForce_700_series), generously donated by a friend. This was later upgraded to an [NVIDIA GeForce GTX 1060 6GB](https://en.wikipedia.org/wiki/GeForce_10_series) when the 780 Ti was damaged due to a power supply failure. After the 1060, I became a bit disenfranchised with NVIDIA's tactics, seeing how they handled the RTX 20 series, so for the first time in my life, I purchased an AMD GPU with the [Radeon RX 5700](https://en.wikipedia.org/wiki/Radeon_RX_5000_series).
 
 ### Apple Watch (2015)
-
-<img src='apple-watch.png' alt='Apple Watch' loading='lazy'>
 
 Apple's announcement of the Apple Watch excited me more than any previous Apple device. The first Apple device that you wear, the first of a brand new product category for them, and one that the market had toyed with previously but did not shake up the world. I had worn Fitbits before, but this looked to expand that functionality beyond anything others had done.
 
@@ -247,8 +221,6 @@ In retrospect, the first generation Apple Watch was a seriously compromised devi
 
 ### iPad (2017)
 
-<img src='ipad.png' alt='Apple iPad' loading='lazy'>
-
 Tablet computers were a device class that I came to much later than most. I previously had a [Google Nexus 7](https://en.wikipedia.org/wiki/Nexus_7_(2012)) that met an untimely end, but was in no rush to replace it with something that fit in with the Apple ecosystem better. The 5th generation iPad is when Apple lowered the introductory price of full-size tablets down below $500, which helped push me towards getting it. I was also working graveyard at the time, and having a larger device than my phone was helpful for reading and researching topics during downtime at work.
 
 - CPU: [Apple A9](https://en.wikipedia.org/wiki/Apple_A9)
@@ -259,8 +231,6 @@ Tablet computers were a device class that I came to much later than most. I prev
 
 ### Apple Watch (2018)
 
-<img src='apple-watch-series-4.png' alt='Apple Watch Series 4' loading='lazy'>
-
 The Apple Watch Series 4 was a gigantic leap in capabilities over my initial "Series 0" Apple Watch. CPU speeds were significantly faster, the OS gained a ton of new abilities, and the Apple Watch itself had become an accepted part of daily life for many. I still run as much as I can from the Watch, and independent watch apps added in watchOS 6 have made this even more capable. This particular watch is still only WiFi capable, but my reliance on it has me thinking about getting a cellular version for my next upgrade.
 
 - CPU: [Apple S4](https://en.wikipedia.org/wiki/Apple_S4)
@@ -268,8 +238,6 @@ The Apple Watch Series 4 was a gigantic leap in capabilities over my initial "Se
 - OS: [watchOS 5](https://en.wikipedia.org/wiki/WatchOS), [watchOS 6](https://en.wikipedia.org/wiki/WatchOS)
 
 ### Mac Mini (2018)
-
-<img src='mac-mini-2018.png' alt='Mac Mini' loading='lazy'>
 
 After the less than stellar performance of the 2014 Mac Mini, Apple's announcement of a much more powerful Mac Mini made me incredibly happy. This would end up being the first Mac that I ordered customized, and my intent was to maximize its capabilities so that it both lasted me a long time and made me happy as I used it. Given the constant rumors of Apple switching the Mac lineup to their own ARM CPUs, I wanted this potential last x86 Mac to last a long time as that transition unfolded.
 
@@ -283,8 +251,6 @@ While owning this machine, I began the process of upgrading all of my monitors t
 
 ### iPhone 11 (2019)
 
-<img src='iphone-11.png' alt='iPhone 11' loading='lazy'>
-
 The iPhone 6 Plus lasted me 5 years, longer than any previous cellular phone had.  It was a great device, but iOS 13 no longer supporting it meant that it was time to upgrade. The iPhone 11 is still a great phone, but as good as it is, my infatuation with the form factor has definitely waned. These are now functional devices that do not garner much excitement in me.
 
 This was the first device that I owned that used an Apple GPU built into the system-on-a-chip. This is also the first iOS device that I began making apps.
@@ -295,8 +261,6 @@ This was the first device that I owned that used an Apple GPU built into the sys
 
 ### iPhone 12 (2020)
 
-<img src='iphone-12.png' alt='iPhone 12' loading='lazy'>
-
 When Apple released the iPhone 6 Plus, I upgraded after using my iPhone 5S for only a year due to the increased size. At the time, I did not have an iPad and the bigger screen was useful during public transit commutes. For 2020, I made the same type of shift, but in the opposite direction. The iPhone 12 Mini was the smallest high-end phone Apple has released since the 5S, and I wanted to move back in that direction, so despite owning the iPhone 11 for only one year, I made the transition back. Since I now use an iPad for reading tasks, having a smaller device helped with my desire to have a more [simplified smartphone](https://krueger.report/simplifying-the-smartphone/).
 
 - CPU: [Apple A14](https://en.wikipedia.org/wiki/Apple_A14)
@@ -304,8 +268,6 @@ When Apple released the iPhone 6 Plus, I upgraded after using my iPhone 5S for o
 - OS: [iOS 14](https://en.wikipedia.org/wiki/IOS_14)
 
 ### AMD Zen 3
-
-<img src='zen-3.png' alt='Skylake' loading='lazy'>
 
 My schedule for updating my gaming PC was planned for the middle of 2020. Unfortunately, the COVID-19 pandemic slow this down. It took nearly an entire year to cobble up the components for this upgrade, due to so many of them being out-of-stock and overpriced from resellers. The machine I ended up with is exactly the specs that I wanted, and in a form factor that I had been interested in switching to for many years: mini-ITX. This gaming PC is substantially more powerful than the last, and thanks to some necessary undervolting of the different pieces, is both quieter and cooler running than the previous machine. It is nice to break out of the mid-tower PC scene, and despite some initial hardships getting the power management proper, I am quite happy with what I ended up with.
 
@@ -316,8 +278,6 @@ My schedule for updating my gaming PC was planned for the middle of 2020. Unfort
 - OS: [Windows 10](https://en.wikipedia.org/wiki/Windows_10)
 
 ### MacBook Pro (2021)
-
-<img src='macbook-pro.jpg' alt='14" MacBook Pro with M1 Max' loading='lazy'>
 
 When I decided to go back to school, I knew I needed a laptop so that I could get homework done while out of the house. The main question was if I wanted a laptop to supplement my Mac Mini or to get something powerful enough to fill the role of both. I opted for the latter. The decision to go with the 14" version of the MacBook Pro was so that the laptop was the same general size as all of the 13" MacBooks I used in the past. While the new Pro is much heavier than the MacBook Air I last used, it is still lighter than the old PowerBook G4 that got me into Apple products. In many ways, this laptop is reminiscent of that PowerBook G4, which has turned it into something that I happily use all of the time.
 
