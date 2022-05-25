@@ -2,7 +2,7 @@
 created: 2019-05-16T15:35:00Z
 title: Bands I Have Listened To
 type: page
-updated: 2022-05-22T07:40:00Z
+updated: 2022-05-25T06:45:00Z
 ---
 
 - 311
@@ -74,6 +74,7 @@ updated: 2022-05-22T07:40:00Z
 - Chumbawamba
 - CHVRCHES
 - Circular
+- Coil
 - Combichrist
 - Conception
 - Conflict
