@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50:00Z
 title: Mini Game Reviews
 type: page
-updated: 2022-05-18T09:45:00Z
+updated: 2022-05-27T09:25:00Z
 ---
 
 ## Astro's Playroom
@@ -431,6 +431,18 @@ Despite the issues with the open world, the individual levels and puzzles are we
 The one element that I can't excuse in the game is the continued use of the same sexist trope that has been central to the series since the very beginning. The premise of Super Mario Odyssey is Bowser kidnapping Princess Peach, setting up her rescue by Mario. Most of the series uses this trope, but Odyssey manages to take it a step further: Bowser has not only kidnapped Princess Peach, but is forcing her to marry him. Throughout the game, he taunts Mario about this fact. At one point, he asks if Mario is jealous due to him having possession of Peach. The end of the game involves both Bowser and Mario presenting peach with flowers, asking her to not be with the other. At this point, the game attempts to subvert the trope, but after 10 hours of seeing it play out as it did, it was not enough to cancel out the horrible use of it.
 
 All of these criticisms of the the game lead it to being my least favorite game in the Super Mario series. The fact that Nintendo is making no effort to move past the problematic story elements lessens the whole series. The Legend of Zelda is an example that shows Nintendo can make steps forward on the issue. But Odyssey manages to be a step backwards. All of the well done level design can not make up for this fact, nor can it cover up the missed mark of a boring open world design.
+
+## The Talos Principle
+
+<img src='the-talos-principle.webp' alt='Screenshot of The Talos Principle' loading='lazy'>
+
+The development studio Croteam is known for the series of over-the-top first-person shooters that make up the Serious Sam series of games. When they announced The Talos Principle, a narrative puzzle game with a serious tone, it was a surprise change in direction from their typical style. I was unsure what to expect from the game, but after playing it, I can say that Croteam has achieved in unseating Portal as my favorite first-person puzzle game.
+
+The best PC puzzle games have an element to them that goes beyond just having well-crafted puzzles. Whether it's a great story or a memorable artistic style, something additional is needed for it to be memorable. The Talos Principle goes a step further than most, by crafting a story around the philosophy of existence through the lens of an artificial intelligence. The player is an android taking part in a long-running test to create a machine intelligence that can match humans in exhibiting a "free will". Regular conversations about what it means to be alive, the nature of reality, and the philosophy of religious dogma are constant throughout the writing. The player is not the first artificial intelligence to be tested, as messages from previous androids show them exhibiting religious beliefs and creating their own history of how the world ended up as it is.
+
+The world itself is designed to feel artificial, yet there is a deep history displayed throughout it. All of the areas that you solve puzzles in are rooted in the architecture of historical societies. Computer terminals are spread throughout the world that give insight into the creators of the player's android, as well as the reasoning that is slowly uncovered as to why the android is being tested. Inside these terminals is a chatbot that hides whether it is a true intelligence or just a simple bot that responds to preset inquiries. The world feels lived in and makes it apparent you are not the first one to be tested, as previous androids have left messages throughout the world, discussing their thoughts on the current tests, their beliefs, or leaving tiny hints as to why they are failing in hopes that a future android will make it further than them.
+
+All of these elements combine in a way that should not work as well as it does. Few developers can pull off a game that starts out as a mere puzzle game and that slowly adds a philosophical workout on top, but Croteam has managed to do it, largely thanks to writers Tom Jubert and Jonas Kyratzes. While the game ends with a strong conclusion, I am looking forward to further games from Croteam done in this same style.
 
 ## Tyranny
 
