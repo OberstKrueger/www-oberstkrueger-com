@@ -2,7 +2,7 @@
 created: 2018-10-17T00:30:00Z
 title: Automating Podcasts
 type: page
-updated: 2022-05-12T08:20:00Z
+updated: 2022-05-27T09:50:00Z
 ---
 
 I got into podcasts while attending college. Back then, I listened to a small number of podcasts through my first gen iPhone. Due to limited monthly data plans and slow [EDGE](https://en.wikipedia.org/wiki/Enhanced_Data_Rates_for_GSM_Evolution) download speeds, all of my podcasts were downloaded in iTunes and synced to the iPhone whenever it was plugged in.  This kept me with a steady supply of podcasts to listen to while at the gym or driving.
@@ -19,19 +19,15 @@ Both of these features sold me on Overcast, but as time went on and my podcast s
 
 The simple solution is to remove podcasts that I did this with, and over the years, I have done that. But Overcast has one other feature, and it is the key feature to automating podcasts: playlists.
 
-### The Smart Playlist
+<img src='smart-playlist.webp' alt='Smart Playlist and its settings' loading='lazy'>
 
 Users can add as many playlists to Overcast as they want. Playlist settings allow the user to select which podcasts show up on each playlist, along with prioritizing certain podcasts over others, and defining what the overall sort order is for the playlist. This is a great power user feature, making it easy to have automated content for different moods or settings. But my solution is to make use of a single playlist, customized for my listening desires.
-
-<img src='smart-playlist-settings.webp' alt='Settings for my playlist' loading='lazy'>
 
 My "smart" playlist operates under two simple rules. The first is that all podcasts are added to it in chronological order of release. This forces me to listen to all of the podcasts that I subscribe to in order. I make a point to not skip any podcasts, and if I feel like I am losing interest in a show, I will remove it from my subscriptions.
 
 There are two exceptions to the chronological listening order for podcasts. Any podcast that is "time sensitive" will be prioritized. This includes any podcast that discusses current events in the news or trends within the computing industry. The sole podcast that I support with donations, [Flash Forward](https://www.flashforwardpod.com/), is also prioritized.
 
 In practice, this means that I listen to 2-3 priority podcasts a week, and catch up on the others in between. If I go for an extended period of time without listening to podcasts, the priority ones will be queued up the same as normal.
-
-<img src='smart-playlist.webp' alt='The Smart Playlist' loading='lazy'>
 
 I set Overcast to download podcasts in the background and to do so when on wifi and not a cellular connection. Since I never connect my phone to wifi other than my home network, Overcast will update every night and download all new episodes released that day. My smart playlist is set to jump up to the top of the playlist when picking a new episode. This means that if priority podcasts are downloaded while I listen to another podcast, the priority podcasts will be queued up once the current episode is complete.
 
