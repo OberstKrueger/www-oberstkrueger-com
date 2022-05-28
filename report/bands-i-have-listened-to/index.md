@@ -2,7 +2,7 @@
 created: 2019-05-16T15:35:00Z
 title: Bands I Have Listened To
 type: page
-updated: 2022-05-27T08:55:00Z
+updated: 2022-05-28T09:05:00Z
 ---
 
 - 311
@@ -415,6 +415,7 @@ updated: 2022-05-27T08:55:00Z
 - The Prodigy
 - The Sins of Thy Beloved
 - The Smashing Pumpkins
+- The Smile
 - The White Stripes
 - Theatre of Tragedy
 - Theatres des Vampires
