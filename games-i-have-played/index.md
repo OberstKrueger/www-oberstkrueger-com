@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00:00Z
 title: Games I Have Played
 type: page
-updated: 2022-05-01T06:05:00Z
+updated: 2022-05-30T09:00:00Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -108,6 +108,7 @@ updated: 2022-05-01T06:05:00Z
 - [Deus Ex Go](https://en.wikipedia.org/wiki/Deus_Ex_Go)
 - [Deus Ex: Human Revolution](https://en.wikipedia.org/wiki/Deus_Ex:_Human_Revolution)
 - [Deus Ex: Human Revolution - The Missing Link](https://en.wikipedia.org/wiki/Deus_Ex:_Human_Revolution_–_The_Missing_Link)
+- [Deus Ex: Invisible War](https://en.wikipedia.org/wiki/Deus_Ex:_Invisible_War)
 - [Deus Ex: Mankind Divided](https://en.wikipedia.org/wiki/Deus_Ex:_Mankind_Divided)
 - [Device 6](https://en.wikipedia.org/wiki/Device_6)
 - [Diablo](https://en.wikipedia.org/wiki/Diablo_(video_game))
