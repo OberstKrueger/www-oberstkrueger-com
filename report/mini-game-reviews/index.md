@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50:00Z
 title: Mini Game Reviews
 type: page
-updated: 2022-05-27T09:25:00Z
+updated: 2022-05-30T08:55:00Z
 ---
 
 ## Astro's Playroom
@@ -168,6 +168,18 @@ Demon's Souls is in some ways a more complex game than the later entries, but si
 The one aspect of the game that bothered me the most was the healing. Instead of automatically replenishable flasks that give you health, you have to use grass that drops from enemies. Unfortunately, they are not the most common of drops, so you have to spend time farming them on occasion. This was particularly noticeable when you run low during a boss fight, as it requires you to spend some time farming to be able and give the boss another try. Bloodborne had a similar system of healing, but it had some areas that allowed you to get as many as you needed in a short amount of time, allowing you to not slow down that much in your attempts at progression.
 
 Going back to the original Soulsborne game was quite an enjoyable experience. The world and character design is well done, with only a few individual levels being annoying or less memorable. In particular, the Maiden Astraea sequence is one of my favorites in all of FromSoftware's games. The low point of the game was how much time I had to spend farming health items and upgrade materials, significantly outpacing how much time I had to spend doing the same in the other games. I am glad I had an opportunity to play through this, although my enjoyment of it was much less than in Bloodborne or Dark Souls 3.
+
+## Deus Ex
+
+<img src='deus-ex.webp' alt='Screenshot of Deux Ex' loading='lazy'>
+
+Before Deus Ex, most of my RPG experience was focused on console JRPGs such as Chrono Trigger and early entries in Final Fantasy. Deus Ex was released in 2000, around the time that my gaming habits were falling heavily into first-person shooters, making the game a wonderful twist on what I was already playing, and helping me down the path of having computer RPGs become my main gaming diet.
+
+At the time of its release, Deus Ex was a ground-breaking game. Non-linear games had been created before, but Deus Ex took it to new heights. Individual levels had multiple paths, and the overarching story had vastly different outcomes depending on what path you took through it. Up to this point, I was used to console RPGs that held your hand more. The freedom that Deus Ex game was intimidating at first, and not something I quite knew how to approach. With time, the open-ended nature of the game became my preferred way to approach a story, with linear games feeling like they were missing something.
+
+The main element of the game that has aged the best over the past decades is the mood that it sets. Deus Ex takes place in 2052 in a world that has fallen into dystopia, where classic conspiracy theories (i.e. Area 51 hosting aliens, the Illuminati running the world, etc.) are shown to be true. It is a dark world full of chaos and unhappiness. At the time of release, this type of story was new to me, and as it was released around the time I began to explore mature stories, it resonated with me. Revisiting the game 20 years later gives the conspiracy-laden dismantling of society makes the game almost prophetic. But unlike the real world, Deus Ex does it with a great sense of visual style combined with a memorable soundtrack to make up for the dreariness.
+
+Despite my considering it a highly influential game for me, it wasn't until 2020 that I completed the game. As one of the groundbreaking works in this particular genre, its gameplay has been improved upon massively in the years since. This makes returning to the original a bit difficult, with the gameplay missing many quality-of-life features that modern iterations have. Despite the graphics, soundtrack, and story that I love, it is hard to replay without using community modifications to improve the gameplay. But since this effort starts to steer it away from the original experience, it is a game that I think is important to play, but not one I will revisit anytime soon.
 
 ## Diablo
 
