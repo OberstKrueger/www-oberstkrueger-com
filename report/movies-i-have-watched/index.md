@@ -2,7 +2,7 @@
 created: 2017-08-07T20:45:00Z
 title: Movies I Have Watched
 type: page
-updated: 2022-01-03T03:20:00Z
+updated: 2022-05-31T10:45:00Z
 ---
 
 - [101 Dalmatians (1961)](https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians)
@@ -235,6 +235,7 @@ updated: 2022-01-03T03:20:00Z
 - [Star Wars: Episode VI - Return of the Jedi](https://en.wikipedia.org/wiki/Return_of_the_Jedi)
 - [Star Wars: Episode VII - The Force Awakens](https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens)
 - [Star Wars: Episode VIII - The Last Jedi](https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi)
+- [Star Wars: Episode IX - The Rise of Skywalker](https://en.wikipedia.org/wiki/Star_Wars:_The_Rise_of_Skywalker)
 - [The Suicide Squad](https://en.wikipedia.org/wiki/The_Suicide_Squad_(film))
 - [Super 8](https://en.wikipedia.org/wiki/Super_8_(film))
 - [Tarzan](https://en.wikipedia.org/wiki/Tarzan_(1999_film))
