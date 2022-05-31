@@ -2,8 +2,27 @@
 created: 2017-02-27T17:00:00Z
 title: Updates
 type: page
-updated: 2022-05-01T05:35:00Z
+updated: 2022-05-31T10:40:00Z
 ---
+
+## 2022.05
+
+### Games Played
+
+- [Diablo 2: Resurrected](https://en.wikipedia.org/wiki/Diablo_II%3A_Resurrected)
+- [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring)
+- [The Legend of Zelda: Breath of the Wild](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild)
+- [The Stanley Parable: Ultra Deluxe](https://en.wikipedia.org/wiki/The_Stanley_Parable#Ultra_Deluxe)
+
+### Movies Watched
+
+- [Star Wars: Episode IX - The Rise of Skywalker](https://en.wikipedia.org/wiki/Star_Wars:_The_Rise_of_Skywalker)
+
+### Page Updates
+
+- [Bands I Have Listened To](/report/bands-i-have-listened-to): Combined down to single list of all artists and bands. Added all new bands from the past year that were not included.
+- [Notes On Final Fantasy XIV](/report/notes-on-final-fantasy-xiv): Added a note about the page receiving no further updates due to the conclusion of my time playing the game.
+- [Top Tens](/report/top-tens): New page highlighting my current top ten books, games, and movies.
 
 ## 2022.04
 
