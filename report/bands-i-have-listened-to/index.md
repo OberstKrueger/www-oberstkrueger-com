@@ -2,7 +2,7 @@
 created: 2019-05-16T15:35:00Z
 title: Bands I Have Listened To
 type: page
-updated: 2022-05-30T08:45:00Z
+updated: 2022-06-01T08:30:00Z
 ---
 
 - 311
@@ -29,6 +29,7 @@ updated: 2022-05-30T08:45:00Z
 - Angelzoom
 - Angtoria
 - Anneke van Giersbergen
+- Anneke van Giersbergen & Agua de Anniqu
 - Antalgia
 - Apocalyptica
 - Apoptygma Berzerk
