@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50:00Z
 title: Mini Game Reviews
 type: page
-updated: 2022-05-30T08:55:00Z
+updated: 2022-06-01T09:40:00Z
 ---
 
 ## Astro's Playroom
@@ -180,6 +180,20 @@ At the time of its release, Deus Ex was a ground-breaking game. Non-linear games
 The main element of the game that has aged the best over the past decades is the mood that it sets. Deus Ex takes place in 2052 in a world that has fallen into dystopia, where classic conspiracy theories (i.e. Area 51 hosting aliens, the Illuminati running the world, etc.) are shown to be true. It is a dark world full of chaos and unhappiness. At the time of release, this type of story was new to me, and as it was released around the time I began to explore mature stories, it resonated with me. Revisiting the game 20 years later gives the conspiracy-laden dismantling of society makes the game almost prophetic. But unlike the real world, Deus Ex does it with a great sense of visual style combined with a memorable soundtrack to make up for the dreariness.
 
 Despite my considering it a highly influential game for me, it wasn't until 2020 that I completed the game. As one of the groundbreaking works in this particular genre, its gameplay has been improved upon massively in the years since. This makes returning to the original a bit difficult, with the gameplay missing many quality-of-life features that modern iterations have. Despite the graphics, soundtrack, and story that I love, it is hard to replay without using community modifications to improve the gameplay. But since this effort starts to steer it away from the original experience, it is a game that I think is important to play, but not one I will revisit anytime soon.
+
+## Deus Ex: Invisible War
+
+<img src='deus-ex-invisible-war.webp' alt='Screenshot of Deux Ex: Invisible War' loading='lazy'>
+
+Deus Ex: Invisible War is a game I delayed playing for a long time due to the reputation that it had as being a disappointment compared to the first game. Despite this, I decided to give the game a playthrough after beating the original. While the game has many technical issues on modern machines, it was worth the effort once it was up and running.
+
+The game surprised me. I was not sure what exactly to expect from the reputation, but what I played was a solid entry in the series. Gameplay was simplified, while the graphics were improved from the original. Thanks to Alexander Brandon returning to compose the soundtrack, the game retains much of the same atmosphere as the original.
+
+The original game's ending presented a challenge for any sequel, as there were 3 distrinct endings to it. Invisible War manages to weave all of the endings together into a narrative about a near implosion of human society known as the Collapse. During this event, different civilizations and cultures became cut off from one another. Insularism became the standard that all countries ascribed to, and global religions and systems faded away. The Illuminati, reborn from its destruction in the original game, attempts to take over the world again.
+
+Invisible War keeps the complex narrative coherent, building effortlessly off of the groundwork laid by the original game. One aspect that the game goes into is how religion has changed. Few games explore the topic of an evolving religion, but Invisible War makes it central to the plotline. How people cling to a neo-Luddite religion in the ˝ of near total collapse of society makes sense, and fits well with the themes of how technology can change humanity. It is a theme that is underexplored in cyberpunk in general, and it was refreshing to see a Deus Ex game tackle it.
+
+Despite the technological issues of the game, Invisible War is not only a solid game, but a good addition to the Deus Ex series. It is the weakest of the whole series, but that does not make it a bad game that should be skipped. I am happy to have pushed through the issues and experienced what it offered, and my next playthrough of the whole series will be sure to include it again.
 
 ## Diablo
 
