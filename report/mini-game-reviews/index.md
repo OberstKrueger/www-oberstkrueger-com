@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50:00Z
 title: Mini Game Reviews
 type: page
-updated: 2022-06-01T09:40:00Z
+updated: 2022-06-03T10:00:00Z
 ---
 
 ## Astro's Playroom
@@ -52,6 +52,18 @@ The aspect of the game that surprised me the most was how engrossing the world w
 Bloodborne's soundtrack also helped suck me into the world. Music is one of the most important aspects of a game for me, and the composing team at FromSoftware have written one of my new favorite soundtracks. Visually, the game looks quite good for a PlayStation 4 game. The only frustrating aspect of it is the jittery frame-pacing. The game aims for 30 FPS, but rarely sits at it for long. This game is in dire need of a PlayStation 5 upgrade, or preferably a PC release.
 
 Bloodborne was a great jumping in for the Souls-like games. It has kindled an obsession in all of FromSoftware's titles, and I hope to be able to revisit Bloodborne at some point when the performance has been fixed.
+
+## Control
+
+<img src='control.webp' alt='Screenshot of Control' loading='lazy'>
+
+I've been a longtime fan of Remedy Entertainment since the original Max Payne. Every game of theirs have been worth taking the time to play. When Control was announced, I was excited by what they were doing with the game, and once I had a ray tracing capable card, I dove in.
+
+Visually, Control is a great example of what real-time graphics are capable of in 2019. The characters are all highly detailed with realistic motion-capture work, and the game world is varied, with lots of destructable terrain. The highlight feature of the game, ray tracing, is shown off well due to all of the mirrors and glass windows located throughout the Oldest House, although the performance cost of ray tracing is still very high. While the game does not use ray tracing for all of its lighting effects, it is the best example so far of how it can be used for other lighting-related effects.
+
+Any shooter needs a good reason to be third-person instead of first-person, and Remedy always creates games that take advantage of the viewpoint. Whereas Max Payne used it for cinematic purposes with its bullet-time feature, Control uses it for a multitude of psychokinetic powers given to the main character. These powers include levitation, launching debris and other objects at enemies, and lifting up enemies to throw across a room. All of these abilities could work in first-person, but the fluid animation system provides an element that would be impossible to see without a third-person view. Whenever the main character starts floating, she transitions from being affected by gravity seamlessly to having her limbs move around freely as if in low gravity. Other enemies have similar powers as well, so the greater field-of-view keeps the gameplay fair.
+
+Every Remedy game I have played has been enjoyable, and Control is no exception. It's one of the minority of games where I am interested in where a sequel could go, as they already set up future storylines with a post-game expansion. If Remedy does decide to release a sequel, I will be ready to dive in day one.
 
 ## Counter-Strike: Global Offensive
 
