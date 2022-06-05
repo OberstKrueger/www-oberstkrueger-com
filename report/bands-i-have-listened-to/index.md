@@ -2,7 +2,7 @@
 created: 2019-05-16T15:35:00Z
 title: Bands I Have Listened To
 type: page
-updated: 2022-06-01T08:30:00Z
+updated: 2022-06-05T07:30:00Z
 ---
 
 - 311
@@ -86,6 +86,7 @@ updated: 2022-06-01T08:30:00Z
 - Crimson Sun
 - Daemon Lost
 - Daft Punk
+- dälek
 - Damnation Angels
 - Dan Terminus
 - Dana Jean Phoenix
