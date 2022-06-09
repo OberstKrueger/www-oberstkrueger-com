@@ -2,7 +2,7 @@
 created: 2017-02-27T17:00:00Z
 title: Software Tools
 type: page
-updated: 2022-05-09T07:40:00Z
+updated: 2022-05-09T08:00:00Z
 ---
 
 Choosing the right software for the job can be a painstaking process. On all of the major platforms, there is a plethora of tools available for most tasks. Picking the first thing that comes along without evaluating all of the options might save some time up front, but it will lead to headaches further on down the line.
@@ -57,117 +57,115 @@ The second part is that the program makes good use of computer resources. Today,
 
 This is my criteria for all software that I use. When evaluating new applications, if it does not meet all of these criteria, I rule out its use. I also do not constantly try to replace my tools. To be sure, I keep up with new tools released, but given the first point of using something that has been around for a while, I will not switch to it right away. It is easy to fall into the trap of constantly learning new tools instead of using them to do actual work.
 
-## Cross-platform Tools
-
-### eBook Reader
-
-**Name**: [Books](https://en.wikipedia.org/wiki/Apple_Books)<br>
-**OS**: iPadOS, macOS<br>
-**Used Since**: April, 2010<br>
-**Previously Used**: [Google Play Books](https://en.wikipedia.org/wiki/Google_Play_Books)
-
-### E-mail
-
-**Name**: [Apple Mail](https://en.wikipedia.org/wiki/Apple_Mail)<br>
-**OS**: iPadOS, iOS, macOS<br>
-**Used Since**: March, 2015<br>
-**Previously Used**: [Gmail](https://en.wikipedia.org/wiki/Gmail)
-
-### Music Library and Player
-
-**Name**: [Music](https://en.wikipedia.org/wiki/Music_(software))<br>
-**OS**: iOS, macOS<br>
-**Used Since**: June 2007<br>
-**Previously Used**: [iTunes](https://en.wikipedia.org/wiki/ITunes)
-
-### Password Manager
-
-**Name**: [Strongbox](https://strongboxsafe.com)<br>
-**OS**: iPadOS, iOS, macOS<br>
-**Used Since**: January, 2022<br>
-**Previously Used**: [1Password](https://en.wikipedia.org/wiki/1Password)
-
-### RSS Reader
-
-**Name**: [NetNewsWire](https://en.wikipedia.org/wiki/NetNewsWire)<br>
-**OS**: iPadOS, macOS<br>
-**Used Since**: December, 2021<br>
-**Previously Used**: [NetNewsWire](https://en.wikipedia.org/wiki/NetNewsWire), [Unread](https://www.goldenhillsoftware.com/unread/), [Reeder](http://reederapp.com)
-
-### Spreadsheets
-
-**Name**: [Numbers](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))<br>
-**OS**: iPadOS, macOS<br>
-**Used Since**: December, 2013<br>
-
-### Task Management
-
-**Name**: [Things](https://en.wikipedia.org/wiki/Things_(software))<br>
-**OS**: iPadOS, iOS, macOS<br>
-**Used Since**: December, 2018<br>
-**Previously Used**: [OmniFocus](https://en.wikipedia.org/wiki/OmniFocus), [Reminders](https://en.wikipedia.org/wiki/Reminders_(Apple))
-
-### Writing
-
-**Name**: [iA Writer](https://en.wikipedia.org/wiki/IA_Writer)<br>
-**OS**: iPadOS, macOS<br>
-**Used Since**: January, 2014<br>
-**Previously Used**: [Bean](https://en.wikipedia.org/wiki/Bean_(software)), [OpenOffice.org](https://en.wikipedia.org/wiki/OpenOffice.org), [Pages](https://en.wikipedia.org/wiki/Pages_(word_processor)), [Scrivener](https://en.wikipedia.org/wiki/Scrivener_(software))
-
-## iPadOS Tools
-
-### Command-Line Terminals
-
-**Name**: [Prompt](https://panic.com/prompt/)<br>
-**Used Since**: July, 2015<br>
-
-## iOS Tools
-
-### Podcasts
-
-**Name**: [Overcast](https://en.wikipedia.org/wiki/Overcast_(app))<br>
-**Used Since**: July, 2014<br>
-**Previously Used**: [Apple Podcasts](https://en.wikipedia.org/wiki/Podcasts_(software)), [iTunes](https://en.wikipedia.org/wiki/ITunes)
-
-### Sleep Tracking
-
-**Name**: [AutoSleep](http://autosleep.tantsissa.com)<br>
-**Used Since**: December, 2016<br>
-**Previously Used**: [Sleep Cycle](https://www.sleepcycle.com), [Sleep++](https://david-smith.org/apps/)
-
-## macOS Tools
-
-### Command-Line Terminal
-
-**Name**: [iTerm2](https://en.wikipedia.org/wiki/ITerm2)
-**Used Since**: December, 2007<br>
-**Previously Used**: [Alacritty](https://en.wikipedia.org/wiki/Alacritty), [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS))<br>
-
-### File Backup
+## Backup
 
 **Name**: [Arq](https://www.arqbackup.com)<br>
+**Platforms**: macOS<br>
 **Used Since**: July, 2016<br>
 **Previously Used**: [Time Machine](https://en.wikipedia.org/wiki/Time_Machine_(macOS))
 
-### Image Editing
+## Command-Line Terminal
+
+**Name**: [iTerm2](https://en.wikipedia.org/wiki/ITerm2)
+**Platforms**: macOS<br>
+**Used Since**: December, 2007<br>
+**Previously Used**: [Alacritty](https://en.wikipedia.org/wiki/Alacritty), [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS))<br>
+
+**Name**: [Prompt](https://panic.com/prompt/)<br>
+**Platforms**: iPadOS, iOS<br>
+**Used Since**: July, 2015<br>
+
+## eBook Reader
+
+**Name**: [Books](https://en.wikipedia.org/wiki/Apple_Books)<br>
+**Platforms**: iPadOS, macOS<br>
+**Used Since**: April, 2010<br>
+**Previously Used**: [Google Play Books](https://en.wikipedia.org/wiki/Google_Play_Books)
+
+## E-mail
+
+**Name**: [Apple Mail](https://en.wikipedia.org/wiki/Apple_Mail)<br>
+**Platforms**: iPadOS, iOS, macOS<br>
+**Used Since**: March, 2015<br>
+
+## Image Editing
 
 **Name**: [Pixelmator Pro](https://www.pixelmator.com/pro/)<br>
+**Platforms**: macOS<br>
 **Used Since**: November, 2019<br>
 **Previously Used**: [Adobe Photoshop CS6](https://en.wikipedia.org/wiki/Adobe_Photoshop), [GIMP](https://en.wikipedia.org/wiki/GIMP), [Pixelmator](http://www.pixelmator.com)
 
-### Integrated Development Environment (C, Swift)
+## Integrated Development Environment
 
 **Name**: [Xcode](https://en.wikipedia.org/wiki/Xcode)<br>
+**Platforms**: macOS<br>
 **Used Since**: June, 2018
 
-### Internet Relay Chat Client
+## Internet Relay Chat Client
 
 **Name**: [Textual 7](https://www.codeux.com/textual/)<br>
+**Platforms**: macOS<br>
 **Used Since**: May, 2016<br>
 **Previously Used**: [XChat Aqua](https://xchataqua.github.io)
 
-### Text Editor
+## Music Library and Player
+
+**Name**: [Music](https://en.wikipedia.org/wiki/Music_(software))<br>
+**Platforms**: iOS, macOS<br>
+**Used Since**: June, 2007<br>
+**Previously Used**: [iTunes](https://en.wikipedia.org/wiki/ITunes)
+
+## Password Manager
+
+**Name**: [Strongbox](https://strongboxsafe.com)<br>
+**Platforms**: iPadOS, iOS, macOS<br>
+**Used Since**: January, 2022<br>
+**Previously Used**: [1Password](https://en.wikipedia.org/wiki/1Password)
+
+## Podcasts
+
+**Name**: [Overcast](https://en.wikipedia.org/wiki/Overcast_(app))<br>
+**Platforms**: iOS<br>
+**Used Since**: July, 2014<br>
+**Previously Used**: [Apple Podcasts](https://en.wikipedia.org/wiki/Podcasts_(software)), [iTunes](https://en.wikipedia.org/wiki/ITunes)
+
+## RSS Reader
+
+**Name**: [NetNewsWire](https://en.wikipedia.org/wiki/NetNewsWire)<br>
+**Platforms**: iPadOS, macOS<br>
+**Used Since**: December, 2021<br>
+**Previously Used**: [NetNewsWire](https://en.wikipedia.org/wiki/NetNewsWire), [Unread](https://www.goldenhillsoftware.com/unread/), [Reeder](http://reederapp.com)
+
+## Sleep Tracking
+
+**Name**: [AutoSleep](http://autosleep.tantsissa.com)<br>
+**Platforms**: iOS<br>
+**Used Since**: December, 2016<br>
+**Previously Used**: [Sleep Cycle](https://www.sleepcycle.com), [Sleep++](https://david-smith.org/apps/)
+
+## Spreadsheets
+
+**Name**: [Numbers](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))<br>
+**Platforms**: iPadOS, macOS<br>
+**Used Since**: December, 2013<br>
+
+## Task Management
+
+**Name**: [Things](https://en.wikipedia.org/wiki/Things_(software))<br>
+**Platforms**: iPadOS, iOS, macOS<br>
+**Used Since**: December, 2018<br>
+**Previously Used**: [OmniFocus](https://en.wikipedia.org/wiki/OmniFocus), [Reminders](https://en.wikipedia.org/wiki/Reminders_(Apple))
+
+## Text Editor
 
 **Name**: [Sublime Text](https://en.wikipedia.org/wiki/Sublime_Text)<br>
+**Platforms**: macOS<br>
 **Used Since**: July, 2011<br>
 **Previously Used**: [Atom](https://en.wikipedia.org/wiki/Atom_(text_editor)), [Emacs](https://en.wikipedia.org/wiki/Emacs), [TextWrangler](https://en.wikipedia.org/wiki/BBEdit), [Neovim](https://neovim.io), [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+
+## Writing
+
+**Name**: [iA Writer](https://en.wikipedia.org/wiki/IA_Writer)<br>
+**Platforms**: iPadOS, macOS<br>
+**Used Since**: January, 2014<br>
+**Previously Used**: [Bean](https://en.wikipedia.org/wiki/Bean_(software)), [OpenOffice.org](https://en.wikipedia.org/wiki/OpenOffice.org), [Pages](https://en.wikipedia.org/wiki/Pages_(word_processor)), [Scrivener](https://en.wikipedia.org/wiki/Scrivener_(software))
