@@ -82,9 +82,10 @@ This is my criteria for all software that I use. When evaluating new application
 
 ### Password Manager
 
-**Name**: [1Password](https://en.wikipedia.org/wiki/1Password)<br>
+**Name**: [Strongbox](https://strongboxsafe.com)<br>
 **OS**: iPadOS, iOS, macOS<br>
-**Used Since**: August, 2013
+**Used Since**: January, 2022<br>
+**Previously Used**: [1Password](https://en.wikipedia.org/wiki/1Password)
 
 ### RSS Reader
 
