@@ -2,7 +2,7 @@
 created: 2017-02-27T17:00:00Z
 title: Software Tools
 type: page
-updated: 2022-05-09T08:00:00Z
+updated: 2022-05-11T09:05:00Z
 ---
 
 Choosing the right software for the job can be a painstaking process. On all of the major platforms, there is a plethora of tools available for most tasks. Picking the first thing that comes along without evaluating all of the options might save some time up front, but it will lead to headaches further on down the line.
@@ -96,6 +96,10 @@ This is my criteria for all software that I use. When evaluating new application
 **Previously Used**: [Adobe Photoshop CS6](https://en.wikipedia.org/wiki/Adobe_Photoshop), [GIMP](https://en.wikipedia.org/wiki/GIMP), [Pixelmator](http://www.pixelmator.com)
 
 ## Integrated Development Environment
+
+**Name**: [CLion](https://en.wikipedia.org/wiki/CLion)<br>
+**PLatforms**: macOS<br>
+**Used Since**: May, 2022
 
 **Name**: [Xcode](https://en.wikipedia.org/wiki/Xcode)<br>
 **Platforms**: macOS<br>
