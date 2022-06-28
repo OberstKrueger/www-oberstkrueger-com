@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00:00Z
 title: Games I Have Played
 type: page
-updated: 2022-06-28T07:00:00Z
+updated: 2022-06-28T07:05:00Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -585,6 +585,7 @@ EverQuest_expansions#The_Shadows_of_Luclin)
 - [World of Goo](https://en.wikipedia.org/wiki/World_of_Goo)
 - [World of Warcraft](https://en.wikipedia.org/wiki/World_of_Warcraft)
 - [World of Warcraft: Cataclysm](https://en.wikipedia.org/wiki/World_of_Warcraft:_Cataclysm)
+- [World of Warcraft: Classic](https://en.wikipedia.org/wiki/World_of_Warcraft_Classic)
 - [World of Warcraft: Legion](https://en.wikipedia.org/wiki/World_of_Warcraft:_Legion)
 - [World of Warcraft: Mists of Pandaria](https://en.wikipedia.org/wiki/World_of_Warcraft:_Mists_of_Pandaria)
 - [World of Warcraft: The Burning Crusade](https://en.wikipedia.org/wiki/World_of_Warcraft:_The_Burning_Crusade)
