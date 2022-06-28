@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00:00Z
 title: Games I Have Played
 type: page
-updated: 2022-05-30T09:00:00Z
+updated: 2022-06-28T07:00:00Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -563,6 +563,7 @@ EverQuest_expansions#The_Shadows_of_Luclin)
 - [Unreal Tournament 2004](https://en.wikipedia.org/wiki/Unreal_Tournament_2004)
 - [Unreal Tournament 3](https://en.wikipedia.org/wiki/Unreal_Tournament_3)
 - [Vanguard: Saga of Heroes](https://en.wikipedia.org/wiki/Vanguard:_Saga_of_Heroes)
+- [Warcraft: Orcs and Humans](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans)
 - [Warcraft II: Beyond the Dark Portal](https://en.wikipedia.org/wiki/Warcraft_II:_Beyond_the_Dark_Portal)
 - [Warcraft II: Tides of Darkness](https://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness)
 - [Warcraft III: Reign of Chaos](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos)
