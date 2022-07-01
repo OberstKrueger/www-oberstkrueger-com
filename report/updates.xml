@@ -7,7 +7,7 @@
 <link href="https://oberstkrueger.com/report/updates.xml" rel="self" />
 <link href="https://oberstkrueger.com/report" />
 <id>https://oberstkrueger.com/report/</id>
-<updated>2022-05-31T10:40:00Z</updated>
+<updated>2022-07-01T11:45:00Z</updated>
 
 <!--
 <entry>
@@ -26,6 +26,34 @@
 </content>
 </entry>
 -->
+
+<entry>
+<title>Updates For June, 2022</title>
+<author>
+<name>OberstKrueger</name>
+</author>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/2206</id>
+<published>2022-07-01T11:45:00Z</published>
+<updated>2022-07-01T11:45:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2022.06</h2>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Diablo_II%3A_Resurrected">Diablo 2: Resurrected</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Elden_Ring">Elden Ring</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild">The Legend of Zelda: Breath of the Wild</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans">Warcraft: Orcs and Humans</a></li>
+<li><a href="https://en.wikipedia.org/wiki/World_of_Warcraft_Classic">World of Warcraft: Classic</a></li>
+</ul>
+<h3>Page Updates</h3>
+<ul>
+<li>Mini Game Reviews: Added Control, Deus Ex: Invisible War</li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For May, 2022</title>
