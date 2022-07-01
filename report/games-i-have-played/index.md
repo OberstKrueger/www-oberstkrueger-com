@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00:00Z
 title: Games I Have Played
 type: page
-updated: 2022-06-28T07:05:00Z
+updated: 2022-07-01T11:55:00Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -467,6 +467,7 @@ EverQuest_expansions#The_Shadows_of_Luclin)
 - [Sonic The Hedgehog 3](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3)
 - [Sonic & Knuckles](https://en.wikipedia.org/wiki/Sonic_%26_Knuckles)
 - [Sonic Spinball](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_Spinball)
+- [Spellbreak](https://en.wikipedia.org/wiki/Spellbreak)
 - [Spy Mouse](https://en.wikipedia.org/wiki/Spy_Mouse)
 - [Spyro the Dragon](https://en.wikipedia.org/wiki/Spyro_the_Dragon_(video_game))
 - [The Stanley Parable](https://en.wikipedia.org/wiki/The_Stanley_Parable)
