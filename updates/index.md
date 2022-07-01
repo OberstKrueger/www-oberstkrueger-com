@@ -2,8 +2,22 @@
 created: 2017-02-27T17:00:00Z
 title: Updates
 type: page
-updated: 2022-05-31T10:50:00Z
+updated: 2022-07-01T11:45:00Z
 ---
+
+## 2022.06
+
+### Games Played
+
+- [Diablo 2: Resurrected](https://en.wikipedia.org/wiki/Diablo_II%3A_Resurrected)
+- [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring)
+- [The Legend of Zelda: Breath of the Wild](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild)
+- [Warcraft: Orcs and Humans](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans)
+- [World of Warcraft: Classic](https://en.wikipedia.org/wiki/World_of_Warcraft_Classic)
+
+### Page Updates
+
+- Mini Game Reviews: Added Control, Deus Ex: Invisible War
 
 ## 2022.05
 
