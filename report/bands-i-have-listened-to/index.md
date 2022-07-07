@@ -2,7 +2,7 @@
 created: 2019-05-16T15:35:00Z
 title: Bands I Have Listened To
 type: page
-updated: 2022-07-01T11:50:00Z
+updated: 2022-07-07T12:05:00Z
 ---
 
 - 311
@@ -71,6 +71,7 @@ updated: 2022-07-01T11:50:00Z
 - Carbon Based LIfeforms
 - CELL
 - Cellar Darling
+- Chaos Magic
 - Charon
 - Chevelle
 - Chiasm
