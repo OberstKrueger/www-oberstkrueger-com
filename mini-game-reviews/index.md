@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50:00Z
 title: Mini Game Reviews
 type: page
-updated: 2022-06-03T10:00:00Z
+updated: 2022-07-19T10:35:00Z
 ---
 
 ## Astro's Playroom
@@ -405,6 +405,14 @@ One of my favorite aspects of the game is that the overall area to explore is sm
 Resident Evil 2 does a great job of making the environment feel dangerous. Areas without lights are truly dark, with your flashlight being the only way you can see. Binaural sound plays a huge role in hinting at where danger is about to pop out at you. This is especially true when Mr. X is stalking you through the police station. Listening to the direction his footsteps are coming from helps to avoid him.
 
 The best part about this remake is that a lot of care was given to every detail of the game. Everything about it felt great, and I had a blast playing through both playthroughs of the game. While I do not feel the need to try and get every unlock, I enjoyed my time immensely and recommend anyone into horror and/or survival to give it a go.
+
+## Serious Sam: Siberian Mayhem
+
+The first two Serious Sam games were favorites of mine back when they were first released. Bespite my enjoyment of them, I stopped playing the serious afterwards. The mixed reviews of Serious Sam 3 and 4 kept me away, but I decided to give Siberian Mayehm a try due to the better reviews. What I played had some nostalgic throwbacks that were enteraining, but overall the game still a step down from the originals.
+
+Serious Sam: Siberian Mayhem is a game that feels too long, despite being a short game at 4-6 hours. There are 5 levels to the game, but the last 2 felt dragged out, with endless waves of enemies that stopped being fun or challenging. The first two Serious Sam games would throw many waves of enemies at you, but it never became tiring the way it did here. The waves of enemies became so extreme at times that you had to just hold down your trigger and wave your gun around due to your view being blocked by how much blood was flying around from the dead enemies. Adding to the frustration with the last levels was performance that was poor no matter what settings were used.
+
+When the final credits rolled, I was relieved. The poor performance combined with the lackluster encounter design made for a very discouraging playthrough. Any feelings I had to try the rest of the entries that I missed has been killed by this game.
 
 ## StarCraft & StarCraft: Brood War
 
