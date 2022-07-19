@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00:00Z
 title: Games I Have Played
 type: page
-updated: 2022-07-01T11:55:00Z
+updated: 2022-07-19T10:15:00Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -301,6 +301,7 @@ EverQuest_expansions#The_Shadows_of_Luclin)
 - [Kirby's Pinball Land](https://en.wikipedia.org/wiki/Kirby%27s_Pinball_Land)
 - [Landmark](https://en.wikipedia.org/wiki/Landmark_(video_game))
 - [Lara Croft Go](https://en.wikipedia.org/wiki/Lara_Croft_Go)
+- [Last Call BBS](https://en.wikipedia.org/wiki/Zachtronics)
 - [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends)
 - [Left 4 Dead](https://en.wikipedia.org/wiki/Left_4_Dead)
 - [Left 4 Dead 2](https://en.wikipedia.org/wiki/Left_4_Dead_2)
