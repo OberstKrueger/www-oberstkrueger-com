@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50:00Z
 title: Mini Game Reviews
 type: page
-updated: 2022-07-19T10:35:00Z
+updated: 2022-07-23T09:00:00Z
 ---
 
 ## Astro's Playroom
@@ -407,6 +407,8 @@ Resident Evil 2 does a great job of making the environment feel dangerous. Areas
 The best part about this remake is that a lot of care was given to every detail of the game. Everything about it felt great, and I had a blast playing through both playthroughs of the game. While I do not feel the need to try and get every unlock, I enjoyed my time immensely and recommend anyone into horror and/or survival to give it a go.
 
 ## Serious Sam: Siberian Mayhem
+
+<img src='serious-sam-siberian-mayhem.webp' alt='Screenshot of Serious Sam: Siberian Mayhem' loading='lazy'>
 
 The first two Serious Sam games were favorites of mine back when they were first released. Bespite my enjoyment of them, I stopped playing the serious afterwards. The mixed reviews of Serious Sam 3 and 4 kept me away, but I decided to give Siberian Mayehm a try due to the better reviews. What I played had some nostalgic throwbacks that were enteraining, but overall the game still a step down from the originals.
 
