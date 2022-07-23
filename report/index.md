@@ -2,7 +2,7 @@
 created: 2016-11-05T13:00:00Z
 title: The Krueger Report
 type: index
-updated: 2022-05-14T10:10:00Z
+updated: 2022-07-23T10:20:00Z
 ---
 
 ## Introduction
@@ -47,10 +47,9 @@ updated: 2022-05-14T10:10:00Z
 
 - [Backups](/report/backups)
 - [CLI Tools](/report/cli-tools)
-- [Current Computing Devices](/report/current-computing-devices)
+- [Computing Devices - Past and Present](/report/computing-devices-past-and-prsent)
 - [DuckDuckGo](/report/duckduckgo)
 - [Logging Off Facebook](/report/logging-off-facebook)
-- [Past Computing Devices](/report/past-computing-devices)
 - [Setting Up Homebrew](/report/setting-up-homebrew)
 - [Simplifying the Smartphone](/report/simplifying-the-smartphone)
 - [Software Tools](/report/software-tools)
