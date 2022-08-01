@@ -7,7 +7,7 @@
 <link href="https://oberstkrueger.com/report/updates.xml" rel="self" />
 <link href="https://oberstkrueger.com/report" />
 <id>https://oberstkrueger.com/report/</id>
-<updated>2022-07-01T11:45:00Z</updated>
+<updated>2022-08-01T01:00:00Z</updated>
 
 <!--
 <entry>
@@ -26,6 +26,37 @@
 </content>
 </entry>
 -->
+
+<entry>
+<title>Updates For July, 2022</title>
+<author>
+<name>OberstKrueger</name>
+</author>
+<link href="https://oberstkrueger.com/report/updates" />
+<id>https://oberstkrueger.com/report/updates/2207</id>
+<published>2022-08-01T01:00:00Z</published>
+<updated>2022-08-01T01:00:00Z</updated>
+<content type="html">
+<![CDATA[
+<h2>2022.07</h2>
+<h3>Books Read</h3>
+<ul>
+<li>David Wingrove, Rand Miller, Robyn Miller - The Book of Atrus</li>
+</ul>
+<h3>Games Played</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Zachtronics">Last Call BBS</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Myst">Myst</a></li>
+<li><a href="https://en.wikipedia.org/wiki/World_of_Warcraft_Classic">World of Warcraft: Classic</a></li>
+</ul>
+<h3>Page Updates</h3>
+<ul>
+<li>Computing Devices - Past and Present: Created from combining the two pages Current Computing Devices and Past Computing Devices.</li>
+<li>Mini Game Reviews: Serious Sam: Siberian Mayhem.</li>
+</ul>
+]]>
+</content>
+</entry>
 
 <entry>
 <title>Updates For June, 2022</title>
