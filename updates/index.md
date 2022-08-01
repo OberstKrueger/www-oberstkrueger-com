@@ -2,8 +2,25 @@
 created: 2017-02-27T17:00:00Z
 title: Updates
 type: page
-updated: 2022-07-01T11:45:00Z
+updated: 2022-08-01T01:00:00Z
 ---
+
+## 2022.07
+
+### Books Read
+
+- David Wingrove, Rand Miller, Robyn Miller - The Book of Atrus
+
+### Games Played
+
+- [Last Call BBS](https://en.wikipedia.org/wiki/Zachtronics)
+- [Myst](https://en.wikipedia.org/wiki/Myst)
+- [World of Warcraft: Classic](https://en.wikipedia.org/wiki/World_of_Warcraft_Classic)
+
+### Page Updates
+
+- Computing Devices - Past and Present: Created from combining the two pages Current Computing Devices and Past Computing Devices.
+- Mini Game Reviews: Serious Sam: Siberian Mayhem.
 
 ## 2022.06
 
