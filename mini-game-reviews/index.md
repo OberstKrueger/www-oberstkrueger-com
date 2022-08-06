@@ -382,6 +382,18 @@ The music for the game, composed by Ben Babbitt, adds to the timeless feel of th
 
 My journey along Route Zero was extraordinary, and one of the best adventure games I have played since the classics of the 90s. But it also feels like a one-time adventure, something that was incredible and memorable but would be lessened by playing through it again. I have experienced the story of Conway, and knowing the twists and turns of his trip would decrease the experience of a second playthrough. But like with most chapters in my own life, a great way to reminisce about my time spent with the game is by listening to the soundtrack, which I have done many times and will continue to long into the future.
 
+## Last Call BBS
+
+<img src='last-call-bbs.webp' alt='Screenshot of Last Call BBS' loading='lazy'>
+
+When word was released that Zachtronics was going to make one last game before hanging up their developer hats, I was both excited and sad. I hoped for a grand final game that could bring together all of their experience from the past decade with the much improved storytelling that has built up especially over their last few games. Instead, the last Zachtronics game turned out to be a disappointment for me, with the feel of a game thrown together and without any sign of a larger story.
+
+Like all Zachtronics games, Last Call BBS is a puzzle game. Unlike the previous entries from them, this is not one in-depth puzzle game from beginning to end, but a collection of smaller puzzles that are not as in-depth as anything previous. Many of the games felt like ideas that were intended to be full games, but instead were included in more basic forms just to have them out there. This is especially the case with 20th Century Food Court and Chipwizard, both games that have more depth than the other included games, but then lacking a coherent story around them. The rest of the mini-games are variations on ideas done before, although implemented very well.
+
+Like Exapunks before it, Last Call BBS uses nostalgia as an element of the story. But this is also a large step backwards, as the story is minimal and just the barest of excuses to get you going from puzzle to puzzle. Exapunks makes a good constrasting game, as that has similar nostalgic hacker themes to it, but it is much more in-depth. Elements of white hat hacking, cyberpunkish corporations, and the idea of opening the public's eyes to how they can fight power made for an enjoyable and complete experience. Last Call BBS instead has you "downloading" games as you read notes from someone opining over days long past. It's reminiscent of TIS-100, although TIS-100 still executed the idea better.
+
+This has been a disappointing end to one of my favorite developers of recent times. Last Call BBS can be a good game if you are only interested in a multitude of challenging puzzles to solve. But if you are looking for the complete Zachtronics experience of puzzles, story, and great music to tie it together, then their other works accomplished this to much greater effect.
+
 ## Quake Champions
 
 <img src='quake-champions.webp' alt='Screenshot of Quake Champions' loading='lazy'>
