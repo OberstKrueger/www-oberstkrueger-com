@@ -193,6 +193,20 @@ The main element of the game that has aged the best over the past decades is the
 
 Despite my considering it a highly influential game for me, it wasn't until 2020 that I completed the game. As one of the groundbreaking works in this particular genre, its gameplay has been improved upon massively in the years since. This makes returning to the original a bit difficult, with the gameplay missing many quality-of-life features that modern iterations have. Despite the graphics, soundtrack, and story that I love, it is hard to replay without using community modifications to improve the gameplay. But since this effort starts to steer it away from the original experience, it is a game that I think is important to play, but not one I will revisit anytime soon.
 
+## Deus Ex: Human Revolution
+
+<img src='deus-ex-human-revolution.webp' alt='Screenshot of Deux Ex: Human Revolution' loading='lazy'>
+
+Deus Ex: Human Revolution marks a return to a series that I remembered enjoying a decade prior. By the game's release in 2011, I knew I loved first-person RPGs, but this game cemented it as one of the most enjoyable ways for a story to be presented to me.
+
+The origianl Deus Ex was heralded for providing the player with multiple paths to complete any objective. Player choice is a big part of the series history, and Human Revolution not only continues it but takes it even further. Stealth is the biggest area where the tools provided have increased greatly from what you could do in the original. In the original, doing a stealthy no-kill playthrough was possible, but at times felt like you were working against the game's expectations. Human Revolution not only expects some players to go this route, but rewards them with many secrets that can only be found through exploration and stealth. Having played through the game both stealthy and as a proficient assassin of everything that stands in the way, the stealthy no-kill run is my preferred method whenever I play the game again.
+
+Many of my reviews note the importance of music to games. This game's soundtrack is in a class of its own. Michael McCann created one of the best soundstracks I've heard. It is one I continue to listen through regularly to this day, and have a playlist in regular rotation that combines many different mixes by other fans into a much longer experience than the official album provides.
+
+The main weakness to the game is that neither released version of the game is perfect. The original version of the game was rightfully criticized for boss encounters that did not mesh with the game overall and in many cases were not fun. The Director's Cut edition fixed this by revamping the boss fights into a much more enjoyable experience, but integrated the DLC mission into the main game. While this mission is a lot of fun on its own, it ruins the pacing of the late game by forcing you to go on a 3-4 hour mission that is unrelated to the main story as it was referrenced to previously. The Director's Cut provides a better experience overall, but it is unfortunate that there is the caveat about the DLC to it.
+
+Deus Ex: Human Revolution is not only one of my favorite games but a highly influential one for me personally. When it was released, I had just been introduced to the idea of transhumanism a few years prior, and this game did a wonderful job of exploring those ideals in more practical terms. The game does not shy away from its cyberpunk and transhumanist roots. Despite already knowing the game inside and out, it is always a fun experience whenever I play through it again every few years.
+
 ## Deus Ex: Invisible War
 
 <img src='deus-ex-invisible-war.webp' alt='Screenshot of Deux Ex: Invisible War' loading='lazy'>
