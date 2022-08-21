@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50:00Z
 title: Mini Game Reviews
 type: page
-updated: 2022-07-23T09:00:00Z
+updated: 2022-08-21T10:55:00Z
 ---
 
 ## Astro's Playroom
@@ -220,6 +220,20 @@ The original game's ending presented a challenge for any sequel, as there were 3
 Invisible War keeps the complex narrative coherent, building effortlessly off of the groundwork laid by the original game. One aspect that the game goes into is how religion has changed. Few games explore the topic of an evolving religion, but Invisible War makes it central to the plotline. How people cling to a neo-Luddite religion in the ˝ of near total collapse of society makes sense, and fits well with the themes of how technology can change humanity. It is a theme that is underexplored in cyberpunk in general, and it was refreshing to see a Deus Ex game tackle it.
 
 Despite the technological issues of the game, Invisible War is not only a solid game, but a good addition to the Deus Ex series. It is the weakest of the whole series, but that does not make it a bad game that should be skipped. I am happy to have pushed through the issues and experienced what it offered, and my next playthrough of the whole series will be sure to include it again.
+
+## Deus Ex: Mankind Divided
+
+<img src='deus-ex-mankind-divided.webp' alt='Screenshot of Deux Ex: Invisible War' loading='lazy'>
+
+Deus Ex: Mankind Divided does what a lot of sequels try not to do: it built on what made the original game so great instead of trying to go into a different direction. Mankind Divided takes every element of the original tries to make it better without adding a bunch of diversionary changes to the systems. The final product is a game that has the best gameplay out of the whole series, without a lot of weak points.
+
+The game highlights its improvements in the first hub level of the game, Prague. All of the games have sandbox hub levels that you are free to play in, but Prague is in a league of its own. There are so many secrets to find there, and ways to use all of the new tools that the game gives you. It both feels like a city but with dozens of intricate puzzles underneath to figure out. The crown jewel of Prague is the Palisade Property Bank, a giant tower with multiple floors that can be approached from more directions than the series typically does.
+
+Mankind Divided is an artistic treat. The graphics of the game are a huge step forward from Human Revolution, with not only more detail in individual objects but many more objects and actors within each level. The music is on par with Human Revolution, with the added variety brought on by Sascha Dikiciyan and Ed Harrison providing many tracks in addition to McCann's typically brilliant work. Voice work is top notch in the game, with a lot of great performances from even minor characters. It is unfortunate that the original voice actor for David Sarif did not return, but the new actor does a great job of showing what a more subdued Sarif would be like.
+
+As strong as the main game is, the expansion packs for it are even better. System Rift is a fun expansion, with the return of Prtichard from Human Revolution. His diagloue with Adam is some of the best in the series. They both hold a grudging respect for each other, but can not stop themselves from verbally sniping at each other. This one feels like it could have been a side quest in the main game, but was too long to include. A Crimianl Past is the standard for what a shorter focused Deus Ex game could be like. The mission it sends you on takes place between Human Revolution and Mankind Divided, sending Adam undercover as an inamte in a maximum security prison. The story is completely detached from the typical conspiracy antics of the main games, which allows it more freedom to tell the story in a different manner. Much as the main game built on what worked well in Human Revolution, A Criminal Past builds on what worked well in the main game. It has some of the best level design in the whole series, it shoudl act as a blueprint for any future games in the series that are made.
+
+Anyone following the series knows that Mankind Divided had a problematic development cycle, with much of the game being rebooted late in development. The main area this shows is the rather abrupt ending, which sets up a sequel that has yet to come. Unfortunately, poor sales have pushed back any sequel from happening in the near term. Despite this issue, everything else about the game is brilliant. Anyone who enjoyed previous games in the series would be doing themselves a disservice by skipping this entry.
 
 ## Diablo
 
