@@ -51,9 +51,9 @@ updated: 2022-08-01T01:00:00Z
 
 ### Page Updates
 
-- [Bands I Have Listened To](https://oberstkrueger.com/report/bands-i-have-listened-to): Combined down to single list of all artists and bands. Added all new bands from the past year that were not included.
-- [Notes On Final Fantasy XIV](https://oberstkrueger.com/report/notes-on-final-fantasy-xiv): Added a note about the page receiving no further updates due to the conclusion of my time playing the game.
-- [Top Tens](https://oberstkrueger.com/report/top-tens): New page highlighting my current top ten books, games, and movies.
+- [Bands I Have Listened To](https://krueger.report/bands-i-have-listened-to): Combined down to single list of all artists and bands. Added all new bands from the past year that were not included.
+- [Notes On Final Fantasy XIV](https://krueger.report/notes-on-final-fantasy-xiv): Added a note about the page receiving no further updates due to the conclusion of my time playing the game.
+- [Top Tens](https://krueger.report/top-tens): New page highlighting my current top ten books, games, and movies.
 
 ## 2022.04
 
@@ -102,7 +102,7 @@ updated: 2022-08-01T01:00:00Z
 
 ### Page Updates
 
-- [Mini Game Reviews](https://oberstkrueger.com/report/mini-game-reviews): God of War, StarCraft II
+- [Mini Game Reviews](https://krueger.report/mini-game-reviews): God of War, StarCraft II
 
 ## 2022.01
 
@@ -118,7 +118,7 @@ updated: 2022-08-01T01:00:00Z
 
 ### Page Updates
 
-- [Years in Review](https://oberstkrueger.com/report/years-in-review): Updated for 2021.
+- [Years in Review](https://krueger.report/years-in-review): Updated for 2021.
 
 ## 2021.12
 
@@ -144,7 +144,7 @@ updated: 2022-08-01T01:00:00Z
 
 ### Page Updates
 
-- [Software Tools](https://oberstkrueger.com/report/software-tools/): Changed RSS reader to Reeder.
+- [Software Tools](https://krueger.report/software-tools/): Changed RSS reader to Reeder.
 
 ## 2021.11
 
@@ -166,7 +166,7 @@ updated: 2022-08-01T01:00:00Z
 
 ### Page Updates
 
-- [Mini Game Reviews](https://oberstkrueger.com/report/mini-game-reviews): Cyberpunk 2077, Deathloop
+- [Mini Game Reviews](https://krueger.report/mini-game-reviews): Cyberpunk 2077, Deathloop
 
 ## 2021.10
 
@@ -193,7 +193,7 @@ updated: 2022-08-01T01:00:00Z
 
 ### Page Updates
 
-- [Mini Game Reviews](https://oberstkrueger.com/report/mini-game-reviews): The 7th Guest, The 11th Hour, The 13th Doll
+- [Mini Game Reviews](https://krueger.report/mini-game-reviews): The 7th Guest, The 11th Hour, The 13th Doll
 
 ## 2021.09
 
@@ -225,13 +225,13 @@ updated: 2022-08-01T01:00:00Z
 
 ### Page Updates
 
-- [Mini Game Reviews](https://oberstkrueger.com/report/mini-game-reviews): Added Darks Souls II and Subnautica: Below Zero.
+- [Mini Game Reviews](https://krueger.report/mini-game-reviews): Added Darks Souls II and Subnautica: Below Zero.
 
 ## 2021.07
 
-[Mini Game Reviews](https://oberstkrueger.com/report/mini-game-reviews) was updated to include reviews of Demon's Souls and Dark Souls III. Both of these games I enjoyed greatly, with Dark Souls III becoming an instant favorite of mine that I know I will be replaying a lot in the future.
+[Mini Game Reviews](https://krueger.report/mini-game-reviews) was updated to include reviews of Demon's Souls and Dark Souls III. Both of these games I enjoyed greatly, with Dark Souls III becoming an instant favorite of mine that I know I will be replaying a lot in the future.
 
-[Past Computing Devices](https://oberstkrueger.com/report/past-computing-devices) now includes details about my current gaming PC. This machine took a lot of effort to acquire the components for due to the COVID-19 pandemic, and I was lucky to get exactly what I was looking for.
+[Past Computing Devices](https://krueger.report/past-computing-devices) now includes details about my current gaming PC. This machine took a lot of effort to acquire the components for due to the COVID-19 pandemic, and I was lucky to get exactly what I was looking for.
 
 ### Books Read
 
@@ -249,7 +249,7 @@ updated: 2022-08-01T01:00:00Z
 
 ### Page Updates
 
-- [Software Tools](https://oberstkrueger.com/report/software-tools) was updated to include new software that I am using. There is not a lot of changes, just a few new tools and some shifting of specific tools across the different operating systems. Despite not evaluating the page in nearly one year, I have not made many changes to what I use on a day-to-day basis.
+- [Software Tools](https://krueger.report/software-tools) was updated to include new software that I am using. There is not a lot of changes, just a few new tools and some shifting of specific tools across the different operating systems. Despite not evaluating the page in nearly one year, I have not made many changes to what I use on a day-to-day basis.
 
 ### Books Read
 
@@ -303,7 +303,7 @@ updated: 2022-08-01T01:00:00Z
 
 ### Page Updates
 
-[Mini Game Reviews](https://oberstkrueger.com/report) received its first update in half a year with the addition of Kentucky Route Zero. Writing my thoughts on the game was difficult, as it was a phenomenal game, and a mini review does not do it full justice. In time, a more complete review will be written to put down my complete thoughts on the game.
+[Mini Game Reviews](https://krueger.report) received its first update in half a year with the addition of Kentucky Route Zero. Writing my thoughts on the game was difficult, as it was a phenomenal game, and a mini review does not do it full justice. In time, a more complete review will be written to put down my complete thoughts on the game.
 
 ### Articles Read
 
@@ -392,7 +392,7 @@ updated: 2022-08-01T01:00:00Z
 
 ### Page Updates
 
-2020 has been a strange year. Despite all of the challenges brought about by the COVID-19 pandemic, I managed to keep on track for many of my projects, which I highlighted in a new entry in [Years In Review](https://oberstkrueger.com/report/years-in-review).
+2020 has been a strange year. Despite all of the challenges brought about by the COVID-19 pandemic, I managed to keep on track for many of my projects, which I highlighted in a new entry in [Years In Review](https://krueger.report/years-in-review).
 
 ### Articles Read
 
@@ -487,7 +487,7 @@ updated: 2022-08-01T01:00:00Z
 
 ### Page Updates
 
-- [Software Tools](https://oberstkrueger.com/report/software-tools/) has been updated significantly with newer tools that I use. I have also dropped the exact date that I started using an application, as it was based on purchased date and not likely accurate.
+- [Software Tools](https://krueger.report/software-tools/) has been updated significantly with newer tools that I use. I have also dropped the exact date that I started using an application, as it was based on purchased date and not likely accurate.
 
 ### Favorite Articles
 
@@ -514,7 +514,7 @@ updated: 2022-08-01T01:00:00Z
 
 ### Page Updates
 
-For the first time in 4 years, I have made a significant change to my [data backup strategy](https://oberstkrueger.com/report/backups/). New features of Arq have allowed me to transition to an online-only backup. My monthly cost has not gone up substantially, despite my backups now being in three online locations instead of just one. It is hard to say how long this current scheme will last, but I intend for it to be a ten or more year plan.
+For the first time in 4 years, I have made a significant change to my [data backup strategy](https://krueger.report/backups/). New features of Arq have allowed me to transition to an online-only backup. My monthly cost has not gone up substantially, despite my backups now being in three online locations instead of just one. It is hard to say how long this current scheme will last, but I intend for it to be a ten or more year plan.
 
 ### Favorite Articles
 
@@ -548,15 +548,15 @@ For the first time in 4 years, I have made a significant change to my [data back
 
 ### Past Computing Devices
 
-For the past month, I have been going researching as much as I can about all of the [past computing devices](https://oberstkrueger.com/report/past-computing-devices/) that I have used throughout my life. This includes as desktop and laptop computers, smartphones, smartwatches, and tablets. It was interesting figuring out what I have used in the past. The specific models of my first two computers were impossible to locate, although I think I did get close on the second computer, and the timeline for my GPU upgrades might be missing an entry, but overall, I think I found everything else that I have used in my life. Video game consoles are not currently included, but I do plan to go back and add them at some point.
+For the past month, I have been going researching as much as I can about all of the [past computing devices](https://krueger.report/past-computing-devices/) that I have used throughout my life. This includes as desktop and laptop computers, smartphones, smartwatches, and tablets. It was interesting figuring out what I have used in the past. The specific models of my first two computers were impossible to locate, although I think I did get close on the second computer, and the timeline for my GPU upgrades might be missing an entry, but overall, I think I found everything else that I have used in my life. Video game consoles are not currently included, but I do plan to go back and add them at some point.
 
 ### WWDC 2020
 
-[WWDC 2020](https://oberstkrueger.com/report/wwdc-2020/) is one of the most important computer events for me each year. I have never published any thoughts about it before, reserving that for conversations with friends. This year, marking the new big platform transition announced, I decided to expand my thoughts into a piece so I can later refer back to what excited me and what concerned me about this year's events.
+[WWDC 2020](https://krueger.report/wwdc-2020/) is one of the most important computer events for me each year. I have never published any thoughts about it before, reserving that for conversations with friends. This year, marking the new big platform transition announced, I decided to expand my thoughts into a piece so I can later refer back to what excited me and what concerned me about this year's events.
 
 ### Page Updates
 
-[Notes on Final Fantasy XIV](https://oberstkrueger.com/report/notes-on-final-fantasy-xiv/) was updated to list all of the entries in chronological order. Initially, all of the raids and trials were in alphabetical order, but due there now being so many entries, search is required anyways to find a specific one quickly. Therefore, having it in chronological order is helpful for knowing what is missing and what is not.
+[Notes on Final Fantasy XIV](https://krueger.report/notes-on-final-fantasy-xiv/) was updated to list all of the entries in chronological order. Initially, all of the raids and trials were in alphabetical order, but due there now being so many entries, search is required anyways to find a specific one quickly. Therefore, having it in chronological order is helpful for knowing what is missing and what is not.
 
 ### Favorite Articles
 
@@ -591,9 +591,9 @@ For the past month, I have been going researching as much as I can about all of 
 
 ### Page Updates
 
-When I rebooted my then iTunes library, I created a list of every band that I had in the library. My intent was to go back through this list slowly, listen to bands again, and as I did, add them to [Bands I Have Listened To](https://oberstkrueger.com/report/bands-i-have-listened-to/). This was an incredibly slow process. To rectify this, I went down the list and added all of the bands I have listened to in some form to their appropriate spot. There are some bands that I am sure I have missed, but it is a much more accurate list now.
+When I rebooted my then iTunes library, I created a list of every band that I had in the library. My intent was to go back through this list slowly, listen to bands again, and as I did, add them to [Bands I Have Listened To](https://krueger.report/bands-i-have-listened-to/). This was an incredibly slow process. To rectify this, I went down the list and added all of the bands I have listened to in some form to their appropriate spot. There are some bands that I am sure I have missed, but it is a much more accurate list now.
 
-My [running list of books](https://oberstkrueger.com/report/books-i-have-read/) that I have read was updated to be categorized instead of a straight list. The overarching classes are based on the Dewey Decimal System, although I split Philosophy and Psychology into their own categories. With the intent of trying to stay well-rounded, knowing which categories I read heavy in and which I don't will be helpful.
+My [running list of books](https://krueger.report/books-i-have-read/) that I have read was updated to be categorized instead of a straight list. The overarching classes are based on the Dewey Decimal System, although I split Philosophy and Psychology into their own categories. With the intent of trying to stay well-rounded, knowing which categories I read heavy in and which I don't will be helpful.
 
 ### Favorite Articles
 
@@ -620,7 +620,7 @@ My [running list of books](https://oberstkrueger.com/report/books-i-have-read/) 
 
 ### Mini Game Reviews
 
-In an effort to get back into writing again, I wrote two [mini reviews](https://oberstkrueger.com/report/mini-game-reviews/) for Black Mesa and Dear Esther. Both are games that I enjoyed quite a bit.
+In an effort to get back into writing again, I wrote two [mini reviews](https://krueger.report/mini-game-reviews/) for Black Mesa and Dear Esther. Both are games that I enjoyed quite a bit.
 
 ### Favorite Articles
 
@@ -1125,11 +1125,11 @@ A new appendix has been created to keep track of all of the artists and bands th
 
 ### Year In Review
 
-[Years In Review](https://oberstkrueger.com/report/years-in-review/) now includes some of my favorites from 2018.
+[Years In Review](https://krueger.report/years-in-review/) now includes some of my favorites from 2018.
 
 ### Mini Game Reviews
 
-I have always enjoyed writing about the games that I play, highlighting my favorite aspects of the work. One problem I have when doing this is that I constantly find new rabbit holes to go down. The game review slowly turns into a whole article about every aspect of the game, what the developers intentions were, what worked and didn't work, etc. To counter this, I created [Mini Game Reviews](https://oberstkrueger.com/report/mini-game/reviews) with the intent of writing a short review for every game I play. My target is to have a 3-5 paragraph goal for each review, so I can talk about what I liked and didn't like, and my overall impression of the game. Some games I plan to write more about, but these in-depth articles can be reserved for specific games, not every one that I play.
+I have always enjoyed writing about the games that I play, highlighting my favorite aspects of the work. One problem I have when doing this is that I constantly find new rabbit holes to go down. The game review slowly turns into a whole article about every aspect of the game, what the developers intentions were, what worked and didn't work, etc. To counter this, I created [Mini Game Reviews](https://krueger.report/mini-game/reviews) with the intent of writing a short review for every game I play. My target is to have a 3-5 paragraph goal for each review, so I can talk about what I liked and didn't like, and my overall impression of the game. Some games I plan to write more about, but these in-depth articles can be reserved for specific games, not every one that I play.
 
 ### Favorite Articles
 
@@ -1284,11 +1284,11 @@ The below are some various other articles that I enjoyed.
 
 ### Why Automate
 
-One of the fundamental uses of computer devices is to automate my life. I try to run my life based on the principles set forth by David Allen in his GTD book, and a large part of his work relies on offloading tasks to something else that can properly handle it. For me, this is a mixture of computer scripts, applications, and workflows to make better use of my time. [Why Automate?](https://oberstkrueger.com/report/why-automate/) goes into specifics of how and why I love doing this.
+One of the fundamental uses of computer devices is to automate my life. I try to run my life based on the principles set forth by David Allen in his GTD book, and a large part of his work relies on offloading tasks to something else that can properly handle it. For me, this is a mixture of computer scripts, applications, and workflows to make better use of my time. [Why Automate?](https://krueger.report/why-automate/) goes into specifics of how and why I love doing this.
 
 ### Automating Podcasts
 
-There are many ways to automate computer usage, but one of the less talked about ways is to make GUI tools function on there own. [Automating Podcasts](https://oberstkrueger.com/report/automating-podcasts/) highlights how I use the iOS app Overcast to operate on its own other than needing to hit the play and stop buttons.
+There are many ways to automate computer usage, but one of the less talked about ways is to make GUI tools function on there own. [Automating Podcasts](https://krueger.report/automating-podcasts/) highlights how I use the iOS app Overcast to operate on its own other than needing to hit the play and stop buttons.
 
 ### Favorite Articles
 
@@ -1445,7 +1445,7 @@ The below are some various other articles that I enjoyed.
 
 ### Simplifying the Smartphone
 
-[Simplifying the Smartphone](https://oberstkrueger.com/report/simplifying-the-smartphone) documents my attempt to break my smartphone addiction. I modeled my iPhone setup on the Siempo phone, an unreleased smartphone that aimed to provide the bare necessities without all of the negatives. I have had my iPhone setup like this for roughly 6 months now, and consider the experiment a success, albeit with some small app consolidations to make in the future.
+[Simplifying the Smartphone](https://krueger.report/simplifying-the-smartphone) documents my attempt to break my smartphone addiction. I modeled my iPhone setup on the Siempo phone, an unreleased smartphone that aimed to provide the bare necessities without all of the negatives. I have had my iPhone setup like this for roughly 6 months now, and consider the experiment a success, albeit with some small app consolidations to make in the future.
 
 ### Favorite Articles
 
@@ -1520,13 +1520,13 @@ The below are some various other articles that I enjoyed.
 
 ### Exit Status Codes
 
-An important part of building any CLI tool on a Unix system is to have it interact with the rest of the system in a Unix-y way. One way this manifests is by providing the proper exit status upon termination of the executable. Outside of the most basic response of success or error, this means assigning meaning to numbers that do not have any standard meaning. [Exit Status Codes](https://oberstkrueger.com/report/exit-status-codes) highlights what I found as the best practices for implementing these codes beyond the basics provided by individual programming languages.
+An important part of building any CLI tool on a Unix system is to have it interact with the rest of the system in a Unix-y way. One way this manifests is by providing the proper exit status upon termination of the executable. Outside of the most basic response of success or error, this means assigning meaning to numbers that do not have any standard meaning. [Exit Status Codes](https://krueger.report/exit-status-codes) highlights what I found as the best practices for implementing these codes beyond the basics provided by individual programming languages.
 
 ### Updates
 
-[Software Tools](https://oberstkrueger.com/report/software-tools/): Over the past few months, I have been using git more from the command-line and relying less on Tower. Having a GUI front-end was useful while learning the intricacies of git, but as time went on, it turned into a crutch. Tower is still my recommendation for a GUI git client for anyone who asks, but I myself no longer use it.
+[Software Tools](https://krueger.report/software-tools/): Over the past few months, I have been using git more from the command-line and relying less on Tower. Having a GUI front-end was useful while learning the intricacies of git, but as time went on, it turned into a crutch. Tower is still my recommendation for a GUI git client for anyone who asks, but I myself no longer use it.
 
-[Tracking Sleep](https://oberstkrueger.com/report/tracking-sleep/): iOS's Do Not Disturb mode is an important part of sleep tracking, as without it, it would be precarious to sleep with both my iPhone and Watch nearby. I have updated the importance of using this 6 year old feature.
+[Tracking Sleep](https://krueger.report/tracking-sleep/): iOS's Do Not Disturb mode is an important part of sleep tracking, as without it, it would be precarious to sleep with both my iPhone and Watch nearby. I have updated the importance of using this 6 year old feature.
 
 ### Favorite Articles
 
@@ -1571,7 +1571,7 @@ An important part of building any CLI tool on a Unix system is to have it intera
 
 ### The Games of Tomorrow Corporation
 
-Tomorrow Corporation makes some of my all-time favorite games. Each of their games have impacted me deeply, from the story and music to the fun gameplay. In [The Games of Tomorrow Corporation](https://oberstkrueger.com/report/the-games-of-tomorrow-corporation), I talk a little about why I love these games so much.
+Tomorrow Corporation makes some of my all-time favorite games. Each of their games have impacted me deeply, from the story and music to the fun gameplay. In [The Games of Tomorrow Corporation](https://krueger.report/the-games-of-tomorrow-corporation), I talk a little about why I love these games so much.
 
 ### Favorite Articles
 
@@ -1620,11 +1620,11 @@ Tomorrow Corporation makes some of my all-time favorite games. Each of their gam
 
 ### Traveling Minimally
 
-One of my least favorite parts of traveling is packing. Going down a long checklist of necessary items before hand and then double checking to make sure everything is packed before returning takes away from the joy of visiting other parts of the world. To help with this, I keep a simple philosophy of [Traveling Minimally](https://oberstkrueger.com/report/traveling-minimally) that helps make my daily travels and vacations much easier to handle.
+One of my least favorite parts of traveling is packing. Going down a long checklist of necessary items before hand and then double checking to make sure everything is packed before returning takes away from the joy of visiting other parts of the world. To help with this, I keep a simple philosophy of [Traveling Minimally](https://krueger.report/traveling-minimally) that helps make my daily travels and vacations much easier to handle.
 
 ### Updates
 
-With the recreation of my iTunes library earlier this year, my collection of [Work Music](https://oberstkrueger.com/report/work-music) has been updated. A number of genres have been dropped entirely, and the back to basics approach that I have taken with music as a whole has changed what I listen to while I work.
+With the recreation of my iTunes library earlier this year, my collection of [Work Music](https://krueger.report/work-music) has been updated. A number of genres have been dropped entirely, and the back to basics approach that I have taken with music as a whole has changed what I listen to while I work.
 
 ### Favorite Articles
 
@@ -1681,13 +1681,13 @@ With the recreation of my iTunes library earlier this year, my collection of [Wo
 
 ### CLI Tools
 
-One of the big reasons that I continue to keep macOS as my primary operating system is the first-class terminal access that it provides. Much of my work is done in GUI applications, but a command-line is always present on my screen. [CLI Tools](https://oberstkrueger.com/report/cli-tools) is a list of all of my currently used tools, with a quick reference for the most commonly used commands.
+One of the big reasons that I continue to keep macOS as my primary operating system is the first-class terminal access that it provides. Much of my work is done in GUI applications, but a command-line is always present on my screen. [CLI Tools](https://krueger.report/cli-tools) is a list of all of my currently used tools, with a quick reference for the most commonly used commands.
 
 ### Updates
 
-[Disabling Gaming Platforms' Social Features](https://oberstkrueger.com/report/disabling-gaming-platforms-social-features/) now includes information about disabling certain features of Xbox Live on Windows. This is largely not a concern as there is little functionality within Xbox Live on Windows, but being able to control it some is still a plus.
+[Disabling Gaming Platforms' Social Features](https://krueger.report/disabling-gaming-platforms-social-features/) now includes information about disabling certain features of Xbox Live on Windows. This is largely not a concern as there is little functionality within Xbox Live on Windows, but being able to control it some is still a plus.
 
-[Scripting with Swift](https://oberstkrueger.com/report/scripting-with-swift) has been updated to include more guidance on how to use Swift for command-line scripting purposes. One of my favorite aspects of Swift is how well it works for scripting, so I have expanded on why it is so great.
+[Scripting with Swift](https://krueger.report/scripting-with-swift) has been updated to include more guidance on how to use Swift for command-line scripting purposes. One of my favorite aspects of Swift is how well it works for scripting, so I have expanded on why it is so great.
 
 ### Favorite Articles
 
@@ -1745,11 +1745,11 @@ One of the big reasons that I continue to keep macOS as my primary operating sys
 
 ### Updating Sublime
 
-When it comes to programming tools, I am always looking at what is available that might replace what I currently have. Last year, I wanted to give all of the major text editors a go to see if it was worth considering replacing Sublime Text as my main text editor after many years of use. The experiments were fruitful, and while I am back using Sublime for the foreseeable future, I took away a lot of useful information from how the other editors functioned that I have included in [Updating Sublime Text](https://oberstkrueger.com/report/updating-sublime-text).
+When it comes to programming tools, I am always looking at what is available that might replace what I currently have. Last year, I wanted to give all of the major text editors a go to see if it was worth considering replacing Sublime Text as my main text editor after many years of use. The experiments were fruitful, and while I am back using Sublime for the foreseeable future, I took away a lot of useful information from how the other editors functioned that I have included in [Updating Sublime Text](https://krueger.report/updating-sublime-text).
 
 ### Updates
 
-[Software Tools](https://oberstkrueger.com/report/software-tools/) has been updated with many new categories of tools, as well as updates to old tools that I no longer use.
+[Software Tools](https://krueger.report/software-tools/) has been updated with many new categories of tools, as well as updates to old tools that I no longer use.
 
 ### Favorite Articles
 
@@ -1808,7 +1808,7 @@ When it comes to programming tools, I am always looking at what is available tha
 
 ### Updates
 
-This month, I finished up the notes I took for [The Half-Life of Facts](https://oberstkrueger.com/report/notes-on-books/the-half-life-of-facts). This book looks as how knowledge changes over time, and particularly how different fields are affected. It also highlights some of the issues that modern research has, particularly with regards to how incorrect facts can persist no matter what other research shows.
+This month, I finished up the notes I took for [The Half-Life of Facts](https://krueger.report/notes-on-books/the-half-life-of-facts). This book looks as how knowledge changes over time, and particularly how different fields are affected. It also highlights some of the issues that modern research has, particularly with regards to how incorrect facts can persist no matter what other research shows.
 
 ### Favorite Articles
 
@@ -1852,7 +1852,7 @@ This month, I finished up the notes I took for [The Half-Life of Facts](https://
 
 ### Updates
 
-[Moonwalking With Einstein](https://oberstkrueger.com/report/notes-on-books/moonwalking-with-einstein) is a great read about the techniques used by master memory competition champions. This has been one of the more fun books I have read recently, especially since I sometimes worry that my memory is going bad. It isn't, necessarily, but I still plan to incorporate some of the techniques mentioned in this book to try and remember more things, instead of simply relying on technology to do it for me.
+[Moonwalking With Einstein](https://krueger.report/notes-on-books/moonwalking-with-einstein) is a great read about the techniques used by master memory competition champions. This has been one of the more fun books I have read recently, especially since I sometimes worry that my memory is going bad. It isn't, necessarily, but I still plan to incorporate some of the techniques mentioned in this book to try and remember more things, instead of simply relying on technology to do it for me.
 
 ### Favorite Articles
 
@@ -1910,7 +1910,7 @@ This month, I finished up the notes I took for [The Half-Life of Facts](https://
 
 ### Year In Review
 
-2017 has come and gone. [Years In Review](https://oberstkrueger.com/report/years-in-review/) has been updated with some of my favorite games, music, and thoughts about the year.
+2017 has come and gone. [Years In Review](https://krueger.report/years-in-review/) has been updated with some of my favorite games, music, and thoughts about the year.
 
 ### Favorite Articles
 
@@ -1959,11 +1959,11 @@ This month, I finished up the notes I took for [The Half-Life of Facts](https://
 
 ### Rebooting iTunes
 
-Nearly 10 years ago, I created the iTunes library that I had been using consistently up until 6 months ago. This library was bloated and hard to reason around, as it had more songs in it than I could listen to. To fix this problem, I decided to [reboot iTunes](https://oberstkrueger.com/report/rebooting-itunes), to purge everything out of it and start fresh. This has been a huge task and one that I was unsure would work out, but in the end, it has helped revitalize my music listening and helped solidify what I actually enjoy listening to.
+Nearly 10 years ago, I created the iTunes library that I had been using consistently up until 6 months ago. This library was bloated and hard to reason around, as it had more songs in it than I could listen to. To fix this problem, I decided to [reboot iTunes](https://krueger.report/rebooting-itunes), to purge everything out of it and start fresh. This has been a huge task and one that I was unsure would work out, but in the end, it has helped revitalize my music listening and helped solidify what I actually enjoy listening to.
 
 ### Selecting Movies
 
-On an old version of The Krueger Report, I wrote about how the amount of new movies I was watching had gone down. At the time, I resolved to watch at least a couple new movies every month, working down the list of what is considered the best movies of all time as well as any personal preferences that I have. I kept up this habit for about about a year, but then it again fell by the wayside. Getting back in the habit of [selecting movies](https://oberstkrueger.com/report/selecting-movies) to watch and keeping up with it is a goal of mine for the upcoming year.
+On an old version of The Krueger Report, I wrote about how the amount of new movies I was watching had gone down. At the time, I resolved to watch at least a couple new movies every month, working down the list of what is considered the best movies of all time as well as any personal preferences that I have. I kept up this habit for about about a year, but then it again fell by the wayside. Getting back in the habit of [selecting movies](https://krueger.report/selecting-movies) to watch and keeping up with it is a goal of mine for the upcoming year.
 
 ### Favorite Articles
 
@@ -2017,7 +2017,7 @@ On an old version of The Krueger Report, I wrote about how the amount of new mov
 
 ### Notes On Books
 
-A new habit that I have picked up recently is taking notes on non-fiction books that I can reference later. Taking notes has forced me to slow down my reading speed while also reinforcing my comprehension of the work. Since The Krueger Report is as much a reference for myself as anyone else, adding those notes here makes sense. My initial entries into this category are for a pair of books: [Crash Override](https://oberstkrueger.com/report/notes-on-books/crashoverride) and [Resilient Web Design](https://oberstkrueger.com/report/notes-on-books/resilient-web-design).
+A new habit that I have picked up recently is taking notes on non-fiction books that I can reference later. Taking notes has forced me to slow down my reading speed while also reinforcing my comprehension of the work. Since The Krueger Report is as much a reference for myself as anyone else, adding those notes here makes sense. My initial entries into this category are for a pair of books: [Crash Override](https://krueger.report/notes-on-books/crashoverride) and [Resilient Web Design](https://krueger.report/notes-on-books/resilient-web-design).
 
 ### Favorite Articles
 
@@ -2075,11 +2075,11 @@ A new habit that I have picked up recently is taking notes on non-fiction books 
 
 ### Setting Up Homebrew
 
-Homebrew is one of my most used utilities on macOS. [Setting Up Homebrew](https://oberstkrueger.com/report/setting-up-homebrew) is both a quick guide for setting up Homebrew from scratch and a reference for its most used commands.
+Homebrew is one of my most used utilities on macOS. [Setting Up Homebrew](https://krueger.report/setting-up-homebrew) is both a quick guide for setting up Homebrew from scratch and a reference for its most used commands.
 
 ### Updates
 
-I have added current screenshots of both my iOS and macOS workspaces to [About The Author](https://oberstkrueger.com/report/about-the-author/). Monthly updates to this are my intention, so that I can see how my workspaces change with time.
+I have added current screenshots of both my iOS and macOS workspaces to [About The Author](https://krueger.report/about-the-author/). Monthly updates to this are my intention, so that I can see how my workspaces change with time.
 
 ### Books Read
 
@@ -2129,21 +2129,21 @@ I have added current screenshots of both my iOS and macOS workspaces to [About T
 
 ### Scripting With Swift
 
-One of my favorite parts of macOS is the scripting capabilities of it. GUI applications can be scripted with AppleScript, and terminal applications and OS-level features can be scripted using Bash, Python, and now Swift. I've been experimenting with [creating scripts using Swift](https://oberstkrueger.com/report/scripting-with-swift/), and while the results are still early, it's turning out to be a capable language for this usage.
+One of my favorite parts of macOS is the scripting capabilities of it. GUI applications can be scripted with AppleScript, and terminal applications and OS-level features can be scripted using Bash, Python, and now Swift. I've been experimenting with [creating scripts using Swift](https://krueger.report/scripting-with-swift/), and while the results are still early, it's turning out to be a capable language for this usage.
 
 ### Walt Disney World - 2016
 
-Last year, Whitney and I went to [Walt Disney World](https://oberstkrueger.com/report/trips/walt-disney-world-2016). This was my third trip there, but the first for Whitney. I did not take as many photographs as I would have liked, some of the highlights are included here.
+Last year, Whitney and I went to [Walt Disney World](https://krueger.report/trips/walt-disney-world-2016). This was my third trip there, but the first for Whitney. I did not take as many photographs as I would have liked, some of the highlights are included here.
 
 ### Solar Eclipse - 2017
 
-This month saw a total eclipse pass over the United States. While it did not pass with 100% coverage over Portland, it was close enough to make it worth a [short trip out to see it](https://oberstkrueger.com/report/trips/solar-eclipse-2017).
+This month saw a total eclipse pass over the United States. While it did not pass with 100% coverage over Portland, it was close enough to make it worth a [short trip out to see it](https://krueger.report/trips/solar-eclipse-2017).
 
 ### Updates
 
-Since I have now been [tracking my sleep for over a year](https://oberstkrueger.com/report/tracking-sleep/), I am able to include an example of the graphical representation from health of that sleep data.
+Since I have now been [tracking my sleep for over a year](https://krueger.report/tracking-sleep/), I am able to include an example of the graphical representation from health of that sleep data.
 
-I categorized all of the tools I have listed on [Software Tools](https://oberstkrueger.com/report/software-tools/). By breaking it up into operating system and task categories, I am better able to see my reliance on any single operating system. macOS remains the more important operating system for my uses, particularly with more power user functions, but iOS is catching up. I will continue my goal of staying as cross-platform as possible, should the day ever arrive where removing macOS from the equation is a possibility.
+I categorized all of the tools I have listed on [Software Tools](https://krueger.report/software-tools/). By breaking it up into operating system and task categories, I am better able to see my reliance on any single operating system. macOS remains the more important operating system for my uses, particularly with more power user functions, but iOS is catching up. I will continue my goal of staying as cross-platform as possible, should the day ever arrive where removing macOS from the equation is a possibility.
 
 ### Books Read
 
@@ -2182,19 +2182,19 @@ I categorized all of the tools I have listed on [Software Tools](https://oberstk
 
 ### base-css
 
-Last month as I was working on revamping this site's theme, I decided to create a small set of boilerplate CSS that I can use on future projects. What I have called [base-css](https://oberstkrueger.com/report/programming/base-css) is my new set of CSS that I used as the core of the new theme. Going forward, I plan to use base-css for all projects just so that some essential values can be set without having to spend time rebuilding it from scratch.
+Last month as I was working on revamping this site's theme, I decided to create a small set of boilerplate CSS that I can use on future projects. What I have called [base-css](https://krueger.report/programming/base-css) is my new set of CSS that I used as the core of the new theme. Going forward, I plan to use base-css for all projects just so that some essential values can be set without having to spend time rebuilding it from scratch.
 
 ### Movies I Have Watched
 
-[Movies I Have Watched](https://oberstkrueger.com/report/movies-i-have-watched) is a new appendix with a list of all of the movies I have watched. There are some that will be missing from that list as of right now, but after having spent a few hours working on this, I know the vast majority are already listed.
+[Movies I Have Watched](https://krueger.report/movies-i-have-watched) is a new appendix with a list of all of the movies I have watched. There are some that will be missing from that list as of right now, but after having spent a few hours working on this, I know the vast majority are already listed.
 
 ### Notes On Final Fantasy XIV
 
-Final Fantasy XIV has been my main MMORPG since it's relaunch in August, 2013. One of my favorite aspects of the game is the focus on Trials, which are essentially boss fights without a corresponding dungeon to clear through beforehand. [Notes On Final Fantasy XIV](https://oberstkrueger.com/report/notes-on-final-fantasy-xiv) is mostly notes to myself on what to watch for during each Trial, from the perspective of a main-tank or off-tank.
+Final Fantasy XIV has been my main MMORPG since it's relaunch in August, 2013. One of my favorite aspects of the game is the focus on Trials, which are essentially boss fights without a corresponding dungeon to clear through beforehand. [Notes On Final Fantasy XIV](https://krueger.report/notes-on-final-fantasy-xiv) is mostly notes to myself on what to watch for during each Trial, from the perspective of a main-tank or off-tank.
 
 ### Updates
 
-A few months back, Amazon Drive pricing changed from being $5/month for unlimited storage to $5/month per terabyte of storage. At the time of the change, I did not feel the need to change my backup plan, but at the back of my mind was the fleeting thought that Amazon might change their offerings again. After surveying the backup field again, I have since moved my [backups](https://oberstkrueger.com/report/backups) off of Amazon to B2.
+A few months back, Amazon Drive pricing changed from being $5/month for unlimited storage to $5/month per terabyte of storage. At the time of the change, I did not feel the need to change my backup plan, but at the back of my mind was the fleeting thought that Amazon might change their offerings again. After surveying the backup field again, I have since moved my [backups](https://krueger.report/backups) off of Amazon to B2.
 
 ### Books Read
 
@@ -2245,7 +2245,7 @@ Most blogs are lighter in color, with common thinking being that dark text on a 
 
 ### Helpful Algorithms
 
-In programming, algorithms and functions are one of the main tools at your disposal. Many functions can be re-used in later projects. [Helpful Algorithms](https://oberstkrueger.com/report/helpful-algorithms) is a resource for common algorithms that I use. Starting out, a lot of them are math functions that I created for Project Euler, but I also plan to go back and learn more fundamental programming algorithms and create my own implementations of them.
+In programming, algorithms and functions are one of the main tools at your disposal. Many functions can be re-used in later projects. [Helpful Algorithms](https://krueger.report/helpful-algorithms) is a resource for common algorithms that I use. Starting out, a lot of them are math functions that I created for Project Euler, but I also plan to go back and learn more fundamental programming algorithms and create my own implementations of them.
 
 ### Updates
 
@@ -2290,11 +2290,11 @@ I did not make any substantial updates to any pages this month, due to focusing 
 
 ### Hello, World!
 
-I have never written a proper introduction for The Krueger Report. This has now been corrected with [Hello, World!](https://oberstkrueger.com/report/hello-world), with my objectives of this site as well as how I am accomplishing that.
+I have never written a proper introduction for The Krueger Report. This has now been corrected with [Hello, World!](https://krueger.report/hello-world), with my objectives of this site as well as how I am accomplishing that.
 
 ### Updates
 
-With Amazon Cloud Drive's removal of unlimited storage, I needed to review my [Backup](https://oberstkrueger.com/report/backups/) plan. Even at a price of $5/month per terabyte instead of $5/month for unlimited, Amazon Cloud Drive remains one of the best deals available For now, I am not changing what service I am backing up to, although Amazon's penchant for changing their offerings with little notice outside of core AWS services leaves me wary of continuing to use them into the future.
+With Amazon Cloud Drive's removal of unlimited storage, I needed to review my [Backup](https://krueger.report/backups/) plan. Even at a price of $5/month per terabyte instead of $5/month for unlimited, Amazon Cloud Drive remains one of the best deals available For now, I am not changing what service I am backing up to, although Amazon's penchant for changing their offerings with little notice outside of core AWS services leaves me wary of continuing to use them into the future.
 
 ### Books Read
 
@@ -2332,7 +2332,7 @@ With Amazon Cloud Drive's removal of unlimited storage, I needed to review my [B
 
 ### Appendices
 
-One of the (largely less interesting?) parts of this project is documenting all of the types of media that I have experienced. The first page of this was [Games I Have Played](https://oberstkrueger.com/report/games-i-have-played), and with the addition of [Podcasts I Have Listened To](https://oberstkrueger.com/report/podcasts-i-have-listened-to/), I decided to move this information to a new section. Since I am mimicking the structure of a book, I thought that putting these in as Appendices made sense, since it's less important information and can sit at the end of the whole project. It also opens up the possibility of me adding other appendices as time goes on without it diluting the worth of other content.
+One of the (largely less interesting?) parts of this project is documenting all of the types of media that I have experienced. The first page of this was [Games I Have Played](https://krueger.report/games-i-have-played), and with the addition of [Podcasts I Have Listened To](https://krueger.report/podcasts-i-have-listened-to/), I decided to move this information to a new section. Since I am mimicking the structure of a book, I thought that putting these in as Appendices made sense, since it's less important information and can sit at the end of the whole project. It also opens up the possibility of me adding other appendices as time goes on without it diluting the worth of other content.
 
 ### Books Read
 
@@ -2377,17 +2377,17 @@ One of the (largely less interesting?) parts of this project is documenting all 
 
 ### Updates
 
-In the past month, I have revamped my [Exercise Routine](https://oberstkrueger.com/report/exercise-routine/). The activities are largely the same, but I have moved away from certain exercises being done only on certain days. The scripts for calculating my exercise build-ups has also been updated to Python due to the simplicity of the used code.
+In the past month, I have revamped my [Exercise Routine](https://krueger.report/exercise-routine/). The activities are largely the same, but I have moved away from certain exercises being done only on certain days. The scripts for calculating my exercise build-ups has also been updated to Python due to the simplicity of the used code.
 
-In March, GOG updated GOG Galaxy to include more typical gaming platform features: achievement tracking and playtime tracking. Since these are features that I do not wish to take part in, I explored if GOG allowed these features to be disabled. Thankfully, they are, and I have updated [Disabling Gaming Platforms' Social Features](https://oberstkrueger.com/report/disabling-gaming-platforms-social-features/) with that information.
+In March, GOG updated GOG Galaxy to include more typical gaming platform features: achievement tracking and playtime tracking. Since these are features that I do not wish to take part in, I explored if GOG allowed these features to be disabled. Thankfully, they are, and I have updated [Disabling Gaming Platforms' Social Features](https://krueger.report/disabling-gaming-platforms-social-features/) with that information.
 
-I added a few more problems to [Project Euler In Swift](https://oberstkrueger.com/report/project-euler-in-swift/), but not as many as I would have liked. The past few months, I have been experimenting with the tools I use to program, and going through a philosophical debate between the lean Sublime Text and heavier Xcode. With the addition of a solid-state drive in my Mac Mini and all of the recent announcements at WWDC 2017, I have decided to double down not only on Xcode but GUI application development as well. Project Euler will continue to be my weekly programming puzzle to solve, but I will first be reworking it to fit better into Xcode.
+I added a few more problems to [Project Euler In Swift](https://krueger.report/project-euler-in-swift/), but not as many as I would have liked. The past few months, I have been experimenting with the tools I use to program, and going through a philosophical debate between the lean Sublime Text and heavier Xcode. With the addition of a solid-state drive in my Mac Mini and all of the recent announcements at WWDC 2017, I have decided to double down not only on Xcode but GUI application development as well. Project Euler will continue to be my weekly programming puzzle to solve, but I will first be reworking it to fit better into Xcode.
 
 ## 2017.05.14
 
 ### Iced Coffee
 
-One of the first things I do every morning is start drinking a nice cool cup of coffee. It helps start my day quicker and jump right into the tasks that I have for the day. Over the last few years, I have worked on perfecting my [Iced Coffee](https://oberstkrueger.com/report/iced-coffee) recipe, and have found an easy and consistent way to make it exactly to my liking.
+One of the first things I do every morning is start drinking a nice cool cup of coffee. It helps start my day quicker and jump right into the tasks that I have for the day. Over the last few years, I have worked on perfecting my [Iced Coffee](https://krueger.report/iced-coffee) recipe, and have found an easy and consistent way to make it exactly to my liking.
 
 ### Favorite Readings
 
@@ -2431,7 +2431,7 @@ One of the first things I do every morning is start drinking a nice cool cup of 
 
 ### Vitamin B12
 
-In continuing my goal of understanding the ways I can become more healthy, I spent this past month researching [Vitamin B<sub>12</sub>](https://oberstkrueger.com/report/vitamin-b12). This vitamin is important for vegetarians like myself to stay on top of, as it is easy to become deficient in it.
+In continuing my goal of understanding the ways I can become more healthy, I spent this past month researching [Vitamin B<sub>12</sub>](https://krueger.report/vitamin-b12). This vitamin is important for vegetarians like myself to stay on top of, as it is easy to become deficient in it.
 
 ### Favorite Readings
 
@@ -2454,9 +2454,9 @@ In continuing my goal of understanding the ways I can become more healthy, I spe
 
 ### Updates
 
-I added a few more problems to [Project Euler In Swift](https://oberstkrueger.com/report/project-euler-in-swift/). Since completing these, I have experimented briefly with Python and Rust, and have started to plan out doing a comparison of all these languages using Project Euler. But getting a more in-depth grasp of Swift is important before doing so.
+I added a few more problems to [Project Euler In Swift](https://krueger.report/project-euler-in-swift/). Since completing these, I have experimented briefly with Python and Rust, and have started to plan out doing a comparison of all these languages using Project Euler. But getting a more in-depth grasp of Swift is important before doing so.
 
-AutoSleep 4.0 brought about a slight update to [Tracking Sleep](https://oberstkrueger.com/report/tracking-sleep/). Functionality remains the same, but the graphics of the app have been refreshed to provide for a nicer experience.
+AutoSleep 4.0 brought about a slight update to [Tracking Sleep](https://krueger.report/tracking-sleep/). Functionality remains the same, but the graphics of the app have been refreshed to provide for a nicer experience.
 
 ## 2017.04.06
 
@@ -2466,17 +2466,17 @@ Since I am not a full-time professional programmer, a lot of the code work that 
 
 Project Euler is my main source of these types of puzzles. All of them are math problems of varying difficulty. As of right now, there are currently 585 problems to solve on there.
 
-My language of choice when it comes to non-web programming is constantly changing. I enjoy seeing what is available and playing around with the different paradigms. Since it's release, Swift is a language I keep coming back to. It hits all of the right marks for me, ones that a lot of other popular languages like Python do not. For that reason, I have decided to work through all of the problems in [Project Euler In Swift](https://oberstkrueger.com/report/project-euler-in-swift). One new problem a week is my current goal, which given that there are 585 problems, with more periodically being added, it will take me over 11 years to complete this exercise.
+My language of choice when it comes to non-web programming is constantly changing. I enjoy seeing what is available and playing around with the different paradigms. Since it's release, Swift is a language I keep coming back to. It hits all of the right marks for me, ones that a lot of other popular languages like Python do not. For that reason, I have decided to work through all of the problems in [Project Euler In Swift](https://krueger.report/project-euler-in-swift). One new problem a week is my current goal, which given that there are 585 problems, with more periodically being added, it will take me over 11 years to complete this exercise.
 
 ### Updates
 
-[About The Author](https://oberstkrueger.com/report/about-the-author) was updated to include detailed information about all of my current computer systems. During this process, I did a basic benchmark of all of the systems using GeekBench 4. Seeing how all of my computing devices stack up on performance was interesting, particularly the part where my phone is now faster than my laptop.
+[About The Author](https://krueger.report/about-the-author) was updated to include detailed information about all of my current computer systems. During this process, I did a basic benchmark of all of the systems using GeekBench 4. Seeing how all of my computing devices stack up on performance was interesting, particularly the part where my phone is now faster than my laptop.
 
-[Software Tools](https://oberstkrueger.com/report/software-tools) now displays the first selection of applications that I regularly use. Every application on there follows the principles I listed, when it is relevant.
+[Software Tools](https://krueger.report/software-tools) now displays the first selection of applications that I regularly use. Every application on there follows the principles I listed, when it is relevant.
 
-This month, [my game of choice](https://oberstkrueger.com/report/games-i-have-played) was the original System Shock. I missed out on this game when it first came out in 1994, and unfortunately, it is a hard game to go back and play. It is an old school game, particularly with regards to complexity. The interface is cluttered and controls are obtuse, even by the standards of the time. Still, it was an enlightening experience, particularly to see an earlier work of Warren Spector.
+This month, [my game of choice](https://krueger.report/games-i-have-played) was the original System Shock. I missed out on this game when it first came out in 1994, and unfortunately, it is a hard game to go back and play. It is an old school game, particularly with regards to complexity. The interface is cluttered and controls are obtuse, even by the standards of the time. Still, it was an enlightening experience, particularly to see an earlier work of Warren Spector.
 
-[Tools Used To Make This](https://oberstkrueger.com/report/tools-used-to-create-this) has been updated with more information about how this site functions automatically, as well as information about how I test the performance of the site.
+[Tools Used To Make This](https://krueger.report/tools-used-to-create-this) has been updated with more information about how this site functions automatically, as well as information about how I test the performance of the site.
 
 ## 2017.03.18
 
@@ -2484,15 +2484,15 @@ This month, [my game of choice](https://oberstkrueger.com/report/games-i-have-pl
 
 In recent years, the amount of time I spend exercising has lessened. I would occasionally exercise, but it kept becoming more sporadic. Weight gain has been steady since I left college, and especially since we moved up here to Oregon.
 
-In an attempt to help alleviate these problems, I looked back at how I exercised in college and recreated a similar routine. I have been following this [exercise routine](https://oberstkrueger.com/report/exercise-routine) for a few months now, and while I am still perfectin certain aspects of it, I have found it easy to keep up with and it is helping my weight and overall health.
+In an attempt to help alleviate these problems, I looked back at how I exercised in college and recreated a similar routine. I have been following this [exercise routine](https://krueger.report/exercise-routine) for a few months now, and while I am still perfectin certain aspects of it, I have found it easy to keep up with and it is helping my weight and overall health.
 
 ### Updates
 
-AutoSleep is now the app I use for [tracking my sleep](https://oberstkrueger.com/report/tracking-sleep). There are a number of improvements that it has over Sleep++, with the main one being that I no longer have to manually enable it every night and disable it every morning. It just works™.
+AutoSleep is now the app I use for [tracking my sleep](https://krueger.report/tracking-sleep). There are a number of improvements that it has over Sleep++, with the main one being that I no longer have to manually enable it every night and disable it every morning. It just works™.
 
-6 months ago, I wrote my first steps to completely [logging off Facebook](https://oberstkrueger.com/report/logging-off-facebook). Since then, I have missed Facebook not in the slightest. The other night, I reopened my account just so I can go in and initiate the full deletion of the account. Before doing that, I looked around at the news feed and the walls of a few of my friends. My decision to cut back on social media has been solidified. Facebook has not changed in the 6 months since I stopped using it, and it probably never will. My life is better without it.
+6 months ago, I wrote my first steps to completely [logging off Facebook](https://krueger.report/logging-off-facebook). Since then, I have missed Facebook not in the slightest. The other night, I reopened my account just so I can go in and initiate the full deletion of the account. Before doing that, I looked around at the news feed and the walls of a few of my friends. My decision to cut back on social media has been solidified. Facebook has not changed in the 6 months since I stopped using it, and it probably never will. My life is better without it.
 
-I am at the end of building the list of [Games I Have Played](https://oberstkrueger.com/report/games-i-have-played). All major systems have their games entered and linked up to further information about the game. I know there are going to be random games here and there that I have not entered due to not remembering them. But as now, this is the most complete list of every game I have played. And it is much bigger than I anticipated.
+I am at the end of building the list of [Games I Have Played](https://krueger.report/games-i-have-played). All major systems have their games entered and linked up to further information about the game. I know there are going to be random games here and there that I have not entered due to not remembering them. But as now, this is the most complete list of every game I have played. And it is much bigger than I anticipated.
 
 And finally, this month's new game was [Grim Fandango Remastered](https://en.wikipedia.org/wiki/Grim_Fandango#Remastered_version). Overall, it was an enjoyable game, and a fun revisit to one of my favorite adventure games of all time. But as much as I enjoyed playing through it, adventure games of this style do not hold me the way that they used to. I love everything about this game, except for the gameplay. Too bad it's not a movie, or a TV miniseries, or something else along those lines.
 
@@ -2514,8 +2514,8 @@ Anyone who knows me knows that I am incredibly picky about what software I use. 
 
 There has always been a set of criteria that I follow, but I wanted to write down exactly what they were, instead of just leaving it a bit nebulous in my head. The last few months, I made notes about my thinking as I evaluated new applications. When reviewing these notes, I found that they were all related to five specific criteria.
 
-In [Software Tools](https://oberstkrueger.com/report/software-tools), I wrote up what these five criteria are. In the future, this will also be where I delve into specific examples of applications that I currently use, and how they make use of all of the rules set forth.
+In [Software Tools](https://krueger.report/software-tools), I wrote up what these five criteria are. In the future, this will also be where I delve into specific examples of applications that I currently use, and how they make use of all of the rules set forth.
 
 ### Updates
 
-[Games I Have Played](https://oberstkrueger.com/report/games-i-have-played/) saw the biggest change this month. I began to add console systems and mobile games to the list, as well as breaking out the list into different sections based on the platform the game was played on. This page is time consuming, as I have played a lot of games in my life, but it is one of my favorite to go back and research, just to remember again the many games I have played but since forgotten. There is a lot of work to do yet on this list, but it is shaping up to being closer to where I want it to be.
+[Games I Have Played](https://krueger.report/games-i-have-played/) saw the biggest change this month. I began to add console systems and mobile games to the list, as well as breaking out the list into different sections based on the platform the game was played on. This page is time consuming, as I have played a lot of games in my life, but it is one of my favorite to go back and research, just to remember again the many games I have played but since forgotten. There is a lot of work to do yet on this list, but it is shaping up to being closer to where I want it to be.
