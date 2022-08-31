@@ -2,8 +2,24 @@
 created: 2017-02-27T17:00:00Z
 title: Updates
 type: page
-updated: 2022-08-01T01:00:00Z
+updated: 2022-08-31T09:00:00Z
 ---
+
+## 2022.08
+
+### Books Read
+
+- Miller, Rand & Miller, Robyn & Wingrove, David - The Book of Atrus
+
+### Games Played
+
+- [No Man's Sky](https://en.wikipedia.org/wiki/No_Man%27s_Sky)
+- [World of Warcraft: Classic](https://en.wikipedia.org/wiki/World_of_Warcraft_Classic)
+
+### Page Updates
+
+- Hello, World!: Merged with Tools Used To Create This.
+- Mini Game Reviews: Deus Ex: Mankind Divided, Last Call BBS.
 
 ## 2022.07
 
