@@ -2,7 +2,7 @@
 created: 2017-06-11T13:30:00Z
 title: Books I Have Read
 type: page
-updated: 2022-08-16T09:35:00Z
+updated: 2022-09-17T08:10:00Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -75,6 +75,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Lewis, C.S. - The Chronicles of Narnia
 - Mitchell, David - Cloud Atlas
 - Miller, Rand & Miller, Robyn & Wingrove, David - The Book of Atrus
+- Miller, Rand & Miller, Robyn & Wingrove, David - The Book of Ti'ana
 - Orwell, George - Animal Farm
 - Orwell, George - Nineteen Eighty-Four
 - Penny, Laurie - Everything Belongs to the Future
