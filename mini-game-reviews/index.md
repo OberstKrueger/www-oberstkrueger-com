@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50:00Z
 title: Mini Game Reviews
 type: page
-updated: 2022-08-21T10:55:00Z
+updated: 2022-09-25T08:20:00Z
 ---
 
 ## Astro's Playroom
@@ -383,6 +383,22 @@ In typical Blizzard fashion, Heroes of the Storm is a visual and aural treat. Th
 One of the negative aspects of development that Blizzard has with World of Warcraft also applies to Heroes of the Storm: endless and needles changes to balance. World of Warcraft famously revamps most classes every expansion, and Heroes of the Storm does the same with its characters. Every patch makes fundamental changes to how one or two characters play, changing their abilities and altering their skills. This included a larger change to the game by the introduction of lootboxes, the addictive gambling mechanic that Blizzard has been in love with since Overwatch's launch.
 
 Out of all of the MOBA games available, Heroes of the Storm resonated with me the most. I enjoyed my time playing it, but with Blizzard wrapping down support for the game, as well as major overhauls to some of my favorite characters, I have little desire to ever play the game again. With the MOBA genre starting to lose favor to the battle royale genre, I do not see myself investing heavily in any other MOBA games after having played Heroes of the Storm.
+
+## Horizon Zero Dawn
+
+<img src='/images/mini-game-reviews_horizon-zero-dawn.webp' alt='Screenshot of Horizon Zero Dawn' loading='lazy'>
+
+Horizon Zero Dawn is the game that made me understand where people are coming from when they say they have "open world fatigue". This is not due to the game being one open world adventure over the line into boredom, but that it misses the spontaneity that makes great open world games what they are.
+
+When thinking of open world games, many elements of the great ones come to mind: rewarding exploration, spontaneous events that can affect the world, and a non-linear approach to most aspects of the game. These are all elements that are missing from Horizon Zero Dawn. Exploration in the game would be more enjoyable, if it both had rewards and the game did not point you in the direction of its secrets. The world does not feel alive, as there are very few changes to the open world that do not feel like changes made strictly because the main story needed it. Each region of the world being locked behind required progression of the main story means that only small sub-sections can be explored at any one time. All of this added up to my growing tired of the game by the time the second major land area was opened up.
+
+The world of Horizon Zero Dawn is a technically beautiful world, but it feels soulless. It does not feel like a world that has been inhabited for thousands of years. Rather, it feels like a fake world, with facades everywhere and characters walking about without doing anything. It functions as a theme park from Westworld, where every element points you towards some carefully controlled adventure. Everything in the world, from herds of animals to enemy patrols, have a set path that is easy to see. And this assumes they move around at all, and not just stay in the same small section of a field. The lack of negative space in the world can be felt, with there always being something to do within a few seconds of any location.
+
+Despite the issues with the individual areas, the larger picture of the world is well-crafted. While the world does not feel lived in, it does have the facade of a futuristic world that experienced societal collapse. The slow uncovering of the true nature of the world is well done, albeit one that ends up completing too early in the game.
+
+Horizon Zero Dawn was originally released on the PlayStation 4 in 2017, with a PC release in 2020. At launch, the PC release was marred with many technical issues. The worst of these issues were framerate-related, with animations not playing above 30 FPS and regular stuttering that never resolved. The 30 FPS animations were particularly perplexing, as it was not an issue inherent to the engine. The PC release of Death Stranding was less than a month after Horizon Zero Dawn's, which used the same game engine but without any of the technical issues that Horizon Zero Dawn experienced. The Decima Engine was up to the task of having proper PC support, but the port did not receive the attention that it should have. Post-launch patches have improved the situation, but it is still not fully corrected.
+
+Disappointing is the first word that comes to mind when taking Horizon Zero Dawn in. Most of the individual aspects of the game are decent to good, but the whole is much less than the sum of its parts. Despite trying to portray a large world with a deep history, it felt sterile and was hard to get immersed into what was happening. I try to complete most games that I start, just so I can give the whole experience a fair shake, but Horizon Zero Dawn is the rare game that I stopped about halfway through. Guerilla Game's approach to open worlds is not what I am looking for in a gaming experience, and it is unlikely I will try out the sequel to this game.
 
 ## Journey
 
