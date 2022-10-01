@@ -2,8 +2,21 @@
 created: 2017-02-27T17:00:00Z
 title: Updates
 type: page
-updated: 2022-08-31T09:00:00Z
+updated: 2022-10-01T11:00:00Z
 ---
+
+## 2022.09
+
+### Games Played
+
+- [Dark Souls III](https://en.wikipedia.org/wiki/Dark_Souls_III)
+- [No Man's Sky](https://en.wikipedia.org/wiki/No_Man%27s_Sky)
+- [World of Warcraft: Classic](https://en.wikipedia.org/wiki/World_of_Warcraft_Classic)
+
+### Page Updates
+
+- Index: Created Command-Line section. Re-organized many of the pages to new sections.
+- Mini Game Reviews: Horizon Zero Dawn
 
 ## 2022.08
 
