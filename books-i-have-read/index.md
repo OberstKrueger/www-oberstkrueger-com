@@ -2,7 +2,7 @@
 created: 2017-06-11T13:30:00Z
 title: Books I Have Read
 type: page
-updated: 2022-09-17T08:10:00Z
+updated: 2022-10-09T11:40:00Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -27,6 +27,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Andrew, Rachel - The New CSS Layout
 - Demaree, David - Git For Humans
 - Garfinkel, Simson - The Unix-Haters Handbook
+- Gustedt, Jens - Modern C
 - Hall, Erika - Just Enough Research
 - Hahn, Harley - Emacs Field Guide
 - Hudson, Paul - Objective-C for Swift Developers
