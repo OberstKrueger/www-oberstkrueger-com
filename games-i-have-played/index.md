@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00:00Z
 title: Games I Have Played
 type: page
-updated: 2022-07-19T10:15:00Z
+updated: 2022-10-21T08:35:00Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -495,6 +495,7 @@ EverQuest_expansions#The_Shadows_of_Luclin)
 - [Stardew Valley](https://en.wikipedia.org/wiki/Stardew_Valley)
 - [Starsiege: Tribes](https://en.wikipedia.org/wiki/Starsiege:_Tribes)
 - [Stellaris](https://en.wikipedia.org/wiki/Stellaris_(video_game))
+- [Stray](https://en.wikipedia.org/wiki/Stray_(video_game))
 - [Street Fighter II Turbo: Hyper Fighting](https://en.wikipedia.org/wiki/Street_Fighter_II′_Turbo:_Hyper_Fighting)
 - [Subnautica](https://en.wikipedia.org/wiki/Subnautica)
 - [Subnautica: Below Zero](https://en.wikipedia.org/wiki/Subnautica:_Below_Zero)
