@@ -2,8 +2,53 @@
 created: 2017-01-01T15:00:00Z
 title: Years In Review
 type: page
-updated: 2022-05-12T08:20:00Z
+updated: 2023-01-09T00:15:00Z
 ---
+
+## 2022
+
+### Favorite Games
+
+<img src='/images/years-in-review_elden-ring.webp' alt='Elden Ring' loading='lazy'>
+
+The past few years, I have dived deep into the FromSoftware games. Bloodborne and Dark Souls 3 clicked with me, but neither were games that would be in contention for my favorite game ever. Elden Ring surpassed anything I could have hoped it would be. It takes all the best of the previous Soulsborne games and combines it with a brilliant open world that rewards deep exploration. At nearly 300 hours of playtime and now 11 months after release, I can easily say that Elden Ring is my new favorite game of all time.
+
+<img src='/images/years-in-review_world-of-warcraft-dragonflight.webp' alt='World of Warcraft: Dragonflight' loading='lazy'>
+
+The last time I played World of Warcraft was in 2016 with the launch of the Legion expansion. I enjoyed my time then, but fell off relatively quick. At the time, my main thought was that I missed the Azeroth of old, as the game had been streamlined to the point of not requiring thought. Dragonflight corrects a lot of the issues I had with the game. Meaningful talent trees have returned, progression can be accomplished doing whatever activity you want, and daily quests are a thing of the past. I have had a lot of fun playing the game again, thanks to the changes Dragonflight has made. Here's hoping 2023 sees Blizzard continue to keep the high quality of the game going.
+
+<img src='/images/years-in-review_the-stanley-parable-ultra-deluxe.webp' alt='The Stanley Parable Ultra Deluxe' loading='lazy'>
+
+The Stanley Parable has always been my favorite walking simulator, and the Ultra Deluxe version makes it even better. The new content plus technical upgrades has improved the game and made it fun to explore the world all over again.
+
+<img src='/images/years-in-review_god-of-war.webp' alt='God of War' loading='lazy'>
+
+God of War has been a series I have avoided heavily throughout my life. The over-the-top action combined with gratuitous sexism made for a very unappealing set of games. The 2018 game took care of a lot of my issues with the previous entries, and added a deep story on top of it. The game does a lot of things very well, from fun combat to great filmic direction. It overstays its welcome some towards the end, but overall it is was a great experience, and a good way to start out 2022.
+
+### Favorite Albums
+
+- Archive - Call to Arms and Angels
+- Ben Prunty - Transmissions from a Hidden World
+- Blizzard Entertainment - World of Warcraft: Dragonflight
+- Lauge & Aes Dana - Terrene
+- Miktek - Ambient Network IV
+- Rammstein - Zeit
+- Remina - Strata
+- Softcult - Year of the Snake
+
+<img src='/images/years-in-review_music-2022.webp' alt='Favorite music of 2022' loading='lazy'>
+
+### Going Back To School
+
+The last time I was in a classroom was the fall of 2011. Over a decade ago. So when I walked into the classroom for my engineering programming course, I did not know what to expect.
+
+College has changed in many ways in that interim time. Back then, I still turned in much of my work physically, having to go down to the campus print lab to print out all of the reports and research that was due. Nowadays, all of the work is done digitally and turned in that way. My programming class only required you to show up for tests, as lectures were recorded with zoom for either live watching or catching up later on. And perhaps most importantly to me at the time, I was a decade older than the professor and close to two decades older than any of the other students.
+
+At first, I experienced a bit of culture shock. But once that wore quickly off, I remembered what I loved about going to school and interacting with peers in my field. The last decade of working in the government has made me jaded, which is part of the reason why I decided to go back to school to change careers.
+
+But as fun as it is being back in college, this time around is not the same as before. I am now working full time, with a mortgage to pay. I can not be a full-time student without running out of time in the day. Taking one class, participating in extracurricular activities, and working already takes up much of my day as is. And I am starting 2023 off by taking two classes for the quarter.
+
+I already feel myself being more tired than I would normally be. The goal for 2023 is to manage all of this, while still having at least a little time for myself. It is going to be difficult, so here's hoping I am up for the task.
 
 ## 2021
 
