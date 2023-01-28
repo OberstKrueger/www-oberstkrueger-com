@@ -5,6 +5,57 @@ type: page
 updated: 2022-10-01T11:00:00Z
 ---
 
+## 2023-01
+
+### Games Played
+
+- Bloodborne
+- Dota Underlords
+- Path of Exile
+- Rainbow Six Siege
+- Ragnarock
+- World of Warcraft: Dragonflight
+
+## 2022-12
+
+### Games Played
+
+- Elden Ring
+- Fallout 76
+- Fornite
+- World of Warcraft: Dragonflight
+
+## 2022-11
+
+### Books Read
+
+- Cole, Jason - Almost Looks Like Work: A Guide to Healthy Procrastinating
+- Miller, Rand & Miller, Robyn & Wingrove, David - The Book of D'ni
+- Tolkein, J.R.R. - The Silmarillion
+
+### Games Played
+
+- Demon's Souls (2020)
+- Elden Ring
+- Little Inferno
+- Resident Evil Village
+- World of Warcraft: Dragonflight
+
+## 2022-10
+
+### Books Read
+
+- Gustedt, Jens - Modern C
+
+### Games Played
+
+- Demon's Souls (2020)
+- Elden Ring
+- No Man's Sky
+- Shadow of the Colossus (2018)
+- Stray
+- World of Warcraft
+
 ## 2022.09
 
 ### Games Played
