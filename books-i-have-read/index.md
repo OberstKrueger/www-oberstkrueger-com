@@ -2,7 +2,7 @@
 created: 2017-06-11T13:30:00Z
 title: Books I Have Read
 type: page
-updated: 2022-10-09T11:40:00Z
+updated: 2022-11-06T18:55:00Z
 ---
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
@@ -76,6 +76,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Lewis, C.S. - The Chronicles of Narnia
 - Mitchell, David - Cloud Atlas
 - Miller, Rand & Miller, Robyn & Wingrove, David - The Book of Atrus
+- Miller, Rand & Miller, Robyn & Wingrove, David - The Book of D'ni
 - Miller, Rand & Miller, Robyn & Wingrove, David - The Book of Ti'ana
 - Orwell, George - Animal Farm
 - Orwell, George - Nineteen Eighty-Four
@@ -131,6 +132,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 ## Science
 
 - Arbesman, Samuel - The Half-Life of Facts: Why Everything We Know Has an Expiration Date
+- Cole, Jason - Almost Looks Like Work: A Guide to Healthy Procrastinating
 - Greene, Brian - The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory
 - Greene, Brian - The Fabric of the Cosmos: Space, Time, and the Texture of Reality
 - Greene, Brian - The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos
