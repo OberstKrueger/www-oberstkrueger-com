@@ -2,7 +2,7 @@
 created: 2017-02-27T17:00:00Z
 title: Updates
 type: page
-updated: 2022-10-01T11:00:00Z
+updated: 2023-02-01T16:20:00Z
 ---
 
 ## 2023-01
@@ -11,6 +11,7 @@ updated: 2022-10-01T11:00:00Z
 
 - Bloodborne
 - Dota Underlords
+- Forspoken
 - Path of Exile
 - Rainbow Six Siege
 - Ragnarock
