@@ -2,7 +2,7 @@
 created: 2018-12-02T17:50:00Z
 title: Mini Game Reviews
 type: page
-updated: 2022-09-25T08:20:00Z
+updated: 2023-02-16T12:30:00Z
 ---
 
 ## Astro's Playroom
@@ -461,6 +461,18 @@ One of my favorite aspects of the game is that the overall area to explore is sm
 Resident Evil 2 does a great job of making the environment feel dangerous. Areas without lights are truly dark, with your flashlight being the only way you can see. Binaural sound plays a huge role in hinting at where danger is about to pop out at you. This is especially true when Mr. X is stalking you through the police station. Listening to the direction his footsteps are coming from helps to avoid him.
 
 The best part about this remake is that a lot of care was given to every detail of the game. Everything about it felt great, and I had a blast playing through both playthroughs of the game. While I do not feel the need to try and get every unlock, I enjoyed my time immensely and recommend anyone into horror and/or survival to give it a go.
+
+## Resident Evil Village
+
+<img src='/images/mini-game-reviews_resident-evil-village.webp' alt='Screenshot of Resident Evil Village' loading='lazy'>
+
+So far in my exploration of the Resident Evil series, Resident Evil 2 Remake is the only game that did not turn into a struggle to finish. The series as a whole has more misses than hits for me, but Resident Evil Village gave me high expectations due to the first-person nature of the game along with the quality of the demos released for the game. These expectations were met for the first half of the game, but unfortunately were not for the latter half.
+
+The structure of the game is essentially 4 chapters where you face off against each of the 4 houses in the game. The first house, led by Lady Dimitrescu, was incredible and reminded me a lot of what I loved in Resident Evil 2 Remake. The house had lots of places to explore, and Lady Dimitrescu quickly moves into the same role as Mr. X. Since this section of the game was so heavily promoted leading up to the game's release, I figured it would be a more substantial chunk of the game. Unfortunately, it was over after a couple of hours. This section was quickly followed by the exploration of House Beneviento. This game had a different feel, with no combat outside of the final boss, and the main areas being a more creepy kind of horror. Beneviento was just as good as the Dimitrescu chapter, but substantially shorter.
+
+After these first two chapters, the quality of the game nose-dived. None of it felt as original or fun. As I went further into these chapters, I grew tired of the game and just wanted it to end.
+
+As it stands, the whole package of Resident Evil Village makes me not want to touch the game again. Despite how much fun the first two chapters were, the last two are ones I don't ever want to play. This game is now another entry on the list of Resident Evil games that I do not see myself playing again. It even has me thinking that I should give up on the series completely, as it does not seem like it will be able to repeat the experience of Resident Evil 2 Remake, now the only game in the series I would enjoy playing through more than once.
 
 ## Serious Sam: Siberian Mayhem
 
