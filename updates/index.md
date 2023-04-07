@@ -5,6 +5,21 @@ type: page
 updated: 2023-03-01T12:40:00Z
 ---
 
+### 2023-04
+
+#### Games Played
+
+- Call of Duty: Warzone 2.0
+- Metroid Prime Remastered
+- World of Warcraft: Dragonflight
+
+### 2023-03
+
+#### Games Played
+
+- Diablo IV
+- World of Warcraft: Dragonflight
+
 ## 2023-02
 
 ### Games Played
