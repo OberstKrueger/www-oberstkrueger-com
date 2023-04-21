@@ -65,7 +65,9 @@ body {
 }
 
 main {
-
+    margin: 0 auto;
+    max-width: 40rem;
+    width: 90%;
 }
 
 /*
@@ -92,7 +94,6 @@ p,
 table,
 ul {
     max-width: var(--maxWidth);
-    width: 90%;
 }
 
 @media (min-width: 32rem) {
