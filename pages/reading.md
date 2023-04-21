@@ -1,7 +1,6 @@
 ---
 created: 2017-06-11T13:30:00Z
-title: Books I Have Read
-type: page
+title: Reading List
 updated: 2022-11-06T18:55:00Z
 ---
 
