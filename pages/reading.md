@@ -2,8 +2,15 @@
 created: 2017-06-11T13:30:00Z
 title: Reading List
 description: List of books I am currently reading and have previously read in the past.
-updated: 2022-11-06T18:55:00Z
+updated: 2023-04-22T21:05:00Z
 ---
+
+## Currently Reading
+
+- Stephenson, Neal - Termination Shock
+- Tyson, Neil deGrasse - Starry Messenger: Cosmic Perspectives on Civilization
+
+## Previously Read
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
 
