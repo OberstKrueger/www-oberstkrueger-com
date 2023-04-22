@@ -2,7 +2,7 @@
 created: 2017-06-11T13:30:00Z
 title: Reading List
 description: List of books I am currently reading and have previously read in the past.
-updated: 2023-04-22T21:05:00Z
+updated: 2023-04-22T21:30:00Z
 ---
 
 ## Currently Reading
@@ -14,7 +14,7 @@ updated: 2023-04-22T21:05:00Z
 
 This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
 
-## Arts
+### Arts
 
 - Barth, Zach - Zach-Like: A Game Design History
 - Groen, Andrew - Empires of EVE: A History of the Great Wars of EVE Online
@@ -28,7 +28,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Sylvester, Tynan - Designing Games: A Guide to Engineering Experiences
 - Yee, Nick - The Proteus Paradox: How Online Games and Virtual Worlds Change Us - And How They Don't
 
-## Computer Science
+### Computer Science
 
 - Amariei, Cornel - Arduino Development Cookbook
 - Andrew, Rachel - The New CSS Layout
@@ -49,7 +49,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Taylor, Dave & Perry, Brandon - Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, and UNIX Systems
 - van Santen, Rutger, Vermeer, Bram, & Khoi, Djan - 2030: Technology that will change the world
 
-## Fiction
+### Fiction
 
 - Adams, Douglas - Life, the Universe and Everything
 - Adams, Douglas - Mostly Harmless
@@ -110,25 +110,25 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Weir, Andy - The Martian
 - Weir, Andy - Project Hail Mary
 
-## Historical
+### Historical
 
 - Ambrose, Stephen E. - Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest
 - Bellum, Rekka and Lu Linvega, Devine - Busy Doing Nothing
 - Garriott, Richard - Explore/Create: My Life in Pursuit of New Frontiers, Hidden Worlds, and the Creative Spark
 - Harari, Yuval Noah - Sapiens: A Brief History of Humankind
 
-## Language
+### Language
 
 - Catford, J.C. - A Practical Introduction to Phonetics
 
-## Philosophy
+### Philosophy
 
 - Carse, James P. - Finite and Infinite Games: A Vision of Life as PLay and Possibility.
 - Kurzweil, Ray - The Age of the Intelligent Machines
 - Kurzweil, Ray - The Age of the Spiritual Machines
 - Kurzweil, Ray - The Singularity Is Near
 
-## Psychology
+### Psychology
 
 - Blakeslee, Sandra & Blakeslee, Matthew - The Body Has a Mind of Its Own: How Body Maps in Your Brain Help You Do (Almost) Everything Better
 - Foer, Joshua - Moonwalking with Einstein: The Art and Science of Remembering Everything
@@ -136,7 +136,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Yudkowsky, Eliezer - Inadequate Equilibria: Where and How Civilizations Get Stuck
 - Zomorodi, Manoush - Bored and Brilliant: How Spacing Out Can Unlock Your Most Productive and Creative Self
 
-## Science
+### Science
 
 - Arbesman, Samuel - The Half-Life of Facts: Why Everything We Know Has an Expiration Date
 - Cole, Jason - Almost Looks Like Work: A Guide to Healthy Procrastinating
@@ -164,7 +164,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Tyson, Neil deGrasse - Space Chronicles: Facing the Ultimate Frontier
 - Tyson, Neil deGrasse - The Pluto Files: The Rise and Fall of America's Favorite Planet
 
-## Social Science
+### Social Science
 
 - Arbesman, Samuel - Overcomplicated: Technology at the Limits of Comprehension
 - Eveleth, Rose - Flash Forward: An Illustrated Guide to Possible (And Not So Possible) Tomorrows
@@ -185,7 +185,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Wolfram, Stephen - A New Kind of Science
 - Young, Scott - Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career
 
-## Technology
+### Technology
 
 - Bartle, Richard - MMOs from the Outside In: The Massively-Multiplayer Online Role-Playing Games of Psychology, Law, Government, and Real Life
 - De Grey, Aubrey - Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime
