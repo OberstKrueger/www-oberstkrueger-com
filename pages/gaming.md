@@ -1,8 +1,8 @@
 ---
 created: 2016-11-23T07:00:00Z
-title: Games I Have Played
-type: page
-updated: 2023-02-27T11:05:00Z
+title: Games List
+description: List of all games I am currently playing and have played in the past.
+updated: 2023-04-26T09:15:00Z
 ---
 
 - [1080° Snowboarding](https://en.wikipedia.org/wiki/1080°_Snowboarding)
@@ -491,6 +491,7 @@ updated: 2023-02-27T11:05:00Z
 - [Stellaris](https://en.wikipedia.org/wiki/Stellaris_(video_game))
 - [Stray](https://en.wikipedia.org/wiki/Stray_(video_game))
 - [Street Fighter II Turbo: Hyper Fighting](https://en.wikipedia.org/wiki/Street_Fighter_II′_Turbo:_Hyper_Fighting)
+- [Street Fighter V](https://en.wikipedia.org/wiki/Street_Fighter_V)
 - [Subnautica: Below Zero](https://en.wikipedia.org/wiki/Subnautica:_Below_Zero)
 - [Subnautica](https://en.wikipedia.org/wiki/Subnautica)
 - [Super Mario 3D World](https://en.wikipedia.org/wiki/Super_Mario_3D_World)
