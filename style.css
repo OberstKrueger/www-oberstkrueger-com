@@ -88,7 +88,7 @@ TYPOGRAPHY
 h1 {
     font-size: 2rem;
     font-weight: var(--fontWeightBold);
-    margin: calc(var(--lineHeight) * 4rem) auto;
+    margin: calc(var(--lineHeight) * 1rem) auto;
     text-align: center;
 }
 
