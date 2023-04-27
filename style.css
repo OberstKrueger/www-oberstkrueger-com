@@ -39,6 +39,7 @@ html {
     background-color: var(--colorBG);
     color: var(--colorFG);
     font-family: var(--fontStack);
+    font-size: 100%;
     line-height: var(--lineHeight);
     margin: 0;
     text-size-adjust: 100%;
@@ -92,12 +93,39 @@ h1 {
     text-align: center;
 }
 
-h1 a:link,
-h1 a:visited,
-h1 a:hover,
-h1 a:active {
-    color: var(--colorFG);
+h2 {
+    font-size: 1.5rem;
+    font-weight: var(--fontWeightBold);
+    margin: calc(var(--lineHeight) * 0.75rem) auto;
+}
+
+h3,
+h4,
+h5,
+h6 {
+    font-size: 1rem;
+    font-weight: var(--fontWeightBold);
+    margin: calc(var(--lineHeight) * 0.5rem) auto;
+}
+
+p {
+    font-size:  1rem;
+    font-weight: var(--fontWeight);
+    margin: 0 auto calc(var(--lineHeight) * 1rem);
+    text-align: left;
+}
+
+p a:link,
+p a:visited,
+p a:hover,
+p a:active {
+    color: var(--colorBlue);
+    font-weight: var(--fontWeightBold);
     text-decoration: none;
+}
+
+p a:visited {
+    color: var(--colorGreen);
 }
 
 h1,
@@ -111,6 +139,118 @@ p,
 table,
 ul {
     max-width: var(--maxWidth);
+}
+
+b,
+strong {
+    font-weight: var(--fontWeightBold);
+}
+
+blockquote,
+pre {
+    background-color: var(--colorInactive);
+    border-radius: var(--borderRadius);
+    margin: 0 auto calc(var(--lineHeight) * 1rem);
+    max-width: var(--maxWidth);
+    padding: calc(var(--lineHeight) * 1rem) 0;
+    width: 90%;
+}
+
+blockquote:last-child,
+pre:last-child {
+    margin-bottom: 0;
+}
+
+code {
+    display: block;
+    font-family: var(--fontStackMono);
+    font-size: 0.75rem;
+    line-height: calc(var(--lineHeight) / 0.75);
+    margin: auto;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+    width: 90%;
+}
+
+em {
+    font-style: italic;
+}
+
+li a:link,
+li a:visited,
+li a:hover,
+li a:active {
+    color: var(--colorBlue);
+    font-weight: var(--fontWeightBold);
+    text-decoration: none;
+}
+
+li a:visited {
+    color: var(--colorGreen);
+}
+
+ol {
+    list-style: decimal outside;
+    margin: 0 auto calc(var(--lineHeight) * 1rem);
+    padding: 0;
+}
+
+ol ol,
+ol ul {
+    margin-bottom: 0;
+}
+
+sub {
+    font-size: 0.75rem;
+    position: relative;
+    top: 0.25rem;
+    vertical-align: baseline;
+}
+
+sup {
+    font-size: 0.75rem;
+    position: relative;
+    top: -0.375rem;
+    vertical-align: baseline;
+}
+
+table {
+    border: 1px solid var(--colorFG);
+    border-collapse: collapse;
+    margin: 0 auto calc(var(--lineHeight) * 1rem);
+}
+
+table a:link,
+table a:visited,
+table a:hover,
+table a:active {
+    color: var(--colorBlue);
+    font-weight: var(--fontWeightBold);
+    text-decoration: none;
+}
+
+table a:visited {
+    color: var(--colorGreen);
+}
+
+table td {
+    border: 1px solid var(--colorFG);
+    padding: 0.25rem;
+}
+
+table tr {
+    vertical-align: text-top;
+}
+
+ul {
+    list-style: circle outside;
+    margin: 0 auto calc(var(--lineHeight) * 1rem);
+    padding: 0;
+}
+
+ul ol,
+ul ul {
+    margin-bottom: 0;
 }
 
 @media (min-width: 32rem) {
