@@ -64,6 +64,15 @@ body {
     padding: 0;
 }
 
+header {
+    text-align: center;
+}
+
+header img {
+    height: 2rem;
+    padding: 0.5rem 0;
+}
+
 main {
     margin: 0 auto;
     max-width: 40rem;

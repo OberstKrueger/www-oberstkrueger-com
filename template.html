@@ -22,7 +22,10 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1><a href="/">{{ $md.Meta.title }}</a></h1>
+    <header>
+        <a href="/"><img src="ok.svg"></a>
+    </header>
+    <h1>{{ $md.Meta.title }}</h1>
     <main>
         {{ markdown $md.Body }}
     </main>
