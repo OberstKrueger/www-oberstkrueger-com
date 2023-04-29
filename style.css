@@ -73,6 +73,14 @@ header {
     width: 90%;
 }
 
+header a {
+    margin: 0 0 0 2rem;
+}
+
+header a:first-of-type {
+    margin 0;
+}
+
 header a:link,
 header a:visited,
 header a:hover,
