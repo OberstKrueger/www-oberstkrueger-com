@@ -1,21 +1,17 @@
 ---
 created: 2017-06-20T16:15:00Z
-title: Hello, World!
-type: page
-updated: 2022-08-29T09:10:00Z
+title: About
+description: About me and my little corner of the internet.
+updated: 2023-04-29T08:40:00Z
 ---
 
-Hello, and welcome to The Krueger Report!
+Welcome to my little corner of the internet.
 
-This site has existed for a couple of years now, in various forms. It started out as a simple blog, more as a way to test out [Ghost](https://ghost.org) than a serious attempt at writing. As time went on, I remembered how much I enjoyed writing back in college and wanted to keep it up. As the blog format was not quite right for me, I altered this site to my own custom solution and reshaped it into that of a book. I like the idea of a book more, as it's something I could theoretically compile to an [EPUB](https://en.wikipedia.org/wiki/EPUB) or other e-book format, or even print, and I could have a snapshot of my life at that point.
+This site has existed in many forms over the years, starting out as a simple blog built with [Ghost](https://ghost.org), turning into a larger website that I thought of as an online book, and now back in a slightly more minimal form.
 
-A recent realization I had was that what I essentially wanted was two types of books: one private and one public. The Krueger Report fills the need of the public notebook, including everything I have written to (sometimes near) completion. The private book consists of notes to myself. I have recently set about the goal that most things put into the private notes will be fodder for content for the public book, whether it be writing about a game that I love or my thought process for choosing a [backup solution for all of my technology](/backups).
+This current iteration is influenced by the idea of a *digital garden*, which is the concept of having a website with articles but not structured like a blog. The articles are evergreen, and can go back and be updated as time goes on. It does not preclude a more blog-like section for updates or other uses, but that is not the focus of the website. The previous version of this site, The Krueger Report, was similar in concept, but what I wrote was still more blog-like. The pages did not fit well with being more long-standing ideas to be updated as time went on and more information was learned. This is the main idea idea I am aiming to correct.
 
-In essence, this means that the site is a a running knowledge-base for my life. Anything that I feel has been useful for myself might also be of use to someone else. Therefore it makes sense for that information to be available in a public form.
-
-A separate updates section is present that sort of is blog-like, although I don't write the final thoughts there. This exists as a sort of changelog, highlighting new pages and major updates to old pages.
-
-I hope you enjoy what you find here, or at least find new ideas for yourself here.
+Additionally, this site now exists as the main hub for my online presence. Everything else is both linked to by this site as well as linking back to it. All of my main online accounts will have this two-way street, making verification of who I am easier.
 
 ## Tools Used To Create This
 
