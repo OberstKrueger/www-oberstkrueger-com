@@ -67,10 +67,11 @@ body {
 
 header {
     margin: calc(var(--lineHeight) * 1rem) 0 0;
-    text-align: center;
+    text-align: right;
 }
 
 header img {
+    float: left;
     height: 2rem;
     padding: 0;
 }
