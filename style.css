@@ -84,6 +84,7 @@ header a:active {
 header img {
     display: block;
     float: left;
+    height: 2rem;
     padding: 0;
 }
 
