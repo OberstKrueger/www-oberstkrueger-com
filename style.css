@@ -362,7 +362,7 @@ nav.internal-links a:visited {
     display: block;
     line-height: 2;
     margin: 0 auto 1rem;
-    max-width: 8rem;
+    max-width: 10rem;
     text-decoration: none;
     transition: all 1s 0s;
     width: 90%;
