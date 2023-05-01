@@ -1,7 +1,7 @@
 ---
 created: 2017-01-01T15:00:00Z
 title: Years In Review
-type: page
+description: Favorite games, albums, and other random notes of past years.
 updated: 2023-01-09T00:15:00Z
 ---
 
