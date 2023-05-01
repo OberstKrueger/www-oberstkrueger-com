@@ -102,6 +102,11 @@ main {
     width: 90%;
 }
 
+img {
+    margin: 0 auto calc(var(--lineHeight) * 1rem);
+    width: 100%;
+}
+
 /*
 
 TYPOGRAPHY
