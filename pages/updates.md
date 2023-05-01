@@ -1,7 +1,7 @@
 ---
 created: 2017-02-27T17:00:00Z
-title: Updates
-type: page
+title: Monthly Updates
+description: What I have been occupying my time with, updated on a monthly cadence.
 updated: 2023-03-01T12:40:00Z
 ---
 
@@ -11,6 +11,7 @@ updated: 2023-03-01T12:40:00Z
 
 - Call of Duty: Warzone 2.0
 - Metroid Prime Remastered
+- Monsters and Memories
 - World of Warcraft: Dragonflight
 
 ### 2023-03
