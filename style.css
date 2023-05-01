@@ -68,7 +68,7 @@ body {
 header {
     height: 2rem;
     line-height: 2rem;
-    margin: calc(var(--lineHeight) * 1rem) auto 0;
+    margin: calc(var(--lineHeight) * 2rem) auto 0;
     text-align: right;
     width: 90%;
 }
@@ -111,7 +111,7 @@ TYPOGRAPHY
 h1 {
     font-size: 2rem;
     font-weight: var(--fontWeightBold);
-    margin: calc(var(--lineHeight) * 2  rem) auto;
+    margin: calc(var(--lineHeight) * 2rem) auto;
     text-align: center;
 }
 
