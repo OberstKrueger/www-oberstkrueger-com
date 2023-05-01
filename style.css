@@ -304,7 +304,7 @@ body.title-page main {
 
 /* Currently set for small iPhone size, will apply to about any viewport. */
 /* When additional internal links added, will need to be adjusted upward. */
-@media (min-height: 20rem) {
+@media (min-height: 30rem) {
     body.title-page main {
         align-items: center;
         display: flex;
