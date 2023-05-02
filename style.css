@@ -102,7 +102,7 @@ main {
     width: 90%;
 }
 
-img {
+main img {
     margin: 0 auto calc(var(--lineHeight) * 1rem);
     width: 100%;
 }
