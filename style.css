@@ -103,6 +103,7 @@ main {
 }
 
 main img {
+    border-radius: 1rem;
     margin: 0 auto calc(var(--lineHeight) * 1rem);
     width: 100%;
 }
