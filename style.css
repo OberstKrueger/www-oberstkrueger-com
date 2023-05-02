@@ -364,13 +364,12 @@ nav.internal-links a:visited {
     border: 2px solid var(--colorFG);
     border-radius: 0.25rem;
     color: var(--colorFG);
-    display: block;
+    display: inline-block;
     line-height: 2;
-    margin: 0 auto 1rem;
-    max-width: 10rem;
+    margin: 0 0.5rem 1rem;
     text-decoration: none;
     transition: all 1s 0s;
-    width: 90%;
+    width: 10rem;
 }
 
 nav.internal-links a:hover,
