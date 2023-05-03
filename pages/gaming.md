@@ -2,8 +2,15 @@
 created: 2016-11-23T07:00:00Z
 title: Games List
 description: List of all games I am currently playing and have played in the past.
-updated: 2023-05-02T08:05:00Z
+updated: 2023-05-03T11:25:00Z
 ---
+
+## Currently Playing
+
+- Street Fighter V
+- World of Warcraft: Dragonflight
+
+## Previously Played
 
 - 1080° Snowboarding
 - 7 Billion Humans
