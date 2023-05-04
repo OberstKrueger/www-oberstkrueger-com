@@ -2,11 +2,12 @@
 created: 2016-11-23T07:00:00Z
 title: Games List
 description: List of all games I am currently playing and have played in the past.
-updated: 2023-05-03T11:25:00Z
+updated: 2023-05-04T11:05:00Z
 ---
 
 ## Currently Playing
 
+- Age of Wonders 4
 - Street Fighter V
 - World of Warcraft: Dragonflight
 
@@ -24,6 +25,7 @@ updated: 2023-05-03T11:25:00Z
 - Age of Empires III
 - Age of Empires III: Definitive Edition
 - Age of Empires: Definitive Edition
+- Age of Wonders 4
 - Alto's Adventure
 - Alto's Odyssey
 - American McGee's Alice
@@ -411,12 +413,12 @@ updated: 2023-05-03T11:25:00Z
 - PlanetSide 2
 - Plants vs. Zombies
 - Plants vs. Zombies 2: It's About Time
+- Poker Night 2
+- Poker Night at the Inventory
 - Pokémon Blue
 - Pokémon Go
 - Pokémon Legends: Arceus
 - Pokémon X
-- Poker Night 2
-- Poker Night at the Inventory
 - Portal
 - Portal 2
 - POSTAL²
