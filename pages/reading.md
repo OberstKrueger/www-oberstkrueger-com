@@ -2,12 +2,11 @@
 created: 2017-06-11T13:30:00Z
 title: Reading List
 description: List of books I am currently reading and have previously read in the past.
-updated: 2023-04-22T21:30:00Z
+updated: 2023-05-08T12:20:00Z
 ---
 
 ## Currently Reading
 
-- Stephenson, Neal - Termination Shock
 - Tyson, Neil deGrasse - Starry Messenger: Cosmic Perspectives on Civilization
 
 ## Previously Read
@@ -99,6 +98,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Stephenson, Neal - Reamde
 - Stephenson, Neal - Seveneves
 - Stephenson, Neal - Snow Crash
+- Stephenson, Neal - Termination Shock
 - Stephenson, Neal - The Diamond Age; Or, A Young Lady's Illustrated Primer
 - Thompson, Hunter S. - Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream
 - Tolkien, J.R.R. - The Hobbit
