@@ -2,11 +2,12 @@
 created: 2017-06-11T13:30:00Z
 title: Reading List
 description: List of books I am currently reading and have previously read in the past.
-updated: 2023-05-08T12:20:00Z
+updated: 2023-05-12T10:45:00Z
 ---
 
 ## Currently Reading
 
+- Stephenson, Neal - Seveneves
 - Tyson, Neil deGrasse - Starry Messenger: Cosmic Perspectives on Civilization
 
 ## Previously Read
