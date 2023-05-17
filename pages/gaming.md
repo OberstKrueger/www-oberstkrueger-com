@@ -2,12 +2,13 @@
 created: 2016-11-23T07:00:00Z
 title: Games List
 description: List of all games I am currently playing and have played in the past.
-updated: 2023-05-04T11:05:00Z
+updated: 2023-05-17T09:15:00Z
 ---
 
 ## Currently Playing
 
 - Age of Wonders 4
+- Command & Conquer: Remastered Collection
 - Street Fighter V
 - World of Warcraft: Dragonflight
 
@@ -90,6 +91,7 @@ updated: 2023-05-04T11:05:00Z
 - Cogmind
 - Command & Conquer 3: Tiberium Wars
 - Command & Conquer: Red Alert 3
+- Command & Conquer: Remastered Collection
 - Conan Exiles
 - Conker's Bad Fur Day
 - Control
