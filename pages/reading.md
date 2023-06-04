@@ -2,13 +2,13 @@
 created: 2017-06-11T13:30:00Z
 title: Reading List
 description: List of books I am currently reading and have previously read in the past.
-updated: 2023-05-12T10:45:00Z
+updated: 2023-06-04T12:40:00Z
 ---
 
 ## Currently Reading
 
+- Elkins-Tanon, Lindy - A Portrait of the Scientist as a Young Woman
 - Stephenson, Neal - Seveneves
-- Tyson, Neil deGrasse - Starry Messenger: Cosmic Perspectives on Civilization
 
 ## Previously Read
 
@@ -163,6 +163,7 @@ This is certainly an incomplete list. There have been many books I have read, pa
 - Tyson, Neil deGrasse - Letters from an Astrophysicist
 - Tyson, Neil deGrasse - Merlin's Tour of the Universe
 - Tyson, Neil deGrasse - Space Chronicles: Facing the Ultimate Frontier
+- Tyson, Neil deGrasse - Starry Messenger: Cosmic Perspectives on Civilization
 - Tyson, Neil deGrasse - The Pluto Files: The Rise and Fall of America's Favorite Planet
 
 ### Social Science
