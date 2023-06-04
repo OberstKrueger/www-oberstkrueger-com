@@ -7,9 +7,8 @@ updated: 2023-05-17T09:15:00Z
 
 ## Currently Playing
 
-- Age of Wonders 4
-- Command & Conquer: Remastered Collection
-- Street Fighter V
+- Diablo IV
+- Street Fighter VI
 - World of Warcraft: Dragonflight
 
 ## Previously Played
@@ -58,6 +57,8 @@ updated: 2023-05-17T09:15:00Z
 - Beautiful Desolation
 - BioShock
 - BioShock Infinite
+- BioShock Infinite: Burial at Sea - Episode One
+- BioShock Infinite: Burial at Sea - Episode Two
 - Black Mesa
 - Blast Corps
 - BlazBlue: Calamity Trigger
@@ -74,6 +75,7 @@ updated: 2023-05-17T09:15:00Z
 - Call of Duty
 - Call of Duty 4: Modern Warfare
 - Call of Duty: Warzone 2.0
+- Celeste
 - Chip 'n Dale Rescue Rangers
 - Chrono Cross
 - Chrono Trigger
@@ -92,6 +94,7 @@ updated: 2023-05-17T09:15:00Z
 - Command & Conquer 3: Tiberium Wars
 - Command & Conquer: Red Alert 3
 - Command & Conquer: Remastered Collection
+- Command & Conquer: Renegade
 - Conan Exiles
 - Conker's Bad Fur Day
 - Control
@@ -102,12 +105,16 @@ updated: 2023-05-17T09:15:00Z
 - Crash Bandicoot
 - Cruis'n USA
 - Cruis'n World
+- Crysis
+- Cuphead
 - Cut The Rope
 - Cyberpunk 2077
+- Daikatana
 - Dance Dance Revolution SuperNova 2
 - Dark Age of Camelot
 - Dark Souls II: Scholar of the First Sin
 - Dark Souls III
+- Dark Souls: Prepare To Die Edition
 - Dark Souls: Remaster
 - Day of Defeat
 - Day of Defeat: Source
@@ -119,6 +126,7 @@ updated: 2023-05-17T09:15:00Z
 - DEFCON
 - Demon's Souls
 - Depression Quest
+- Descent 3
 - Destiny
 - Destiny 2
 - Deus Ex
@@ -139,6 +147,7 @@ updated: 2023-05-17T09:15:00Z
 - Diablo IV
 - Diablo: Hellfire
 - Diddy Kong Racing
+- Disco Elysium
 - Dishonored
 - Dishonored 2
 - Disney's Aladdin
@@ -164,6 +173,7 @@ updated: 2023-05-17T09:15:00Z
 - Duke Nukem 3D
 - Duke Nukem Forever
 - Dungeon Encounters
+- Dungeon Siege
 - Dungeons of Dredmor
 - DUST 514
 - Earthworm Jim
@@ -174,6 +184,7 @@ updated: 2023-05-17T09:15:00Z
 - Elite: Dangerous
 - Eliza
 - Ender Lilies: Quietus of the Knights
+- Enemy Territory: Quake Wars
 - Eufloria
 - EVE Online
 - EverQuest
@@ -259,6 +270,7 @@ updated: 2023-05-17T09:15:00Z
 - Grim Dawn
 - Grim Fandango
 - Gris
+- Ground Control
 - Guild Wars 2
 - Guild Wars Factions
 - Guild Wars Nightfall
@@ -275,6 +287,7 @@ updated: 2023-05-17T09:15:00Z
 - Half-Life: Opposing Force
 - Half-Life: Source
 - Halo Infinite
+- Halo: The Master Chief
 - Harvest Moon
 - Hearthstone
 - Hellblade: Senua's Sacrifice
@@ -283,8 +296,10 @@ updated: 2023-05-17T09:15:00Z
 - Heroes of Might and Magic III
 - Heroes of Newerth
 - Heroes of the Storm
+- Hexen
 - High Speed
 - Hitman Go
+- Homeworld
 - Horizon Zero Dawn
 - Human Resource Machine
 - I Have No Mouth and I Must Scream
@@ -293,6 +308,8 @@ updated: 2023-05-17T09:15:00Z
 - Icewind Dale II
 - Icewind Dale: Enhanced Edition
 - Icewind Dale: Heart of Winter
+- Infinity Blade
+- Infinity Blade II
 - Inside
 - Into The Breach
 - It Lurks Below
@@ -334,6 +351,7 @@ updated: 2023-05-17T09:15:00Z
 - LittleBigPlanet
 - Magicka
 - Major League Baseball Featuring Ken Griffy Jr.
+- Marathon
 - Mario Is Missing!
 - Mario Kart 64
 - Mario Paint
@@ -350,6 +368,7 @@ updated: 2023-05-17T09:15:00Z
 - MechWarrior 2: Mercenaries
 - MechWarrior 3
 - MechWarrior Online
+- Medal of Honor: Allied Assault
 - Mega Man
 - Mega Man 2
 - Mega Man 4
@@ -364,18 +383,23 @@ updated: 2023-05-17T09:15:00Z
 - Metal Gear Solid 2: Sons of Liberty
 - Metal Gear Solid 3: Snake Eater
 - Metal Gear Solid 4: Guns of the Patriots
+- Metal Gear Solid 5: Ground Zeroes
+- Metro Exodus
 - Metroid
 - Metroid Dread
 - Metroid II: Return of Samus
 - Metroid Prime Remastered
+- Midnight Club II
 - Mighty Morphin Power Rangers
 - Mike Tyson's Punch-Out!!
 - Minecraft
 - Mini Metro
 - Mirror's Edge
+- Monster Hunter World
 - Monument Valley
 - Monument Valley 2
 - Mortal Kombat
+- Mortal Kombat 11
 - Mortal Kombat 3
 - Mortal Kombat II
 - MultiVersus
@@ -390,6 +414,7 @@ updated: 2023-05-17T09:15:00Z
 - NieR Replicant ver.1.22474487139...
 - NieR:Automata
 - No Man's Sky
+- Oni
 - Opus Magnum
 - Osmos
 - Outlaws
@@ -410,17 +435,18 @@ updated: 2023-05-17T09:15:00Z
 - PixelJunk: Shooter
 - Plague Inc
 - Plague Inc: Evolved
+- Planet Coaster
 - Planet Quest
 - PlanetSide
 - PlanetSide 2
 - Plants vs. Zombies
 - Plants vs. Zombies 2: It's About Time
-- Poker Night 2
-- Poker Night at the Inventory
 - Pokémon Blue
 - Pokémon Go
 - Pokémon Legends: Arceus
 - Pokémon X
+- Poker Night 2
+- Poker Night at the Inventory
 - Portal
 - Portal 2
 - POSTAL²
@@ -440,13 +466,18 @@ updated: 2023-05-17T09:15:00Z
 - Quake III: Team Arena
 - Quake Mission Pack No. 1: Scourge of Armagon
 - Quake Mission Pack No. 2: Dissolution of Eternity
+- Rage
 - Ragnarock
 - Rainbow Six
 - Rainbow Six: Rogue Spear
+- Red Faction
+- Red Orchestra: Combined Arms
 - Reigns
+- Resident Evil 2
 - Resident Evil 2
 - Resident Evil 3
 - Resident Evil Village
+- Return to Castle Wolfenstein
 - Rift
 - Rise of the Tomb Raider
 - Riven
@@ -462,12 +493,14 @@ updated: 2023-05-17T09:15:00Z
 - Scanner Sombre
 - Scribblenauts Remix
 - Secret of Mana
+- Sekiro: Shadows Die Twice
 - Serious Sam: Siberian Mayhem
 - Serious Sam: The First Encounter
 - Serious Sam: The Second Encounter
 - Shadow of the Colossus
 - Shadow of the Colossus
 - Shadowrun Returns
+- Shadowrun Returns - Dragonfall
 - Shenzhen I/O
 - Sigil
 - SimCity
@@ -479,6 +512,7 @@ updated: 2023-05-17T09:15:00Z
 - Sins of a Solar Empire: Rebellion
 - Slay the Spire
 - Smash TV
+- Smite
 - Soldier of Fortune
 - Soldier of Fortune II: Double Helix
 - Sonic & Knuckles
@@ -491,9 +525,14 @@ updated: 2023-05-17T09:15:00Z
 - Spyro the Dragon
 - Star Fox
 - Star Fox 64
+- Star Trek Voyager: Elite Force
 - Star Wars
 - Star Wars Episode I: Racer
 - Star Wars Galaxies
+- Star Wars Jedi Knight II: Jedi Outcast
+- Star Wars Jedi Knight: Dark Forces II
+- Star Wars Jedi Knight: Jedi Academy
+- Star Wars Jedi Knight: Mysteries of the Sith
 - Star Wars: Dark Forces
 - Star Wars: Rebel Assault
 - Star Wars: Rebel Assault II: The Hidden Empire
@@ -503,6 +542,11 @@ updated: 2023-05-17T09:15:00Z
 - Star Wars: Shadows of the Empire
 - Star Wars: Squadrons
 - Star Wars: The Old Republic
+- Star Wars: TIE-Fighter
+- Star Wars: X-Wing
+- Star Wars: X-Wing Alliance
+- Star Wars: X-Wing vs. TIE-Fighter
+- Star Wars: Yoda Stories
 - StarCraft
 - StarCraft II: Heart of the Swarm
 - StarCraft II: Legacy of the Void
@@ -518,6 +562,7 @@ updated: 2023-05-17T09:15:00Z
 - Street Fighter III: 3rd Strike
 - Street Fighter IV
 - Street Fighter V
+- Street Fighter VI
 - Subnautica
 - Subnautica: Below Zero
 - Super Mario 3D World
@@ -546,6 +591,7 @@ updated: 2023-05-17T09:15:00Z
 - Super Star Wars: The Empire Strikes Back
 - Super Street Fighter II Turbo HD Remix
 - Superbrothers: Swords and Sworcery EP
+- Supreme Commander
 - Surgeon Simulator
 - System Shock
 - System Shock 2
@@ -556,6 +602,7 @@ updated: 2023-05-17T09:15:00Z
 - Terra Battle 2
 - Terraria
 - Tetris
+- Tetris Effecct
 - The 11th Hour
 - The 13th Doll
 - The 7th Guest
@@ -571,6 +618,7 @@ updated: 2023-05-17T09:15:00Z
 - The Elder Scrolls V: Skyrim - Dawnguard
 - The Elder Scrolls V: Skyrim - Dragonborn
 - The Elder Scrolls V: Skyrim - Hearthfire
+- The Elder Scrolls V: Skyrim - Special Edition
 - The Legend of Zelda
 - The Legend of Zelda: A Link To The Past
 - The Legend of Zelda: Breath of the Wild
@@ -580,6 +628,7 @@ updated: 2023-05-17T09:15:00Z
 - The Legend of Zelda: Twilight Princess
 - The Lion King
 - The Lord of the Rings Online
+- The Operative: No One Lives Forever
 - The Outer Worlds
 - The Secret World
 - The Sims
@@ -595,11 +644,13 @@ updated: 2023-05-17T09:15:00Z
 - The Witcher 3: Wild Hunt - Blood and Wine
 - The Witcher 3: Wild Hunt - Hearts of Stone
 - The Witness
+- Thief: The Dark Project
 - Thomas Was Alone
 - Threes!
 - Time Crisis II
 - TIS-100
 - Tom Clancy's Rainbow Six Siege
+- Tom Clancy's Splinter Cell
 - Tomb Raider
 - Tomb Raider
 - Tony Hawk's Pro Skater 3
@@ -625,6 +676,7 @@ updated: 2023-05-17T09:15:00Z
 - Unreal Tournament 2004
 - Unreal Tournament 3
 - Unreal: Return to Na Pali
+- Urban Terror
 - Vanguard: Saga of Heroes
 - Warcraft II: Beyond the Dark Portal
 - Warcraft II: Tides of Darkness
