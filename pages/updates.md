@@ -2,21 +2,34 @@
 created: 2017-02-27T17:00:00Z
 title: Monthly Updates
 description: What I have been occupying my time with, updated on a monthly cadence.
-updated: 2023-03-01T12:40:00Z
+updated: 2023-06-04T12:30:00Z
 ---
 
-### 2023-04
+## 2023-05
 
-#### Games Played
+### Books Read
+
+- Stephenson, Neal - Termination Shock
+
+### Games Played
+
+- Age of Wonders 4
+- Command & Conquer: Remastered Collection
+- Mortal Kombat 11
+- World of Warcraft: Dragonflight
+
+## 2023-04
+
+### Games Played
 
 - Call of Duty: Warzone 2.0
 - Metroid Prime Remastered
 - Monsters and Memories
 - World of Warcraft: Dragonflight
 
-### 2023-03
+## 2023-03
 
-#### Games Played
+### Games Played
 
 - Diablo IV
 - World of Warcraft: Dragonflight
