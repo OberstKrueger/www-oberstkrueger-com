@@ -356,6 +356,7 @@ nav.external-links img:hover {
 }
 
 nav.internal-links {
+    margin: auto;
     max-width: 30rem;
     text-align: center;
     width: 100%;
