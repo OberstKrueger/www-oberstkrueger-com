@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00:00Z
 title: Games List
 description: List of all games I am currently playing and have played in the past.
-updated: 2023-05-17T09:15:00Z
+updated: 2023-06-10T13:40:00Z
 ---
 
 ## Currently Playing
@@ -571,6 +571,7 @@ updated: 2023-05-17T09:15:00Z
 - Super Mario Bros.
 - Super Mario Bros. 2
 - Super Mario Bros. 3
+- Super Mario Galaxy
 - Super Mario Kart
 - Super Mario Land
 - Super Mario Land 2: 6 Golden Coins
