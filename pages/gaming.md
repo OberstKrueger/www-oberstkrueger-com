@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00:00Z
 title: Games List
 description: List of all games I am currently playing and have played in the past.
-updated: 2023-06-10T13:40:00Z
+updated: 2023-06-23T08:35:00Z
 ---
 
 ## Currently Playing
@@ -40,6 +40,7 @@ updated: 2023-06-10T13:40:00Z
 - Asheron's Call 2: Fallen Kings
 - Asheron's Call: Dark Majesty
 - Asheron's Call: Throne of Destiny
+- Asteroids
 - Astro's Playroom
 - Back to the Future: The Game
 - Baldur's Gate
@@ -90,7 +91,7 @@ updated: 2023-06-10T13:40:00Z
 - ClayFighter
 - ClayFighter 2: Judgement Clay
 - ClayFighter 63⅓
-- Cogmind
+Cogmind
 - Command & Conquer 3: Tiberium Wars
 - Command & Conquer: Red Alert 3
 - Command & Conquer: Remastered Collection
@@ -108,6 +109,7 @@ updated: 2023-06-10T13:40:00Z
 - Crysis
 - Cuphead
 - Cut The Rope
+- Cybercode Online
 - Cyberpunk 2077
 - Daikatana
 - Dance Dance Revolution SuperNova 2
@@ -124,6 +126,8 @@ updated: 2023-06-10T13:40:00Z
 - Death Stranding
 - Deathloop
 - DEFCON
+- Defender
+- Demon's Souls
 - Demon's Souls
 - Depression Quest
 - Descent 3
@@ -158,7 +162,7 @@ updated: 2023-06-10T13:40:00Z
 - Donkey Kong Country
 - Donkey Kong Country 2: Diddy's Kong Quest
 - Donkey Kong Country 3: Dixie Kong's Double Trouble!
-- Doom
+Doom
 - Doom
 - Doom 2: Hell on Earth
 - Doom 3
@@ -169,6 +173,7 @@ updated: 2023-06-10T13:40:00Z
 - Dr. Mario
 - Dragon Age: Inquisition
 - Dragon Age: Origins
+- Dreams
 - Duck Hunt
 - Duke Nukem 3D
 - Duke Nukem Forever
@@ -181,6 +186,7 @@ updated: 2023-06-10T13:40:00Z
 - Edge of Eternity
 - Ehrgeiz: God Bless the Ring
 - Elden Ring
+- Element TD
 - Elite: Dangerous
 - Eliza
 - Ender Lilies: Quietus of the Knights
@@ -323,7 +329,7 @@ updated: 2023-06-10T13:40:00Z
 - Killer Instinct
 - Killer Instinct Gold
 - King's Quest V: Absence Makes the Heart Go Yonder!
-- King's Quest VI: Heir Today, Gone Tomorrow
+King's Quest VI: Heir Today, Gone Tomorrow
 - King's Quest VII: The Princeless Bride
 - Kingdom Hearts
 - Kingdom Rush
@@ -337,6 +343,7 @@ updated: 2023-06-10T13:40:00Z
 - Lara Croft Go
 - Last Call BBS
 - League of Legends
+- League of Legends: Wild Rift
 - Left 4 Dead
 - Left 4 Dead 2
 - Legend of Mana
@@ -349,11 +356,12 @@ updated: 2023-06-10T13:40:00Z
 - Little Inferno
 - Little Nightmares
 - LittleBigPlanet
+- Magic the Gathering: Arena
 - Magicka
 - Major League Baseball Featuring Ken Griffy Jr.
-- Marathon
+Marathon
 - Mario Is Missing!
-- Mario Kart 64
+Mario Kart 64
 - Mario Paint
 - Mario Party
 - Mario Party 4
@@ -389,10 +397,11 @@ updated: 2023-06-10T13:40:00Z
 - Metroid Dread
 - Metroid II: Return of Samus
 - Metroid Prime Remastered
+- Microsoft Flight Simulator
 - Midnight Club II
 - Mighty Morphin Power Rangers
 - Mike Tyson's Punch-Out!!
-- Minecraft
+Minecraft
 - Mini Metro
 - Mirror's Edge
 - Monster Hunter World
@@ -410,9 +419,11 @@ updated: 2023-06-10T13:40:00Z
 - Natural Selection 2
 - NBA Hangtime
 - Neocron
+- neoDefense
 - Neverwinter Nights
+- NieR Re[in]carnation
 - NieR Replicant ver.1.22474487139...
-- NieR:Automata
+NieR:Automata
 - No Man's Sky
 - Oni
 - Opus Magnum
@@ -431,6 +442,7 @@ updated: 2023-06-10T13:40:00Z
 - Pillars of Eternity II: Deadfire
 - Pillars of Eternity: White March
 - Pilotwings
+- Pixel People
 - PixelJunk: Monsters
 - PixelJunk: Shooter
 - Plague Inc
@@ -450,7 +462,7 @@ updated: 2023-06-10T13:40:00Z
 - Portal
 - Portal 2
 - POSTAL²
-- Prey
+Prey
 - Prey
 - Prey: Mooncrash
 - Primal Rage
@@ -466,11 +478,14 @@ updated: 2023-06-10T13:40:00Z
 - Quake III: Team Arena
 - Quake Mission Pack No. 1: Scourge of Armagon
 - Quake Mission Pack No. 2: Dissolution of Eternity
+- Radical Dreamers
 - Rage
 - Ragnarock
 - Rainbow Six
 - Rainbow Six: Rogue Spear
-- Red Faction
+- Realm Grinder
+- Rebel Inc.
+Red Faction
 - Red Orchestra: Combined Arms
 - Reigns
 - Resident Evil 2
@@ -509,10 +524,13 @@ updated: 2023-06-10T13:40:00Z
 - SimCity 3000
 - SimCity 4
 - SimFarm
+- SINoAlice
 - Sins of a Solar Empire: Rebellion
 - Slay the Spire
 - Smash TV
 - Smite
+- Soda Dungeon
+- Soda Dungeon 2
 - Soldier of Fortune
 - Soldier of Fortune II: Double Helix
 - Sonic & Knuckles
@@ -520,6 +538,7 @@ updated: 2023-06-10T13:40:00Z
 - Sonic The Hedgehog
 - Sonic The Hedgehog 2
 - Sonic The Hedgehog 3
+- Space Invaders
 - Spellbreak
 - Spy Mouse
 - Spyro the Dragon
@@ -569,7 +588,7 @@ updated: 2023-06-10T13:40:00Z
 - Super Mario 64
 - Super Mario All-Stars
 - Super Mario Bros.
-- Super Mario Bros. 2
+Super Mario Bros. 2
 - Super Mario Bros. 3
 - Super Mario Galaxy
 - Super Mario Kart
@@ -584,7 +603,7 @@ updated: 2023-06-10T13:40:00Z
 - Super Metroid
 - Super Scope 6
 - Super Smash Bros.
-- Super Smash Bros. Brawl
+Super Smash Bros. Brawl
 - Super Smash Bros. for Wii U
 - Super Smash Bros. Melee
 - Super Star Wars
@@ -598,7 +617,9 @@ updated: 2023-06-10T13:40:00Z
 - System Shock 2
 - Team Fortress 2
 - Team Fortress Classic
+- Teamfight Tactics
 - Teenage Mutant Ninja Turtles: Turtles In Time
+- Teenage Mutant Ninja Turtles: Turtles In Time Re-Shelled
 - Terra Battle
 - Terra Battle 2
 - Terraria
@@ -648,7 +669,7 @@ updated: 2023-06-10T13:40:00Z
 - Thief: The Dark Project
 - Thomas Was Alone
 - Threes!
-- Time Crisis II
+Time Crisis II
 - TIS-100
 - Tom Clancy's Rainbow Six Siege
 - Tom Clancy's Splinter Cell
@@ -656,7 +677,7 @@ updated: 2023-06-10T13:40:00Z
 - Tomb Raider
 - Tony Hawk's Pro Skater 3
 - Toobin'
-- Torment: Tides of Numenera
+Torment: Tides of Numenera
 - Toy Story
 - Transistor
 - Trials of Mana
@@ -665,6 +686,7 @@ updated: 2023-06-10T13:40:00Z
 - Turok: Dinosaur Hunter
 - Twisted Metal
 - Twisted Metal: Black
+- Two Point Hospital
 - Tyranny
 - Ultima IX: Ascension
 - Ultima Online
@@ -673,7 +695,7 @@ updated: 2023-06-10T13:40:00Z
 - Unreal II: The Awakening
 - Unreal Tournament
 - Unreal Tournament (2014 alpha)
-- Unreal Tournament 2003
+Unreal Tournament 2003
 - Unreal Tournament 2004
 - Unreal Tournament 3
 - Unreal: Return to Na Pali
@@ -689,7 +711,7 @@ updated: 2023-06-10T13:40:00Z
 - Wayne Gretzky's 3D Hockey
 - What Remains of Edith Finch
 - Where in the World is Carmen Sandiego?
-- Wii Fit U
+Wii Fit U
 - Wii Sports
 - Wii Sports Resort
 - WildStar
