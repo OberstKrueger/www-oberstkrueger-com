@@ -1,6 +1,6 @@
 ---
 created: 2018-12-02T17:50:00Z
-title: Mini Game Reviews
+title: Game Reviews
 type: page
 updated: 2023-02-16T12:30:00Z
 ---
