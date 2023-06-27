@@ -180,12 +180,11 @@ pre {
     border-radius: var(--borderRadius);
     margin: 0 auto calc(var(--lineHeight) * 1rem);
     max-width: var(--maxWidth);
-    padding: calc(var(--lineHeight) * 1rem) 0;
-    width: 90%;
+    padding: calc(var(--lineHeight) * 1rem);
 }
 
-blockquote:last-child,
-pre:last-child {
+blockquote p:last-of-type,
+pre p:last-of-type {
     margin-bottom: 0;
 }
 
