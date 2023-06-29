@@ -31,5 +31,10 @@
     <main>
         {{ markdown $md.Body }}
     </main>
+    <footer>
+        <footer>
+            <p>published: <time datetime="{{ $md.Meta.created }}">{{ $md.Meta.created }}</time><br />updated: <time datetime="{{ $md.Meta.updated }}">{{ $md.Meta.updated }}</time></p>
+        </footer>
+    </footer>
 </body>
 </html>
