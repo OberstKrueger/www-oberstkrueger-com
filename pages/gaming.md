@@ -1,13 +1,13 @@
 ---
 created: 2016-11-23T07:00:00Z
-title: Games List
-description: List of all games I am currently playing and have played in the past.
-updated: 2023-06-23T08:35:00Z
+- title: Games List
+- description: List of all games I am currently playing and have played in the past.
+updated: 2023-07-04T09:35:00Z
 ---
 
 ## Currently Playing
 
-- Diablo IV
+- New World
 - Street Fighter VI
 - World of Warcraft: Dragonflight
 
@@ -91,7 +91,7 @@ updated: 2023-06-23T08:35:00Z
 - ClayFighter
 - ClayFighter 2: Judgement Clay
 - ClayFighter 63⅓
-Cogmind
+- Cogmind
 - Command & Conquer 3: Tiberium Wars
 - Command & Conquer: Red Alert 3
 - Command & Conquer: Remastered Collection
@@ -127,8 +127,8 @@ Cogmind
 - Deathloop
 - DEFCON
 - Defender
-- Demon's Souls
-- Demon's Souls
+- Demon's Souls (2009)
+- Demon's Souls (2020)
 - Depression Quest
 - Descent 3
 - Destiny
@@ -162,8 +162,8 @@ Cogmind
 - Donkey Kong Country
 - Donkey Kong Country 2: Diddy's Kong Quest
 - Donkey Kong Country 3: Dixie Kong's Double Trouble!
-Doom
-- Doom
+- Doom (1993)
+- Doom (2016)
 - Doom 2: Hell on Earth
 - Doom 3
 - Doom 64
@@ -251,6 +251,7 @@ Doom
 - Final Fantasy XIV: Stormblood
 - Final Fantasy XV
 - Firefall
+- Firmament
 - Flappy Bird
 - Flight Control
 - Florence
@@ -295,7 +296,7 @@ Doom
 - Halo Infinite
 - Halo: The Master Chief
 - Harvest Moon
-- Hearthstone
+- Hearthstone: Heroes of Warcraft
 - Hellblade: Senua's Sacrifice
 - Hellgate: London
 - Hero Academy
@@ -322,14 +323,14 @@ Doom
 - It Takes Two
 - Jade Coccoon: Story of the Tamamayu
 - Journey
-- Jurassic Park
-- Jurassic Park
+- Jurassic Park (Pinball)
+- Jurassic Park (SNES)
 - Kentucky Route Zero
 - Kid Icarus: Of Myths and Monsters
 - Killer Instinct
 - Killer Instinct Gold
 - King's Quest V: Absence Makes the Heart Go Yonder!
-King's Quest VI: Heir Today, Gone Tomorrow
+- King's Quest VI: Heir Today, Gone Tomorrow
 - King's Quest VII: The Princeless Bride
 - Kingdom Hearts
 - Kingdom Rush
@@ -359,9 +360,9 @@ King's Quest VI: Heir Today, Gone Tomorrow
 - Magic the Gathering: Arena
 - Magicka
 - Major League Baseball Featuring Ken Griffy Jr.
-Marathon
+- Marathon
 - Mario Is Missing!
-Mario Kart 64
+- Mario Kart 64
 - Mario Paint
 - Mario Party
 - Mario Party 4
@@ -401,7 +402,7 @@ Mario Kart 64
 - Midnight Club II
 - Mighty Morphin Power Rangers
 - Mike Tyson's Punch-Out!!
-Minecraft
+- Minecraft
 - Mini Metro
 - Mirror's Edge
 - Monster Hunter World
@@ -412,8 +413,8 @@ Minecraft
 - Mortal Kombat 3
 - Mortal Kombat II
 - MultiVersus
-- Myst
-- Myst
+- Myst (1993)
+- Myst (2021)
 - Myst III: Exile
 - Natural Selection
 - Natural Selection 2
@@ -424,7 +425,7 @@ Minecraft
 - New World
 - NieR Re[in]carnation
 - NieR Replicant ver.1.22474487139...
-NieR:Automata
+- NieR:Automata
 - No Man's Sky
 - Oni
 - Opus Magnum
@@ -454,17 +455,17 @@ NieR:Automata
 - PlanetSide 2
 - Plants vs. Zombies
 - Plants vs. Zombies 2: It's About Time
+- Poker Night 2
+- Poker Night at the Inventory
 - Pokémon Blue
 - Pokémon Go
 - Pokémon Legends: Arceus
 - Pokémon X
-- Poker Night 2
-- Poker Night at the Inventory
 - Portal
 - Portal 2
 - POSTAL²
-Prey
-- Prey
+- Prey (2006)
+- Prey (2017)
 - Prey: Mooncrash
 - Primal Rage
 - Project: Gorgon
@@ -486,11 +487,11 @@ Prey
 - Rainbow Six: Rogue Spear
 - Realm Grinder
 - Rebel Inc.
-Red Faction
+- Red Faction
 - Red Orchestra: Combined Arms
 - Reigns
-- Resident Evil 2
-- Resident Evil 2
+- Resident Evil 2 (1998)
+- Resident Evil 2 (2019)
 - Resident Evil 3
 - Resident Evil Village
 - Return to Castle Wolfenstein
@@ -513,14 +514,14 @@ Red Faction
 - Serious Sam: Siberian Mayhem
 - Serious Sam: The First Encounter
 - Serious Sam: The Second Encounter
-- Shadow of the Colossus
-- Shadow of the Colossus
+- Shadow of the Colossus (2011)
+- Shadow of the Colossus (2018)
 - Shadowrun Returns
 - Shadowrun Returns - Dragonfall
 - Shenzhen I/O
 - Sigil
-- SimCity
-- SimCity
+- SimCity (1989)
+- SimCity (2013)
 - SimCity 2000
 - SimCity 3000
 - SimCity 4
@@ -589,7 +590,7 @@ Red Faction
 - Super Mario 64
 - Super Mario All-Stars
 - Super Mario Bros.
-Super Mario Bros. 2
+- Super Mario Bros. 2
 - Super Mario Bros. 3
 - Super Mario Galaxy
 - Super Mario Kart
@@ -604,7 +605,7 @@ Super Mario Bros. 2
 - Super Metroid
 - Super Scope 6
 - Super Smash Bros.
-Super Smash Bros. Brawl
+- Super Smash Bros. Brawl
 - Super Smash Bros. for Wii U
 - Super Smash Bros. Melee
 - Super Star Wars
@@ -642,6 +643,7 @@ Super Smash Bros. Brawl
 - The Elder Scrolls V: Skyrim - Dragonborn
 - The Elder Scrolls V: Skyrim - Hearthfire
 - The Elder Scrolls V: Skyrim - Special Edition
+- The Last of Us
 - The Legend of Zelda
 - The Legend of Zelda: A Link To The Past
 - The Legend of Zelda: Breath of the Wild
@@ -670,15 +672,15 @@ Super Smash Bros. Brawl
 - Thief: The Dark Project
 - Thomas Was Alone
 - Threes!
-Time Crisis II
+- Time Crisis II
 - TIS-100
 - Tom Clancy's Rainbow Six Siege
 - Tom Clancy's Splinter Cell
-- Tomb Raider
-- Tomb Raider
+- Tomb Raider (1996)
+- Tomb Raider (2013)
 - Tony Hawk's Pro Skater 3
 - Toobin'
-Torment: Tides of Numenera
+- Torment: Tides of Numenera
 - Toy Story
 - Transistor
 - Trials of Mana
@@ -696,7 +698,7 @@ Torment: Tides of Numenera
 - Unreal II: The Awakening
 - Unreal Tournament
 - Unreal Tournament (2014 alpha)
-Unreal Tournament 2003
+- Unreal Tournament 2003
 - Unreal Tournament 2004
 - Unreal Tournament 3
 - Unreal: Return to Na Pali
@@ -712,7 +714,7 @@ Unreal Tournament 2003
 - Wayne Gretzky's 3D Hockey
 - What Remains of Edith Finch
 - Where in the World is Carmen Sandiego?
-Wii Fit U
+- Wii Fit U
 - Wii Sports
 - Wii Sports Resort
 - WildStar
