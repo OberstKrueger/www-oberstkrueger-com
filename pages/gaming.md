@@ -421,6 +421,7 @@ Minecraft
 - Neocron
 - neoDefense
 - Neverwinter Nights
+- New World
 - NieR Re[in]carnation
 - NieR Replicant ver.1.22474487139...
 NieR:Automata
