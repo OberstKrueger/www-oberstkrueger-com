@@ -2,12 +2,13 @@
 created: 2017-06-11T13:30:00Z
 title: Reading List
 description: List of books I am currently reading and have previously read in the past.
-updated: 2023-06-04T12:40:00Z
+updated: 2023-07-05T09:40:00Z
 ---
 
 ## Currently Reading
 
 - Elkins-Tanon, Lindy - A Portrait of the Scientist as a Young Woman
+- Gross, Rachel E - Vagina Obscura: An Anatomical Voyage
 - Stephenson, Neal - Seveneves
 
 ## Previously Read
@@ -141,9 +142,11 @@ This is certainly an incomplete list. There have been many books I have read, pa
 
 - Arbesman, Samuel - The Half-Life of Facts: Why Everything We Know Has an Expiration Date
 - Cole, Jason - Almost Looks Like Work: A Guide to Healthy Procrastinating
+- Elkins-Tanon, Lindy - A Portrait of the Scientist as a Young Woman
 - Greene, Brian - The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory
 - Greene, Brian - The Fabric of the Cosmos: Space, Time, and the Texture of Reality
 - Greene, Brian - The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos
+- Gross, Rachel E - Vagina Obscura: An Anatomical Voyage
 - Hawking, Stephen - A Brief History of Time: From the Big Bang to Black Holes
 - Kaku, Michio - Beyond Einstein: The Cosmic Quest for the Theory of the Universe
 - Kaku, Michio - The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind
