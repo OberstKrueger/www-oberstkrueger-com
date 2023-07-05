@@ -13,8 +13,6 @@ updated: 2023-07-05T09:40:00Z
 
 ## Previously Read
 
-This is certainly an incomplete list. There have been many books I have read, particularly those assigned as part of my education, that I no longer remember. But as I come across authors that I remember reading, I will be adding them to the list along with all new books I read.
-
 ### Arts
 
 - Barth, Zach - Zach-Like: A Game Design History
