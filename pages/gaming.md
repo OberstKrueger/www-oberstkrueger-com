@@ -1,17 +1,20 @@
 ---
 created: 2016-11-23T07:00:00Z
-- title: Games List
-- description: List of all games I am currently playing and have played in the past.
+title: Games List
+description: List of all games I am currently playing and have played in the past.
 updated: 2023-07-04T09:35:00Z
 ---
 
 ## Currently Playing
 
-- New World
-- Street Fighter VI
 - World of Warcraft: Dragonflight
 
-## Previously Played
+## Current Competitive Games
+
+- Fortnite
+- Street Fighter VI
+
+## Previously Played Games
 
 - 1080° Snowboarding
 - 7 Billion Humans
