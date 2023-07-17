@@ -161,19 +161,6 @@ p a:visited {
     color: var(--colorGreen);
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-ol,
-p,
-table,
-ul {
-    max-width: var(--maxWidth);
-}
-
 b,
 strong {
     font-weight: var(--fontWeightBold);
@@ -250,6 +237,7 @@ table {
     border: 1px solid var(--colorFG);
     border-collapse: collapse;
     margin: 0 auto calc(var(--lineHeight) * 1rem);
+    width: 100%;
 }
 
 table a:link,
