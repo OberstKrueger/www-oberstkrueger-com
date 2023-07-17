@@ -252,9 +252,10 @@ table a:visited {
     color: var(--colorGreen);
 }
 
-table td {
+table td,
+table th {
     border: 1px solid var(--colorFG);
-    padding: 0.25rem;
+    padding: 0.25rem 0.5rem;
 }
 
 table tr {
