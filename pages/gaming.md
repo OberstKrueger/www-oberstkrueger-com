@@ -2,11 +2,12 @@
 created: 2016-11-23T07:00:00Z
 title: Games List
 description: List of all games I am currently playing and have played in the past.
-updated: 2023-07-04T09:35:00Z
+updated: 2023-07-21T13:40:00Z
 ---
 
 ## Currently Playing
 
+- Resident Evil 4
 - World of Warcraft: Dragonflight
 
 ## Current Competitive Games
@@ -496,6 +497,7 @@ updated: 2023-07-04T09:35:00Z
 - Resident Evil 2 (1998)
 - Resident Evil 2 (2019)
 - Resident Evil 3
+- Resident Evil 4
 - Resident Evil Village
 - Return to Castle Wolfenstein
 - Rift
