@@ -2,12 +2,11 @@
 created: 2016-11-23T07:00:00Z
 title: Games List
 description: List of all games I am currently playing and have played in the past.
-updated: 2023-07-21T13:40:00Z
+updated: 2023-08-02T07:45:00Z
 ---
 
 ## Currently Playing
 
-- Resident Evil 4
 - World of Warcraft: Dragonflight
 
 ## Current Competitive Games
@@ -81,6 +80,7 @@ updated: 2023-07-21T13:40:00Z
 - Call of Duty 4: Modern Warfare
 - Call of Duty: Warzone 2.0
 - Celeste
+- Centipede
 - Chip 'n Dale Rescue Rangers
 - Chrono Cross
 - Chrono Trigger
@@ -122,6 +122,7 @@ updated: 2023-07-21T13:40:00Z
 - Dark Souls III
 - Dark Souls: Prepare To Die Edition
 - Dark Souls: Remaster
+- Darwinia
 - Day of Defeat
 - Day of Defeat: Source
 - Dead or Alive 2
@@ -170,6 +171,8 @@ updated: 2023-07-21T13:40:00Z
 - Doom (2016)
 - Doom 2: Hell on Earth
 - Doom 3
+- Doom 3: BFG Edition
+- Doom 3: Resurrection of Evil
 - Doom 64
 - Doom Eternal
 - Dota 2
@@ -191,6 +194,7 @@ updated: 2023-07-21T13:40:00Z
 - Ehrgeiz: God Bless the Ring
 - Elden Ring
 - Element TD
+- Element TD 2
 - Elite: Dangerous
 - Eliza
 - Ender Lilies: Quietus of the Knights
@@ -219,6 +223,7 @@ updated: 2023-07-21T13:40:00Z
 - Exploding Kittens
 - F-1 Race
 - F-Zero
+- F.E.A.R.
 - Factorio
 - Fallout
 - Fallout 2
@@ -257,13 +262,16 @@ updated: 2023-07-21T13:40:00Z
 - Firefall
 - Firmament
 - Flappy Bird
+- Flatout
 - Flight Control
+- Flight Simulator for Windows 95
 - Florence
 - Flower
 - Forspoken
 - Fortnite Battle Royale
 - Fruit Ninja
 - FTL: Faster Than Light
+- Galaga
 - Game Dev Tycoon
 - geoDefense
 - geoDefense Swarm
@@ -416,6 +424,7 @@ updated: 2023-07-21T13:40:00Z
 - Mortal Kombat 11
 - Mortal Kombat 3
 - Mortal Kombat II
+- Ms. Pac-Man
 - MultiVersus
 - Myst (1993)
 - Myst (2021)
@@ -459,12 +468,12 @@ updated: 2023-07-21T13:40:00Z
 - PlanetSide 2
 - Plants vs. Zombies
 - Plants vs. Zombies 2: It's About Time
-- Poker Night 2
-- Poker Night at the Inventory
 - Pokémon Blue
 - Pokémon Go
 - Pokémon Legends: Arceus
 - Pokémon X
+- Poker Night 2
+- Poker Night at the Inventory
 - Portal
 - Portal 2
 - POSTAL²
@@ -546,6 +555,7 @@ updated: 2023-07-21T13:40:00Z
 - Sonic The Hedgehog 2
 - Sonic The Hedgehog 3
 - Space Invaders
+- Space Quest IV
 - Spellbreak
 - Spy Mouse
 - Spyro the Dragon
@@ -659,6 +669,7 @@ updated: 2023-07-21T13:40:00Z
 - The Lion King
 - The Lord of the Rings Online
 - The Operative: No One Lives Forever
+- The Oregon Trail
 - The Outer Worlds
 - The Secret World
 - The Sims
@@ -690,6 +701,7 @@ updated: 2023-07-21T13:40:00Z
 - Transistor
 - Trials of Mana
 - Tribes 2
+- Tron
 - Tron 2.0
 - Turok: Dinosaur Hunter
 - Twisted Metal
@@ -744,3 +756,4 @@ updated: 2023-07-21T13:40:00Z
 - Yoshi's Cookie
 - Zenith: The Last City
 - Zombies Ate My Neighbors
+-
