@@ -2,8 +2,17 @@
 created: 2017-02-27T17:00:00Z
 title: Monthly Updates
 description: What I have been occupying my time with, updated on a monthly cadence.
-updated: 2023-07-01T09:55:00Z
+updated: 2023-08-02T07:40:00Z
 ---
+
+## 2023-07
+
+### Games Played
+
+- New World
+- Resident Evil 4
+- Street Fighter VI
+- World of Warcraft: Dragonflight
 
 ## 2023-06
 
