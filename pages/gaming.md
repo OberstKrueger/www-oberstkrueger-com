@@ -2,11 +2,12 @@
 created: 2016-11-23T07:00:00Z
 title: Games List
 description: List of all games I am currently playing and have played in the past.
-updated: 2023-08-02T07:45:00Z
+updated: 2023-08-21T08:35:00Z
 ---
 
 ## Currently Playing
 
+- Baldur's Gate 3
 - World of Warcraft: Dragonflight
 
 ## Current Competitive Games
@@ -47,6 +48,7 @@ updated: 2023-08-02T07:45:00Z
 - Astro's Playroom
 - Back to the Future: The Game
 - Baldur's Gate
+- Baldur's Gate 3
 - Baldur's Gate II: Enhanced Edition
 - Baldur's Gate II: Shadows of Amn
 - Baldur's Gate II: Throne of Bhaal
