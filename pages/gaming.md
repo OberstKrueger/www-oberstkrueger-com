@@ -8,12 +8,9 @@ updated: 2023-08-21T08:35:00Z
 ## Currently Playing
 
 - Baldur's Gate 3
-- World of Warcraft: Dragonflight
-
-## Current Competitive Games
-
-- Fortnite
+- Mortal Kombat 1
 - Street Fighter VI
+- World of Warcraft: Dragonflight
 
 ## Previously Played Games
 
@@ -423,6 +420,7 @@ updated: 2023-08-21T08:35:00Z
 - Monument Valley
 - Monument Valley 2
 - Mortal Kombat
+- Mortal Kombat 1
 - Mortal Kombat 11
 - Mortal Kombat 3
 - Mortal Kombat II
@@ -592,6 +590,7 @@ updated: 2023-08-21T08:35:00Z
 - StarCraft: Brood War
 - StarCraft: Remastered
 - Stardew Valley
+- Starfield
 - Starsiege: Tribes
 - Stellaris
 - Stray
@@ -758,4 +757,3 @@ updated: 2023-08-21T08:35:00Z
 - Yoshi's Cookie
 - Zenith: The Last City
 - Zombies Ate My Neighbors
--
