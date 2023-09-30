@@ -2,13 +2,12 @@
 created: 2016-11-23T07:00:00Z
 title: Games List
 description: List of all games I am currently playing and have played in the past.
-updated: 2023-08-21T08:35:00Z
+updated: 2023-09-30T09:50G:00Z
 ---
 
 ## Currently Playing
 
-- Baldur's Gate 3
-- Mortal Kombat 1
+- Counter-Strike 2
 - Street Fighter VI
 - World of Warcraft: Dragonflight
 
@@ -103,6 +102,7 @@ updated: 2023-08-21T08:35:00Z
 - Conker's Bad Fur Day
 - Control
 - Counter-Strike
+- Counter-Strike 2
 - Counter-Strike: Condition Zero
 - Counter-Strike: Global Offensive
 - Counter-Strike: Source
