@@ -2,8 +2,18 @@
 created: 2017-02-27T17:00:00Z
 title: Monthly Updates
 description: What I have been occupying my time with, updated on a monthly cadence.
-updated: 2023-09-01T09:55:00Z
+updated: 2023-10-06T07:40:00Z
 ---
+
+## 2023-09
+
+### Games Played
+
+- Baldur's Gate 3
+- Counter-Strike 2
+- Mortal Kombat 1
+- Starfield
+- World of Wacraft: Dragonflight
 
 ## 2023-08
 
