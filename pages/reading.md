@@ -2,14 +2,12 @@
 created: 2017-06-11T13:30:00Z
 title: Reading List
 description: List of books I am currently reading and have previously read in the past.
-updated: 2023-07-05T09:40:00Z
+updated: 2023-10-06T08:00:00Z
 ---
 
 ## Currently Reading
 
-- Elkins-Tanon, Lindy - A Portrait of the Scientist as a Young Woman
-- Gross, Rachel E - Vagina Obscura: An Anatomical Voyage
-- Stephenson, Neal - Seveneves
+- Cunningham, Elaine - Elfsong
 
 ## Previously Read
 
