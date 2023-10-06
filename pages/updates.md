@@ -13,7 +13,7 @@ updated: 2023-10-06T07:40:00Z
 - Counter-Strike 2
 - Mortal Kombat 1
 - Starfield
-- World of Wacraft: Dragonflight
+- World of Warcraft: Dragonflight
 
 ## 2023-08
 
