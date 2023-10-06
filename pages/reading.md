@@ -63,6 +63,7 @@ updated: 2023-07-05T09:40:00Z
 - Clancy, Tom - The Bear and the Dragon
 - Clancy, Tom - The Hunt for Red October
 - Crichton, Michael - Jurassic Park
+- Cunningham, Elaine - Elfshadow
 - Gibson, William & Sterling, Bruce - The Difference Engine
 - Gibson, William - Agency
 - Gibson, William - All Tomorrow's Parties
