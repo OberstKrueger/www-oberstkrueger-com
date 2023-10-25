@@ -2,13 +2,13 @@
 created: 2016-11-23T07:00:00Z
 title: Games List
 description: List of all games I am currently playing and have played in the past.
-updated: 2023-09-30T09:50G:00Z
+updated: 2023-10-25T09:00:00Z
 ---
 
 ## Currently Playing
 
-- Counter-Strike 2
-- Street Fighter VI
+- Heroes of the Storm
+- Mortal Kombat 1
 - World of Warcraft: Dragonflight
 
 ## Previously Played Games
