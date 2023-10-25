@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00:00Z
 title: Games List
 description: List of all games I am currently playing and have played in the past.
-updated: 2023-10-25T09:00:00Z
+updated: 2023-10-25T09:05:00Z
 ---
 
 ## Currently Playing
@@ -33,6 +33,7 @@ updated: 2023-10-25T09:00:00Z
 - Anarchy Online
 - Another Eden: The Cat Beyond Time and Space
 - Antichamber
+- Aperture Desk Job
 - Apex Legends
 - Army of Darkness: Defense
 - Artifact
