@@ -2,8 +2,22 @@
 created: 2017-02-27T17:00:00Z
 title: Monthly Updates
 description: What I have been occupying my time with, updated on a monthly cadence.
-updated: 2023-10-06T07:40:00Z
+updated: 2023-11-01T09:50:00Z
 ---
+
+## 2023-10
+
+### Games Played
+
+- Aperture Desk Job
+- Heroes of the Storm
+- Mortal Kombat 1
+- Mortal Kombat 11
+- World of Warcraft: Dragonflight
+
+### Books Read
+
+- Cunningham, Elaine - Elfshadow
 
 ## 2023-09
 
