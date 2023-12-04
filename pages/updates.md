@@ -2,8 +2,20 @@
 created: 2017-02-27T17:00:00Z
 title: Monthly Updates
 description: What I have been occupying my time with, updated on a monthly cadence.
-updated: 2023-11-01T09:50:00Z
+updated: 2023-12-04T07:55:00Z
 ---
+
+## 2023-11
+
+### Games Played
+
+- Mortal Kombat 11
+- The Talos Principle 2
+- World of Warcraft: Dragonflight
+
+### Movies Watched
+
+- Oppenheimer
 
 ## 2023-10
 
