@@ -2,7 +2,7 @@
 created: 2016-11-23T07:00:00Z
 title: Games List
 description: List of all games I am currently playing and have played in the past.
-updated: 2023-11-05T09:12:10Z
+updated: 2023-12-04T08:25:10Z
 ---
 
 ## Currently Playing
@@ -339,7 +339,8 @@ updated: 2023-11-05T09:12:10Z
 - Jurassic Park (SNES)
 - Kentucky Route Zero
 - Kid Icarus: Of Myths and Monsters
-- Killer Instinct
+- Killer Instinct (1995)
+- Killer Instinct (2013)
 - Killer Instinct Gold
 - King's Quest V: Absence Makes the Heart Go Yonder!
 - King's Quest VI: Heir Today, Gone Tomorrow
