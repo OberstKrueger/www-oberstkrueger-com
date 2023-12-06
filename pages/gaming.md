@@ -2,13 +2,12 @@
 created: 2016-11-23T07:00:00Z
 title: Games List
 description: List of all games I am currently playing and have played in the past.
-updated: 2023-12-04T08:25:10Z
+updated: 2023-12-06T12:00:00Z
 ---
 
 ## Currently Playing
 
-- Heroes of the Storm
-- Mortal Kombat 1
+- The Talos Principle 2
 - World of Warcraft: Dragonflight
 
 ## Previously Played Games
